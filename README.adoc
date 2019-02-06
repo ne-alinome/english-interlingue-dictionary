@@ -1,0 +1,30 @@
+= Dictionarium Anglesi-Interlingue
+:author: Marcos Cruz (programandala.net)
+:revdate: 2019-02-06
+
+// This file is part of the project
+// "Dictionarium Anglesi-Interlingue"
+// (http://ne.alinome.net)
+//
+// By Marcos Cruz (programandala.net)
+
+== Esperanto
+
+Celo de ĉi projekto:: Krei  EPUB-an bitlibron kaj DICT-formatan
+vortaron el la bitigitaj dosieroj de la vortaro angla-interligvea de
+Kemp kaj Pope.
+
+Aŭtoro:: Marcos Cruz (programandala.net), 2019
+
+Retpaĝaro de la projekto:: http://ne.alinome.net
+
+== English
+
+Goal of this project:: Create an EPUB e-book and a DICT format
+dictionary from the digitalized contents of the English-Interlingue
+dictionary by Kemp and Pope.
+
+Author:: Marcos Cruz (programandala.net), 2019
+
+Website of the project:: http://ne.alinome.net
+
