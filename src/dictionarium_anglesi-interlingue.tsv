@@ -4468,14 +4468,14 @@ FINITE	finit, limitat
 FIORD	~
 FIR	abiete
 FIRE	foy; incendie; v. incendiar, far foy; (a gun) tirar, dar foy; (heat) calentar.
-FIR ALARM|FIRE	foy-alarmaparate.
-FIRBRIGADE|FIRE	incendie-brigade.
-FIRESCAPE|FIRE	salv-aparate.
-FIRGUARD|FIRE	para-foy.
+FIRE ALARM|FIRE	foy-alarmaparate.
+FIREBRIGADE|FIRE	incendie-brigade.
+FIREESCAPE|FIRE	salv-aparate.
+FIREGUARD|FIRE	para-foy.
 FIREMAN|FIRE	pumpero, parafoyero; (stoker; calentator, foymann.
-FIRPLACE|FIRE	camine.
-FIRWOOD|FIRE	combustibile.
-FIRWORKS|FIRE	foyes artificial, pirotecnica
+FIREPLACE|FIRE	camine.
+FIREWOOD|FIRE	combustibile.
+FIREWORKS|FIRE	foyes artificial, pirotecnica
 FIRM	a. ~, fix, stabil; n. firma
 FIRMAMENT	~
 FIRST	unesim, prim. AT ~: in prim
@@ -5282,8 +5282,8 @@ GROVEL	repter abjectmen avan alquí
 GROW	v.n. crescer, acrescer; augmentar se; (become) devenir; (~ up) adultijar; v.a. producter, cultivar
 GROWL	v. grunir (-ida)
 GROWTH	crescentie; (bot.) crescement, crescon; progresse, production; excrescentie
-GRUB 1|GRUB	fossar, cavar, scrapar
-GRUB 2|GRUB	n. larve; verme; (food) manjage
+GRUB 1.|GRUB	fossar, cavar, scrapar
+GRUB 2.|GRUB	n. larve; verme; (food) manjage
 GRUDGE	v. a. invidiar; v. n. ne voler, far alquó contra voluntá; n. rancore (-ar)
 GRUEL	~
 GRUESOME	horrid, horribil, macabri
@@ -6455,7 +6455,7 @@ INVIGORATE	invigorar (-ation)
 INVINCIBLE	ínvictibil, ínsuperabil
 INVIOLABLE	ínviolabil (-itá)
 INVISIBLE	ínvisibil (-itá)
-INVITE	invitar (-a,tion). INVITING: atrativ
+INVITE	invitar (-a, -tion). INVITING: atrativ
 INVOCATION	~
 INVOICE	n. factura (-ar)
 INVOKE	invocar (-ation)
@@ -6632,7 +6632,7 @@ JUSTIFY	justificar (-ation, -abil)
 JUSTNESS	justesse
 JUT OUT	v. prominer, projecter
 JUTE	~
-JUVENILE	juvenil, yunatri; n. yuno, júven (i-a, -o)
+JUVENILE	juvenil, yunatri; n. yuno, júven (-a, -o)
 JUXTAPOSITION	~
 KALE	caul crispat
 KALEIDOSCOPE	caleidoscop (-ic)
@@ -8791,7 +8791,7 @@ PASS OFF	v. far acceptar; forpassar
 PASS, BRING TO	* causar, far evenir
 PASS, COME TO	* evenir
 PASSAGE	~, trajecte, passada, coridor.
-BIRD OF ~	avie migratori; tmusic etc.) excerpte, parte
+BIRD OF PASSAGE|PASSAGE	avie migratori; (music etc.) excerpte, parte
 PASS-BOOK	bank-libre
 PASSENGER	passagero, viageator
 PASSER-BY	passante, pretereante
@@ -12098,11 +12098,11 @@ TAKE REFUGE|TAKE	refugir.
 TAKE OFF|TAKE	demetter, deprender.
 TAKE THE PLACE OF|TAKE	vicear.
 TAKE TO|TAKE	esser atraet de.
-TAKE TO  HEART|TAKE	chagrinar se
+TAKE TO HEART|TAKE	chagrinar se
 TAKING	atrativ, charmant
 TAKINGS	recivement, recivage
 TALC	~ (-ar)
-TALE; raconta, narration; fabul. ~ BEARING	denunciation
+TALE	raconta, narration; fabul. ~BEARING denunciation
 TALENT	~ (-at, -osi)
 TALISMAN	talismane
 TALK	v. parlar (-aci, -ator, -ation), conversar; n. discurse; (rumour) fama, rumore
