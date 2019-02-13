@@ -1,0 +1,5 @@
+= Dictionarium Anglesi-Interlingue
+
+//
+
+include::../tmp/dictionarium_anglesi-interlingue.adoc

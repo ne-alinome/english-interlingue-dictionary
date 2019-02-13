@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902062007
+# Last modified 201902132312
 # See change log at the end of the file
 
 # ==============================================================
@@ -12,6 +12,7 @@
 # - asciidoctor-pdf
 # - dbtoepub
 # - dictfmt
+# - make
 # - pandoc
 # - xsltproc
 
@@ -80,11 +81,19 @@ target/%.adoc.letter.pdf: src/%.adoc
 		--out-file=$@ $<
 
 # ==============================================================
+# Convert original data to Asciidoctor list
+
+tmp/%.adoc: src/%.tsv
+	asciidoctor --backend=docbook5 --out-file=$@ $<
+	sed -e "s/^\(.\+\)\t/- .\1: /" \
+		$< > $@
+
+# ==============================================================
 # Convert Asciidoctor to DocBook
 
 .SECONDARY: tmp/$(book_basename).adoc.xml
 
-tmp/%.adoc.xml: src/%.adoc
+%.adoc.xml: %.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
@@ -207,3 +216,5 @@ uninstall:
 # Change log
 
 # 2019-02-06: Start. Make DICT.
+#
+# 2019-02-13: Make Asciidoctor, DocBook and EPUB.
