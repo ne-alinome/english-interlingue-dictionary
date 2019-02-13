@@ -35,7 +35,10 @@ dict_data_format=j
 # Interface
 
 .PHONY: all
-all: dict
+all: dict epub pdf
+
+.PHONY: it
+it: dict epubp pdfa4
 
 .PHONY: epub
 epub: epubd epubp epubx
@@ -64,34 +67,46 @@ $(dict_data_format): tmp/$(dict_basename).$(dict_data_format)
 .PHONY: dict
 dict: target/$(dict_basename).dict.dz
 
+.PHONY: adoc
+adoc: target/$(book_basename).adoc
+
+.PHONY: xml
+xml: target/$(book_basename).adoc.xml
+
 .PHONY: clean
 clean:
-	rm -f target/* tmp/*
+	rm -fr target/* tmp/*
 
 # ==============================================================
 # Convert Asciidoctor to PDF
 
-target/%.adoc.a4.pdf: src/%.adoc
+%.adoc.a4.pdf: %.adoc
 	asciidoctor-pdf \
 		--out-file=$@ $<
 
-target/%.adoc.letter.pdf: src/%.adoc
+%.adoc.letter.pdf: %.adoc
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
 
 # ==============================================================
-# Convert original data to Asciidoctor list
+# Convert original data to Asciidoctor
 
-tmp/%.adoc: src/%.tsv
-	asciidoctor --backend=docbook5 --out-file=$@ $<
-	sed -e "s/^\(.\+\)\t/- .\1: /" \
-		$< > $@
+.SECONDARY: tmp/$(book_basename).tsv.adoc
+
+tmp/%.tsv.adoc: src/%.tsv
+	sed -e "s/^\(.\+\)\t/- .\1: /" $< > $@
+	vim -S make/add_letter_headings.vim $@
+
+target/$(book_basename).adoc: \
+	src/header.adoc \
+	tmp/${book_basename}.tsv.adoc
+	cat $^ > $@
 
 # ==============================================================
 # Convert Asciidoctor to DocBook
 
-.SECONDARY: tmp/$(book_basename).adoc.xml
+.SECONDARY: target/$(book_basename).adoc.xml
 
 %.adoc.xml: %.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
@@ -102,8 +117,8 @@ tmp/%.adoc: src/%.tsv
 # ------------------------------------------------
 # With dbtoepub
 
-target/$(book_basename).adoc.xml.dbtoepub.epub: \
-	tmp/$(book_basename).adoc.xml \
+%/$(book_basename).adoc.xml.dbtoepub.epub: \
+	%/$(book_basename).adoc.xml \
 	src/$(book_basename)-docinfo.xml
 	dbtoepub \
 		--output $@ $<
@@ -111,8 +126,8 @@ target/$(book_basename).adoc.xml.dbtoepub.epub: \
 # ------------------------------------------------
 # With pandoc
 
-target/$(book_basename).adoc.xml.pandoc.epub: \
-	tmp/$(book_basename).adoc.xml \
+%/$(book_basename).adoc.xml.pandoc.epub: \
+	%/$(book_basename).adoc.xml \
 	src/$(book_basename)-docinfo.xml \
 	src/pandoc_epub_template.txt \
 	src/pandoc_epub_stylesheet.css
@@ -130,7 +145,7 @@ target/$(book_basename).adoc.xml.pandoc.epub: \
 # ------------------------------------------------
 # With xsltproc
 
-target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
+%.adoc.xml.xsltproc.epub: %.adoc.xml
 	rm -fr tmp/xsltproc/* && \
 	xsltproc \
 		--output tmp/xsltproc/ \
@@ -154,8 +169,8 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
 # ==============================================================
 # Convert DocBook to OpenDocument
 
-target/$(book_basename).adoc.xml.pandoc.odt: \
-	tmp/$(book_basename).adoc.xml \
+%.adoc.xml.pandoc.odt: \
+	%.adoc.xml \
 	src/$(book_basename)-docinfo.xml \
 	src/pandoc_odt_template.txt
 	pandoc \
@@ -217,4 +232,4 @@ uninstall:
 
 # 2019-02-06: Start. Make DICT.
 #
-# 2019-02-13: Make Asciidoctor, DocBook and EPUB.
+# 2019-02-13: Make Asciidoctor, DocBook, PDF and EPUB.

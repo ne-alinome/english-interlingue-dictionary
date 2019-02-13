@@ -1,5 +1,7 @@
 = TO-DO of _Dictionarium Anglesi-Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-06
+:revdate: 2019-02-13
 
-- Add the dictionary's metainfo.
+- Add the metainfo.
+- Add the credits.
+- Combine headwords marked by "|".
