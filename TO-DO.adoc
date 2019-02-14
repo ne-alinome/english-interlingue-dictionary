@@ -1,7 +1,8 @@
 = TO-DO of _Dictionarium Anglesi-Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-13
+:revdate: 2019-02-14
 
 - Add the metainfo.
 - Add the credits.
 - Combine headwords marked by "|".
+- Fix accent marks of "té" compounds.

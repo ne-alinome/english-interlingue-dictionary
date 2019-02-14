@@ -1,4 +1,13 @@
 = Dictionarium Anglesi-Interlingue
 :author: Kemp e Pope
+:description: Dictionarium Anglesi-Interlingue
+ifdef::backend-pdf[]
+:doctype: book
+:toc: auto
+:toclevels: 2
+:toc-title: Contenete
+endif::[]
 
-//
+// This file is part of the project
+// _Dictionarium Anglesi-Interlingue_
+// (http://ne.alinome.net)
