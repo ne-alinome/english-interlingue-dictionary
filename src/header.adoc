@@ -1,5 +1,5 @@
 = Dictionarium Anglesi-Interlingue
-:author: Kemp e Pope
+:author: Kemp; Pope
 :description: Dictionarium Anglesi-Interlingue
 ifdef::backend-pdf[]
 :doctype: book
