@@ -6,3 +6,5 @@
 - Add the credits.
 - Combine headwords marked by "|".
 - Fix accent marks of "té" compounds.
+- Confirm data: Kemp / Pope: Dictionarium English-Interlingue.
+  Worcester 1958.
