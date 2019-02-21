@@ -1,6 +1,6 @@
 = TO-DO of _Dictionarium Anglesi-Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-14
+:revdate: 2019-02-21
 
 - Add the metainfo.
 - Add the credits.
@@ -8,3 +8,5 @@
 - Fix accent marks of "té" compounds.
 - Confirm data: Kemp / Pope: Dictionarium English-Interlingue.
   Worcester 1958.
+- Fix. "PRECIPITATE parecipitar (-ant, -ation), jettar; n.
+  precipitate".
