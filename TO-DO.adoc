@@ -10,3 +10,4 @@
   Worcester 1958.
 - Fix. "PRECIPITATE parecipitar (-ant, -ation), jettar; n.
   precipitate".
+- Confirm "apsorter".
