@@ -1,6 +1,6 @@
 = TO-DO of _Dictionarium Anglesi-Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-21
+:revdate: 2019-02-22
 
 - Add the metainfo.
 - Add the credits.
@@ -11,3 +11,5 @@
 - Fix. "PRECIPITATE parecipitar (-ant, -ation), jettar; n.
   precipitate".
 - Confirm "apsorter".
+- "automatic/men" is missing.
+- Fix "INDIFFERENT ínfiferent (-ie), mediocri"
