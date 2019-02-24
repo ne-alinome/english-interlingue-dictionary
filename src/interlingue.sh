@@ -7,7 +7,7 @@
 # "interlingue" (case insensitive) in the description.
 
 # This file is part of the project
-# Dictionarium Anglesi-Interlingue
+# _English-Interlingue Dictionary_
 # (http://ne.alinome.net)
 
 # By Marcos Cruz (programandala.net), 2019
@@ -21,6 +21,7 @@
 # Change log
 #
 # 2019-02-06: First version.
+# 2019-02-24: Update the file header.
 
 dictionaries=$(\
   dict -D | \

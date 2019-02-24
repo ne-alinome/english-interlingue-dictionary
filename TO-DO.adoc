@@ -1,15 +1,25 @@
-= TO-DO of _Dictionarium Anglesi-Interlingue_
+= TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-22
+:revdate: 2019-02-24
+
+// This file is part of the project
+// _English-Interlingue Dictionary_
+// (http://ne.alinome.net)
+//
+// By Marcos Cruz (programandala.net)
 
 - Add the metainfo.
 - Add the credits.
 - Combine headwords marked by "|".
 - Fix accent marks of "té" compounds.
-- Confirm data: Kemp / Pope: Dictionarium English-Interlingue.
-  Worcester 1958.
 - Fix. "PRECIPITATE parecipitar (-ant, -ation), jettar; n.
   precipitate".
 - Confirm "apsorter".
 - "automatic/men" is missing.
 - Fix "INDIFFERENT ínfiferent (-ie), mediocri"
+- Improve the README.
+- Add Interlingue translation to the README.
+- Replace ISO 639-1 'ie' code with ISO-639-3 'ile', in the dict
+  filename.
+- Add section "About this book".
+- Fix "MarOdero".

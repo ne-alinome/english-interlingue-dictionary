@@ -1,15 +1,16 @@
 " add_letter_headings.vim
 "
 " This file is part of the project
-" _Dictionarium Anglesi-Interlingue_
+" _English-Interlingue Dictionary_
 " (http://ne.alinome.net)
 "
 " By Marcos Cruz (programandala.net)
 
-" This Vim program add the letter headings to the Asciidoctor version of the
-" Interlingue dictionary.
+" This Vim program adds the letter headings to the Asciidoctor version of the
+" dictionary.
 
 " 2019-02-13: Start.
+" 2019-02-24: Update file header.
 
 let fail=append(0,['// A {{{1','== A',''])
 

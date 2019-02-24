@@ -1,9 +1,9 @@
-= Dictionarium Anglesi-Interlingue
+= English-Interlingue Dictionary
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-06
+:revdate: 2019-02-24
 
 // This file is part of the project
-// "Dictionarium Anglesi-Interlingue"
+// _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 //
 // By Marcos Cruz (programandala.net)

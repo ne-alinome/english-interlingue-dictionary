@@ -1,8 +1,12 @@
-# Makefile of _Dictionarium Anglesi-Interlingue_
+# Makefile of _English-Interlingue Dictionary_
 
+# This file is part of the project
+# _English-Interlingue Dictionary_
+# (http://ne.alinome.net)
+#
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902132312
+# Last modified 201902242038
 # See change log at the end of the file
 
 # ==============================================================
@@ -21,8 +25,8 @@
 
 VPATH=./src:./target
 
-book_basename=dictionarium_anglesi-interlingue
-title="Dictionarium Anglesi-Interlingue"
+book_basename=english-interlingue_dictionary
+title="English-Interlingue Dictionary"
 editor="Marcos Cruz (programandala.net)"
 publisher="ne.alinome"
 description="English-Interlingue Dictionary"
@@ -233,3 +237,5 @@ uninstall:
 # 2019-02-06: Start. Make DICT.
 #
 # 2019-02-13: Make Asciidoctor, DocBook, PDF and EPUB.
+#
+# 2019-02-24: Update the name of the project and the filenames.
