@@ -26,3 +26,15 @@
 - Move expression to their main word, e.g. "calculating machine" to
   "machine".
 - Confirm entry "fro, to and". 
+- Confirm "BEATITUD beatitá. BEATITUDES: \~".
+- Fix "HDMBLE".
+- Replace "\~" with the headwors. The text will be more legible and
+  reusable. Saving space is not constraint in a digital edition.
+- Join phrasal verbs and their root headword.
+- Fix "MOUSE cms (-iere, -trappe)"
+- Confirm meaning of the asterisk.
+- Fix "PRIMATE archi-epíscop (-atu). PRIMATES: (Zool.) \~"
+- Fix spacing of elipsis.
+- Improve "THERE ta. THERE IS, ARE: vi; hay".
+- Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
+  consists of three parts: the duodenum, jejunum, and ileum.
