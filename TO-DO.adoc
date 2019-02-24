@@ -23,3 +23,6 @@
   filename.
 - Add section "About this book".
 - Fix "MarOdero".
+- Move expression to their main word, e.g. "calculating machine" to
+  "machine".
+- Confirm entry "fro, to and". 
