@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902242038
+# Last modified 201902271923
 # See change log at the end of the file
 
 # ==============================================================
@@ -27,6 +27,7 @@ VPATH=./src:./target
 
 book_basename=english-interlingue_dictionary
 title="English-Interlingue Dictionary"
+lang="en"
 editor="Marcos Cruz (programandala.net)"
 publisher="ne.alinome"
 description="English-Interlingue Dictionary"
@@ -141,8 +142,8 @@ target/$(book_basename).adoc: \
 		--template=src/pandoc_epub_template.txt \
 		--css=src/pandoc_epub_stylesheet.css \
 		--variable=lang:$(lang) \
-		--variable=editor:$(author) \
-		--variable=publisher:$(editor) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
 		--output $@ $<
 
@@ -182,8 +183,8 @@ target/$(book_basename).adoc: \
 		--to odt \
 		--template=src/pandoc_odt_template.txt \
 		--variable=lang:$(lang) \
-		--variable=editor:$(author) \
-		--variable=publisher:$(editor) \
+		--variable=editor:$(editer) \
+		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
 		--output $@ $<
 
@@ -239,3 +240,5 @@ uninstall:
 # 2019-02-13: Make Asciidoctor, DocBook, PDF and EPUB.
 #
 # 2019-02-24: Update the name of the project and the filenames.
+#
+# 2019-02-27: Fix metadata parameters of pandoc.

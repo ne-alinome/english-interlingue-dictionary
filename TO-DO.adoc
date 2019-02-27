@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-24
+:revdate: 2019-02-26
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -8,9 +8,6 @@
 //
 // By Marcos Cruz (programandala.net)
 
-- Add the metainfo.
-- Add the credits.
-- Combine headwords marked by "|".
 - Fix accent marks of "té" compounds.
 - Fix. "PRECIPITATE parecipitar (-ant, -ation), jettar; n.
   precipitate".
@@ -29,7 +26,8 @@
 - Confirm "BEATITUD beatitá. BEATITUDES: \~".
 - Fix "HDMBLE".
 - Replace "\~" with the headwors. The text will be more legible and
-  reusable. Saving space is not constraint in a digital edition.
+  reausable,  and text searches will be easier on any device.  Saving
+  space is not a constraint in a digital edition.
 - Join phrasal verbs and their root headword.
 - Fix "MOUSE cms (-iere, -trappe)"
 - Confirm meaning of the asterisk.
@@ -38,3 +36,5 @@
 - Improve "THERE ta. THERE IS, ARE: vi; hay".
 - Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
   consists of three parts: the duodenum, jejunum, and ileum.
+- Fix "indiferent", "indiferentie".
+- Check: "different" is missing.

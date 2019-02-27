@@ -11,3 +11,28 @@ endif::[]
 // This file is part of the project
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
+
+// Last modified 201902271921
+
+== About this book
+
+_{doctitle}_
+
+Authors:: {authors}
+
+Original publisher:: British Interlingue Association, Warndon (England)
+
+Date of the original edition:: 1958.
+
+Transcription of the original contents:: François Comparot et al., c.
+2005(?).
+
+Location of the transcriptions::
++
+- http://interlingue.narod.ru/[interlingue.narod.ru]
+- http://ie-munde.com[ie-munde.com]
+
+Editor of this e-book version:: Marcos Cruz (programandala.net) for
+http://ne.alinome.net[ne.alinome.net], 2019.  Available in EPUB, DICT
+and other formats.
+
