@@ -11,7 +11,6 @@
 - Confirm "apsorter".
 - "automatic/men" is missing.
 - Improve the README.
-- Add Interlingue translation to the README.
 - Fix "MarOdero".
 - Move expression to their main word, e.g. "calculating machine" to
   "machine".
@@ -31,3 +30,6 @@
   consists of three parts: the duodenum, jejunum, and ileum.
 - Check: "different" is missing.
 - Fix "colorit".
+- Add version number and release.
+- Fix "-alt".
+- Separate "COCAINE" from "COCA".
