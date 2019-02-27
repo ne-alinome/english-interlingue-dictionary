@@ -1,6 +1,6 @@
 = English-Interlingue Dictionary
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-25
+:revdate: 2019-02-26
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -12,9 +12,9 @@
 
 About this project:
 
-Goal:: Create an EPUB e-book and a DICT format dictionary from the
-digitalized contents of the _English-Interlingue Dictionary_ by
-Charles Kemp and F.R. Pope, 1958.
+Goal:: Create an EPUB e-book and a DICT format dictionary, among other
+standard formats, from the digitalized contents of the
+_English-Interlingue Dictionary_ by Charles Kemp and F.R. Pope, 1958.
 
 Author:: Marcos Cruz (programandala.net), 2019
 
@@ -22,11 +22,12 @@ Website:: http://ne.alinome.net[ne.alinome.net]
 
 == Interlingue
 
-Pri ti ci projecte:
+Pri ti projecte:
 
-Scope:: Crear un EPUB-libre e un DICT-formati dictionarium ex li ja
-tipat documentes de _English-Interlingue Dictionary_ (Dictionarium
-Anglesi-Interlingue) de Charles Kemp en F.R. Pope, 1958.
+Scope:: Crear un EPUB-libre e un DICT-formati dictionarium, inter
+altri formates standard, ex li digitalisat contenete de
+_English-Interlingue Dictionary_ (Dictionarium Anglesi-Interlingue) de
+Charles Kemp e F.R. Pope, 1958.
 
 Autor:: Marcos Cruz (programandala.net), 2019
 
@@ -36,9 +37,10 @@ Loc web:: http://ne.alinome.net[ne.alinome.net]
 
 Pri ĉi projekto:
 
-Celo:: Krei  EPUB-an bitlibron kaj DICT-formatan vortaron el la
-bitigitaj dosieroj de _English-Interlingue Dictionary_
-(Angla-Interligvea Vortaro) de Charles Kemp kaj F.R. Pope, 1958.
+Celo:: Krei  EPUB-an bitlibron kaj DICT-formatan vortaron, inter aliaj
+normaj formatoj, el la bitigita enhavo de _English-Interlingue
+Dictionary_ (Angla-Interligvea Vortaro) de Charles Kemp kaj F.R. Pope,
+1958.
 
 Aŭtoro:: Marcos Cruz (programandala.net), 2019
 
