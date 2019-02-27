@@ -12,27 +12,41 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 201902271921
+// Last modified 201902272343
 
-== About this book
+ifeval::["{format}"=="DICT"]
+:in_other_formats: also in EPUB, PDF and other formats
+:this: this dictionary
+:http: http://
+endif::[]
 
-_{doctitle}_
+ifeval::["{format}"=="e-book"]
+:in_other_formats: in DICT, EPUB, PDF and other formats
+:this: this book
+:http:
+endif::[]
 
-Authors:: {authors}
+ifdef::backend-pdf[]
+:format: PDF
+:in_other_formats: also in DICT, EPUB and other formats
+:this: this book
+:http:
+endif::[]
 
-Original publisher:: British Interlingue Association, Warndon (England)
+== About {this}
 
-Date of the original edition:: 1958.
+Title:: {doctitle}.
+
+Authors:: {authors}.
+
+Original publisher:: British Interlingue Association, Warndon
+(England), 1958.
 
 Transcription of the original contents:: François Comparot et al., c.
-2005(?).
+2005 (?).  Available from
+http://interlingue.narod.ru/[{http}interlingue.narod.ru] and
+http://ie-munde.com[{http}ie-munde.com].
 
-Location of the transcriptions::
-+
-- http://interlingue.narod.ru/[interlingue.narod.ru]
-- http://ie-munde.com[ie-munde.com]
-
-Editor of this e-book version:: Marcos Cruz (programandala.net) for
-http://ne.alinome.net[ne.alinome.net], 2019.  Available in EPUB, DICT
-and other formats.
+This {format} edition:: Marcos Cruz, 2019.  Available from
+http://ne.alinome.net[{http}ne.alinome.net] {in_other_formats}.
 

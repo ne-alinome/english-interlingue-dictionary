@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-26
+:revdate: 2019-02-27
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -16,7 +16,6 @@
 - Fix "INDIFFERENT ínfiferent (-ie), mediocri"
 - Improve the README.
 - Add Interlingue translation to the README.
-- Add section "About this book".
 - Fix "MarOdero".
 - Move expression to their main word, e.g. "calculating machine" to
   "machine".
@@ -36,3 +35,7 @@
   consists of three parts: the duodenum, jejunum, and ileum.
 - Fix "indiferent", "indiferentie".
 - Check: "different" is missing.
+- Fix "AHTICIPATE".
+- Separate "CHAOTIC".
+- Fix "CHARAGTER".
+- Fix "colorit".

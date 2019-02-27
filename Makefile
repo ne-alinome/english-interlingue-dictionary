@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902271951
+# Last modified 201902272347
 # See change log at the end of the file
 
 # ==============================================================
@@ -33,7 +33,7 @@ publisher="ne.alinome"
 description="English-Interlingue Dictionary"
 
 dict_basename=eng-ile
-dict_data_url=http://
+dict_data_url=http://interlingue.narod.ru
 dict_data_format=j
 
 # ==============================================================
@@ -43,10 +43,10 @@ dict_data_format=j
 all: dict epub pdf
 
 .PHONY: it
-it: dict epubp pdfa4
+it: dict epubd pdfa4
 
 .PHONY: epub
-epub: epubd epubp epubx
+epub: epubd epubp
 
 .PHONY: epubd
 epubd: target/$(book_basename).adoc.xml.dbtoepub.epub
@@ -95,7 +95,7 @@ clean:
 		--out-file=$@ $<
 
 # ==============================================================
-# Convert original data to Asciidoctor
+# Convert the original data to Asciidoctor
 
 .SECONDARY: tmp/$(book_basename).tsv.adoc
 
@@ -114,7 +114,10 @@ target/$(book_basename).adoc: \
 .SECONDARY: target/$(book_basename).adoc.xml
 
 %.adoc.xml: %.adoc
-	asciidoctor --backend=docbook5 --out-file=$@ $<
+	asciidoctor \
+		--backend=docbook5 \
+		--attribute format=e-book \
+		--out-file=$@ $<
 
 # ==============================================================
 # Convert DocBook to EPUB
@@ -189,16 +192,29 @@ target/$(book_basename).adoc: \
 		--output $@ $<
 
 # ==============================================================
-# Convert the original data file to "dict_data_format"
+# Convert the original data to "dict_data_format"
 
-#.SECONDARY: tmp/$(dict_basename).$(dict_data_format)
+.SECONDARY: tmp/dict_header.adoc.xml
 
-# XXX REMARK -- Example:
-#tmp/dictionarium_anglesi-interlingue.j: src/dictionarium_anglesi-interlingue.tsv
-#tmp/%.j: src/%.tsv
-tmp/$(dict_basename).$(dict_data_format): src/$(book_basename).tsv
+tmp/dict_%.adoc.xml: src/%.adoc
+	asciidoctor \
+		--backend=docbook5 \
+		--attribute format=DICT \
+		--out-file=$@ $<
+
+.SECONDARY: tmp/dict_header.adoc.xml.txt
+
+tmp/%.adoc.xml.txt: tmp/%.adoc.xml
+	pandoc -f docbook -t plain -o $@ $<
+
+.SECONDARY: tmp/$(dict_basename).$(dict_data_format)
+
+tmp/$(dict_basename).$(dict_data_format): \
+	src/$(book_basename).tsv \
+	tmp/dict_header.adoc.xml.txt
+	cat tmp/dict_header.adoc.xml.txt > $@
 	sed -e "s/^\(.\+\)\t/:\1:/" \
-		$< > $@
+		$< >> $@
 
 # ==============================================================
 # Convert dictionary data to dict format
@@ -243,4 +259,5 @@ uninstall:
 #
 # 2019-02-27: Fix metadata parameters of pandoc. Replace ISO 639-1 'ie' code
 # with ISO-639-3 'ile' in the DICT file name, after the usual convention in
-# collections of DICT dictionaries.
+# collections of DICT dictionaries. Reuse the header in the DICT format. Don't
+# use xsltproc by default.
