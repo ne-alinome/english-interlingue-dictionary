@@ -33,3 +33,4 @@
 - Add version number and release.
 - Fix "-alt".
 - Separate "COCAINE" from "COCA".
+- Separato "ACOUSTICS".
