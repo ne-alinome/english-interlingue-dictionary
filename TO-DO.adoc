@@ -19,7 +19,6 @@
 - Fix "HDMBLE".
 - Join phrasal verbs and their root headword.
 - Fix "MOUSE cms (-iere, -trappe)"
-- Confirm meaning of the asterisk.
 - Fix "PRIMATE archi-epíscop (-atu). PRIMATES: (Zool.) \~"
 - Fix spacing of elipsis.
 - Improve "THERE ta. THERE IS, ARE: vi; hay".
@@ -35,4 +34,8 @@
 - Fix colon/semicolon after English uppercase expressions.
 - Separate "WHOEVER".
 - Confirma: comma before "etc".
-- Replace remaining tildes, which are special cases.
+- Fix "TO ATONE POR"
+- Confirm certain compound headwors, e.g. "GOOD-FELLOWSHIP".
+- Move "ILLADVISED".
+- Fix "CUSTODY".
+- Convert headwords with asterisk.
