@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902271923
+# Last modified 201902271951
 # See change log at the end of the file
 
 # ==============================================================
@@ -32,7 +32,7 @@ editor="Marcos Cruz (programandala.net)"
 publisher="ne.alinome"
 description="English-Interlingue Dictionary"
 
-dict_basename=eng-ie
+dict_basename=eng-ile
 dict_data_url=http://
 dict_data_format=j
 
@@ -241,4 +241,6 @@ uninstall:
 #
 # 2019-02-24: Update the name of the project and the filenames.
 #
-# 2019-02-27: Fix metadata parameters of pandoc.
+# 2019-02-27: Fix metadata parameters of pandoc. Replace ISO 639-1 'ie' code
+# with ISO-639-3 'ile' in the DICT file name, after the usual convention in
+# collections of DICT dictionaries.

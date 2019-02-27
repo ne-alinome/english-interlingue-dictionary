@@ -16,8 +16,6 @@
 - Fix "INDIFFERENT ínfiferent (-ie), mediocri"
 - Improve the README.
 - Add Interlingue translation to the README.
-- Replace ISO 639-1 'ie' code with ISO-639-3 'ile', in the dict
-  filename.
 - Add section "About this book".
 - Fix "MarOdero".
 - Move expression to their main word, e.g. "calculating machine" to
