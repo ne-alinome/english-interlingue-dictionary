@@ -8,12 +8,8 @@
 //
 // By Marcos Cruz (programandala.net)
 
-- Fix accent marks of "té" compounds.
-- Fix. "PRECIPITATE parecipitar (-ant, -ation), jettar; n.
-  precipitate".
 - Confirm "apsorter".
 - "automatic/men" is missing.
-- Fix "INDIFFERENT ínfiferent (-ie), mediocri"
 - Improve the README.
 - Add Interlingue translation to the README.
 - Fix "MarOdero".
@@ -33,9 +29,5 @@
 - Improve "THERE ta. THERE IS, ARE: vi; hay".
 - Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
   consists of three parts: the duodenum, jejunum, and ileum.
-- Fix "indiferent", "indiferentie".
 - Check: "different" is missing.
-- Fix "AHTICIPATE".
-- Separate "CHAOTIC".
-- Fix "CHARAGTER".
 - Fix "colorit".
