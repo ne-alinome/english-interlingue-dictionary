@@ -17,9 +17,6 @@
 - Confirm entry "fro, to and". 
 - Confirm "BEATITUD beatitá. BEATITUDES: \~".
 - Fix "HDMBLE".
-- Replace "\~" with the headwors. The text will be more legible and
-  reausable,  and text searches will be easier on any device.  Saving
-  space is not a constraint in a digital edition.
 - Join phrasal verbs and their root headword.
 - Fix "MOUSE cms (-iere, -trappe)"
 - Confirm meaning of the asterisk.
@@ -34,3 +31,8 @@
 - Fix "-alt".
 - Separate "COCAINE" from "COCA".
 - Separato "ACOUSTICS".
+- Fix: in "SELF", "SELFWILL" lacks translation.
+- Fix colon/semicolon after English uppercase expressions.
+- Separate "WHOEVER".
+- Confirma: comma before "etc".
+- Replace remaining tildes, which are special cases.
