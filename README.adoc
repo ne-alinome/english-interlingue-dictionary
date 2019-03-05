@@ -37,10 +37,10 @@ follows:
 |===
 | Command             | Effect
 
-| make                | Build all formats and variants
-| make all            | Build all formats and variants
+| make                | Build most formats and variants
+| make all            | Build most formats and variants
 | make dict           | Build the DICT format
-| make epub           | Build the EPUB format (all variants)
+| make epub           | Build the EPUB format (most variants)
 | make epubd          | Build the EPUB format with dbtoepub
 | make epubp          | Build the EPUB format with pandoc
 | make epubx          | Build the EPUB format with xsltproc
@@ -82,10 +82,10 @@ ti exemples:
 |===
 | Comande             | Efecte
 
-| make                | Constructer omni formates e variantes
-| make all            | Constructer omni formates e variantes
+| make                | Constructer max mult formates e variantes
+| make all            | Constructer max mult formates e variantes
 | make dict           | Constructer li formate DICT
-| make epub           | Constructer li formate EPUB (omni variantes)
+| make epub           | Constructer li formate EPUB (max mult variantes)
 | make epub1d         | Constructer li formate EPUB per dbtoepub
 | make epub1p         | Constructer li formate EPUB per pandoc
 | make epub1x         | Constructer li formate EPUB per xsltproc
@@ -129,7 +129,7 @@ jene:
 | make                | Konstrui plej multajn formatojn kaj variantoj
 | make all            | Konstrui plej multajn formatojn kaj variantoj
 | make dict           | Konstrui la formaton DICT
-| make epub           | Konstrui la formaton EPUB (ĉiujn variantojn)
+| make epub           | Konstrui la formaton EPUB (plej multajn variantojn)
 | make epubd          | Konstrui la formaton EPUB per dbtoepub
 | make epubp          | Konstrui la formaton EPUB per pandoc
 | make epubx          | Konstrui la formaton EPUB per xsltproc

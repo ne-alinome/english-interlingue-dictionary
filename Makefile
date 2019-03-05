@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902272347
+# Last modified 201903051619
 # See change log at the end of the file
 
 # ==============================================================
@@ -33,7 +33,7 @@ publisher="ne.alinome"
 description="English-Interlingue Dictionary"
 
 dict_basename=eng-ile
-dict_data_url=http://interlingue.narod.ru
+dict_data_url=http://ne.alinome.net
 dict_data_format=j
 
 # ==============================================================
@@ -261,3 +261,5 @@ uninstall:
 # with ISO-639-3 'ile' in the DICT file name, after the usual convention in
 # collections of DICT dictionaries. Reuse the header in the DICT format. Don't
 # use xsltproc by default.
+#
+# 2019-03-05: Update the URL of the original data of the DICT format.
