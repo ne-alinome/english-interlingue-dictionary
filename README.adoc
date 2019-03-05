@@ -1,6 +1,9 @@
 = English-Interlingue Dictionary
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-26
+:revdate: 2019-03-05
+:toc:
+:toc-levels: 2
+:toc-title: Contents/Contenete/Enhavo
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -10,7 +13,7 @@
 
 == English
 
-About this project:
+=== About this project
 
 Goal:: Create an EPUB e-book and a DICT format dictionary, among other
 standard formats, from the digitalized contents of the
@@ -20,9 +23,40 @@ Author:: Marcos Cruz (programandala.net), 2019
 
 Website:: http://ne.alinome.net[ne.alinome.net]
 
+=== How to build the dictionary
+
+If you cannot wait the release of the next version, you can build the
+target files yourself.
+
+First, make sure the programs listed under the "Requirements" section
+of the <Makefile> file are installed in your system.
+
+Then enter the project's directory and give the `make` command as
+follows:
+
+|===
+| Command             | Effect
+
+| make                | Build all formats and variants
+| make all            | Build all formats and variants
+| make dict           | Build the DICT format
+| make epub           | Build the EPUB format (all variants)
+| make epubd          | Build the EPUB format with dbtoepub
+| make epubp          | Build the EPUB format with pandoc
+| make epubx          | Build the EPUB format with xsltproc
+| make pdf            | Build the PDF format (both sizes)
+| make pdfa4          | Build the DIN A4 size PDF format
+| make pdfl           | Build the letter size PDF format
+| make xml            | Build the DocBook format
+| sudo make install   | Install the DICT files
+| sudo make uninstall | Uninstall the DICT files
+|===
+
+The documents are built in the <target> directory.
+
 == Interlingue
 
-Pri ti projecte:
+=== Pri ti projecte
 
 Scope:: Crear un EPUB-libre e un DICT-formati dictionarium, inter
 altri formates standard, ex li digitalisat contenete de
@@ -33,15 +67,77 @@ Autor:: Marcos Cruz (programandala.net), 2019
 
 Loc web:: http://ne.alinome.net[ne.alinome.net]
 
+=== Qualmen constructer li dictionarium
+
+Si vu ne posse atender li liberation de li sequente version, vu self
+posse constructer li libre-documentes.
+
+In prim, ples confirmar que li programes listat in li section
+"Requirements" (besones) del document <Makefile> es installat in vor
+sistema.
+
+Tande ples intrar li documentiere del projecte e comandar `make` secun
+ti exemples:
+
+|===
+| Comande             | Efecte
+
+| make                | Constructer omni formates e variantes
+| make all            | Constructer omni formates e variantes
+| make dict           | Constructer li formate DICT
+| make epub           | Constructer li formate EPUB (omni variantes)
+| make epub1d         | Constructer li formate EPUB per dbtoepub
+| make epub1p         | Constructer li formate EPUB per pandoc
+| make epub1x         | Constructer li formate EPUB per xsltproc
+| make pdf            | Constructer li formate PDF (ambi grandores)
+| make pdfa4          | Constructer li formate PDF ye grandore DIN A4
+| make pdfl           | Constructer li formate PDF ye grandore "letter"
+| make xml            | Constructer li formate DocBook
+| sudo make install   | Instalar li documentes DICT
+| sudo make uninstall | Desinstalar li documentes DICT
+|===
+
+Li documentes es create in li documentiere <target> (scope).
+
 == Esperanto
 
-Pri ĉi projekto:
+=== Pri ĉi projekto
 
 Celo:: Krei  EPUB-an bitlibron kaj DICT-formatan vortaron, inter aliaj
 normaj formatoj, el la bitigita enhavo de _English-Interlingue
-Dictionary_ (Angla-Interligvea Vortaro) de Charles Kemp kaj F.R. Pope,
+Dictionary_ (Angla-Interlingvea Vortaro) de Charles Kemp kaj F.R. Pope,
 1958.
 
 Aŭtoro:: Marcos Cruz (programandala.net), 2019
 
 Retpaĝaro:: http://ne.alinome.net[ne.alinome.net]
+
+=== Kiel konstrui la vortaron
+
+Se vi ne povas atendi la publikigon de la venonta versio, vi mem povas
+konstrui la cel-dosierojn.
+
+Unue, certiĝu ke la programoj enlistigitaj en la fako "Requirements"
+(necesaĵoj) de la dosiero <Makefile> estas instalitaj en via sistemo.
+
+Poste eniru la dosierujon de la projekto kaj uzu la ordonon `make`
+jene:
+
+|===
+| Ordono              | Efiko
+
+| make                | Konstrui plej multajn formatojn kaj variantoj
+| make all            | Konstrui plej multajn formatojn kaj variantoj
+| make dict           | Konstrui la formaton DICT
+| make epub           | Konstrui la formaton EPUB (ĉiujn variantojn)
+| make epubd          | Konstrui la formaton EPUB per dbtoepub
+| make epubp          | Konstrui la formaton EPUB per pandoc
+| make epubx          | Konstrui la formaton EPUB per xsltproc
+| make pdf            | Konstrui la formaton PDF (ambaŭ grandojn)
+| make pdfa4          | Konstrui la formaton PDF je grando DIN A4
+| make pdfl           | Konstrui la formaton PDF je grando "letter"
+| make xml            | Konstrui la formaton DocBook
+| sudo make install   | Instali la DICT-dosierojn
+| sudo make uninstall | Malinstali the DICT-dosierojn
+|===
+
