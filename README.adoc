@@ -162,7 +162,7 @@ jene:
 | sudo make uninstall | Malinstali the DICT-dosierojn
 |===
 
-La dosieroj estos kreataj en la dosierujo <target> (celo).
+La dosieroj estos kreitaj en la dosierujo <target> (celo).
 
 === DICT-ordono (por sistemoj GNU/Linux)
 
