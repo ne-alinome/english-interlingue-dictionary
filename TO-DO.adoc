@@ -39,3 +39,13 @@
 - Move "ILLADVISED".
 - Fix "CUSTODY".
 - Convert headwords with asterisk.
+- Add "TO" to all English verbs used in secondary expressions in
+  headwords. Now the notation is not regular.
+- Use always "v." etc to mark the word type. Now the notation is not
+  regular.
+- Confirm "PLATING, ARMOUR * curasse" is "PLATING or ARMOUR" ("ARMOUR"
+  already has its own entry) or "ARMOUR PLATING".
+- Simplify notation of prefixes: remove "-" from the headword and add
+  "(prefix)" at the start of the description. This makes searches
+  easier.
+ - Confirm  "TO GET OFF SCOT FREE: escapar sin vúlneres".
