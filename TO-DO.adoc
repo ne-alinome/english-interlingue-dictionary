@@ -11,26 +11,19 @@
 - Confirm "apsorter".
 - "automatic/men" is missing.
 - Improve the README.
-- Fix "MarOdero".
 - Move expression to their main word, e.g. "calculating machine" to
   "machine".
 - Confirm entry "fro, to and". 
 - Confirm "BEATITUD beatitá. BEATITUDES: \~".
-- Fix "HDMBLE".
 - Join phrasal verbs and their root headword.
-- Fix "MOUSE cms (-iere, -trappe)"
-- Fix "PRIMATE archi-epíscop (-atu). PRIMATES: (Zool.) \~"
 - Fix spacing of elipsis.
 - Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
   consists of three parts: the duodenum, jejunum, and ileum.
 - Check: "different" is missing.
 - Fix "colorit".
 - Add version number and release.
-- Separate "COCAINE" from "COCA".
-- Separato "ACOUSTICS".
 - Fix: in "SELF", "SELFWILL" lacks translation.
 - Fix colon/semicolon after English uppercase expressions.
-- Separate "WHOEVER".
 - Confirma: comma before "etc".
 - Fix "TO ATONE POR"
 - Confirm certain compound headwors, e.g. "GOOD-FELLOWSHIP".
