@@ -38,3 +38,5 @@
 - Confirm  "TO GET OFF SCOT FREE: escapar sin vúlneres".
 - Decide about notation "D" of verbs, e.g. "leDer".
 - Homogenize the usage of commas and semicolons.
+- Confirm and fix "blond(a)" -> "a. blond; n. blonda".
+- Consult "ebri, ebriat (in-ar)".
