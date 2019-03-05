@@ -2,7 +2,7 @@
 
 # interlingue.sh
 
-# A dict wrapper to search all of the Interlingue dictionaries that
+# A DICT wrapper to search all of the Interlingue dictionaries that
 # are installed in the DICT server, provided they include the word
 # "interlingue" (case insensitive) in the description.
 
@@ -21,7 +21,10 @@
 # Change log
 #
 # 2019-02-06: First version.
+#
 # 2019-02-24: Update the file header.
+#
+# 2019-03-05: Fix typo.
 
 dictionaries=$(\
   dict -D | \

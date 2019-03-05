@@ -11,6 +11,8 @@
 //
 // By Marcos Cruz (programandala.net)
 
+:user: ~
+
 == English
 
 === About this project
@@ -53,6 +55,15 @@ follows:
 |===
 
 The documents are built in the <target> directory.
+
+=== DICT command (for GNU/Linux systems)
+
+
+The file <src/interlingue.sh> is a simple shell wrapper for DICT.  You
+can copy or link it to a location in your path, e.g. as <{user}/bin/>,
+<{user}/.local/bin/> or </usr/local/bin/>, for example with name `ie`.
+Then the command `ie` will search all installed dictonaries that have
+the word "interlingue" (case insensitive) in their description.
 
 == Interlingue
 
@@ -99,6 +110,16 @@ ti exemples:
 
 Li documentes es create in li documentiere <target> (scope).
 
+=== DICT-comande (por sistemas GNU/Linux)
+
+Li document <src/interlingue.sh> es un comande por simplificar li
+consultas de DICT. Tu posse copiar o ligar it ad-in un documentiere in
+un ex tui documentieres de programas, por exemple <{user}/bin/>,
+<{user}/.local/bin/> or </usr/local/bin/>, fórsan con li curt nómine
+`ie`.  Tande li comande `ie` va serchar omni dictionariums instalat
+quel have li parol "interlingue" in lor descrition (índiferent per
+majuscules o minuscules).
+
 == Esperanto
 
 === Pri ĉi projekto
@@ -140,4 +161,15 @@ jene:
 | sudo make install   | Instali la DICT-dosierojn
 | sudo make uninstall | Malinstali the DICT-dosierojn
 |===
+
+La dosieroj estos kreataj en la dosierujo <target> (celo).
+
+=== DICT-ordono (por sistemoj GNU/Linux)
+
+La dosiero <src/interlingue.sh> estas simplig-ordono por DICT-serĉoj.
+Vi povas kopii or ligi ĝin en dosierujon el viaj program-dosierujojn,
+ekzemple <{user}/bin/>, <{user}/.local/bin/> aŭ </usr/local/bin/>,
+eble kun mallonga nomo `ie`.  Tiel la ordono `ie` serĉos ĉiujn
+instalitajn vortarojn kiuj havas la vorton "interlingue" en sia
+priskribo (majuskloj aŭ minuskloj ne gravas).
 
