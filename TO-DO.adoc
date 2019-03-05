@@ -38,3 +38,4 @@
   already has its own entry) or "ARMOUR PLATING".
 - Confirm  "TO GET OFF SCOT FREE: escapar sin vúlneres".
 - Decide about notation "D" of verbs, e.g. "leDer".
+- Homogenize the usage of commas and semicolons.
