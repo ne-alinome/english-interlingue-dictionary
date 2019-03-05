@@ -169,7 +169,7 @@ La dosieroj estos kreataj en la dosierujo <target> (celo).
 La dosiero <src/interlingue.sh> estas simplig-ordono por DICT-serĉoj.
 Vi povas kopii or ligi ĝin en dosierujon el viaj program-dosierujojn,
 ekzemple <{user}/bin/>, <{user}/.local/bin/> aŭ </usr/local/bin/>,
-eble kun mallonga nomo `ie`.  Tiel la ordono `ie` serĉos ĉiujn
-instalitajn vortarojn kiuj havas la vorton "interlingue" en sia
+eble kun mallonga nomo `ie`.  Tiel la ordono `ie` serĉos en ĉiuj
+instalitaj vortaroj kiuj havas la vorton "interlingue" en sia
 priskribo (majuskloj aŭ minuskloj ne gravas).
 
