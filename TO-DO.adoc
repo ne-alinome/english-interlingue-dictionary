@@ -27,7 +27,6 @@
 - Check: "different" is missing.
 - Fix "colorit".
 - Add version number and release.
-- Fix "-alt".
 - Separate "COCAINE" from "COCA".
 - Separato "ACOUSTICS".
 - Fix: in "SELF", "SELFWILL" lacks translation.
@@ -46,3 +45,4 @@
 - Confirm "PLATING, ARMOUR * curasse" is "PLATING or ARMOUR" ("ARMOUR"
   already has its own entry) or "ARMOUR PLATING".
 - Confirm  "TO GET OFF SCOT FREE: escapar sin vúlneres".
+- Decide about notation "D" of verbs, e.g. "leDer".
