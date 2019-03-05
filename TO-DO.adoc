@@ -21,7 +21,6 @@
 - Fix "MOUSE cms (-iere, -trappe)"
 - Fix "PRIMATE archi-epíscop (-atu). PRIMATES: (Zool.) \~"
 - Fix spacing of elipsis.
-- Improve "THERE ta. THERE IS, ARE: vi; hay".
 - Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
   consists of three parts: the duodenum, jejunum, and ileum.
 - Check: "different" is missing.
