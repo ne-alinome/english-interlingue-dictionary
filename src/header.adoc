@@ -1,6 +1,6 @@
 = English-Interlingue Dictionary
 :authors: Charles Kemp, F.R. Pope
-:revnumber: 0.1.0-pre.2+20190305
+include::VERSION.adoc[]
 :description: English-Interlingue Dictionary
 ifdef::backend-pdf[]
 :doctype: book
@@ -13,7 +13,7 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 201903051900
+// Last modified 201903061350
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
