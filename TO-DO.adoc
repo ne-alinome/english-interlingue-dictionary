@@ -19,7 +19,6 @@
 - Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
   consists of three parts: the duodenum, jejunum, and ileum.
 - Check: "different" is missing.
-- Fix "colorit".
 - Add version number and release.
 - Fix: in "SELF", "SELFWILL" lacks translation.
 - Fix colon/semicolon after English uppercase expressions.
