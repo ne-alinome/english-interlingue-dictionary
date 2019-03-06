@@ -41,8 +41,6 @@
 - Confirm and fix "blond(a)" -> "a. blond; n. blonda".
 - Consult "ebri, ebriat (in-ar)".
 - Consult "LOG bloc, trunc; (logbook) diarium; (naut.) logg (-lin)".
-- Fix double "ARCH".
 - Consult "RIPP-RAPF canallia".
 - Fix "STPENGTHEN infortiar, fortificar".
 - Fix "TO COME TO PASS: evenir".
-- Fix "WIPE marita".
