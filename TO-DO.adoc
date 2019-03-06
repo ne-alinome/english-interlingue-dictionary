@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-05
+:revdate: 2019-03-06
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -40,3 +40,14 @@
 - Homogenize the usage of commas and semicolons.
 - Confirm and fix "blond(a)" -> "a. blond; n. blonda".
 - Consult "ebri, ebriat (in-ar)".
+- Consult "LOG bloc, trunc; (logbook) diarium; (naut.) logg (-lin)".
+- Fix "APT detra; in li stern" -> "AFT".
+- Fix double "ARCH".
+- Fix "GHIDE" -> "CHIDE".
+- Fix "GHESS" -> "CHESS".
+- Fix "GHEER" -> "CHEER".
+- Fix "GHAISE" -> "CHAISE".
+- Consult "RIPP-RAPF canallia".
+- Fix "STPENGTHEN infortiar, fortificar".
+- Fix "TO COME TO PASS: evenir".
+- Fix "WIPE marita".
