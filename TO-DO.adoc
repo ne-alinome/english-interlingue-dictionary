@@ -43,4 +43,6 @@
 - Consult "LOG bloc, trunc; (logbook) diarium; (naut.) logg (-lin)".
 - Consult "RIPP-RAPF canallia".
 - Fix "STPENGTHEN infortiar, fortificar".
-- Fix "TO COME TO PASS: evenir".
+- Fix "COME ON", which was at the end of "COME", without translation.
+- Homogenize the notation of English infinitives in the expressions:
+  add "TO".
