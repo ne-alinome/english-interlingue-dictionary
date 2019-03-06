@@ -43,14 +43,10 @@
 - Complete "COUNT" with nouns: "total number counted" and "the act of
   counting".
 - Homogenize notation "1.", "2." etc. in descriptions.
-- Fix "CATGH" -> "CATCH"
-- Normalize the notation of expressions like "(CATCH up with) atinger"
-  -> "CATCH UP WITH: atinger"; "(catch cold)", "(to FORCE upon)", "(to
+- Normalize the notation of expressions like "(to FORCE upon)", "(to
   LAUGH at)" etc.
 - Consult "BOARD ... (put up) albergar".
 - Combine "TO GO OUT".
-- Fix "PURPOT".
-- Fix "ROCKET".
-- Fix "SPARK".
 - Consult: "TO TELL ON: haver su efecte". But "{To tell on}, to inform
   against. [Archaic & Colloq.] [1913 Webster]".
+- Consult "rococo/ó"
