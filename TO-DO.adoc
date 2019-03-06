@@ -24,10 +24,7 @@
 - Fix: in "SELF", "SELFWILL" lacks translation.
 - Fix colon/semicolon after English uppercase expressions.
 - Confirma: comma before "etc".
-- Fix "TO ATONE POR"
 - Confirm certain compound headwors, e.g. "GOOD-FELLOWSHIP".
-- Move "ILLADVISED".
-- Fix "CUSTODY".
 - Convert headwords with asterisk.
 - Add "TO" to all English verbs used in secondary expressions in
   headwords. Now the notation is not regular.
@@ -42,7 +39,6 @@
 - Consult "ebri, ebriat (in-ar)".
 - Consult "LOG bloc, trunc; (logbook) diarium; (naut.) logg (-lin)".
 - Consult "RIPP-RAPF canallia".
-- Fix "STPENGTHEN infortiar, fortificar".
 - Fix "COME ON", which was at the end of "COME", without translation.
 - Homogenize the notation of English infinitives in the expressions:
   add "TO".
