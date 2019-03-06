@@ -36,7 +36,7 @@
 - Confirm "PLATING, ARMOUR * curasse" is "PLATING or ARMOUR" ("ARMOUR"
   already has its own entry) or "ARMOUR PLATING".
 - Confirm  "TO GET OFF SCOT FREE: escapar sin vúlneres".
-- Decide about notation "D" of verbs, e.g. "leDer".
+- Decide about notation "D" and "S", e.g. "leDer", "diagnoSe".
 - Homogenize the usage of commas and semicolons.
 - Confirm and fix "blond(a)" -> "a. blond; n. blonda".
 - Consult "ebri, ebriat (in-ar)".
@@ -46,3 +46,5 @@
 - Fix "COME ON", which was at the end of "COME", without translation.
 - Homogenize the notation of English infinitives in the expressions:
   add "TO".
+- Complete "COUNT" with nouns: "total number counted" and "the act of
+  counting".
