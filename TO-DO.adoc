@@ -19,14 +19,11 @@
 - Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
   consists of three parts: the duodenum, jejunum, and ileum.
 - Check: "different" is missing.
-- Add version number and release.
 - Fix: in "SELF", "SELFWILL" lacks translation.
 - Fix colon/semicolon after English uppercase expressions.
 - Confirma: comma before "etc".
 - Confirm certain compound headwors, e.g. "GOOD-FELLOWSHIP".
 - Convert headwords with asterisk.
-- Add "TO" to all English verbs used in secondary expressions in
-  headwords. Now the notation is not regular.
 - Use always "v." etc to mark the word type. Now the notation is not
   regular.
 - Confirm "PLATING, ARMOUR * curasse" is "PLATING or ARMOUR" ("ARMOUR"
