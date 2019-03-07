@@ -51,5 +51,7 @@
 - Separate "LIMB membre; tranche; LIMB (astr.) limbe" and similar
   cases.
 - Consult "HATCH OUT: covar, inventer; (in drawing) *sgraffir"
-- Homogenize notation "(prep.)" and "(conj.)" vs "a.", "v."  etc.
-- Homogenize notation "a." vs "(adj.)".
+- Consult about compound headwords like "WELL-BEING" and many others.
+- Add a list of abbreviations used in the dictionary.
+- Add "ADVISED".
+
