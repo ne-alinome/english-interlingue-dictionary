@@ -52,4 +52,4 @@
   cases.
 - Homogenize the notation: separate the "n.", "a.", "v." etc parts per
   dots.
-- Fix "HATCH (OUT) covar, inventer; (in drawing) *sgraffir"
+- Consult "HATCH OUT: covar, inventer; (in drawing) *sgraffir"
