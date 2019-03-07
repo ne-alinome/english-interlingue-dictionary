@@ -13,7 +13,7 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 201903071644
+// Last modified 201903071659
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
@@ -65,6 +65,9 @@ Changes done in this edition::
 - In order to facilitate the searching
   some entries have been splitted, while others have been combined.
   {headwords}
+- In order to make the contents more legible in any format, and more
+  reusable, the tildes that represented the headwords in the
+  definitions have been replaced with the full word.
 - The notation of all word types have been homogenized, e.g. "(n.)"
   for noun, "(v.)" for verb, etc.
 
