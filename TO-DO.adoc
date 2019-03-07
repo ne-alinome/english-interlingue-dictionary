@@ -54,4 +54,4 @@
 - Consult about compound headwords like "WELL-BEING" and many others.
 - Add a list of abbreviations used in the dictionary.
 - Add "ADVISED".
-
+- Consult "ENTHUSIASM = entusiasme (-ar, -ast, -astic)".
