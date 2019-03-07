@@ -13,7 +13,7 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 201903072249
+// Last modified 201903072255
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
@@ -72,17 +72,17 @@ Changes done in this edition::
   noun, "(v.)" for verb, etc.
 
 Edition made only by libre programs:: 
-http://debian.org[Debian],
-http://vim.org[Vim],
 http://asciidoctor.org[Asciidoctor],
 https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
-http://pandoc.org[pandoc],
-dictfmt,
 dbtoepub,
-http://xmlsoft.org/XSLT/[xsltproc],
-make,
+http://debian.org[Debian],
+dictfmt,
 http://git-scm.com/[Git],
-http://http://jonas.nitro.dk/tig[Tig]...
+make,
+http://pandoc.org[pandoc],
+http://http://jonas.nitro.dk/tig[Tig],
+http://vim.org[Vim],
+http://xmlsoft.org/XSLT/[xsltproc]...
 
 Version of this edition:: {revnumber}.
 
