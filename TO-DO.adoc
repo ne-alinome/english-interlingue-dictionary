@@ -50,6 +50,6 @@
   -gambat"
 - Separate "LIMB membre; tranche; LIMB (astr.) limbe" and similar
   cases.
-- Homogenize the notation: separate the "n.", "a.", "v." etc parts per
-  dots.
 - Consult "HATCH OUT: covar, inventer; (in drawing) *sgraffir"
+- Homogenize notation "(prep.)" and "(conj.)" vs "a.", "v."  etc.
+- Homogenize notation "a." vs "(adj.)".
