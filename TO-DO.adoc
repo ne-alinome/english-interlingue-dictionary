@@ -38,9 +38,8 @@
 - Fix "COME ON", which was at the end of "COME", without translation.
 - Complete "COUNT" with nouns: "total number counted" and "the act of
   counting".
-- Homogenize notation "1.", "2." etc. in descriptions.
-- Normalize the notation of expressions like "(to FORCE upon)", "(to
-  LAUGH at)" etc.
+- Homogenize notation "1.", "2." etc. in descriptions. Separate into
+  different entries.
 - Consult "BOARD ... (put up) albergar".
 - Consult: "TO TELL ON: haver su efecte". But "{To tell on}, to inform
   against. [Archaic & Colloq.] [1913 Webster]".
@@ -51,3 +50,6 @@
   -gambat"
 - Separate "LIMB membre; tranche; LIMB (astr.) limbe" and similar
   cases.
+- Homogenize the notation: separate the "n.", "a.", "v." etc parts per
+  dots.
+- Fix "HATCH (OUT) covar, inventer; (in drawing) *sgraffir"
