@@ -13,7 +13,7 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 201903071751
+// Last modified 201903072249
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
@@ -66,10 +66,23 @@ Changes done in this edition::
   some entries have been splitted, while others have been combined.
   {headwords}
 - In order to make the contents more legible in any format, and more
-  reusable, the tildes that represented the headwords in the
-  definitions have been replaced with the full word.
-- The notation of all word types have been homogenized, e.g. "(n.)"
-  for noun, "(v.)" for verb, etc.
+  reusable, the tildes in the definitions have been replaced with the
+  headwords.
+- The notation of all word types has been homogenized, e.g. "(n.)" for
+  noun, "(v.)" for verb, etc.
+
+Edition made only by libre programs:: 
+http://debian.org[Debian],
+http://vim.org[Vim],
+http://asciidoctor.org[Asciidoctor],
+https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
+http://pandoc.org[pandoc],
+dictfmt,
+dbtoepub,
+http://xmlsoft.org/XSLT/[xsltproc],
+make,
+http://git-scm.com/[Git],
+http://http://jonas.nitro.dk/tig[Tig]...
 
 Version of this edition:: {revnumber}.
 
