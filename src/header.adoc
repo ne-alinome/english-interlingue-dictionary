@@ -1,6 +1,6 @@
 = English-Interlingue Dictionary
 :authors: Charles Kemp, F.R. Pope
-include::VERSION.adoc[]
+include::../src/VERSION.adoc[]
 :description: English-Interlingue Dictionary
 ifdef::backend-pdf[]
 :doctype: book
@@ -13,18 +13,22 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 201903061350
+// Last modified 201903071644
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
 :this: this dictionary
 :http: http://
+:headwords:
 endif::[]
 
 ifeval::["{format}"=="e-book"]
 :in_other_formats: in DICT, EPUB, PDF and other formats
 :this: this book
 :http:
+:headwords: For the same reason, in the e-book formats, \
+a dot is automatically added \
+at the start of the headwords.
 endif::[]
 
 ifdef::backend-pdf[]
@@ -32,6 +36,9 @@ ifdef::backend-pdf[]
 :in_other_formats: also in DICT, EPUB and other formats
 :this: this book
 :http:
+:headwords: For the same reason, in the e-book formats, \
+a dot is automatically added \
+at the start of the headwords.
 endif::[]
 
 == About {this}
@@ -55,9 +62,15 @@ Changes done in this edition::
 +
 - All errors and typos found, including punctuation, layout and
   notation, have been fixed.
-- In order to facilitate the searching in DICT and e-book formats,
+- In order to facilitate the searching
   some entries have been splitted, while others have been combined.
+  {headwords}
+- The notation of all word types have been homogenized, e.g. "(n.)"
+  for noun, "(v.)" for verb, etc.
 
 Version of this edition:: {revnumber}.
+
+Contributions:: Corrections and suggestions for next versions are
+welcome at http://ne.alinome.net[{http}ne.alinome.net].
 
 // -------------------------------------------------------------
