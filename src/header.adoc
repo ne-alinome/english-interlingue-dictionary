@@ -13,7 +13,7 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 201903071659
+// Last modified 201903071751
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
@@ -51,11 +51,11 @@ Original publisher:: British Interlingue Association, Warndon
 (England), 1958.
 
 Transcription of the original contents:: François Comparot et al., c.
-2005 (?).  Available from
+2005 (?).  Available in
 http://interlingue.narod.ru/[{http}interlingue.narod.ru] and
 http://ie-munde.com[{http}ie-munde.com].
 
-Revision and {format} edition:: Marcos Cruz, 2019.  Available from
+Revision and {format} edition:: Marcos Cruz, 2019.  Available in
 http://ne.alinome.net[{http}ne.alinome.net] {in_other_formats}.
 
 Changes done in this edition::
