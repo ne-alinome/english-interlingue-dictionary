@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-07
+:revdate: 2019-03-08
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -55,3 +55,5 @@
 - Add a list of abbreviations used in the dictionary.
 - Add "ADVISED".
 - Consult "ENTHUSIASM = entusiasme (-ar, -ast, -astic)".
+- "CLASSIC" is missing.
+- Confirm "UNLESS = si...ne"
