@@ -1,6 +1,6 @@
 = English-Interlingue Dictionary
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-05
+:revdate: 2019-03-08
 :toc:
 :toc-levels: 2
 :toc-title: Contents/Contenete/Enhavo
@@ -41,11 +41,13 @@ follows:
 
 | make                | Build most formats and variants
 | make all            | Build most formats and variants
+| make adoc           | Build the Asciidoctor format
 | make dict           | Build the DICT format
 | make epub           | Build the EPUB format (most variants)
 | make epubd          | Build the EPUB format with dbtoepub
 | make epubp          | Build the EPUB format with pandoc
 | make epubx          | Build the EPUB format with xsltproc
+| make odt            | Build the OpenDocument format
 | make pdf            | Build the PDF format (both sizes)
 | make pdfa4          | Build the DIN A4 size PDF format
 | make pdfl           | Build the letter size PDF format
@@ -95,11 +97,13 @@ ti exemples:
 
 | make                | Constructer max mult formates e variantes
 | make all            | Constructer max mult formates e variantes
+| make adoc           | Constructer li formate Asciidoctor
 | make dict           | Constructer li formate DICT
 | make epub           | Constructer li formate EPUB (max mult variantes)
 | make epub1d         | Constructer li formate EPUB per dbtoepub
 | make epub1p         | Constructer li formate EPUB per pandoc
 | make epub1x         | Constructer li formate EPUB per xsltproc
+| make odt            | Constructer li formate OpenDocument
 | make pdf            | Constructer li formate PDF (ambi grandores)
 | make pdfa4          | Constructer li formate PDF ye grandore DIN A4
 | make pdfl           | Constructer li formate PDF ye grandore "letter"
