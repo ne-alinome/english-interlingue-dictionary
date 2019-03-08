@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201903051619
+# Last modified 201903090036
 # See change log at the end of the file
 
 # ==============================================================
@@ -42,8 +42,23 @@ dict_data_format=j
 .PHONY: all
 all: dict epub pdf
 
+.PHONY: clean
+clean:
+	rm -fr target/* tmp/*
+
 .PHONY: it
 it: dict epubd pdfa4
+
+# -------------------------------------
+
+.PHONY: $(dict_data_format)
+$(dict_data_format): tmp/$(dict_basename).$(dict_data_format)
+
+.PHONY: adoc
+adoc: target/$(book_basename).adoc
+
+.PHONY: dict
+dict: target/$(dict_basename).dict.dz
 
 .PHONY: epub
 epub: epubd epubp
@@ -57,6 +72,9 @@ epubp: target/$(book_basename).adoc.xml.pandoc.epub
 .PHONY: epubx
 epubx: target/$(book_basename).adoc.xml.xsltproc.epub
 
+.PHONY: odt
+odt: target/$(book_basename).adoc.xml.pandoc.odt
+
 .PHONY: pdf
 pdf: pdfa4 pdfletter
 
@@ -66,21 +84,8 @@ pdfa4: target/$(book_basename).adoc.a4.pdf
 .PHONY: pdfletter
 pdfletter: target/$(book_basename).adoc.letter.pdf
 
-.PHONY: $(dict_data_format)
-$(dict_data_format): tmp/$(dict_basename).$(dict_data_format)
-
-.PHONY: dict
-dict: target/$(dict_basename).dict.dz
-
-.PHONY: adoc
-adoc: target/$(book_basename).adoc
-
 .PHONY: xml
 xml: target/$(book_basename).adoc.xml
-
-.PHONY: clean
-clean:
-	rm -fr target/* tmp/*
 
 # ==============================================================
 # Convert Asciidoctor to PDF
@@ -263,3 +268,6 @@ uninstall:
 # use xsltproc by default.
 #
 # 2019-03-05: Update the URL of the original data of the DICT format.
+#
+# 2019-03-09: Add an interface command "odt" for OpenDocument. Reorder the
+# interface commands.
