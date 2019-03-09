@@ -13,7 +13,7 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 201903072255
+// Last modified 201903091835
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
@@ -80,7 +80,7 @@ dbtoepub,
 http://debian.org[Debian],
 dictfmt,
 http://git-scm.com/[Git],
-make,
+https://www.gnu.org/software/make/[GNU make],
 http://pandoc.org[pandoc],
 http://http://jonas.nitro.dk/tig[Tig],
 http://vim.org[Vim],
