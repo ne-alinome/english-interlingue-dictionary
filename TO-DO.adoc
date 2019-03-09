@@ -58,3 +58,7 @@
 - "CLASSIC" is missing.
 - Confirm "UNLESS = si...ne"
 - Confirm and homogenize notations "(v.a)/(v.n)" and "(tr.)/(intr.)".
+- Consult: Make one-word expressions independent headwords: SOUPTERN
+  from SOUP, SOLOIST from SOLO, SOLDIERY from SOLDIER, HELPFULLESS
+  from HELPFUL, HIMSELF from HIM...
+- Consult: Move headwords that contain spaces into other headwords.
