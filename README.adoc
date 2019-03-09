@@ -1,6 +1,6 @@
 = English-Interlingue Dictionary
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-08
+:revdate: 2019-03-09
 :toc:
 :toc-levels: 2
 :toc-title: Contents/Contenete/Enhavo
@@ -28,7 +28,7 @@ Website:: http://ne.alinome.net[ne.alinome.net]
 === How to build the dictionary
 
 If you cannot wait the release of the next version, you can build the
-target files yourself.
+dictionary files yourself.
 
 First, make sure the programs listed under the "Requirements" section
 of the <Makefile> file are installed in your system.
@@ -83,7 +83,7 @@ Loc web:: http://ne.alinome.net[ne.alinome.net]
 === Qualmen constructer li dictionarium
 
 Si vu ne posse atender li liberation de li sequente version, vu self
-posse constructer li libre-documentes.
+posse constructer li dictionarium-documentes.
 
 In prim, ples confirmar que li programes listat in li section
 "Requirements" (besones) del document <Makefile> es installat in vor
@@ -112,7 +112,7 @@ ti exemples:
 | sudo make uninstall | Desinstalar li documentes DICT
 |===
 
-Li documentes es create in li documentiere <target> (scope).
+Li documentes es creat in li documentiere <target> (scope).
 
 === DICT-comande (por sistemas GNU/Linux)
 
@@ -140,7 +140,7 @@ Retpaĝaro:: http://ne.alinome.net[ne.alinome.net]
 === Kiel konstrui la vortaron
 
 Se vi ne povas atendi la publikigon de la venonta versio, vi mem povas
-konstrui la cel-dosierojn.
+konstrui la vortar-dosierojn.
 
 Unue, certiĝu ke la programoj enlistigitaj en la fako "Requirements"
 (necesaĵoj) de la dosiero <Makefile> estas instalitaj en via sistemo.
@@ -151,8 +151,8 @@ jene:
 |===
 | Ordono              | Efiko
 
-| make                | Konstrui plej multajn formatojn kaj variantoj
-| make all            | Konstrui plej multajn formatojn kaj variantoj
+| make                | Konstrui plej multajn formatojn kaj variantojn
+| make all            | Konstrui plej multajn formatojn kaj variantojn
 | make dict           | Konstrui la formaton DICT
 | make epub           | Konstrui la formaton EPUB (plej multajn variantojn)
 | make epubd          | Konstrui la formaton EPUB per dbtoepub
