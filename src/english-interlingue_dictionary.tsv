@@ -1183,7 +1183,7 @@ BLATANT	bruient, belant
 BLAZE	(v.) flammear; (light) lucer, brilliar. (n.) brase
 BLAZER	flanell-jaque
 BLAZON	blason, emblema, insigne. BLAZONRY: heraldica, arte de blason
-BLEACH	devenir pallid. (v.) a. pallidar, ablancar
+BLEACH	devenir pallid. (v.a.) pallidar, ablancar
 BLEAK	desert, frigid; trist
 BLEAR-EYED	con nebulat ocules, con humid ocules
 BLEAT	(v.) belar, blecar
@@ -1196,7 +1196,7 @@ BLIND	(a.) ciec. BLIND ALLEY: ciec-via, sac-strade. (n.) persiane, rul-cortine; 
 BLINK	(v.) palpebrar, oculettar. (n.) palpebrada; (naut.) blinc
 BLINKERS	para-ocul, garda-ocul
 BLISS	beatitá, delicie
-BLISTER	vesicul (-ari). (v.) tumer, tumescer. (v.) a. tumefar
+BLISTER	vesicul (-ari). (v.) tumer, tumescer. (v.a.) tumefar
 BLITHE	gay, alegri
 BLIZZARD	nive-storm, blizzard
 BLOATED	inflat, tumid
@@ -1246,7 +1246,7 @@ BOGEY	fantomache, cobold
 BOGGLE	hesitar, haver scrupules
 BOGIE	bogie
 BOGUS	fals, fictiv, pretextat
-BOIL	(n.) furuncul, tumore. (v.) bollir. (v.) a. bollientar, cocinar. TO BOIL OVER: sputar in (li) foy
+BOIL	(n.) furuncul, tumore. (v.) bollir. (v.a.) bollientar, cocinar. TO BOIL OVER: sputar in (li) foy
 BOILER	caldron, caldiere, bolliere
 BOISTEROUS	tumultuosi, vehement, impetuosi, rud
 BOLD	audaci, corageosi; temerari, insolent
@@ -1496,7 +1496,7 @@ BURGOMASTER	borgomastro
 BURIAL	sepultura, interration. BURIALGROUND: sepultoria
 BURLESQUE	(a.) burlesc. (n.) burlesca
 BURLY	robust, gross
-BURN	(v.) a. brular, incendiar; (intr.) arder, flagrar. combuster. (n.) (a wound) brulatura; (stream) riverette
+BURN	(v.a.) brular, incendiar; (intr.) arder, flagrar. combuster. (n.) (a wound) brulatura; (stream) riverette
 BURNING-GLASS	lupe
 BURNISH	brunir (-age, -itor, -ition), polir, far splender
 BURROW	tunnel de cunícul. (v.) excavar, fossar, tunnelar
@@ -2801,7 +2801,7 @@ CURE	cura(tion), terapie, remedie. (v.) sanar, remediar; insalar, preparar
 CURFEW	vésper-cloche
 CURIO	curiositá, raritá
 CURIOUS	curiosi, inquisitiv, strangi
-CURL	bucle; (of waves) crispada; (of smoke) serpenteada. (v.) a. friser, buclar
+CURL	bucle; (of waves) crispada; (of smoke) serpenteada. (v.a.) friser, buclar
 CURLEW	numenio
 CURLING-PAPER	papilotte
 CURMUDGEON	avaron, mesquino
@@ -2932,7 +2932,7 @@ DEBAR	excluDer, refusar
 DEBASE	degradar, depravar, humilar; (coinage) falsar
 DEBASED	viciosi, degradat, corupt(et)
 DEBATE	debatte (-ar, -abil)
-DEBAUCH	seducter, ruinar. (v.) a. debochar (-ard, -eríe), libertinar
+DEBAUCH	seducter, ruinar. (v.a.) debochar (-ard, -eríe), libertinar
 DEBENTURE	obligation, debit-atest
 DEBILITATE	debilisar (-ation)
 DEBIT	(comm.) debete (-ar)
@@ -3027,7 +3027,7 @@ DEIGN	dignar, condescender
 DEISM	de-isme (-ist)
 DEITY	Deo, deitá
 DEJECTED	depresset, descorageat, desanimat
-DELAY	(v.) a. retardar, procrastinar, demorar. (v.) (n.) tardar, hesitar. (n.) retarde, mora
+DELAY	(v.a.) retardar, procrastinar, demorar. (v.n.) tardar, hesitar. (n.) retarde, mora
 DELECTABLE	deliciosi, juitiv, delectabil
 DELEGATE	(v.) delegar (-ation. -ate), deputar
 DELETE	forstrecar, deleter (-ion)
@@ -3607,7 +3607,7 @@ DRILL	(v.) (per)forar, drillar; (mil.) dresser, exercir (-ida, -itie); (noun) ex
 DRINK	trincar (-age). TO DRINK TO: tostar
 DRIP	guttear
 DRIPPING	rost-grasse, grasse culinari
-DRIVE	(v.) a. conductor, far functionar, far avansar, far ear, propulser, promoer; (a horse) ducter; (a machine) mo(v)er, operar, vehicular, choferar; (compel) fortiar; (noun) promenada, excursion; (road) calech-via, allé
+DRIVE	(v.a.) conductor, far functionar, far avansar, far ear, propulser, promoer; (a horse) ducter; (a machine) mo(v)er, operar, vehicular, choferar; (compel) fortiar; (noun) promenada, excursion; (road) calech-via, allé
 DRIVEL	radotar, parlar ínepties; (slaver) bavar
 DRIVER	cochero, chofero, conductor
 DRIZZLE	pluviette (-ar, -ada)
@@ -4365,7 +4365,7 @@ FEDERAL	federal (-isme)
 FEDERATE	federar (-ation)
 FEE	honorarie, recompense
 FEEBLE	debil (-itá, -isar)
-FEED	(v.) a. nutrir, alimentar; (eat) manjar; (cattle) forragear. TO FEED ON: nutrir se per
+FEED	(v.a.) nutrir, alimentar; (eat) manjar; (cattle) forragear. TO FEED ON: nutrir se per
 FEEL	sentir; (by touch) palpar, tastar. HOW DO YOU FEEL?: qualmen vu standa?
 FEELER	(ent.) antenne. TO PUT OUT FEELERS: sondar
 FEELING	sente, sensation, emotion
@@ -4469,7 +4469,7 @@ FINESSE	finesse, astutie, subtilitá; (at cards) finte
 FINGER	fingre. (v.) palpar. FINGER PRINT: fingre-print
 FINGER-POST	pal indicatori, indicator de via
 FINICKING	tro precisi, afectat
-FINISH	(v.) a. finir, terminar; (of stuffs) apretar. (v.)(n.) cessar. (n.) fine
+FINISH	(v.a.) finir, terminar; (of stuffs) apretar. (v.n.) cessar. (n.) fine
 FINITE	finit, limitat
 FIORD	fiord
 FIR	abiete
@@ -5277,11 +5277,11 @@ GROUP	gruppe (-ar)
 GROUSE	(bird) tetrix. RUFFLED GROUSE: tetraon. (v.) plendir
 GROVE	boscage
 GROVEL	repter abjectmen avan alquí
-GROW	(v.)(n.) crescer, acrescer; augmentar se; (become) devenir; (grow up) adultijar. (v.)a. producter, cultivar
+GROW	(v.n.) crescer, acrescer; augmentar se; (become) devenir; (grow up) adultijar. (v.a.) producter, cultivar
 GROWL	(v.) grunir (-ida)
 GROWTH	crescentie; (bot.) crescement, crescon; progresse, production; excrescentie
 GRUB	1. (v.) fossar, cavar, scrapar. 2. (n.) larve; verme; (food) manjage
-GRUDGE	(v.) a. invidiar. (v.) (n.) ne voler, far alquó contra voluntá. (n.) rancore (-ar)
+GRUDGE	(v.a.) invidiar; (v.n.) ne voler, far alquó contra voluntá. (n.) rancore (-ar)
 GRUEL	gruel
 GRUESOME	horrid, horribil, macabri
 GRUFF	rauc, brusqui, abrupt, desafabil
@@ -5401,7 +5401,7 @@ HANDSHAKE	manu-pression
 HANDSOME	bell, jolli; generosi
 HANDWRITING	caligrafie, scritura, manu scrite
 HANDY	habil, déxteri: (at hand) che manu, proxim; (convenient) convenent
-HANG	(v.) a. apender, acrocar; (wallpaper) tapetar; (to be hanging) pender. TO HANG AROUND: flanar. TO HANG BACK: vacillar, retener se. TO HANG TOGETHER: coherer
+HANG	(v.a.) apender, acrocar; (wallpaper) tapetar; (to be hanging) pender. TO HANG AROUND: flanar. TO HANG BACK: vacillar, retener se. TO HANG TOGETHER: coherer
 HANGAR	hangare
 HANGER-ON	parasite
 HANGINGS	tapete, cortines
@@ -5781,7 +5781,7 @@ HURDLE	grate, agne-trellie
 HURL	jettar (violentmen) , lansar
 HURRAH	hurrá
 HURRICANE	uragane
-HURRY	(v.)(n.) hastar. (v.)a. accelerar. (n.) hasta, urgentie
+HURRY	(v.n.) hastar. (v.a.) accelerar. (n.) hasta, urgentie
 HURT	doler, dolorar; (damage) damagear, leDer; (feelings) ofender; (harm) nocer; (injure) vulnerar, injuriar
 HUSBAND	marito. (v.) economisar
 HUSBANDRY	agricultura, cultivation
@@ -7495,7 +7495,7 @@ MAWKISH	fad, ínsipid; nauseativ
 MAXILLARY	maxillari
 MAXIM	maxime; principie
 MAXIMUM	maximum. (a.) max, maxim
-MAY	(n.) (month) may; (hawthorn) may-flor, blancospine. (v.) (aux.) posser, esser líber, haver li jure; (possibly) fórsan (with verb). I MAY DO IT: yo fórsan va far to
+MAY	(n.) (month) may; (hawthorn) may-flor, blancospine. (v.aux.) posser, esser líber, haver li jure; (possibly) fórsan (with verb). I MAY DO IT: yo fórsan va far to
 MAYBUG	melodonte
 MAYONNAISE	mayonese
 MAYOR	borgomastro (-atu), podest
@@ -8472,7 +8472,7 @@ OTHER	altri. EACH OTHER: unaltru. THE OTHER DAY: recentmen, ante quelc dies
 OTHERWISE	altrimen
 OTTER	lutre
 OTTOMAN	divan, ottomane
-OUGHT	(v.)aux. veil dever; esser necessi, esser obligat
+OUGHT	(v.aux.) veil dever; esser necessi, esser obligat
 OUNCE	uncie
 OUR	nor, nostri
 OUST	expulser
@@ -9695,7 +9695,7 @@ PUBLISH	publicar, editer (-ion, -or, -oría)
 PUCE	purpur (-ie)
 PUCKER	(n.) frunse (-ar)
 PUDDING	púdding
-PUDDLE	flac. (v.)(iron) puddlar
+PUDDLE	flac. (v.) (iron) puddlar
 PUERILE	pueril (-itá), ihfantil
 PUERPERAL	parturitional
 PUFF	(of air) soffle, brise, puss: (powder puff) pudre-quast; (advert.) boniment. (v.) (breathe hard) anhelar; (overpraise) laudachar. TO PUFF ONESELF UP: pavonear, inorgolliar se. (a.) (pastry) foliat
@@ -12837,7 +12837,7 @@ UPWARDS	ad supra. UPWARDS OF: plu quam
 URBAN	citean, urban
 URBANE	polit, cortesi
 URCHIN	gamino, pueracho, garsonacho
-URGE	(v.) a. presser; (be urgent) urger (-ent, -entie). (n.) impulse
+URGE	(v.a.) presser; (be urgent) urger (-ent, -entie). (n.) impulse
 URINAL	urinuore, pissuore
 URINE	urine (-ari)
 URN	urne
