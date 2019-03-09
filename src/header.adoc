@@ -58,18 +58,20 @@ http://ie-munde.com[{http}ie-munde.com].
 Revision and {format} edition:: Marcos Cruz, 2019.  Available in
 http://ne.alinome.net[{http}ne.alinome.net] {in_other_formats}.
 
-Changes done in this edition::
-+
+Main changes in this edition::
+
 - All errors and typos found, including punctuation, layout and
   notation, have been fixed.
-- In order to facilitate the searching
-  some entries have been splitted, while others have been combined.
-  {headwords}
+- In order to facilitate the searching some entries have been
+  splitted, while others have been combined.  {headwords}
 - In order to make the contents more legible in any format, and more
   reusable, the tildes in the definitions have been replaced with the
   headwords.
-- The notation of all word types has been homogenized, e.g. "(n.)" for
-  noun, "(v.)" for verb, etc.
+- The notation and the punctuation have been homogenized.
+
+Some changes and improvements are unfinished yet. See the
+http://github.com/ne-alinome/english-interlingue-directory/blob/master/TO-DO.adoc[to-do
+list in the project repository] for details.
 
 Edition made only by libre programs:: 
 http://asciidoctor.org[Asciidoctor],
