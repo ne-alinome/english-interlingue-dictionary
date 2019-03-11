@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-09
+:revdate: 2019-03-10
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -62,3 +62,7 @@
   from SOUP, SOLOIST from SOLO, SOLDIERY from SOLDIER, HELPFULLESS
   from HELPFUL, HIMSELF from HIM...
 - Consult: Move headwords that contain spaces into other headwords.
+- Homogenize notations v.a./tr. and v.n./intr.
+- Separate all variants into independent headwords.
+- Fix: "punte" is mentioned in "SCORE", but not in "POINT".
+- Fix: "bock" -> "book".
