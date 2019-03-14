@@ -13,7 +13,7 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 201903091835
+// Last modified 20190313
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
@@ -70,7 +70,7 @@ Main changes in this edition::
 - The notation and the punctuation have been homogenized.
 
 Some changes and improvements are unfinished yet. See the
-http://github.com/ne-alinome/english-interlingue-directory/blob/master/TO-DO.adoc[to-do
+http://github.com/ne-alinome/english-interlingue-dictionary/blob/master/TO-DO.adoc[to-do
 list in the project repository] for details.
 
 Edition made only by libre programs:: 
