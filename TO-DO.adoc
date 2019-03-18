@@ -67,3 +67,5 @@
 - Fix: "punte" is mentioned in "SCORE", but not in "POINT".
 - Fix: "bock" -> "book".
 - "SUPER-" is missing.
+- "COHERENT" is missing, only "COHERE".
+- "ANYWAY" is missing.
