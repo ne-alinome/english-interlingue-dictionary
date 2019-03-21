@@ -10,6 +10,7 @@
 
 == Fixes and improvements
 
+- Separate also nouns "(n.)" and adjectives "(a.)".
 - Convert "...." (the last one in an actual dot) to "….".
 - Join phrasal verbs and their root headword.
 - Fix spacing of elipsis.
@@ -31,7 +32,6 @@
 
 == Doubts
 
-- Separate "POINTS" from "POINT" and all similar cases.
 - Confirm "apsorter".
 - Confirm entry "fro, to and". 
 - Confirm "BEATITUD beatitá. BEATITUDES: \~".
@@ -62,6 +62,8 @@
   from SOUP, SOLOIST from SOLO, SOLDIERY from SOLDIER, HELPFULLESS
   from HELPFUL, HIMSELF from HIM...
 - Consult: Move headwords that contain spaces into other headwords.
+- Confirm "-gambat".
+- BUTTEND, BUTT END.
 
 == Notes about the contents
 
