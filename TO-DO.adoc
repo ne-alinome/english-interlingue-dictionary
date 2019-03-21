@@ -21,17 +21,18 @@
 - Decide about notation "D" and "S", e.g. "leDer", "diagnoSe".
 - Homogenize the usage of commas and semicolons.
 - Fix "COME ON", which was at the end of "COME", without translation.
-- Homogenize notation "1.", "2." etc. in descriptions. Separate into
-  different entries.
 - Separate "LIMB membre; tranche; LIMB (astr.) limbe" and similar
   cases.
 - Add a list of abbreviations used in the dictionary.
 - Homogenize notations v.a./tr. and v.n./intr.
 - Separate all variants into independent headwords.
 - Fix: "punte" is mentioned in "SCORE", but not in "POINT".
+- Separate every "SELF-".
+- Homogenize notation of "adv." and "conj.".
 
 == Doubts
 
+- Separate "POINTS" from "POINT" and all similar cases.
 - Confirm "apsorter".
 - Confirm entry "fro, to and". 
 - Confirm "BEATITUD beatitá. BEATITUDES: \~".
