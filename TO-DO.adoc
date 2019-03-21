@@ -10,6 +10,7 @@
 
 == Fixes and improvements
 
+- Convert "...." (the last one in an actual dot) to "….".
 - Join phrasal verbs and their root headword.
 - Fix spacing of elipsis.
 - Fix: in "SELF", "SELFWILL" lacks translation.
@@ -28,7 +29,6 @@
 - Homogenize notations v.a./tr. and v.n./intr.
 - Separate all variants into independent headwords.
 - Fix: "punte" is mentioned in "SCORE", but not in "POINT".
-- Fix: "bock" -> "book".
 
 == Doubts
 
