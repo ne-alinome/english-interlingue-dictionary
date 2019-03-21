@@ -28,7 +28,6 @@
 - Separate all variants into independent headwords.
 - Fix: "punte" is mentioned in "SCORE", but not in "POINT".
 - Separate every "SELF-".
-- Notation: a./adj.
 
 == Doubts
 
