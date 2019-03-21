@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-10
+:revdate: 2019-03-21
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -8,64 +8,73 @@
 //
 // By Marcos Cruz (programandala.net)
 
-- Confirm "apsorter".
-- "automatic/men" is missing.
-- Move expression to their main word, e.g. "calculating machine" to
-  "machine".
-- Confirm entry "fro, to and". 
-- Confirm "BEATITUD beatitá. BEATITUDES: \~".
+== Fixes and improvements
+
 - Join phrasal verbs and their root headword.
 - Fix spacing of elipsis.
-- Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
-  consists of three parts: the duodenum, jejunum, and ileum.
-- Check: "different" is missing.
 - Fix: in "SELF", "SELFWILL" lacks translation.
 - Fix colon/semicolon after English uppercase expressions.
-- Confirma: comma before "etc".
-- Confirm certain compound headwors, e.g. "GOOD-FELLOWSHIP".
 - Convert headwords with asterisk.
 - Use always "v." etc to mark the word type. Now the notation is not
   regular.
+- Decide about notation "D" and "S", e.g. "leDer", "diagnoSe".
+- Homogenize the usage of commas and semicolons.
+- Fix "COME ON", which was at the end of "COME", without translation.
+- Homogenize notation "1.", "2." etc. in descriptions. Separate into
+  different entries.
+- Separate "LIMB membre; tranche; LIMB (astr.) limbe" and similar
+  cases.
+- Add a list of abbreviations used in the dictionary.
+- Homogenize notations v.a./tr. and v.n./intr.
+- Separate all variants into independent headwords.
+- Fix: "punte" is mentioned in "SCORE", but not in "POINT".
+- Fix: "bock" -> "book".
+
+== Doubts
+
+- Confirm "apsorter".
+- Confirm entry "fro, to and". 
+- Confirm "BEATITUD beatitá. BEATITUDES: \~".
+- Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
+  consists of three parts: the duodenum, jejunum, and ileum.
+- Confirm: comma before "etc".
+- Confirm certain compound headwors, e.g. "GOOD-FELLOWSHIP".
 - Confirm "PLATING, ARMOUR * curasse" is "PLATING or ARMOUR" ("ARMOUR"
   already has its own entry) or "ARMOUR PLATING".
 - Confirm  "TO GET OFF SCOT FREE: escapar sin vúlneres".
-- Decide about notation "D" and "S", e.g. "leDer", "diagnoSe".
-- Homogenize the usage of commas and semicolons.
 - Confirm and fix "blond(a)" -> "a. blond; n. blonda".
 - Consult "ebri, ebriat (in-ar)".
 - Consult "LOG bloc, trunc; (logbook) diarium; (naut.) logg (-lin)".
 - Consult "RIPP-RAPF canallia".
-- Fix "COME ON", which was at the end of "COME", without translation.
-- Complete "COUNT" with nouns: "total number counted" and "the act of
-  counting".
-- Homogenize notation "1.", "2." etc. in descriptions. Separate into
-  different entries.
 - Consult "BOARD ... (put up) albergar".
 - Consult: "TO TELL ON: haver su efecte". But "{To tell on}, to inform
   against. [Archaic & Colloq.] [1913 Webster]".
 - Consult "rococo/ó"
-- Complete "SAINT santo (-itá)".
 - Consult "CIRCUMAMBIENT".
 - Consult "LEGERDEMAIN jongleríe, escamotage. LEGERDEMAINLEGGED:
   -gambat"
-- Separate "LIMB membre; tranche; LIMB (astr.) limbe" and similar
-  cases.
 - Consult "HATCH OUT: covar, inventer; (in drawing) *sgraffir"
 - Consult about compound headwords like "WELL-BEING" and many others.
-- Add a list of abbreviations used in the dictionary.
-- Add "ADVISED".
 - Consult "ENTHUSIASM = entusiasme (-ar, -ast, -astic)".
-- "CLASSIC" is missing.
 - Confirm "UNLESS = si...ne"
 - Confirm and homogenize notations "(v.a)/(v.n)" and "(tr.)/(intr.)".
 - Consult: Make one-word expressions independent headwords: SOUPTERN
   from SOUP, SOLOIST from SOLO, SOLDIERY from SOLDIER, HELPFULLESS
   from HELPFUL, HIMSELF from HIM...
 - Consult: Move headwords that contain spaces into other headwords.
-- Homogenize notations v.a./tr. and v.n./intr.
-- Separate all variants into independent headwords.
-- Fix: "punte" is mentioned in "SCORE", but not in "POINT".
-- Fix: "bock" -> "book".
+
+== Notes about the contents
+
+- Check: "different" is missing.
+- Move expression to their main word, e.g. "calculating machine" to
+  "machine".
+- "automatic/men" is missing.
+- Complete "COUNT" with nouns: "total number counted" and "the act of
+  counting".
+- Add "ADVISED".
+- Complete "SAINT santo (-itá)".
+- "CLASSIC" is missing.
 - "SUPER-" is missing.
 - "COHERENT" is missing, only "COHERE".
 - "ANYWAY" is missing.
+- "gramofon" is missing, but "fonograf".
