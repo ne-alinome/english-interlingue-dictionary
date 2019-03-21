@@ -10,7 +10,6 @@
 
 == Fixes and improvements
 
-- Separate also nouns "(n.)" and adjectives "(a.)".
 - Convert "...." (the last one in an actual dot) to "….".
 - Join phrasal verbs and their root headword.
 - Fix spacing of elipsis.
@@ -29,6 +28,7 @@
 - Separate all variants into independent headwords.
 - Fix: "punte" is mentioned in "SCORE", but not in "POINT".
 - Separate every "SELF-".
+- Notation: a./adj.
 
 == Doubts
 
