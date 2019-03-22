@@ -11,11 +11,9 @@
 == Fixes and improvements
 
 - Convert "...." (the last one in an actual dot) to "….".
-- Join phrasal verbs and their root headword.
 - Fix spacing of elipsis.
 - Fix: in "SELF", "SELFWILL" lacks translation.
 - Fix colon/semicolon after English uppercase expressions.
-- Convert headwords with asterisk.
 - Use always "v." etc to mark the word type. Now the notation is not
   regular.
 - Decide about notation "D" and "S", e.g. "leDer", "diagnoSe".
@@ -27,7 +25,11 @@
 - Homogenize notations v.a./tr. and v.n./intr.
 - Separate all variants into independent headwords.
 - Fix: "punte" is mentioned in "SCORE", but not in "POINT".
-- Separate every "SELF-".
+- Fix "TO LOOK UP TO", which was at the end of "LOOK" without
+  translation.
+- Fix "prep." -> "(prep.)".
+- Remove asterisks.
+- Improve notation of "OFF"
 
 == Doubts
 
@@ -63,6 +65,13 @@
 - Consult: Move headwords that contain spaces into other headwords.
 - Confirm "-gambat".
 - BUTTEND, BUTT END.
+- Confirm "recoleer se"
+- Confirm whether "(take care) atenter" belongs to "WATCH" or to
+  "WATCH OVER".
+- Confirm "COCK A GUH (v.) tender li clave".
+- Confirm "TO FALL DUE (v.) (on exchange) scader", or maybe "(on
+  exchange)" was part of "FALL OUT".
+- Notation of verb "AS LEAF".
 
 == Notes about the contents
 
