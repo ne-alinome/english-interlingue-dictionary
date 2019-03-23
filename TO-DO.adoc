@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-21
+:revdate: 2019-03-23
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -30,6 +30,18 @@
 - Fix "prep." -> "(prep.)".
 - Remove asterisks.
 - Improve notation of "OFF"
+- Split "DRIFT" into verb and noun.
+- Duplicate example expressions as entries. The original does it, e.g.
+  "CHEST OF DRAWERS" is an entry, but also part of of "DRAWER". Also
+  "INLAID FLOOR".  Candidates: "WHITE OF EGG", "ERE LONG"... 
+- Fix "amíco/s", "amíca/s".
+- Fix "-eria" -> "-ería".
+- FIx "OFF (prep.) for. Also as prefix: forcurrer, forportar = to run,
+  carry off".
+- Fix: In the original transcription "FOOTSTOOL" was at the end of
+  "foot- (2)" without translation.
+- Fix : In the original transcription "BOOKMARK" was at the end of
+  "BOOK" without translation.
 
 == Doubts
 
@@ -72,6 +84,17 @@
 - Confirm "TO FALL DUE (v.) (on exchange) scader", or maybe "(on
   exchange)" was part of "FALL OUT".
 - Notation of verb "AS LEAF".
+- Separate "A CLOSE FIGHT"
+- Notation to separate terms with articles, e.g. "THE TEN
+  COMMANDMENTS".
+- Expressions "adjective+noun" are no converted to independent
+  entries, but sometimes they are not in entry "noun", but in entry
+  "adjective", e.g. "FAIRY TAIL".
+- "(THE) GENERAL PUBLIC".
+- "A MN OF LETTERS".
+- "LAMP SHADE covri lampe; (manes) manes" (was the end of "SHADE".
+- "THREE DAYS RUNNING tri dies successivmen". There was typo:
+  "successiv men".
 
 == Notes about the contents
 
@@ -88,3 +111,7 @@
 - "COHERENT" is missing, only "COHERE".
 - "ANYWAY" is missing.
 - "gramofon" is missing, but "fonograf".
+- Add "ABEYANCE".
+- Add "AKIMBO".
+- Move/copy "TAKE CARE: atention!, garda vos!" from "TAKE" to "TAKE
+  CARE".
