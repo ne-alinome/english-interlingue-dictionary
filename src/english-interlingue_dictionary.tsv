@@ -1,4 +1,3 @@
--SHAPED	-form
 A	un
 A BANK OVERGROWN WITH THYME	un banca u luxuria li tim
 A CLOSE FIGHT	un combatte long índecidet
@@ -54,7 +53,6 @@ ABOUND	(v.) abundar (-ant, -antie), pulular
 ABOUT	concernent, pri; (approx.) circa; (around) circum
 ABOVE	(adv.) supra, ad-supra; (more than) plu quam
 ABOVE	(prep.) súper
-ABOVE ALL	precipue
 ABOVE ALL	precipue, ante omnicos
 ABOVE-BOARD	franc, apert, sinceri
 ABRASION	abrasion
@@ -176,11 +174,11 @@ ADDICT ONESELF TO	(v.) habituar se a
 ADDLE	(v.) confuser, putrir
 ADDLEBRAINED	stult, stupid
 ADDRESS	(v.) (letters) directer, adressar; (a person) adparlar
-ADDRESS	adresse (-ate, -arium); (speech) discurse, parlation
+ADDRESS	(n.) adresse (-ate, -arium); (speech) discurse, parlation
 ADDRESSEE	destinatario
 ADDUCE	(v.) citar, alegar
 ADEPT	(n.) adepte
-ADEPT	adept, habil
+ADEPT	(adj.) adept, habil
 ADEQUATE	adequat, suficent
 ADHERE	(v.) adherer (-ente, -Sion, -Siv)
 ADHESIVE	adhesive, colle
@@ -212,7 +210,7 @@ ADORN	(v.) ornar (-ament), decorar
 ADROIT	habil, astut, capabil
 ADULATE	(v.) adular (-ation, -ator), flattar
 ADULT	(n.) adulte
-ADULT	adult, plen-crescet
+ADULT	(adj.) adult, plen-crescet
 ADULTERATE	(v.) falsar, corupter
 ADULTERY	adultérie
 ADUMBRATE	(v.) esquissar
@@ -276,7 +274,7 @@ AGAIN	denov
 AGAINST	contra; (towards) vers; (close to) apu
 AGATE	agate
 AGE	(v.) far old, devenir old
-AGE	etá; (period) era, epoca, témpor
+AGE	(n.) etá; (period) era, epoca, témpor
 AGENCY	agentie, agentura; (place) agentia
 AGENDA	labor-órdine, agende
 AGENT	agente, comissionario
@@ -293,7 +291,7 @@ AGILE	agil (-itá), alert
 AGITATE	(v.) agitar (-ation, -ator)
 AGLOW	ardent, fervent
 AGNOSTIC	(n.) agnostico
-AGNOSTIC	agnostic
+AGNOSTIC	(adj.) agnostic
 AGO	ante
 AGONIZE	(v.) tormentar, agonisar
 AGONY	torment(es), agonie
@@ -311,7 +309,7 @@ AIL	(v.) haver maladie, esser malad
 AIM	(n.) scope, intention
 AIM	(v.) visar; (gun) apuntar
 AIR	(v.) aerar, ventilar
-AIR	aere; (mus.) arie, melodie; (appearance) aspecte, aparentie; (manner) geste, maniere
+AIR	(n.) aere; (mus.) arie, melodie; (appearance) aspecte, aparentie; (manner) geste, maniere
 AIRTIGHT	hermetic, ínpenetrabil
 AIRY	bon ventilat; spaciosi
 AISLE	ale
@@ -426,7 +424,7 @@ AMBLE	(v.) amblar
 AMBROSIA	ambrosie (-al)
 AMBULANCE	ambulantie
 AMBUSH	(v.) inboscar
-AMBUSH	inboscada
+AMBUSH	(n.) inboscada
 AMELIORATE	(v.) ameliorar (-ation)
 AMEN	amen
 AMENABLE	ductibil, influentiabil, docil, complesent
@@ -461,7 +459,7 @@ ANACHRONISM	anacronisme
 ANAEMIA	anemie (-ic)
 ANAESTHESIA	anestesie
 ANAESTHETIC	(n.) anestetico
-ANAESTHETIC	anestetic (-a)
+ANAESTHETIC	(adj.) anestetic (-a)
 ANAGRAM	anagramma
 ANALOGY	analog (-ie)
 ANALYSE	(v.) analisar
@@ -487,15 +485,15 @@ ANEURISM	aneurisme
 ANEW	denov
 ANGEL	ángel (-ic)
 ANGER	(v.) colerar
-ANGER	colere (-osi)
+ANGER	(n.) colere (-osi)
 ANGLE	(v.) croc-piscar
-ANGLE	angul (-ari)
+ANGLE	(n.) angul (-ari)
 ANGRY	incolerat, coleric
 ANGUISH	anxietá, angustie, torment
 ANILINE	aniline
 ANIMADVERSION	blama, reproche, reprimande
 ANIMAL	(adj.) animalic
-ANIMAL	bestie, animale, brute
+ANIMAL	(n.) bestie, animale, brute
 ANIMALCULA	infusories
 ANIMATE	(v.) animar, inspirar
 ANIMOSITY	inamicitá, hostilitá
@@ -513,7 +511,7 @@ ANNOUNCE	(v.) anunciar, notificar, proclamar
 ANNOUNCEMENT	anuncie, proclamation
 ANNOY	(v.) vexar, molestar, trublar, genar
 ANNUAL	(n.) (book) annuarium; (plant) annuale
-ANNUAL	annual
+ANNUAL	(adj.) annual
 ANNUITY	annuitá
 ANNUL	(v.) anullar, abolir, abrogar
 ANNUNCIATION	Anunciation
@@ -526,7 +524,7 @@ ANONYMOUS	anonim (-itá)
 ANOTHER	altri, ancor un
 ANSERINE	gansin; stult
 ANSWER	(v.) responder
-ANSWER	replica, response
+ANSWER	(n.) replica, response
 ANSWER FOR	(v.) responsar
 ANT	formíca
 ANTAGONISM	antagonisme, oposition
@@ -573,7 +571,7 @@ APART FROM THAT	ultra to
 APATHETIC	apátic
 APATHY	apatíe
 APE	(v.) imitachar, simiar
-APE	simio
+APE	(n.) simio
 APERIENT	purgative, laxative
 APERTURE	apertura, intersticie
 APEX	punta, sómmite, culmine
@@ -632,10 +630,10 @@ APPRISE	(v.) avisar, informar, notificar
 APPROACH	(v.) aproximar se, avicinar se, ear al incontra de
 APPROBATION	aprobation
 APPROPRIATE	(v.) apropriar (-ation)
-APPROPRIATE	convenent, scope-conform, apt
+APPROPRIATE	(adj.) convenent, scope-conform, apt
 APPROVE	(v.) aprobar
 APPROXIMATE	(v.) aproximar (se)
-APPROXIMATE	aproximativ
+APPROXIMATE	(adj.) aproximativ
 APPROXIMATELY	circa
 APPURTENANCES	accessories, garnitura, requisites
 APRICOT	abricot
@@ -657,7 +655,7 @@ ARBORESCENT	arboratri
 ARBOUR	pérgola, laube
 ARC	arc (-ade, -ero)
 ARCH	(adj.) friponi. (prefix) archi-angel, -episcop, etc.
-ARCH	arc, ogive
+ARCH	(n.) arc, ogive
 ARCHAIC	arcaic
 ARCHAISM	arcaisme
 ARCHEOLOGIST	archeologo (-ie)
@@ -689,7 +687,7 @@ ARMCHAIR	fotel
 ARMFUL	brassade
 ARMISTICE	armisticie
 ARMOUR	(v.) blindar
-ARMOUR	curasse
+ARMOUR	(n.) curasse
 ARMOURY	arsenale; armería
 ARMPIT	axille
 ARMY	armé
@@ -883,7 +881,7 @@ AUGER	(per)forator
 AUGMENT	(v.) augmentar (-ation), supleer, suplementar
 AUGURY	augure
 AUGUST	(adj.) majestic
-AUGUST	august
+AUGUST	(n.) august
 AUNT	tanta
 AUREOLA	aureol
 AURICLE	orel(ette), auricul
@@ -953,7 +951,7 @@ BACCHANAL	debochant
 BACHELOR	celibo; (graduate) baccalaureo
 BACILLUS	bacille
 BACK	(v.) (a horse) retroducter; (intr.) retropassuar; (sails) baccar; (support) suportar, subtener
-BACK	dorse, parte posteriori
+BACK	(n.) dorse, parte posteriori
 BACKBITE	(v.) calumniar
 BACKBONE	spine dorsal
 BACKGAMMON	trictrac
@@ -974,7 +972,7 @@ BAD WEATHER	grisú
 BAD-TEMPERED	malhumorat
 BADGE	signe, marca; (of rank) insigne
 BADGER	(v.) molestar, tormentar
-BADGER	taxon
+BADGER	(n.) taxon
 BADINAGE	jocada, burleríe
 BAFFLE	(v.) confuser, impedir, frustrar
 BAFFLING	mocant, confusent
@@ -987,7 +985,7 @@ BAIL	garante
 BAILIFF	economo, intendante; sheriff
 BAIRN	infante, filie
 BAIT	(v.) lurar; (annoy) provocar
-BAIT	lure
+BAIT	(n.) lure
 BAIZE	bayette
 BAKE	(v.) cocinar, panificar; (harden) indurar
 BAKERY	panería
@@ -1018,10 +1016,10 @@ BAN	(v.) bannir, proscrir (-ition), interdieter (-ion)
 BANAL	banal (-itá)
 BANANA	banane
 BAND	(v.) atruppar se, junter se
-BAND	bande; (mus.) capelle, orchestre; (of soldiers etc.) truppe, bande, gruppe
+BAND	(n.) bande; (mus.) capelle, orchestre; (of soldiers etc.) truppe, bande, gruppe
 BAND-BOX	chapel-buxe
 BANDAGE	(v.) bandagear
-BANDAGE	bandage
+BANDAGE	(n.) bandage
 BANDIT	bandite, brigante
 BANDOLIER	bandoliere
 BANDY	(v.) jettar a ci e ta, exchangear
@@ -1053,7 +1051,7 @@ BARBER	barbero, rasator
 BARBICAN	garda-turre, watch-turre, barbacan
 BARD	bardo (-ic)
 BARE	(v.) nudar; decoltar
-BARE	nud, simplic; (empty) vacui; (mean) mesquin, miserabil
+BARE	(adj.) nud, simplic; (empty) vacui; (mean) mesquin, miserabil
 BAREFACED	ínpudent, audaci, arogant
 BAREFOOTED	nudipedi, nudipedat
 BAREHEADED	nudicapat
@@ -1085,7 +1083,7 @@ BARTER	(n.) troc (-ar); exchangear
 BAS-RELIEF	bass-relief
 BASALT	basalte
 BASE	(adj.) bass, vil, abject
-BASE	base, funde; (pedestal) socle
+BASE	(n.) base, funde; (pedestal) socle
 BASEMENT	etage subterran, cava
 BASH	(v.) batter
 BASHFUL	pudic, timid
@@ -1126,7 +1124,7 @@ BAWDY	lasciv
 BAWL	(v.) clamar, criachar, crialliar
 BAY	(adj.) rubi-brun, rubatri, bai
 BAY	(v.) aboyar, beyar
-BAY	bay, golfe; (tree) lauriero; (arch.) alcove
+BAY	(n.) bay, golfe; (tree) lauriero; (arch.) alcove
 BAYONET	bayonette
 BAZAAR	(v.) bazar
 BE	(v.) esser, exister; (of health) standar
@@ -1179,7 +1177,7 @@ BE LACKING	(v.) mancar
 BE LEFT OVER	(v.) restar
 BE MISTAKEN	(v.) errar
 BE OBLIGED	(v.) dever
-BE OFF FOOD	(v.) li apetite manca me.
+BE OFF FOOD	(v.) li apetite manca me
 BE OFF!	for!, via!
 BE ON DUTY	(v.) dejorar
 BE OUT OF	(v.) esser sin, mancar
@@ -1211,7 +1209,7 @@ BE WORTH	(v.) valer
 BE WORTHY OF	(v.) meriter (-osi, -ori)
 BE ZEALOUS	(v.) zelar (-ator, -ation)
 BEACH	(v.) strandar
-BEACH	plage, borde
+BEACH	(n.) plage, borde
 BEACON	fares turre lucent; (on a hill) fanale; (at sea) boye, signal-marca, mar-signe
 BEAD	perle, globette
 BEADLE	pedello; servitor de tribunale; (church) intendante
@@ -1219,7 +1217,7 @@ BEAGLE	chass-cane
 BEAK	bec
 BEAKER	cope; (goblet) calice, bocale
 BEAM	(v.) radiar
-BEAM	radie; (wood) trave; (of scales) brasse
+BEAM	(n.) radie; (wood) trave; (of scales) brasse
 BEAN	faseol; (broadbean) fabe
 BEAR	(n.) (animal) urso (-a)
 BEAR	(v.) (carry) portar; (give birth to) parturir, dar nascentie a; (endure) suffrer, tolerar, suportar; (fruit) portar
@@ -1228,17 +1226,17 @@ BEAR TO WINDWARD	(v.) luvear
 BEAR WITNESS	(v.) atestar
 BEARD	barbe
 BEARDED	barbat
-BEARING	statura, postura; (mech.) suporte
-BEARINGS	(Heraldry) insigne
+BEARING	(n.) statura, postura; (mech.) suporte
+BEARINGS	(n.) (heraldry) insigne
 BEAST	bestie, animale; (pejor.) brute
 BEAST OF PREY	bestie predatori
 BEAST OF PREY	bestie raptaci
 BEASTLY	bestial, repugnant, abominabil
 BEAT	(v.) batter, bastonar, frappar; (of pulse) pulsar; (surpass) superar; (conquer) victer; (eggs) quirlar; (heart) palpitar; (beat the air) frappar in vacuitá
 BEATEN TRACK	(n.) batte, grappa; (mus.) tacte
-BEATEN TRACK	trantran
+BEATEN TRACK	(n.) trantran
 BEATIFIC	beatific
-BEATITUDE	beatitá. (beatitudes) beatitude
+BEATITUDE	beatitá; (beatitudes) beatitude
 BEAU	dandy, eleganto, amanto; cortesan
 BEAUTIFUL	bell (-ar, -itá)
 BEAVER	castor; (helmet) visiere
@@ -1250,7 +1248,7 @@ BECOME	(v.) devenir; (beseem) decer, convener
 BECOME AWARE	(v.) percepter
 BECOME MOULDY	(v.) mofar se
 BED	(v.) plantar, inbedar
-BED	lette; (hort.) bed; (a layer) strate
+BED	(n.) lette; (hort.) bed; (a layer) strate
 BEDAUB	(v.) pictachar, sordidar
 BEDECK	(v.) ornar, decorar
 BEDIZEN	(v.) ornachar, pomponar se
@@ -1280,7 +1278,7 @@ BEFRIEND	(v.) protecter, patronisar
 BEG	(alms) mendicar; (request) petir, suplicar, implorar
 BEGET	(v.) geniter, procrear, generar
 BEGGAR	(v.) apovrar
-BEGGAR	mendico
+BEGGAR	(n.) mendico
 BEGGAR ALL DESCRIPTION	(v.) superar omni descrition
 BEGGARLY	miserabil
 BEGIN	(v.) comensar, iniciar
@@ -1347,7 +1345,7 @@ BENEFACTOR	benefator
 BENEFICENT	benificent (-ie), charitativ
 BENEFICIAL	util, salubri
 BENEFIT	(v.) avantagear
-BENEFIT	beneficie, avantage, profite
+BENEFIT	(n.) beneficie, avantage, profite
 BENEVOLENT	benvolent (-ie)
 BENIGN	benigni, clement, afabil
 BENIGNANT	benigni, clement, afabil
@@ -1392,11 +1390,11 @@ BETOKEN	(v.) signar, indicar; (mean) significar
 BETRAY	(v.) trahir; (show) monstrar, revelar; (seduce) seducter
 BETROTH	(v.) sponder
 BETTER	(v.) ameliorar
-BETTER	melior, plu bon; (health) plu san
+BETTER	(adj.) melior, plu bon; (health) plu san
 BETWEEN	ínter
 BETWEENDECKS	interponte
 BEVEL	(v.) biselar (-at)
-BEVEL	bisel, plan inclinat, borde obliqui
+BEVEL	(n.) bisel, plan inclinat, borde obliqui
 BEVERAGE	trincage
 BEVY	truppe, banda; turbe
 BEWAIL	(v.) deplorar, lamentar
@@ -1451,7 +1449,7 @@ BIRD OF PASSAGE	avie passatori
 BIRD OF PREY	avie predatori
 BIRD OF PREY	avie raptaci
 BIRDCAGE	aviere
-BIRDLIME	avie-colla. 
+BIRDLIME	avie-colla
 BIRTH	nascentie
 BIRTHDAY	anniversarie
 BISCUIT	biscuit
@@ -1493,7 +1491,7 @@ BLACKTHORN	prunelle (-iero)
 BLADDER	vessic; (skin) pustul
 BLADE	(bot.) folie; (knife) lame
 BLAME	(v.) blamar (-abil)
-BLAME	blama
+BLAME	(n.) blama
 BLAMELESS	ínreprochabil
 BLANCH	(v.) paller; (tr.) pallidar
 BLANCMANGE	lacte-gelé, blamange
@@ -1516,13 +1514,13 @@ BLAZER	flanell-jaque
 BLAZON	blason, emblema, insigne
 BLAZONRY	heraldica, arte de blason
 BLEACH	(v.a.) pallidar, ablancar
-BLEACH	(v.) devenir pallid
+BLEACH	(v.n.) devenir pallid
 BLEAK	desert, frigid; trist
 BLEAR-EYED	con nebulat ocules, con humid ocules
 BLEAT	(v.) belar, blecar
 BLEED	(v.) sanguar (-ation)
 BLEMISH	(v.) defigurar, macular
-BLEMISH	macul, defecte
+BLEMISH	(n.) macul, defecte
 BLEND	(v.) mixter (-ura)
 BLESS	(v.) benedir (-ition)
 BLESSED	beat, felici
@@ -1539,7 +1537,7 @@ BLINKERS	para-ocul, garda-ocul
 BLISS	beatitá, delicie
 BLISTER	(v.) tumer, tumescer
 BLISTER	(v.a.) tumefar
-BLISTER	vesicul (-ari)
+BLISTER	(n.) vesicul (-ari)
 BLITHE	gay, alegri
 BLIZZARD	nive-storm, blizzard
 BLOATED	inflat, tumid
@@ -1571,18 +1569,18 @@ BLOW OVER	(v.) passar, preterear
 BLOW PIPE	suffla-tube
 BLOW UP	(v.) exploder
 BLUBBER	(v.) plorachar
-BLUBBER	balen-grasse
+BLUBBER	(n.) balen-grasse
 BLUDGEON	(v.) bastonar
-BLUDGEON	clobbe
+BLUDGEON	(n.) clobbe
 BLUE	blu (-atri), azur
 BLUEBOTTLE	carne-mosca
 BLUFF	(adj.) grossieri, rud, franc; abrupt
 BLUFF	(n.) cliff; (bluffing) bluff
 BLUFF	(v.) decepter, dupar, bluffar
 BLUNDER	(v.) errar; ear inhabilmen; (stumble) mispassuar
-BLUNDER	erra, defecte, fals passu
+BLUNDER	(n.) erra, defecte, fals passu
 BLUNT	(v.) blasar
-BLUNT	obtusi, desacut; abrupt
+BLUNT	(adj.) obtusi, desacut; abrupt
 BLUR	(v.) nebular
 BLURT OUT	(v.) parlar íncautmen, revelar
 BLUSH	(v.) rubijar
@@ -1590,7 +1588,7 @@ BLUSTER	(v.) tumultuar, bruir; bru-parlar, fanfaronar
 BOA	boa
 BOAR	apro, svin savagi
 BOARD	(v.) (a ship) abordar; (put up) albergar
-BOARD	planca; (naut.) bord;(bookbinding) carton; (blackboard) tabul; (food) nutritura, pension; (governing body) direction, comité, comission
+BOARD	(n.) planca; (naut.) bord; (bookbinding) carton; (blackboard) tabul; (food) nutritura, pension; (governing body) direction, comité, comission
 BOARDER	pensionario
 BOARDING-HOUSE	pension
 BOAST	(v.) fanfaronar (-ada); glorificar
@@ -1617,9 +1615,9 @@ BOLD	audaci, corageosi; temerari, insolent
 BOLE	trunc
 BOLLARD	amarruore, bitt
 BOLSTER	(v.) stuffar; suportar
-BOLSTER	cussine, plum-matrasse
+BOLSTER	(n.) cussine, plum-matrasse
 BOLT	(v.) boltar, fixar per boltes; (abscond) currer for
-BOLT	bolt (of door) clud-bolt
+BOLT	(n.) bolt (of door) clud-bolt
 BOMB	bombe
 BOMBARD	(v.) bombardar (-ament)
 BOMBAST	bombast (-ic)
@@ -1630,7 +1628,7 @@ BOND	(tie) bande; (legal) contracte; (money) obligation
 BONDAGE	captivitá, sclaveríe, servitude
 BONDS	catenes
 BONE	(v.) desossar
-BONE	osse (-in, -osi, -ament, -age, -ificar)
+BONE	(n.) osse (-in, -osi, -ament, -age, -ificar)
 BONE OF CONTENTION	pom de discordie
 BONFIRE	foy, festa-foy
 BONNET	cofie
@@ -1647,7 +1645,7 @@ BOOKSELLER	librero
 BOOKSHOP	librería
 BOOKWORM	libreverme
 BOOM	(v.) resonar, tonnerar
-BOOM	tónnere, brue; (naut.) fuste, sprit; (comm.) altie
+BOOM	(n.) tónnere, brue; (naut.) fuste, sprit; (comm.) altie
 BOOMERANG	bumerang
 BOON	favore, bene, beneficie
 BOOR	ínculto, rurano, paisano
@@ -1676,7 +1674,7 @@ BOTH ... AND ...	é ... é ...
 BOTHER	(v.) vexar, íncomodar, trublar, tedar
 BOTHER ABOUT	(v.) suciar
 BOTTLE	(v.) inbotellar
-BOTTLE	botelle
+BOTTLE	(n.) botelle
 BOTTOM	funde, base; (ground) suol, grunde; (of depth) profundage; (chair etc.) sede
 BOTTOMRY	bodmeríe
 BOUDOIR	buduore
@@ -1728,15 +1726,15 @@ BRAGGART	fanfaron
 BRAID	pasment (-ar, -eríe); (on uniforms) galon
 BRAILS	(naut.) cordes, cargatores
 BRAIN	(v.) fracassar li cerebre a
-BRAIN	cerebre (-al)
+BRAIN	(n.) cerebre (-al)
 BRAINWAVE	inspiration, idé
 BRAKE	fren (-ar)
 BRAMBLE	brambere, rúbus (-iero)
 BRAN	bran
 BRANCH	(v.) ramificar se, bifurcar se
-BRANCH	branche, rame; (business) filiale, sucursale
+BRANCH	(n.) branche, rame; (business) filiale, sucursale
 BRAND	(v.) brul-marcar, inbrular
-BRAND	stigma (-tisar); (comm.) marca, signe; (kind) sorte, specie; (burning wood) brandon
+BRAND	(n.) stigma (-tisar); (comm.) marca, signe; (kind) sorte, specie; (burning wood) brandon
 BRAND NEW	blanc-nov
 BRANDISH	(v.) brandisser (-ement)
 BRANDY	brandie, aquavite
@@ -1744,7 +1742,7 @@ BRASS	latune
 BRAT	infantache
 BRAVADO	fanfaronada, defiation
 BRAVE	(v.) bravar
-BRAVE	corageosi, brav
+BRAVE	(adj.) corageosi, brav
 BRAWL	(v.) querellar vocosimen, rixar
 BRAWN	puré de carne, fortie musculari
 BRAY	(v.) criachar (quam ásino)
@@ -1754,7 +1752,7 @@ BREACH	breche, ruptura; (split) fende
 BREAD	pane (-ero, -iere)
 BREADTH	largore, amplore
 BREAK	(v.) rupter, fracter; (as day) aparir, comensar
-BREAK	ruptura; (gap) lacune, intersticie
+BREAK	(n.) ruptura; (gap) lacune, intersticie
 BREAK IN PIECES	(v.) fracassar, dispezzar
 BREAK OF DAY	aurora; (from work) pause
 BREAKDOWN	panne
@@ -1772,7 +1770,7 @@ BRED	educat
 BREECH	sede, cul
 BREECHES	culotte
 BREED	(v.) geniter, generar, reproducter se; (animals) elevar; (plants) cultivar
-BREED	rasse, cultura
+BREED	(n.) rasse, cultura
 BREEDER	cultor, elevero
 BREEDING	cultura, education
 BREEZE	brise
@@ -1787,7 +1785,7 @@ BRIDE	sponsa
 BRIDEGROOM	sponso
 BRIDES MAID	sponsaria
 BRIDGE	(v.) transportar
-BRIDGE	ponte; (of nose) dorse; (of violin) cavallette; (card game) bridge
+BRIDGE	(n.) ponte; (of nose) dorse; (of violin) cavallette; (card game) bridge
 BRIDLE	bride
 BRIEF	(adj.) curt, brevi, efemeri
 BRIEF	(n.) scrit comanda
@@ -1814,7 +1812,7 @@ BRING UP	(v.) educar
 BRINK	borde; (of river) rive
 BRISK	vivosi, vivaci, alegri, agil
 BRISTLE	(v.) herisser
-BRISTLE	setul, borste
+BRISTLE	(n.) setul, borste
 BRITTLE	fragil, fractíbil
 BROACH	(v.) (a cask) aperter; (a subject) ducter li conversation a, introducter
 BROAD	larg (-ore, a-ar)
@@ -1838,7 +1836,7 @@ BROOCH	broche
 BROOD	(n.) covatura, covallia
 BROOD	(v.) covar; meditar
 BROOK	(v.) tolerar
-BROOK	riverette
+BROOK	(n.) riverette
 BROOM	balaye; (bot.) genista
 BROTH	bullion; consommé
 BROTHEL	bordelle, lupanare
@@ -1863,7 +1861,7 @@ BRUSQUE	brusqui (-tá, -eríe)
 BRUSSELS SPROUT	caul de Bruxelles
 BRUTE	brute (-al -alitá, -alisar)
 BUBBLE	(v.) brodular (-ation)
-BUBBLE	bul; vessic; (comm.) fraude
+BUBBLE	(n.) bul; vessic; (comm.) fraude
 BUCCANEER	pirate, corsare, bucanero
 BUCK	buc; (male deer) cervo
 BUCK UP	(v.) prender corage
@@ -1878,7 +1876,7 @@ BUD	burgeon (-ar)
 BUDGE	(v.) moer
 BUDGET	budgete
 BUFF	(n.) buffle-cute
-BUFF	yelbatri
+BUFF	(adj.) yelbatri
 BUFFALO	buffle
 BUFFER	para-choc, buffre
 BUFFET	bufete; (blow) colpe
@@ -1941,7 +1939,7 @@ BURN	(v.a.) brular, incendiar; (intr.) arder, flagrar. combuster
 BURNING-GLASS	lupe
 BURNISH	(v.) brunir (-age, -itor, -ition), polir, far splender
 BURROW	(v.) excavar, fossar, tunnelar
-BURROW	tunnel de cunícul
+BURROW	(n.) tunnel de cunícul
 BURSAR	tresorero, cassero; (student) stipendiate
 BURST	(n.) ruptura, fensura
 BURST	(v.) fender (se), crevar, crepar, exploder
@@ -1964,7 +1962,7 @@ BUT	ma, except(et)
 BUTCHER	carnero, buchero
 BUTLER	chef servitor, cellarero
 BUTT	(v.) pussar per li cap
-BUTT	baril; (thrust) pussa
+BUTT	(n.) baril; (thrust) pussa
 BUTTEND	spess extremitá; cloppe; (object) scope
 BUTTER	buttre
 BUTTERCUP	ranuncul
@@ -2034,13 +2032,13 @@ CADMIUM	cadmium
 CAFE	restorería, cafeería, café
 CAFFEIN	cafeine
 CAGE	(v.) incagear
-CAGE	cage
+CAGE	(n.) cage
 CAGNATE	parent, afini
 CAIRN	cairn, tumul
 CAISSON	munition-vagone; casson
 CAJOLE	(v.) persuader, flattar, adular
 CAKE	(v.) incrustar se
-CAKE	torte
+CAKE	(n.) torte
 CALABASH	calabasse
 CALAMITY	calamitá, catastrofe
 CALCAREOUS	calcin, calcic, calciferi
@@ -2068,10 +2066,10 @@ CALLING	profession, mestiere, artise
 CALLIPERS	calibre-compasse
 CALLOSITY	calle
 CALLOUS	(n.) calle
-CALLOUS	ínsensibil, ínsusceptibil
+CALLOUS	(adj.) ínsensibil, ínsusceptibil
 CALLOW	ínmatur
 CALM	(v.) calmar, tranquilisar
-CALM	calm, tranquil, quiet
+CALM	(adj.) calm, tranquil, quiet
 CALOMEL	calomel
 CALORY	calorie (-ific)
 CALUMNY	calumnie (-ar, -osi)
@@ -2108,9 +2106,9 @@ CANDIDATE	candidate, aspirante
 CANDLE	candel (-iero, -iere)
 CANDOUR	candore, candidesse
 CANDY	(v.) candir
-CANDY	sucre candit
+CANDY	(n.) sucre candit
 CANE	(v.) bastonar
-CANE	canne
+CANE	(n.) canne
 CANEWORK	plectage
 CANINE	canin
 CANISTER	lad-buxe, canistre
@@ -2122,25 +2120,25 @@ CANOE	canó
 CANON	(a law) canon (-isar, -ic); (person) canonico
 CANOPY	baldachine; (shade) covritura
 CANT	(v.) dissimular, ficter
-CANT	dissimulation
+CANT	(n.) dissimulation
 CANTANKEROUS	iritabil, morosi
 CANTATA	cantata
 CANTEEN	cantine
 CANTER	(v.) galoppettar
-CANTER	curt galopp
+CANTER	(n.) curt galopp
 CANTICLE	cantico
 CANTON	canton (-ar, -ament)
 CANVAS	canevas, segle-drap
 CANVASS	(v.) solicitar (-ation)
 CAOUTCHOUC	cautchuc
 CAP	(v.) covrir; superar
-CAP	casquette, cappe
+CAP	(n.) casquette, cappe
 CAPABLE	capabil (-itá)
 CAPACIOUS	ampli, capaci, spaciosi
 CAPE	cap, promontorie; (garment) pelerine
 CAPEICE	capricie (-osi), marotte
 CAPER	(v.) voltiger
-CAPER	buffoneríe, capriol, voltige
+CAPER	(n.) buffoneríe, capriol, voltige
 CAPERCAILZIE	urogallo
 CAPERS	(bot.) cáppare
 CAPILLARY	capillari
@@ -2162,7 +2160,7 @@ CAPTIVATE	(v.) charmar, fascinar (-ant)
 CAPTIVE	(adj.) captet, captiv (-itá)
 CAPTIVE	(n.) prisonario
 CAPTURE	(v.) capter
-CAPTURE	caption; (prize) captura, prise
+CAPTURE	(n.) caption; (prize) captura, prise
 CAPUCHIN	capuce; (monk) capucino
 CAR	carre, coche, automobile; (of balloon) corbe, góndol
 CARAFE	caraffe
@@ -2234,7 +2232,7 @@ CASEMENT	ale de fenestre
 CASH	moné, pecunie
 CASH BOX	cassette
 CASHIER	(v.) demisser
-CASHIER	cassero
+CASHIER	(n.) cassero
 CASHMERE	(v.) cachemir
 CASING	invelopament, covritura; (window) revetament
 CASINO	casino
@@ -2246,7 +2244,7 @@ CASSOWARY	casoare
 CAST	(n.) (worm cast) tumul
 CAST	(v.) lansar, jettar; (metal) fonder; (in the eye) strabe
 CAST ASPERSIONS	(v.) defamar, descreditar
-CAST-IRON	ferre fondet.
+CAST-IRON	ferre fondet
 CASTE	caste
 CASTER	rulette
 CASTIGATE	(v.) castigar (-ation, -ator), punir
@@ -2291,7 +2289,7 @@ CAUSEWAY	chossé
 CAUSTIC	(adj.) caustic; satiric
 CAUTERIZE	(v.) cauterisar
 CAUTION	(v.) advertir (-iment)
-CAUTION	caution, prudentie; (warning
+CAUTION	(n.) caution, prudentie; (warning
 CAUTIOUS	caut, prudent, circumspect
 CAVALCADE	cavalcade
 CAVALIER	cavaliero, paladino
@@ -2328,7 +2326,7 @@ CENSOR	censor
 CENSURE	blama (-ar), censura (-ar), reprimande (-ar)
 CENT	centime
 CENTENARY	(n.) centenarie
-CENTENARY	centenari
+CENTENARY	(adj.) centenari
 CENTI	(prefix) (in comp.) centi-litre, -metre, -pede
 CENTRE	centre (-al, -ale, -alisar)
 CENTRE OF GRAVITY	centre de gravitation, bari centre
@@ -2351,7 +2349,7 @@ CHAFF	drachallia, pleve
 CHAFFINCH	pinson
 CHAGRIN	chagrine (-ar)
 CHAIK	(v.) cretar, crete-scrir
-CHAIK	crete
+CHAIK	(n.) crete
 CHAIN	(n.) caten (-ari); serie
 CHAIN	(v.) (in)catenar, ligar
 CHAIR	stul; (at a meeting) presidentie; (at a University) catedre; professoratu
@@ -2408,10 +2406,10 @@ CHARM	charme; magie, sorceríe
 CHARNEL-HOUSE	ossarium
 CHART	carte (geografic), map
 CHARTER	(v.) fretar
-CHARTER	contracte, document
+CHARTER	(n.) contracte, document
 CHARY	caut, desinclinat
 CHASE	(v.) (metals) graver, ciselar
-CHASE	chasse (-ar)
+CHASE	(n.) chasse (-ar)
 CHASM	abiss, ravine; fende
 CHASSIS	chassí
 CHASTE	chast (-itá), pudic, pur
@@ -2469,7 +2467,7 @@ CHICORY	cicoré
 CHIDE	(v.) reprochar
 CHIEF	(adj.) principal, cardinal
 CHIEF	(n.) chef
-CHIEFLY	precipue
+CHIEFLY	(adv.) precipue
 CHIEFTAIN	chef
 CHILBLAIN	gela-inflatura
 CHILD	infante, filie, bebé
@@ -2505,7 +2503,7 @@ CHLOROPHYLL	clorofill
 CHOCK	cuneo
 CHOCOLATE	chocolate
 CHOICE	(adj.) excellent, bonissim, exquisit
-CHOICE	selection, alternative
+CHOICE	(n.) selection, alternative
 CHOIR	cor (-al, -ale); (place) cora, corbancas
 CHOKE	(v.) sufocar; (by gas) asfixiar; strangular
 CHOLER	bilie, colere (-ic), indignation
@@ -2541,7 +2539,7 @@ CHUNK	bloc
 CHURCH	(adj.) eclesial
 CHURCH	(body) eclesie, congregation; (building) eclesia
 CHURCHWARDEN	presbitero, curator de eclesie
-CHURCHYARD	sepultoria, jardin del mortes.
+CHURCHYARD	sepultoria, jardin del mortes
 CHURL	moroson, rustico
 CHURN	(n.) buttre-baril, quirluore
 CHURN	(v.) buttrificar, far buttre
@@ -2561,7 +2559,7 @@ CINNAMON	cinamon
 CIOY	(v.) supersaturar, nausear
 CIPHER	ciffre; (nought) null
 CIRCLE	(v.) circular, circumdar, revoluer
-CIRCLE	circul, cicle
+CIRCLE	(n.) circul, cicle
 CIRCLET	circulette
 CIRCTULAR	(adj.) rond, circulari
 CIRCTULAR	(n.) circulare
@@ -2594,13 +2592,13 @@ CLAIRVOYANCE	(n.) clar-videntie
 CLAMBER	(v.) climbar, grimpar
 CLAMMY	sufocant, humid, viscosi
 CLAMOUR	(v.) clamar
-CLAMOUR	clamore, clamada, bruida
+CLAMOUR	(n.) clamore, clamada, bruida
 CLAMP	(v.) cramponar
-CLAMP	crampon, serrette, clamp
+CLAMP	(n.) crampon, serrette, clamp
 CLAN	tribe, gente, rasse
 CLANDESTINE	(adj.) secret, ocult
 CLANG	(v.) sonorar
-CLANG	son, ton
+CLANG	(n.) son, ton
 CLANK	(v.) raslar (-ada)
 CLAP	(hands) claccar, clappar, aplauder
 CLAP OF THUNDER	clapp de tónnere
@@ -2620,7 +2618,7 @@ CLAUSE	stipulation, condition; (gramm.) cláusul
 CLAW	griffe, ungul
 CLAY	argil (-iera, -osi)
 CLEAN	(v.) nettar, demuddar
-CLEAN	pur, nett, chast
+CLEAN	(adj.) pur, nett, chast
 CLEANSE	(v.) apurar, purificar, nettar
 CLEAR	(v.) (of guilt) exculpar; (to empty) vacuar; (to clear up) aclarar, explicar; (get rid of) desembarassar se de; (throat) tussettar
 CLEAR	(adj.) clar, evident, lucid, limpid; (clear of) líber de
@@ -2653,7 +2651,7 @@ CLINKER	scorle; clinc
 CLINKERBUILT	plancatura-clinc
 CLIQUE	clique
 CLOAK	(v.) celar
-CLOAK	mantó, mantel
+CLOAK	(n.) mantó, mantel
 CLOAKROOM	garda-roba; (rail) depositoria
 CLOCK	horloge (-ero, alarm-)
 CLOCKWORK	mecanisme
@@ -2679,7 +2677,7 @@ CLOVE	cariofil
 CLOVER	trifolie
 CLOWN	buffon, arlequin, clown; (boor) rustico, plumpon
 CLUB	(v.) clobbar
-CLUB	club; (cards) treff; (weapon) clobbe
+CLUB	(n.) club; (cards) treff; (weapon) clobbe
 CLUCK	(v.) glussar
 CLUE	fil, guide, clave, signe
 CLUMP	clump, gruppe
@@ -2694,12 +2692,12 @@ CO-ORDINATE	(v.) coordinar (-ation, -ator, -ates)
 COACH	coche (-ero), caleche, carosse; (rail.) vagon; (tutor) privat instructor
 COAGULATE	(v.) coagular (-ation)
 COAL	(v.) (a ship) cargar carbon, prender carbon
-COAL	carbon (-iere, -iera)
+COAL	(n.) carbon (-iere, -iera)
 COALESCE	(v.) fuser, fusionar
 COAMINGS	sill
 COARSE	rud, vnlgari, índelicat, gross, crud
 COAST	(v.) cabotar (-age, -ero)
-COAST	costa, marborde, líttore, rive
+COAST	(n.) costa, marborde, líttore, rive
 COAT	(jacket) jaque, veston; (dress coat) frac; (of animals) pelisse. (coat of arms) blason
 COAT OF ARMS	blason, emblema
 COAT-HANGER	veste-croc
@@ -2753,7 +2751,7 @@ COHFIGURATION	cohfiguration
 COHTEMPORARY	(noun) contemporane
 COIFFURE	cofie
 COIL	(v.) voluer, spular, invelopar
-COIL	spul, rul
+COIL	(n.) spul, rul
 COIN	monete (-ar, -ari)
 COINCIDE	(v.) coincider (-ent, -entie)
 COKE	cocs
@@ -2766,7 +2764,7 @@ COLLABORATE	(v.) colaborar (-ation, -ator)
 COLLAPSE	(v.) crular, cader in ruinas, coruir, discader
 COLLAPSIBLE BOAT	bote plicabil
 COLLAR	(v.) capter
-COLLAR	colare, coliere
+COLLAR	(n.) colare, coliere
 COLLAR-BONE	clavicul
 COLLATE	(v.) comparar
 COLLATERAL	collateral
@@ -2851,7 +2849,7 @@ COMMODIOUS	comod, spaciosi, vast, ampli
 COMMODITY	merce
 COMMODORE	comodore
 COMMON	(n.) comun pastura;
-COMMON	comun, ordinari, banal, trivial, vulgari, frequent
+COMMON	(adj.) comun, ordinari, banal, trivial, vulgari, frequent
 COMMONALTY	comunitá, populache
 COMMONER	cive
 COMMONPLACE	banal (-itá), ordinari
@@ -2934,7 +2932,7 @@ CONCERN	(n.) afere, interesse
 CONCERN	(v.) concerner (-ent)
 CONCERNING	(prep.) concernente, pri
 CONCERT	(v.) interconsentir
-CONCERT	concert; (agreement) acorde, consente
+CONCERT	(n.) concert; (agreement) acorde, consente
 CONCERTINA	concertina
 CONCESSION	concession (-ario)
 CONCHOLOGY	conchologie
@@ -2945,7 +2943,7 @@ CONCLUDE	(v.) concluDer (-sion, -siv), finir, terminar
 CONCOCT	(v.) fabricar, preparar, cocinar, excogitar, inventer
 CONCOMITANT	acompaniant, samtemporal, co-existent
 CONCORD	(v.) concordar
-CONCORD	concordie
+CONCORD	(n.) concordie
 CONCOURSE	assemblé; turbe
 CONCRETE	(adj.) concret (-isar)
 CONCRETE	(n.) beton
@@ -3040,7 +3038,7 @@ CONSIGN	(v.) consignar (-ator, -ation, -atario), expedir
 CONSIGNMENT	(comm.) merces consignat, consignament
 CONSIST	(v.) consister (-ent, -entie)
 CONSISTENT	(adj.) acordant, compatibil
-CONSISTENT	consequential, conform
+CONSISTENT	(adj.) consequential, conform
 CONSOLE	(n.) console
 CONSOLE	(v.) consolar (-ation, -ativ)
 CONSOLIDATE	(v.) consolidar (-ation)
@@ -3070,7 +3068,7 @@ CONSUMMATE	(adj.) habilissim
 CONSUMMATE	(v.) completar, perfecter
 CONSUMPTION	(med.) ftise (-ic); consumption
 CONTACT	(v.) comunicar con, contacter
-CONTACT	contacte
+CONTACT	(n.) contacte
 CONTAGION	contagie (-osi), infection
 CONTAIN	(v.) contener (-ete, -entie, -ida)
 CONTAMINATE	(v.) contaminar (-ation), polluer, infecter (-ion)
@@ -3087,7 +3085,7 @@ CONTENTIOUS	querellaci
 CONTENTS	contenete
 CONTERMINOUS	adjacent, contigui
 CONTEST	(v.) contestar (-ation. -abil), negar
-CONTEST	combatte, lucte, concurse, polemica
+CONTEST	(n.) combatte, lucte, concurse, polemica
 CONTEXT	contextu (-al)
 CONTIGUOUS	contigui (-tá)
 CONTINENT	(adj.) chast, abstenent
@@ -3155,7 +3153,7 @@ COO	(v.) rucular (-ada)
 COOK	(v.) cocinar (-ero, -era, -ería)
 COOKERY	cocine, arte culinari
 COOL	(v.) (re)frigidar
-COOL	frigid, frisc; (fig.) calm, índiferent, flegmatic, ínturbat
+COOL	(adj.) frigid, frisc; (fig.) calm, índiferent, flegmatic, ínturbat
 COOLIE	culi
 COOLING	(mech.) refrigidation
 COOLNESS	aplombe
@@ -3170,7 +3168,7 @@ COPPER WORKS	cuprería
 COPPICE	boscage
 COPULATE	(v.) copular (-ation, -ativ), coiter
 COPY	(v.) copiar, imitar
-COPY	copie (-ar, -ist), modelle, duplicate, specimen; (of a book) exemplare; (art) reproduction
+COPY	(n.) copie (-ar, -ist), modelle, duplicate, specimen; (of a book) exemplare; (art) reproduction
 COPY-BOOK	caderne
 COPYRIGHT	jure editorial
 COQUETTISH	coquet (-ar, -eríe)
@@ -3178,12 +3176,12 @@ CORAL	coralle (-in)
 CORAL ISLAND	atoll
 CORD	corde (-age)
 CORDIAL	(n.) cordiale
-CORDIAL	cordial (-itá)
+CORDIAL	(adj.) cordial (-itá)
 CORDITE	cordite
 CORDON	(mil.) cordon
 CORE	nucleo, cordie; quintessentie
 CORK	(v.) corcar
-CORK	corc; (bung) tapon
+CORK	(n.) corc; (bung) tapon
 CORK TREE	corciere
 CORKSCREW	tira-corc
 CORMORANT	cormoran
@@ -3191,7 +3189,7 @@ CORN	(on foot) calle; (grain) frument, cereales, mais, grane
 CORNCRAKE	crex
 CORNEA	cornea
 CORNER	(v.) (comm.) acaparar
-CORNER	angul
+CORNER	(n.) angul
 CORNER STONE	lápid angulari
 CORNET	cornette (-ist)
 CORNFLOWER	centaurea, cianette
@@ -3253,17 +3251,17 @@ COTTER-PIN	clavette, bolt fendet
 COTTON	coton (-age); (thread) fil
 COTTON-WOOL	vate
 COUCH	(v.) expresser
-COUCH	canapé, sofa, reposuore
+COUCH	(n.) canapé, sofa, reposuore
 COUGAR	(n.) cugar, puma
 COUGH	(n.) tusse (-ar, -ada)
 COULISSE	culisse
 COUNCIL	concil
 COUNSEL	(v.) consiliar (-ator), deliberar, conferer pri
-COUNSEL	consilie (-ero), avise; (barrister) avocate
+COUNSEL	(n.) consilie (-ero), avise; (barrister) avocate
 COUNT	(v.) numerar, contar, calcular
-COUNT	comto (-atu, -ia, -essa)
+COUNT	(n.) comto (-atu, -ia, -essa)
 COUNTENANCE	(v.) permisser, aprobar
-COUNTENANCE	facie, visage; aprobation
+COUNTENANCE	(n.) facie, visage; aprobation
 COUNTER	(noun) contore; (games) chip, jeton
 COUNTER	(prefix) (in comp.) contra-mesura, -demande, -póndere
 COUNTER	(v.) contra-acter
@@ -3277,14 +3275,14 @@ COUNTRY	land, país; (as distinct from town) rure, campania
 COUNTRYMAN	paisan, rurano
 COUNTY	comtia, provincia
 COUPLE	(v.) junter, ligar; (mech.) cuplar
-COUPLE	pare, cuple
+COUPLE	(n.) pare, cuple
 COUPON	cupon
 COURAGE	corage (-osi)
 COURIER	curriero
 COURSE	(lessons) cursu; (race) curse; (of water) fluida; (of life) carriera, serie
 COURSING	lepor-chassada, chass-currida
 COURT	(v.) cortesar; (disaster) invitar
-COURT	corte; (law) corte, tribunale
+COURT	(n.) corte; (law) corte, tribunale
 COURT USHER	bedello
 COURTEOUS	cortesi (-esie)
 COURTESAN	curtisana, hetera
@@ -3292,7 +3290,7 @@ COURTIER	cortesan
 COUSIN	cusino (-a)
 COVE	baya, golfette
 COVENANT	(v.) concordar
-COVENANT	contrate, pacte; (league) liga, fédere
+COVENANT	(n.) contrate, pacte; (league) liga, fédere
 COVER	(n.) covritura; (lid) covriment, covrette; (book) covriment
 COVER	(v.) covrir
 COVERLET	covri-lette
@@ -3302,7 +3300,7 @@ COVET	(v.) desirar, cupidar, esser avid pri
 COVETOUS	avid; (miserly) avari
 COVEY	coyatura, vola
 COW	(v.) intimidar, dominar
-COW	vacca
+COW	(n.) vacca
 COWARD	caudard, poltron (-eríe). timoron
 COWBOY	vaccero
 COWDUNG	flad
@@ -3316,7 +3314,7 @@ CRAB	(zool.) crabe
 CRAB-APPLE	pomastre
 CRABBED	morosi, acerb
 CRACK	(v.) fender, rupter; cracar
-CRACK	fende; (of whip) clacca; (of gun) detonation
+CRACK	(n.) fende; (of whip) clacca; (of gun) detonation
 CRACKER	craca-bonbon; (for nuts) nuce-cracator, craca-nuce
 CRACKLE	(v.) gnistar, crepitar
 CRADLE	lulluore
@@ -3343,7 +3341,7 @@ CRATER	erátere
 CRAVAT	cravatte
 CRAVE	(v.) implorar, suplicar; (crave for) avidar
 CRAVEN	(n.) poltron
-CRAVEN	caudari
+CRAVEN	(adj.) caudari
 CRAWFISH	crev
 CRAWL	(v.) repter
 CRAYON	pastelle
@@ -3383,7 +3381,7 @@ CREVASSE	fende, fissura
 CREVICE	fendette, fissura
 CREW	truppe, bande, equip; clicca
 CRIB	(v.) plagiar; restricter
-CRIB	crippe, manjuore, stall, infant-lette
+CRIB	(n.) crippe, manjuore, stall, infant-lette
 CRIBBLE	cribelle
 CRICK	crampe, spasma
 CRICKET	(game) cricket; (insect) grillie
@@ -3415,7 +3413,7 @@ CROOK	croc, croc-baston; (swindler) fraudero
 CROOKED	curvi, obliqui, desrect; perversi
 CROON	(v.) cantar pianmen
 CROP	(v.) tonder, abciser; (reap) falcear
-CROP	recolte; (bird's) cropp
+CROP	(n.) recolte; (bird's) cropp
 CROQUET	croquete
 CROSS	(adj.) travers, transversal; obliqui, diagonal; iritabil, morosi
 CROSS	(n.) cruce, crucifix; hibride
@@ -3436,10 +3434,10 @@ CROW	(v.) cantar quam un gállino, triumfar (súper)
 CROW'S NEST	mast-corb
 CROWBAR	levuore, ferrin fuste
 CROWD	(v.) presser, amassar, superplenar
-CROWD	hom-amasse, turbe
+CROWD	(n.) hom-amasse, turbe
 CROWD SAILS	(v.) presser segles, portar tro mult segles
 CROWN	(v.) coronar (-ation)
-CROWN	coron, diadem; (wreath) guirlande; (of head) vertice; (of anchor) cruce
+CROWN	(n.) coron, diadem; (wreath) guirlande; (of head) vertice; (of anchor) cruce
 CRUCIAL	critic, decisiv
 CRUCIBLE	fusuore, crusel
 CRUCIFIX	crucifix
@@ -3509,12 +3507,12 @@ CURB	(v.) bridar, frenar, moderar
 CURDLE	(v.) coagular
 CURDS	coagulat lacte, caseine
 CURE	(v.) sanar, remediar; insalar, preparar
-CURE	cura(tion), terapie, remedie
+CURE	(n.) cura(tion), terapie, remedie
 CURFEW	vésper-cloche
 CURIO	curiositá, raritá
 CURIOUS	curiosi, inquisitiv, strangi
 CURL	(v.a.) friser, buclar
-CURL	bucle; (of waves) crispada; (of smoke) serpenteada
+CURL	(n.) bucle; (of waves) crispada; (of smoke) serpenteada
 CURLEW	numenio
 CURLING-PAPER	papilotte
 CURMUDGEON	avaron, mesquino
@@ -3534,9 +3532,9 @@ CURT	brusqui, laconic, abrupt
 CURTAIL	(v.) acurtar, abreviar, restricter, limitar
 CURTAIN	cortine
 CURTSEY	(v.) far reverentie, cortesiar
-CURTSEY	reverentie, cortesie
+CURTSEY	(n.) reverentie, cortesie
 CURVE	(v.) curvar, flexer
-CURVE	curve, curvatura
+CURVE	(n.) curve, curvatura
 CURVED	curv(i)
 CUSHION	cussine (-ette)
 CUSTARD	crem ovin
@@ -3585,7 +3583,7 @@ DAHLIA	dalia
 DAILY	(adj.) dial, diari
 DAILY	(n.) diale
 DAINTY	(n.) gurmandage
-DAINTY	delicat (-esse), fin, pretti
+DAINTY	(adj.) delicat (-esse), fin, pretti
 DAIRY	lacteria
 DAIRY MAID	lactera
 DAIS	estrade, tribune
@@ -3594,7 +3592,7 @@ DALE	valléy(ette)
 DALLY	(v.) hesitar, perdir témpor; amorettar, flirtar
 DAM	diga; (of animals) matre
 DAMAGE	(v.) damagear, nocer
-DAMAGE	damage; (law) desdamageament, compensation
+DAMAGE	(n.) damage; (law) desdamageament, compensation
 DAMASK	damasco
 DAME	dama
 DAMN	(con)damnar (-ation, -abil), anatemar
@@ -3623,7 +3621,7 @@ DARLING	(adj.) car, amat
 DARLING	(n.) carissim (-o), favorita (-o)
 DARN	(v.) reparar, lappar
 DART	(v.) (a look) jettar regard sur
-DART	micri fleche, lansette, darde
+DART	(n.) micri fleche, lansette, darde
 DART AT	(v.) precipitar se a
 DASH	(hurl) lansar, jettar(se) ; (smash) fracassar; (one's hopes) forprender li esperantie; (dash against) chocar contra
 DASH	(n.) strec; (quantity) un poc; admixtura; (spirit) elan
@@ -3642,7 +3640,7 @@ DAUNT	(v.) intimidar, descoragear
 DAVIT	davit, bot-cran
 DAWDLE	(v.) lentear, dissipar, témpor
 DAWN	(v.) matinear, albijar
-DAWN	aurora, crepuscul; alba
+DAWN	(n.) aurora, crepuscul; alba
 DAY	die; (opposed to night) jorne
 DAYDREAM	reve
 DAYDREAM	reve (-ar)
@@ -3659,7 +3657,7 @@ DEADLY	mortal, fatal
 DEADLY NIGHTSHADE	belladonna
 DEAF	surd (-ar)
 DEAL	(v.) (cards) distribuer, dar; (trade) mercar, negociar; (trade with) comprar che; (a blow) far, inflicter; (deal with) liquidar, executer
-DEAL	parte, portion; (timber) planca
+DEAL	(n.) parte, portion; (timber) planca
 DEALER	comerciante, mercator, mercero, negociant
 DEALINGS	interrelationes, tráfic, negociationes
 DEAN	decan (-atu)
@@ -3727,7 +3725,7 @@ DECOROUS	decent, convenent
 DECORTICATE	(v.) decorticar
 DECORUM	decentie, bon manieres
 DECOY	(v.) atraer, lurar
-DECOY	lure
+DECOY	(n.) lure
 DECREASE	(di)minuer (-tion), decrescer (-entie)
 DECREE	decrete (-er), ordon (-ar)
 DECREPIT	decrepit, caduc
@@ -3794,7 +3792,7 @@ DELICACY	delicatesse; (a dainty) gurmandage
 DELICATE	delicat, fin, tendri
 DELICIOUS	deliciosi, ravissent; (of taste) saporosi
 DELIGHT	(v.) charmar, injoyar, pleser, delectar
-DELIGHT	delicie, plesura, joya
+DELIGHT	(n.) delicie, plesura, joya
 DELIGHT IN	(v.) juir
 DELIMIT	(v.) definir, delimitar
 DELINEATE	(v.) delinear; (sketch out) esquissar, dessinar
@@ -3845,7 +3843,7 @@ DENOUEMENT	developament, solution
 DENOUNCE	(v.) denunciar (-ation, -ator), acusar
 DENSE	densi (-tá, -ore, -allia); (fig.) stult, inept
 DENT	(v.) bosselar
-DENT	incisura, cavette
+DENT	(n.) incisura, cavette
 DENTAL	dental
 DENTATE	dentat
 DENTIFRICE	dentifricte
@@ -4014,7 +4012,7 @@ DIGIT	ciffre
 DIGITALIS	digitale
 DIGNIFIED	digni (-tá, -tosi, -tario)
 DIGRESS	(v.) digresser (-ion)
-DIKE	diga
+DIKE	(n.) diga
 DIKE	(v.) dinear
 DILAPIDATED	in ruines, caduc
 DILATE	(v.) dilatar, elargar
@@ -4027,7 +4025,7 @@ DILLY-DALLY	(v.) procrastinar
 DILUTE	(v.) diluer (-tion)
 DILUVIAL	diluvial
 DIM	(v.) obscurar
-DIM	obscur, ínclar, pallid, debil
+DIM	(adj.) obscur, ínclar, pallid, debil
 DIMENSION	dimension (-al), mesura
 DIMINISH	(di)minuer (-tion, -tiv), decrescer
 DIMPLE	cavette
@@ -4060,7 +4058,7 @@ DIRIGIBLE	ballon directibil
 DIRK	puniale
 DIRT	crasse, sordidallia, sordidage; (mud) fango, mudde
 DIRTY	(v.) incrassar
-DIRTY	sordid, ínpur
+DIRTY	(adj.) sordid, ínpur
 DISABLE	(v.) far íncapabil, debilisar, desvalidar; (cripple) mutilar
 DISABUSE	(v.) desilusionar
 DISADVANTAGE	desavantage, detriment, damage
@@ -4105,7 +4103,7 @@ DISCOUNT	(v.) discontar
 DISCOUNTENANCE	(v.) desaprobar, desfavorar
 DISCOURAGE	(v.) decoragear
 DISCOURSE	(v.) discurrer
-DISCOURSE	discurse, parlada
+DISCOURSE	(n.) discurse, parlada
 DISCOURTEOUS	descortesi, ínpolit
 DISCOVER	(v.) decovrir, revelar; (find) trovar
 DISCREDIT	(n.) descredite, honte, mal repu tation
@@ -4157,7 +4155,7 @@ DISINTERESTED	ínpartial, altruistic
 DISJOIN	(v.) dejunter, separar
 DISJOINTED	íncoherent
 DISLIKE	(v.) haver aversion contra, desamar
-DISLIKE	aversion
+DISLIKE	(n.) aversion
 DISLOCATE	(med.) luxar (-ation), desordinar
 DISLODGE	(v.) expulser, forchassar
 DISLOYAL	ínfidel, perfid
@@ -4197,10 +4195,10 @@ DISPOSSESS	(v.) deposseder, privar de, expulser
 DISPROPORTION	desproportion (-al)
 DISPROVE	(v.) refutar
 DISPUTE	(n.) contro verse, querelle
-DISPUTE	disput (-ar, -ant, -aci, -ation, -ator), debatter, polemisar
+DISPUTE	(n.) disput (-ar, -ant, -aci, -ation, -ator), debatter, polemisar
 DISQUALIFY	(v.) dequalificar (-ation)
 DISQUIET	(n.) perturbation, destranquilitá
-DISQUIET	ínquietar
+DISQUIET	(v.) ínquietar
 DISQUISITION	dissertation
 DISREGARD	(n.) índiferentie
 DISREGARD	(v.) ignorar
@@ -4236,7 +4234,7 @@ DISTANT	distant (-ie), lontan; (in manner) reservat
 DISTASTE	aversion, antipatíe
 DISTASTEFUL	desagreabil, antipatic
 DISTEMPER	(v.) badigeonar
-DISTEMPER	febre canin; (colouring) badigeon (-age, -ero)
+DISTEMPER	(n.) febre canin; (colouring) badigeon (-age, -ero)
 DISTEND	(v.) distenDer (-sion), dilatar, expanDer
 DISTICH	disticon
 DISTIL	(v.) distillar (-ería, -ation, -ator)
@@ -4248,7 +4246,7 @@ DISTRACT	(v.) trublar, distracter (-ion, -iv), confuser
 DISTRACTION	amusament; frenesie
 DISTRAIN	(v.) sequestrar, confiscar
 DISTRESS	(v.) trublar, tormentar
-DISTRESS	misere, afliction, suffrentie
+DISTRESS	(n.) misere, afliction, suffrentie
 DISTRIBUTE	(v.) distribuer (-tion, -tiv, -tor), disdar
 DISTRICT	districte, region
 DISTRUST	(v.) misfider (-entie)
@@ -4284,19 +4282,19 @@ DIZZINESS	vertígine (-osi)
 DO	(v.) far, acter, executer; (of health) standar
 DO PENANCE	(v.) peniter, far penitentie
 DO SOMEONE A SERVICE	(v.) compleser (-ntie)
-DO WITHOUT	(v.) carir, dispensar se de.
+DO WITHOUT	(v.) carir, dispensar se de
 DOCILE	docil (-itá), obedient
 DOCK	(bot.) oxale; (naut.) dock, bassine (-ero); (law) piazza por acusatos
 DOCK	(v.) acurtar li caude; (a ship) inbassinar
 DOCKET	etiquette, billet
 DOCTOR	(v.) medicar, curar
-DOCTOR	medico; (of law etc.) doctor (-atu)
+DOCTOR	(n.) medico; (of law etc.) doctor (-atu)
 DOCTRINE	doctrine (-al, -ari, -ario)
 DOCUMENT	document (-ari, -al)
 DODDER	(v.) chancelar
 DODDERING	caduc
 DODGE	(v.) evitar; saltar ad-látere
-DODGE	artificie, tric
+DODGE	(n.) artificie, tric
 DODO	dronte
 DOE	cerva, capreola
 DOFF	(v.) demetter
@@ -4332,7 +4330,7 @@ DON'T BUDGE!	stopp!
 DONATE	(v.) donar (-ation, -ator)
 DONKEY	ásino (-in)
 DOOM	(v.) condamnar
-DOOM	fate, destine, ruine, perition; (law) sententie
+DOOM	(n.) fate, destine, ruine, perition; (law) sententie
 DOOR	porta
 DOOR BELL	sonette
 DOORKEEPER	portero
@@ -4378,7 +4376,7 @@ DOWNRIGHT NONSENSE	nequo altri quam nonsense
 DOWNSTAIRS	in infra
 DOWNTRODDEN	aplastat, supresset
 DOWNWARD	(adj.) descendent
-DOWNWARD	ad-infra
+DOWNWARD	(adv.) ad-infra
 DOWRY	dot
 DOWSING	radiestesie, divination per verge
 DOXOLOGY	doxologie
@@ -4386,7 +4384,7 @@ DOZE	(noun) somniacie
 DOZE	(v.) dormiettar, somnoler
 DOZEN	dozene, deciduene
 DRAB	(n.) salopa
-DRAB	monoton, brun-grisi; ínatrativ
+DRAB	(adj.) monoton, brun-grisi; ínatrativ
 DRAFT	(money) tratte; (mil.) section; (lit.) esquisse, plan, concepte, cladde
 DRAFT	(v.) (draw up) redacter; (mil.) misser, selecter, expedir
 DRAG	(n.) dragg; impediment
@@ -4452,7 +4450,7 @@ DROMEDARY	dromedare
 DRONE	(bee) drone; (hum) murmurada, burdonament
 DROOP	(v.) pender, clinar se; (wither) marcir
 DROP	(v.) (let fall) lassar cader
-DROP	gutte; (fall) cade
+DROP	(n.) gutte; (fall) cade
 DROPSY	hidropsie
 DROSS	(metals) scorie, residues, scumallia; sinvalorage
 DROUGHT	siccore, ariditá, manca de pluvie
@@ -4463,7 +4461,7 @@ DRUB	(v.) batter, bastonar
 DRUDGE	quasi-sclave (-a), marmiton
 DRUDGERY	strapacie, penosi labore
 DRUG	(v.) narcot isar, intoxicar
-DRUG	drogue (-ist), medicament
+DRUG	(n.) drogue (-ist), medicament
 DRUID	druide (-ic)
 DRUM	tambur (-ar, -ero, -ist); cilindre; (of ear) timpane
 DRUNK	ebri, ebriat (in-ar)
@@ -4471,7 +4469,7 @@ DRUNKARD	trincard, trincon
 DRUNKEN	ebri, ebriat (in-ar)
 DRUNKENNESS	ebrietá, trinc-manie
 DRY	(v.) assiccar
-DRY	sicc, arid; (fig.) laconic, íninteressant, enoyant
+DRY	(adj.) sicc, arid; (fig.) laconic, íninteressant, enoyant
 DRY-ROT	planc-fungo
 DUAL	dual (-isme)
 DUB	(v.) nominar, titular
@@ -4504,7 +4502,7 @@ DUMP	(v.) (comm.) dumpar; jettar, deposir, bascular
 DUMPS	melanoolie, mal humor
 DUMPY	stumpi; curt e spess
 DUN	(v.) importunar; postular payament
-DUN	gris-brun
+DUN	(adj.) gris-brun
 DUNCE	stulton
 DUNE	dune
 DUNG	sterco (-ar), excrement
@@ -4520,7 +4518,7 @@ DURING	durante
 DUSK	crepuscul; (morning) aurora
 DUSKY	obscur, nigratri
 DUST	(v.) (remove dust) terger, essuyar, depolvar; (to powder) surpluverar
-DUST	polve (-osi)
+DUST	(n.) polve (-osi)
 DUSTER	tergette, polv-linage, essuyette
 DUSTPAN	cindriere
 DUTY	deve(ntie); (on goods) impost, tribute
@@ -4549,7 +4547,7 @@ EARL	comto (-atu)
 EARLY	tost, temporan
 EARN	(v.) ganiar; meriter
 EARNEST	(n.) garantie
-EARNEST	sinceri, fervid, zelosi
+EARNEST	(adj.) sinceri, fervid, zelosi
 EARNINGS	ganie
 EARTH	terre, suol; (the earth) terra (-an, -estri)
 EARTHENWARE	potteríe, fayance
@@ -4557,7 +4555,7 @@ EARTHQUAKE	sisme, terr-tremore
 EARTHTREMOR	sisme
 EARWIG	forficul
 EASE	(v.) facilisar, aleviar, mitigar
-EASE	comfort, repose, tranquilitá; facilitá
+EASE	(n.) comfort, repose, tranquilitá; facilitá
 EASEL	stative
 EAST	oriente, ost
 EASTER	pasca (-al)
@@ -4576,7 +4574,7 @@ EBB AND FLOW	flut e reflut
 EBONY	eben
 EBULLIENT	bolllent
 ECCENTRIC	(n.) originale, particulard
-ECCENTRIC	excentric (-itá)
+ECCENTRIC	(adj.) excentric (-itá)
 ECCLESIASTIC	eclesiastic (-o), eclesial
 ECHO	ecó (-ar), repercusser (se)
 ECLAT	eclate (-ant)
@@ -4590,7 +4588,7 @@ ECZEMA	eczema
 EDDY	virl (-ar)
 EDENTATE	edentat
 EDGE	(v.) orlar, bordurar; (put an edge on) acutar
-EDGE	bord, márgine; (of knife) tranchante
+EDGE	(n.) bord, márgine; (of knife) tranchante
 EDGING	(n.) bordura
 EDIBLE	manjabil
 EDICT	edicte
@@ -4644,7 +4642,7 @@ ELASTIC	(adj.) elastic (-itá)
 ELASTIC	(n.) gumme; elasticage
 ELATE	(v.) exaltar, far gay, far fieri
 ELBOW	(v.) pussar per li cude
-ELBOW	cude
+ELBOW	(n.) cude
 ELBOW REST	cuduore
 ELDER	(adj.) plu old
 ELDER	(bot.) sambuc
@@ -4748,7 +4746,7 @@ EMPORIUM	magasine, bazar
 EMPOWER	(v.) autorisar
 EMPRESS	imperatressa
 EMPTY	(v.) (e)vacuar
-EMPTY	vacui (-tá)
+EMPTY	(adj.) vacui (-tá)
 EMU	emu
 EMULATE	(v.) emular (-ation)
 EMULSION	emulsion
@@ -4776,7 +4774,7 @@ ENCRUST	(v.) incrustar
 ENCUMBER	(v.) genar, surchargear, impedir, incombrar
 ENCYCLOPEDIA	enciclopedie
 END	(v.) finir, terminar
-END	fine, extremitá; (aim) scope
+END	(n.) fine, extremitá; (aim) scope
 ENDANGER	(v.) indangerar
 ENDEAR	(v.) incarar, far car, far amat, popularisar
 ENDEAVOUR	(v.) penar, efortiar se
@@ -4801,7 +4799,7 @@ ENGAGING	(adj.) charmant, atrativ, suavi
 ENGENDER	(v.) generar, causar, producter
 ENGINE	machine, locomotive
 ENGINEER	(v.) elaborar, constructer, efectuar, causar
-ENGINEER	ingeniero, técnico
+ENGINEER	(n.) ingeniero, técnico
 ENGIRD	(v.) cinter, cernar
 ENGLISH	(adj.) anglesi (-o, -a)
 ENGRAVE	(v.) graver (-ero, -ura)
@@ -4909,7 +4907,7 @@ EQUATION	equation
 EQUATOR	equator (-al)
 EQUERRY	stall-mastro, oficero del reyal menage
 EQUESTRIAN	(adj.) cavalcatori
-EQUESTRIAN	cavalcator
+EQUESTRIAN	(n.) cavalcator
 EQUI	(prefix) as in English: equiangulari, -distant, -librie, -lateral, -noctie
 EQUIP	(v.) equipar, provider (per), munir
 EQUIPAGE	equipage, suita
@@ -5014,7 +5012,7 @@ EVICT	(v.) evicter (-ion), expulser
 EVIDENCE	testimonie, atestation, indicationes
 EVIDENT	evident
 EVIL	(n.) male, lu mal
-EVIL	mal, malevolent, maliciosi
+EVIL	(adj.) mal, malevolent, maliciosi
 EVINCE	(v.) indicar, manifestar, monstrar
 EVISCERATE	(v.) eviscerar
 EVOKE	(v.) evocar (-ation)
@@ -5025,7 +5023,7 @@ EWER	aquiere, aqua-cruche
 EX	(prefix) as in English: ex-oficero, -presidente
 EXACERBATE	(v.) exacerbar (-ation), agravar,
 EXACT	(v.) exiger, extorDer, postular
-EXACT	exact (-itá), precisi
+EXACT	(adj.) exact (-itá), precisi
 EXAGGERATE	(v.) exagerar (-ation)
 EXALT	(v.) exaltar (-ation), laudar
 EXALTED	eminent, altissim, exaltat
@@ -5045,7 +5043,7 @@ EXCHANGE	(n.) exchange; (building) burse
 EXCHANGE	(v.) exchangear
 EXCHEQUER	fisco, casse statal
 EXCISE	(v.) exciser (-ion)
-EXCISE	accise, impost
+EXCISE	(n.) accise, impost
 EXCITE	(v.) excitar (-abil, -ation, -ant)
 EXCLAIM	(v.) exclamar (-ation, -ativ, -atori)
 EXCLUDE	(v.) excluDer (-sion, -siv, -sivitá)
@@ -5153,7 +5151,7 @@ EXUBERANT	exuberant (-ie), superabundant
 EXUDE	(v.) exsudar
 EXULT	(v.) exultar, jubilar
 EYE	(v.) guatar, observar
-EYE	ocul
+EYE	(n.) ocul
 EYE-WITNESS	testimon oculari
 EYEBROW	brove
 EYELASH	cilie
@@ -5193,11 +5191,11 @@ FAINT	(adj.) debil, pallid
 FAINT	(v.) evanescer (-ement)
 FAINT-HEARTED	pusilanim, timid, decorageosi
 FAIR	(n.) ferie
-FAIR	bell, pretti; blond; honest, ínpartial, just, "fair"; seren
+FAIR	(adj.) bell, pretti; blond; honest, ínpartial, just, "fair"; seren
 FAIR-COPY	nettage
 FAIRLY	honestmen, justmen; (enough) sat, passabilmen, alquant
 FAIRY	(adj.) feeric
-FAIRY	fea, silf(a), elf
+FAIRY	(n.) fea, silf(a), elf
 FAIRY ART	feeríe
 FAIRY TALE	fiaba
 FAITH	fide, crede, confidentic; confession
@@ -5234,7 +5232,7 @@ FANATIC	fanatic (-o)
 FANATICISME	fanatisme
 FANCIFUL	fantastic, capriciosi, imaginari, marottic
 FANCY	(v.) imaginar, preferer, presentar se
-FANCY	fantasie, imagination, idé, notion, preferentie, gust
+FANCY	(n.) fantasie, imagination, idé, notion, preferentie, gust
 FANE	temple
 FANFARE	fanfare, tush
 FANG	griffe
@@ -5248,26 +5246,26 @@ FARCE	farse, buffa, comedie; (cul.) farce
 FARE	(n.) nutriment; passagero; precie
 FARE	(v.) standar
 FAREWELL	(adj.) demissional
-FAREWELL	adío, til revide!
+FAREWELL	(interj.) adío, til revide!
 FARINA	farine
 FARM	(v.) cultivar; (farm out) locar, forluar
-FARM	farme (-ero)
+FARM	(n.) farme (-ero)
 FARRAGO	mixtura, conglomerate
 FARRIER	huf-forjero; veterinario
 FARTHER	plu lontan
 FASCINATE	(v.) fascinar (-ation), charmar
 FASHION	(v.) fassonar
-FASHION	moda; maniere, custom; (cut of garment) fasson
+FASHION	(n.) moda; maniere, custom; (cut of garment) fasson
 FASHIONABLE	secun li moda
 FAST	(n.) carema (-ar), abstinentie
-FAST	rapid, veloci; fix, stabil, firm; (of clock) avansat, tro rapid
+FAST	(adj.) rapid, veloci; fix, stabil, firm; (of clock) avansat, tro rapid
 FASTEN	(v.) fixar, ligar, serrar; (a dress) agraffar
 FASTIDIOUS	desfacilmen satisfat
 FAT	(adj.) grassi, corpulent
 FAT	(n.) grasse
 FATE	fate (-al), destine
 FATHER	(v.) geniter; (father upon) atribuer a
-FATHER	patre
+FATHER	(n.) patre
 FATHER-IN-LAW	belpatre
 FATHERLESS	orfan, sin patre
 FATHOM	(naut.) brassade
@@ -5282,7 +5280,7 @@ FAUNA	fauna, animalité
 FAVOUR	favore (-ar, -abil)
 FAVOURITE	(adj.) favorit (-e, -isme), preferet
 FAWN	(adj.) cervin
-FAWN	cervello
+FAWN	(n.) cervello
 FAWN UPON	(v.) repter avan, flattachar
 FAWNING	servil, reptiv
 FAY	fea, nimfa
@@ -5291,7 +5289,7 @@ FEAR	(v.) timer (-ore, -orosi)
 FEARFUL	terribil; timid
 FEASIBLE	possibil, practicabil, efectuabil
 FEAST	(v.) festinar, regalar (se)
-FEAST	festine, banquette, regale
+FEAST	(n.) festine, banquette, regale
 FEAT	(of agility etc.) artificie, habilitá; heroic action
 FEATHER	plum
 FEATHER WEIGHT	(sport) plum-póndere
@@ -5324,7 +5322,7 @@ FEMALE	(n.) fémina (-in, -initá, -isme); female
 FEMUR	femur (-al)
 FEN	palude, morasse
 FENCE	(v.) palissar, inhagar; (sport) escrimar, parar
-FENCE	palissade
+FENCE	(n.) palissade
 FENCING	(sport) escrime (-ero)
 FEND FOR	(v.) provider por, cuidar
 FENDER	para-foy; (naut.) garda-látere
@@ -5388,7 +5386,7 @@ FIGHT	(n.) combatte
 FIGHT	(v.) combatter; (with sword) escrimar, gladiar; (with fist) boxar
 FIGMENT	fiction
 FIGURE	(v.) calcular
-FIGURE	figura (-ar, -ant), forme, statura; (number) ciffre
+FIGURE	(n.) figura (-ar, -ant), forme, statura; (number) ciffre
 FIGURE OF SPEECH	metáfor
 FIGURE OF SPEECH	trope
 FIGUREHEAD	antefigura; (person) comparse
@@ -5398,7 +5396,7 @@ FILE	(n.) (papers) file; classificator; (mil.) range; (tool) lime
 FILE	(v.) classificar; (mech.) limar
 FILIAL	filial
 FILIBUSTER	(v.) obstructer (-or)
-FILIBUSTER	corsaro
+FILIBUSTER	(n.) corsaro
 FILIGREE	filigran
 FILINGS	limallia
 FILL	(n.) plenitá, satie
@@ -5425,7 +5423,7 @@ FINE	(n.) punition pocuhiari, multa, amende
 FINERY	ornamentes
 FINESSE	finesse, astutie, subtilitá; (at cards) finte
 FINGER	(v.) palpar
-FINGER	fingre
+FINGER	(n.) fingre
 FINGER PRINT	fingre-print
 FINGER-POST	pal indicatori, indicator de via
 FINICKING	tro precisi, afectat
@@ -5436,7 +5434,7 @@ FINITE	finit, limitat
 FIORD	fiord
 FIR	abiete
 FIRE	(v.) incendiar, far foy; (a gun) tirar, dar foy; (heat) calentar
-FIRE	foy; incendie
+FIRE	(n.) foy; incendie
 FIRE ALARM	foy-alarmaparate
 FIRE BRAND	incendiard, impetuoso
 FIREBRIGADE	incendie-brigade
@@ -5466,7 +5464,7 @@ FIST	punie
 FISTULA	fistul
 FIT	(n.) humor, capricie; (med.) accesse, convulsion, paroxisme
 FIT	(v.) adaptar, ajustar, acomodar; (fit up, fit out) equipar, provider, installar, monter; (a suit) ad-mesurar
-FIT	apt, bon, util; decent; in bon statu; san
+FIT	(adj.) apt, bon, util; decent; in bon statu; san
 FITTER	montero
 FITTING	(adj.) convenent
 FITTINGS	accessories
@@ -5479,24 +5477,24 @@ FLABBERGAST	(v.) consternar, astonar
 FLABBY	moll, lax
 FLACCID	debil, marcid
 FLAG	(v.) debilijar, languir
-FLAG	flagga, standarte, baniere; (stone) strad-petre
+FLAG	(n.) flagga, standarte, baniere; (stone) strad-petre
 FLAGELLATE	(v.) flagellar (-ation)
 FLAGON	flacon
 FLAGRANT	flagrant, notori
 FLAIL	drachuore
 FLAKE	(v.) exfoliar
-FLAKE	flocc; (metal) lámine
+FLAKE	(n.) flocc; (metal) lámine
 FLAMBEAU	torche
 FLAMBOYANT	florid, flammeant
 FLAME	(v.) flammar
-FLAME	flamme; ardore
+FLAME	(n.) flamme; ardore
 FLAME THROWER	lansa-flamme
 FLAMINGO	flamingo
 FLANGE	flange
 FLANK	flanca (-ar), látere
 FLANNEL	flanelle
 FLAP	(v.) clappar; frappar, batter
-FLAP	clappe; (of wing) batte
+FLAP	(n.) clappe; (of wing) batte
 FLARE	(n.) torche
 FLARE	(v.) flammear, flagrar
 FLARE UP	(v.) (fig.) incolerar se
@@ -5514,7 +5512,7 @@ FLATTER	(v.) flattar (-osi, -ant)
 FLATULENCE	flatu (-ent, -entie, -osi), gas intestinal; fatuitá, vanitá
 FLAUNT	(v.) paradar, ostentar
 FLAVOUR	(v.) spicear
-FLAVOUR	sapore, gust, aroma
+FLAVOUR	(n.) sapore, gust, aroma
 FLAW	defecte; (crack) fensura
 FLAX	lin (-atri)
 FLAY	(v.) depellar, excoriar; torturar
@@ -5523,7 +5521,7 @@ FLEDGED	volativ, vola-capabil; plumat
 FLEDGELING	avielle
 FLEE	(v.) fugir (-itor, -ida), forcurrer
 FLEECE	(v.) tonder; (cheat) fraudar
-FLEECE	lane, lan-pelle
+FLEECE	(n.) lane, lan-pelle
 FLEET	(adj.) rapid, agil
 FLEET	(n.) flotte
 FLEETING	fugitiv, efemeri
@@ -5545,7 +5543,7 @@ FLOAT	(n.) flottuore; (angler's) flottette, svimmuore
 FLOAT	(v.) flottar; (hover) planear
 FLOCK	(v.) amassar se, gregar se
 FLOCK	(wool etc.) flocc
-FLOCK	greg, truppe, gruppe
+FLOCK	(n.) greg, truppe, gruppe
 FLOE	camp de glacie
 FLOG	(v.) flagellar (-ation), knutar, castigar
 FLOOD	(n.) torrent, flut, diluvie
@@ -5571,14 +5569,14 @@ FLOUT	(v.) mocar, derider
 FLOW	(n.) currente, flution
 FLOW	(v.) fluer
 FLOWER	(v.) florar, florescer
-FLOWER	flor
+FLOWER	(n.) flor
 FLOWER BED	flor-bed
 FLUCTUATE	(v.) fluctuar (-ation), variar
 FLUE	fum-tube
 FLUENT	fluent (-ie)
 FLUFF	lanuge, flocc
 FLUID	(n.) fluide, liquide
-FLUID	fluid, liquid (-itá)
+FLUID	(adj.) fluid, liquid (-itá)
 FLUKE	hasarde; (fish) pleuronecte
 FLUNKEY	lacayo, leccard, adulator; servitor in livré
 FLUORESCENT	fluorescent
@@ -5594,7 +5592,7 @@ FLUTTER	(v.) (birds) volettar; (of heart) palpitar; (flags) far flirtar
 FLUVIAL	fluvial
 FLUX	fluentie; (soldering) medie a suldar, suldage
 FLY	(n.) (insect) mosca
-FLY	(v.) volar; (in aeroplane) aviar; (fig.) hastar; (flag) far flirtar.
+FLY	(v.) volar; (in aeroplane) aviar; (fig.) hastar; (flag) far flirtar
 FLYING BUTTRESS	suporte arcat
 FOAL	cavallello
 FOAM	scum (-ar)
@@ -5610,7 +5608,7 @@ FOIL	(n.) florete, rapiere; (metal) folie
 FOIL	(v.) frustrar, vanificar
 FOIST UPON	(v.) obtruder
 FOLD	(v.) plicar; (hands) junter; (sheep) inhagar, incorralar
-FOLD	plica; (sheep) corrale, hagatura
+FOLD	(n.) plica; (sheep) corrale, hagatura
 FOLDING	plicabil
 FOLIAGE	foliage
 FOLIO	folio, págine
@@ -5629,7 +5627,7 @@ FOOL	(n.) folio, idiote, stulton
 FOOL	(v.) decepter, dupar
 FOOLHARDY	temerari
 FOOLISH	folli, stupid
-FOOT	(n.) pede; base.
+FOOT	(n.) pede; base
 FOOT	(v.) ear a pede, pedear, vader
 FOOTBALL	futballe
 FOOTMAN	lacayo
@@ -5638,7 +5636,7 @@ FOOTNOTE	ped-note
 FOOTPASSENGER	pedon, pedeator
 FOOTPATH	ped-via, viette, trottuore
 FOOTPRINT	ped-tracie, vestigie
-FOOTSTEP	passu.
+FOOTSTEP	passu
 FOP	dandy, fatuo
 FOPPISH	afectat, dandyatri
 FOR	(prep.) por; (because) pro que; (during) durante; (in exchange for) por, contra; (in spite of) malgre; (on account of) pro; (on behalf of) por; (towards) a
@@ -5651,14 +5649,14 @@ FOR THE MOST PART	in general, max sovente
 FOR THE PRESENT	ínterim
 FOR THE SAKE OF	pro, por, pro egarde a
 FORAGE	(v.) serchar forrage
-FORAGE	forrage
+FORAGE	(n.) forrage
 FORAY	razzia, raubatori excurse
 FORBEAR	(n.) (forebear) preavo
 FORBEAR	(v.) abstener se de
 FORBID	(v.) interdicter, prohibir
 FORBIDDING	repugnant, repulsiv
 FORCE	(v.) fortiar, violar; obligar; (to force upon) obtruder
-FORCE	fortie, vigore, violentie; (might) potentie
+FORCE	(n.) fortie, vigore, violentie; (might) potentie
 FORCEPS	forcepse
 FORCIBLE	fort, fortiosi, violent
 FORD	vada (-ar)
@@ -5709,11 +5707,11 @@ FORGET	(v.) obliviar (-aci)
 FORGET-ME-NOT	miosótis
 FORGIVE	(v.) pardonar, excusar
 FORK	(v.) bifurcar, fender se; ramificar
-FORK	furca (-at)
+FORK	(n.) furca (-at)
 FORKED LIGHTNING	zigzag de fulmine
 FORLORN	abandonat, sin auxilie, solitari
 FORM	(v.) formar (se)
-FORM	forme, figura; fasson; (bench) banca; classe; (schedule) formul
+FORM	(n.) forme, figura; fasson; (bench) banca; classe; (schedule) formul
 FORMAL	formal (-isme, -ist, -itá)
 FORMAT	formate
 FORMER	precedent, anteyan, passat
@@ -5791,11 +5789,11 @@ FRAUD	fraude, dupada, deception
 FRAUDULENT	fraudatori
 FRAUGHT WITH	chargeat per
 FRAY	(v.) fricter, forfricter
-FRAY	conflicte, combatte
+FRAY	(n.) conflicte, combatte
 FREAK	singularitá, monstruositá; (whim) marotte
 FRECKLE	lentige
 FREE	(v.) liberar
-FREE	líber; gratuit; franc
+FREE	(adj.) líber; gratuit; franc
 FREE FROM BIAS	ínpartial
 FREE OF TAX	exempt de tribute
 FREEBOOTER	marodero
@@ -5853,12 +5851,12 @@ FRONTISPIECE	titul-folie, titul-image, frontispicie
 FROST	gela, frigore; (hoar frost) gela crinosi, pruine
 FROSTBITE	gela-vúlnere
 FROTH	(v.) efervescer
-FROTH	scum
+FROTH	(n.) scum
 FROWN	(v.) rugar li fronte, sulcar li broves
 FRUCTIFY	(v.) fecundar, infructar (se), fructificar
 FRUGAL	frugal (-itá)
 FRUIT	(v.) dar fructe, fructificar
-FRUIT	fructe (-iferi, -osi, -iero, -venditor)
+FRUIT	(n.) fructe (-iferi, -osi, -iero, -venditor)
 FRUITION	maturitá, juida
 FRUITLESS	van, ínfertil
 FRUMP	oldmodic, feminach, oldmodona
@@ -5875,7 +5873,7 @@ FUGUE	fuga
 FULCRUM	pivot, punta de apoy
 FULFIL	(v.) far, plenar, compleer, realisar
 FULL	(v.) (cloth) fullar
-FULL	plen, complet, tot, integri; ampli; (of food) sat
+FULL	(adj.) plen, complet, tot, integri; ampli; (of food) sat
 FULL-FACED	guanciut
 FULL-GROWN	plen-crescet, adult
 FULL-LENGTH	prosternat
@@ -5890,7 +5888,7 @@ FUN	amusament, divertissement; comicalitá, jocada
 FUNCTION	function (-ar, -ario)
 FUND	provision, stock; cassa, capitale; abundantie
 FUNDAMENT	(adj.) funebri, funeral
-FUNDAMENT	fundament (-al, -alisme)
+FUNDAMENT	(n.) fundament (-al, -alisme)
 FUNERAL	interration, funerale
 FUNGUS	fungo (-osi)
 FUNICULAR	(adj.) de cable
@@ -5933,7 +5931,7 @@ GAFF	(naut.) gaffe
 GAG	(mouth) stuffa-bocca, garot
 GAGE	mesura; (security) hipoteca, garantie
 GAIN	(v.) (to reach) atinger
-GAIN	ganie (-ar), profite
+GAIN	(n.) ganie (-ar), profite
 GAIN THE UPPER HAND	(v.) ganiar li ascendentie
 GAINSAY	(v.) contradir, contestar
 GAIT	eada, maniere marchar, vadida
@@ -5942,7 +5940,7 @@ GALA	gala
 GALAXY	galaxe, via galactic
 GALE	storm
 GALL	(v.) iritar, molestar
-GALL	bilie; (fig.) amaritá; (bot.) gall
+GALL	(n.) bilie; (fig.) amaritá; (bot.) gall
 GALLANT	brav; galant, cavalieresc
 GALLEON	gallion
 GALLERY	galerie
@@ -6145,7 +6143,7 @@ GLAUCOUS	glauc
 GLAZE	(v.) (with glass) vitrar; (a surface) glaser, glasurar
 GLAZIER	vitrero, glasero
 GLEAM	(v.) brilliar, radiar
-GLEAM	radie, splendore
+GLEAM	(n.) radie, splendore
 GLEAN	(v.) colier; stopplar, posrecoltar
 GLEANER	stopplera
 GLEE	joya, gayitá; (mus.) harmonic cantada
@@ -6163,9 +6161,9 @@ GLOBULE	global (-ari)
 GLOOMY	morni, melancolic; obscur, tenebrosi, grisi
 GLORIOUS	gloriosi, bellissim
 GLORY	(v.) exultar
-GLORY	glorie (-ificar)
+GLORY	(n.) glorie (-ificar)
 GLOSS	(v.) (gloss over) palliar, mascar, eufemiar; (cloth.) catisser
-GLOSS	politura, lustre; (comment) glosse
+GLOSS	(n.) politura, lustre; (comment) glosse
 GLOSSARY	glossarium
 GLOVE	gante
 GLOW	(n.) (flame) brase
@@ -6260,7 +6258,7 @@ GOOSEBERRY	spincrusbere
 GORE	(n.) (blood) sangue
 GORE	(v.) corn-vulnerar, corn-picar
 GORGE	(v.) satiar se
-GORGE	ravine, defile, abisse; (anger) colere
+GORGE	(n.) ravine, defile, abisse; (anger) colere
 GORGEOUS	grandiosi, magnific
 GORILLA	gorille
 GORMANDIZE	(v.) devorar avidmen, manjar preter satie
@@ -6270,10 +6268,10 @@ GOSLING	gansello
 GOSPEL	evangelie (-ic)
 GOSSAMER	fin gaze; diafanage; rete de arané
 GOSSIP	(v.) babillar, linguachar
-GOSSIP	babillada, parlachada
+GOSSIP	(n.) babillada, parlachada
 GOTHIC	gotic; (style) ogival
 GOUGE	(v.) exciselar
-GOUGE	cav-cisel
+GOUGE	(n.) cav-cisel
 GOURD	cucurbite; (bottle) calabasse
 GOURMAND	gloton, gurmandon
 GOURMET	epicuréo, gastronom, gurmandon
@@ -6285,12 +6283,12 @@ GOVERNOR	guvernator; guvernero; (mech.) regulator
 GOWN	robe; (student's) talare
 GRAB	(v.) happar, capter
 GRACE	(v.) honorar, favorar
-GRACE	gracie (-osi), favore
+GRACE	(n.) gracie (-osi), favore
 GRACEFUL	gracil
 GRACIOUS	graciosi, afabil, benevolent, clement
 GRADATION	graduation; gradu; órdine
 GRADE	(v.) assortir
-GRADE	gradu (-ar), classe (-ificar)
+GRADE	(n.) gradu (-ar), classe (-ificar)
 GRADIENT	declive, rampe; (phys.) gradiente
 GRADUAL	gradual
 GRADUALLY	gradualmen, poc a poc
@@ -6298,7 +6296,7 @@ GRADUATE	(n.) diplomato, licentiate
 GRADUATE	(v.) graduar; (take degree) ganiar un gradu universitari
 GRAFT	(bot.) grefte (-ar)
 GRAIN	(v.) marmorar
-GRAIN	grane; (single grain) granul; (texture) textura, structura
+GRAIN	(n.) grane; (single grain) granul; (texture) textura, structura
 GRAM	gramm
 GRAMINIVOROUS	herbivori
 GRAMMAR	grammatica (-al, -ico)
@@ -6367,7 +6365,7 @@ GREATEST	max grand, optimal
 GREATLY	mult, fortmen
 GREEDY	avari (-tá). voraci; (eager) avid
 GREEN	(n.) herbiera, prate; (colour) lu verdi, verde
-GREEN	verdi (-atri; (unripe) ínmatur; ínexpert
+GREEN	(adj.) verdi (-atri; (unripe) ínmatur; ínexpert
 GREENFLY	afise
 GREENGAGE	verdi prun
 GREENGROCER	legumero, venditor de legumes
@@ -6406,9 +6404,9 @@ GROG	grog
 GROGGY	chancelant, ebrie
 GROIN	inguine (-al); (arch.) angul, creste
 GROOM	(v.) cuidar, nettar
-GROOM	stalle-servitor; sponso
+GROOM	(n.) stalle-servitor; sponso
 GROOVE	(v.) cannelurar
-GROOVE	canalette, sulca; (carp.) cannelura
+GROOVE	(n.) canalette, sulca; (carp.) cannelura
 GROPE	(v.) palpar, palpear, tastar
 GROPE ONE'S WAY	(v.) serchar tastante li via
 GROSS	(adj.) gross; índelicat, crud, grossieri
@@ -6468,7 +6466,7 @@ GUISE	aspecte, vestage, costume
 GUITAR	gitarre
 GULF	abisse, golfe
 GULL	(v.) dupar
-GULL	movette
+GULL	(n.) movette
 GULLET	gurgul, gúttur
 GULLIBLE	(facil) dupabil
 GULLY	ravine, cannel, canyonette
@@ -6488,7 +6486,7 @@ GUSH	(v.) (ex)fluer; (of speech) parlar sentimentalmen o exageratmen
 GUSHING	fervorosi, efusiv
 GUST	burasca, squall (-i, -osi)
 GUT	(v.) eviscerar
-GUT	intestine, intrallia
+GUT	(n.) intestine, intrallia
 GUTTAPERCHA	guttapercha
 GUTTER	canalette; (roof) guttiere
 GUTTURAL	guttural
@@ -6532,7 +6530,7 @@ HALCYON	calm, seren; (bird) alcion
 HALE	(adj.) frisc, san
 HALE	(v.) trenar
 HALF	(adv.) demímen
-HALF	demí
+HALF	(adj.) demí
 HALF BROTHER	mi-fratre
 HALL	hall, sala, salon
 HALL-MARK	stamps (sur juveles); marca de qualitá
@@ -6554,7 +6552,7 @@ HAMPER	(n.) pacca corbe
 HAMPER	(v.) impedir, retardar
 HAMSTER	hamstre
 HAND	(v.) manuar; passar, transdar
-HAND	manu; (of clock) indicator; (work man) ovrero, mann
+HAND	(n.) manu; (of clock) indicator; (work man) ovrero, mann
 HAND OVER	(v.) transdar
 HANDBAG	reticul
 HANDBARROW	pussa-carrette
@@ -6598,7 +6596,7 @@ HARBINGER	precursor
 HARBOUR	(n.) portu; (fig.) asil
 HARBOUR	(v.) (persons) albergar
 HARD	(adv.) fortmen
-HARD	dur, firm, desfacil, fort, penosi, solid; (unfeeling) ínsensibil
+HARD	(adj.) dur, firm, desfacil, fort, penosi, solid; (unfeeling) ínsensibil
 HARD A PORT	strett a babord
 HARD A STARBOARD	strett a stir bord
 HARD BY	proximissim
@@ -6637,7 +6635,7 @@ HARRY	(v.) spoliar, pilliar; tormentar, molestar
 HARSH	aspri, brusqui, severi; (voice) rauc (-itá)
 HART	cervo
 HARUM-SCARUM	(n.) garsonacho, bube
-HARUM-SCARUM	frivolosi, savagi
+HARUM-SCARUM	(adj.) frivolosi, savagi
 HARVEST	recolte (-ar, -ator)
 HARVESTER	recolte-machine
 HAS HE COME YET?	esque il ha ja venit?
@@ -6653,7 +6651,7 @@ HATCH OUT	(v.) covar, inventer; (in drawing) *sgraffir
 HATCHET	hacca, hachette
 HATCHWAY	luca
 HATE	(v.) odiar
-HATE	odie (-osi)
+HATE	(n.) odie (-osi)
 HAUGHTY	arogant, orgolliosi, tro fier, superb
 HAUL	(n.) captura
 HAUL	(v.) trenar, tirar; (naut.) holar, remor car
@@ -6673,7 +6671,7 @@ HAVOC	devastation
 HAW	bere de blancospine
 HAWFINCH	cocotrauste
 HAWK	(v.) colportar (-ero)
-HAWK	astor
+HAWK	(n.) astor
 HAWSER	cable, amarre
 HAWTHORN	blancospine
 HAY	fen (-ero, -ation)
@@ -6697,7 +6695,7 @@ HE MUST GO	il deve ear
 HE WAS EDUCATED FOR THE BAR	il ha studiat (li) jure
 HEAD	(adj.) chef-, principal
 HEAD	(v.) (lead) ducter, comandar; (a ball) cap-pussar
-HEAD	cap; chef, mastro, principale, director; (source) fonte; (on beer) scum
+HEAD	(n.) cap; chef, mastro, principale, director; (source) fonte; (on beer) scum
 HEAD LAMP	projector
 HEAD OF HAIR	capillatura
 HEAD-FIRST	cap-ad-avan
@@ -6717,7 +6715,7 @@ HEALTH GIVING	sanativ
 HEALTH RESORT	loc sanatori
 HEALTHY	san; salubri
 HEAP	(v.) amassar, acumular
-HEAP	amasse, cumul, quantité
+HEAP	(n.) amasse, cumul, quantité
 HEAR	(v.) audir
 HEARING	(n.) audie
 HEARKEN	(v.) escutar, atenter
@@ -6730,7 +6728,7 @@ HEARTH	camine, foyiere
 HEARTLESS	ínhuman, ínsensibil, dur
 HEARTY	cordial; (meal) ampli
 HEAT	(v.) calentar (-ation)
-HEAT	calore; ardore, passion
+HEAT	(n.) calore; ardore, passion
 HEATH	erica-prates, paise erical
 HEATHEN	(adj.) pagan (-o, -isme)
 HEATHER	erica
@@ -6741,15 +6739,15 @@ HEAVENLY	cielal, cielari, celest
 HEAVY	pesant, ponderosi
 HEBDOMADAL	semanal
 HEBREW	(n.) hebréo
-HEBREW	a hebreic
+HEBREW	(adj.) hebreic
 HECKLE	(v.) interpellar (-ator, -ard)
 HECTIC	excitant; (med.) hectic
 HEDGE	(v.) (in)hagar; (betting) pariar bilateralmen, contra-pariar; (speech) vacillar, pariar evasivmen
-HEDGE	haga
+HEDGE	(n.) haga
 HEDGEHOG	erinacio, herisson
 HEED	(v.) atenter (-ion, -iv)
 HEEL	(v.) talonar
-HEEL	calcan; (of boot, shoe) talon
+HEEL	(n.) calcan; (of boot, shoe) talon
 HEEL OVER	(v.) inclinar se
 HEGEMONY	hegemonie
 HEIFER	vaccella
@@ -6789,10 +6787,10 @@ HEPATIC	hepatic
 HEPTAGON	heptagon (-al)
 HER	(poss. adj.) su; (obj. case) la; (following a prep.) ella
 HERALD	(v.) anunciar
-HERALD	heralde (-ic, -ica)
+HERALD	(n.) heralde (-ic, -ica)
 HERB	(grass) herbe (-osi, -ari, -age, -al, -arisar, -arium, -iera, -ivori); plante
 HERD	(v.) gardar; amassar se
-HERD	greg; (swarin) turbe
+HERD	(n.) greg; (swarin) turbe
 HERE	ci
 HERE ARE	vi
 HERE BELOW	ci bass
@@ -6832,7 +6830,7 @@ HIERARCH	hierarch (-ie)
 HIEROGLYPH	hieroglif (-ic)
 HIGGLEDY-PIGGLEDY	confuset, pelmel
 HIGH	(prep.) apu
-HIGH	alt; (meat) desfrisc, infectet; (sea) apert
+HIGH	(adj.) alt; (meat) desfrisc, infectet; (sea) apert
 HIGH WATER	alt marea
 HIGH-CLASS	de alt classe
 HIGH-HANDED	arbitrari, despotic
@@ -6856,9 +6854,9 @@ HINDER	(adj.) posteriori
 HINDER	(v.) impedir, obstructer
 HINDMOST	ultim
 HINGE	(v.) (hinge on) depender de
-HINGE	pivot, charnire, gonde
+HINGE	(n.) pivot, charnire, gonde
 HINT	(v.) indicar, dar signe, aluder, suggester
-HINT	signe, alusion
+HINT	(n.) signe, alusion
 HINTERLAND	hinterland, interiore del pais
 HIP	hanche, coxe; (bot.) ros-bere, rosi-fructe
 HIPPODROME	hipodrom
@@ -6915,7 +6913,7 @@ HOLE	fore, apertura; (in ground) cava, antre, fosse
 HOLIDAY	vacanties; (public) die festal
 HOLLOW	(n.) cavitá, incavatura
 HOLLOW	(v.) (ex)cavar
-HOLLOW	cavi (-tá); (vain) van, vacui; (of sound) obtusi, cavernal
+HOLLOW	(adj.) cavi (-tá); (vain) van, vacui; (of sound) obtusi, cavernal
 HOLLY	ilex
 HOLLYHOCK	malva-rose
 HOLOCAUST	holocaust
@@ -7043,7 +7041,7 @@ HUMID	humid (-itá)
 HUMILIATE	(v.) humiliar (-ation)
 HUMMING-BIRD	colibrí
 HUMOUR	(v.) compleser, indulger
-HUMOUR	humor (-ist, -istic), esprite
+HUMOUR	(n.) humor (-ist, -istic), esprite
 HUMP	bossé
 HUMP-BACKED	bossut
 HUMPY	bossosi
@@ -7051,12 +7049,12 @@ HUMUS	humo
 HUNCH	(v.) bossar, curvar
 HUNCHBACK	bosson, bossato
 HUNDRED	(n.) centene
-HUNDRED	cent
+HUNDRED	(adj.) cent
 HUNDREDFOLD	centiplic
 HUNDREDTH	centesim
 HUNDREDWEIGHT	quintale
 HUNGER	(v.) suffrer fame
-HUNGER	fame
+HUNGER	(n.) fame
 HUNGRY	afamat
 HUNK	gross pezze
 HUNT	(v.) chassar
@@ -7071,7 +7069,7 @@ HURRY	(v.a.) accelerar
 HURRY	(v.n.) hastar
 HURT	(v.) doler, dolorar; (damage) damagear, leDer; (feelings) ofender; (harm) nocer; (injure) vulnerar, injuriar
 HUSBAND	(v.) economisar
-HUSBAND	marito
+HUSBAND	(n.) marito
 HUSBANDRY	agricultura, cultivation
 HUSH	(n.) calmesse, silentie
 HUSH	(v.) far tacer, quietar
@@ -7124,7 +7122,7 @@ IAMBIC	(adj.) iambic
 IAMBIC	(n.) iamb
 IBIS	ibis
 ICE	(v.) (cool) afrigidar; (cover with sugar) sucrar
-ICE	glacie (-al); (sweetmeat) gelate
+ICE	(n.) glacie (-al); (sweetmeat) gelate
 ICE-CREAM	gelate
 ICEBERG	iceberg, glacie-monte
 ICEBREAKER	rupte-glacie
@@ -7184,7 +7182,7 @@ IMAGE	image; icone, statue; figura, portrete
 IMAGERY	images (retoric)
 IMAGINE	(v.) imaginar (-ari, -ation), suposir
 IMBECILE	(n.) imbecile
-IMBECILE	imbecil (-itá)
+IMBECILE	(adj.) imbecil (-itá)
 IMBIBE	(v.) trincar, insucar; (knowledge) absorpter
 IMBROGLIO	inbrolliada
 IMBUE	(v.) impregnar, plenar
@@ -7254,7 +7252,7 @@ IMPISH	maliciosi, coboldatri
 IMPLACCABLE	ínconciliabil, ínflexibil
 IMPLANT	(v.) inplantar
 IMPLEMENT	(v.) executer
-IMPLEMENT	implement, uteiisile, aparate, instru ment
+IMPLEMENT	(n.) implement, utensile, aparate, instrument
 IMPLICATE	(v.) implicar (-ation), comprometter
 IMPLICIT	implicit; (absolute) absolut, ínlimitat
 IMPLORE	(v.) implorar, suplicar
@@ -7697,7 +7695,7 @@ INSTABILITY	ínstabilitá, labilitá
 INSTALL	(v.) installar (-ation)
 INSTALMENT	rata
 INSTANCE	(v.) citar quam exemple
-INSTANCE	example; ocasion; instigation; (legal) instantie
+INSTANCE	(n.) example; ocasion; instigation; (legal) instantie
 INSTANT	(adj.) ínmediat; (present month) current
 INSTANT	(n.) moment, instante
 INSTANTANEOUS	subit, instantan
@@ -7871,7 +7869,7 @@ IRIDESCENT	irisant (-ie)
 IRIS	iris; (bot.) iride
 IRKSOME	penosi, fatigant, tedant
 IRON	(v.) (ferro-)glattar
-IRON	ferre (-in)
+IRON	(n.) ferre (-in)
 IRONCLAD	(n.) curassiero; nave curassat, monitor
 IRONICAL	ironic
 IRONMONGER	ferragero, quincalliero
@@ -7950,7 +7948,7 @@ JAGUAR	(n.) jaguar
 JAIL	cárcere, prison (ario)
 JAILER	cárcer-mastro
 JAM	(v.) serrar, presser
-JAM	jam, confitura; embarasse
+JAM	(n.) jam, confitura; embarasse
 JAMB	pal, pilare
 JANGLE	(v.) querellar, desacordar; (noise) raslar
 JANITOR	portario
@@ -8000,14 +7998,14 @@ JILT	(v.) exsponder se
 JINGLE	(far) tintinar
 JINGLE	(n.) tintinada
 JOB	(v.) (Stock Exchange) agiotar
-JOB	tache, afere; oficie, posto, ocupation, mestiere
+JOB	(n.) tache, afere; oficie, posto, ocupation, mestiere
 JOBBER	agiotero, curtagero
 JOCKEY	jokey
 JOCOSE	jocosi, amusant
 JOCULAR	jocaci (-tá)
 JOCUND	gay, joyosi
 JOG	(v.) (the memory) amemorar; (trot) trottar lentmen
-JOG	levi pussa, micri choc
+JOG	(n.) levi pussa, micri choc
 JOIN	(v.) junter, unir (se), unionar, combinar; (a society) adherer
 JOINER	fin-carpentero
 JOINT	(adj.) comun; junt(et)
@@ -8021,10 +8019,10 @@ JOLLY	gay (-itá)
 JOLT	(v.) sucusser, chocar
 JOSTLE	(v.) cud-pussar, turbar
 JOT	(v.) (jot down) notar
-JOT	iota, minucie
+JOT	(n.) iota, minucie
 JOURNAL	jurnale (-ist, -istic), gazette; (daybook) diarium, contolibre
 JOURNEY	(v.) viagear
-JOURNEY	viage
+JOURNEY	(n.) viage
 JOUST	torney (-ar)
 JOVIAL	jovial (-itá)
 JOY	joya (-osi), gaudie
@@ -8059,7 +8057,7 @@ JUROR	jurato, membre del jurie
 JURY	jurie
 JURY-MAST	fala mast
 JUST	(adv.) precismen
-JUST	just, honest, equi; (barely) apen
+JUST	(adj.) just, honest, equi; (barely) apen
 JUST ABOUT TO	sur li punctu de
 JUST AS	sammen quam
 JUSTICE	justicie, -equita
@@ -8068,7 +8066,7 @@ JUSTNESS	justesse
 JUT OUT	(v.) prominer, projecter
 JUTE	jute
 JUVENILE	(n.) yuno, júven (-a, -o)
-JUVENILE	juvenil, yunatri
+JUVENILE	(adj.) juvenil, yunatri
 JUXTAPOSITION	juxtaposition
 KALE	caul crispat
 KALEIDOSCOPE	caleidoscop (-ic)
@@ -8203,7 +8201,7 @@ LACEHOLE	oculette
 LACERATE	(v.) lacerar, mutilar
 LACHRYMAL	lachrymal lacrimal
 LACK	(v.) mancar, indiger
-LACK	manca, beson, índigentie
+LACK	(n.) manca, beson, índigentie
 LACKADAISICAL	índiferent; negligent
 LACKEY	lacayo
 LACONIC	laconic
@@ -8240,11 +8238,11 @@ LAMP SHADE	covri lampe; (manes) manes
 LAMPBLACK	fulígine de lamp
 LAMPGLASS	lamp-cilindre
 LAMPOON	(v.) satirisar
-LAMPOON	pasquin (-ar, -ada)
+LAMPOON	(n.) pasquin (-ar, -ada)
 LAMPREY	lamprede
 LAMPSHADE	para-luce
 LANCE	(v.) lansettar, inciser
-LANCE	lanse; (med.) lansette
+LANCE	(n.) lanse; (med.) lansette
 LANCET	lansette
 LAND	(ground) terre, suol; (country) land, pais
 LAND	(v.) debarcar, aterrar, abordar; (unload) decargar
@@ -8267,7 +8265,7 @@ LANK	magri; (of hair) íncrispat
 LANTERN	lanterne
 LANYARD	talrep
 LAP	(v.) (drink) trincar; (plash) clapotar
-LAP	gremie; (in a race) ronde
+LAP	(n.) gremie; (in a race) ronde
 LAPEL	lapel
 LAPIDARY	(n.) lapidero, lapidario
 LAPSE	(n.) errore; (of time) eflution, preterition, curse
@@ -8277,7 +8275,7 @@ LARBOARD	bacbord
 LARCENY	furte
 LARCH	larice
 LARD	(v.) lardar
-LARD	grasse porcin
+LARD	(n.) grasse porcin
 LARDER	cámera de provisiones, gardamanjage
 LARGE	grand
 LARGELY	max sovente, precipue
@@ -8310,7 +8308,7 @@ LATEST	novissim
 LATH	latte
 LATHE	tornuore
 LATHER	(v.) insaponar
-LATHER	scum (-ear)
+LATHER	(n.) scum (-ear)
 LATHWORK	lattage
 LATITUDE	latitúdine; (freedom) libertá
 LATRINE	latrine
@@ -8370,7 +8368,7 @@ LEAF	folie (-at, -age, -ette, -osi); (of table etc.) clappe
 LEAGUE	(n.) liga, fédere; (distance) tri milies
 LEAGUE	(v.) oonfederar, alliar, ligar
 LEAK	(v.) (to leak out) divulgar se
-LEAK	licc (-ar)
+LEAK	(n.) licc (-ar)
 LEAL	loyal, fidel
 LEAN	(adj.) magri
 LEAN	(n.) carne sin grasse
@@ -8397,12 +8395,12 @@ LEAVE BEHIND	(v.) poslassar, lassar detra
 LEAVE IN THE LURCH	(v.) abandonar, monstrar se ínfidibil
 LEAVE OFF	(v.) cessar
 LEAVEN	(v.) fermentar, levenar
-LEAVEN	leven
+LEAVEN	(n.) leven
 LEAVINGS	rest(age)
 LECHER	libertino (-isme), lascivon
 LECTERN	pupitre
 LECTURE	(v.) far un discurse
-LECTURE	discurse, lection; reprimande
+LECTURE	(n.) discurse, lection; reprimande
 LEDGE	corniche
 LEDGER	chef-libre, contolibre
 LEE	sub li vent
@@ -8477,7 +8475,7 @@ LEVEL	(n.) nivelle, egalitá; (instr.) nivellette
 LEVEL	(v.) aplatar, egalisar, nivellar; (a gun) apuntar, visar; (a blow) lansar
 LEVEL-CROSSING	nivell-passage
 LEVER	(v.) leverar
-LEVER	levere, levette
+LEVER	(n.) levere, levette
 LEVERET	leporello
 LEVITATION	levation
 LEVITY	levitá, frivolitá
@@ -8584,7 +8582,7 @@ LINE	(v.) (garments) foderar; (line up) alinear (se)
 LINEAGE	genealogie
 LINEAMENT	trate, lineament
 LINEN	(adj.) linin
-LINEN	toale; (clothes) linage
+LINEN	(n.) toale; (clothes) linage
 LINEN WAREHOUSE	linageria
 LINER	nave de linea, transoceanico
 LING	(fish) molve; (bot.) erica
@@ -8612,7 +8610,7 @@ LIQUOR	liquore, alcohol
 LIQUORICE	glicirize, liquorice
 LISSOM	flexibil, gracil
 LIST	(v.) (in)listar, registrar; inclinar se
-LIST	liste, tabelle, catalog; inclination
+LIST	(n.) liste, tabelle, catalog; inclination
 LISTEN	(v.) escutar
 LISTLESS	inert, languid
 LITANY	litaníe
@@ -8722,9 +8720,9 @@ LOOK-OUT TOWER	belvedere
 LOOK-OUT TOWER	belvidere
 LOOKING-GLASS	spegul
 LOOM	(v.) aparir lentmen in lontanie
-LOOM	textuore
+LOOM	(n.) textuore
 LOOP	(v.) lacear
-LOOP	lace, node current
+LOOP	(n.) lace, node current
 LOOP THE LOOP	(v.) culbutar
 LOOPHOLE	apertura; (way out) via escapatori
 LOOSE	(adj.) lax, deligat, infirm, labil; ínprecis; debochant
@@ -8737,7 +8735,7 @@ LOPPINGS	ramallia
 LOPSIDED	ínsimetric
 LOQUACIOUS	parlaci, babillaci, loquaci
 LORD	(v.) (to lord it) tirannisar
-LORD	dómino; nobilo; Senior; mastro; (Title) Lord
+LORD	(n.) dómino; nobilo; Senior; mastro; (Title) Lord
 LORDLY	nobil, magnanim
 LORDSHIP	(your lordship) vor Seniorie, vor Excellentie
 LORE	instruction, scientie
@@ -8800,13 +8798,13 @@ LUMBER	antiquallia, carpentallia, ligne
 LUMINARY	astre
 LUMINOUS	luminosi (-tá), lucent
 LUMP	(v.) amassar
-LUMP	bul, masse, pezze; (of earth) glebe; (protuberance) bosse
+LUMP	(n.) bul, masse, pezze; (of earth) glebe; (protuberance) bosse
 LUMPISH	ponderosi, pesant, gross
 LUMPY	bulbosi
 LUNACY	dementie, alienitá, frenesie
 LUNAR	lunari
 LUNATIC	(n.) alienato, lunatico
-LUNATIC	lunatic
+LUNATIC	(adj.) lunatic
 LUNCH	lunch (-ar)
 LUNG	pulmon (-ari)
 LUNGE	pussa, colpe
@@ -8958,7 +8956,7 @@ MAMMARY	mammari
 MAMMON	mammon
 MAMMOTH	mámmut
 MAN	(v.) equipar, mannar
-MAN	hom; (male) mann; (at draughts) pion
+MAN	(n.) hom; (male) mann; (at draughts) pion
 MAN-OF-WAR	nave de guerre
 MANACLE	manu-catene, manacle
 MANAGE	(v.) administrar, gerer, directer, guvernar; successar, far; (a household) menagear
@@ -9014,7 +9012,7 @@ MANUFACTORY	fabrica
 MANUFACTURE	(n.) fabrication; (thing made) fabricate
 MANUFACTURE	(v.) fabricar
 MANURE	(v.) stercar
-MANURE	sterco
+MANURE	(n.) sterco
 MANUSCRIPT	(n.) manuscrite
 MANUSCRIPT BOOK	caderne
 MANY	mult; (prefix) multi-, pluri-, poli-
@@ -9045,7 +9043,7 @@ MARK	(n.) marca, signe, indicie; (aim) scope; (target) cible; (coin) mark; (exam
 MARK	(v.) marcar, notar
 MARKED	marcat; distint, sentibil
 MARKET	(v.) vendir (-ition)
-MARKET	mercate; bazar
+MARKET	(n.) mercate; bazar
 MARKET PLACE	piazza del mercate
 MARKET-TOWN	borgo
 MARKETABLE	vendibil
@@ -9065,7 +9063,7 @@ MARRY	(v.) maritar (se)
 MARSH	palude (-osi), morasse
 MARSH-MALLOW	altéa
 MARSHAL	(v.) ordinar, arangear
-MARSHAL	marchale
+MARSHAL	(n.) marchale
 MARSUPIAL	marsupiale
 MART	mercate
 MARTEN	martre
@@ -9073,7 +9071,7 @@ MARTIAL	martial, guerresc
 MARTINET	disciplinario
 MARTYR	martiro (-ie, -isar)
 MARVEL	(v.) astonar se
-MARVEL	marvel (-osi), miracul
+MARVEL	(n.) marvel (-osi), miracul
 MARZIPAN	marcipane
 MASCOT	talisman
 MASCULINE	(adj.) masculin
@@ -9081,7 +9079,7 @@ MASCULINE	(n.) masculine
 MASH	(n.) mixti-forrage
 MASH	(v.) pistar, mixter
 MASK	(v.) camuflar
-MASK	masca (-ar)
+MASK	(n.) masca (-ar)
 MASON	murero, murator; (Freemason) francmasson (-eríe)
 MASONRY	mureríe; massoneríe; (fallen) murallia
 MASQUERADE	mascarade
@@ -9094,7 +9092,7 @@ MASSIVE	massiv (-itá)
 MAST	mast
 MASTER	(academical degree) magistro
 MASTER	(v.) mastrisar; domitar; dominar; victer, superar
-MASTER	mastre, mastro, chef, director, principale; experte; instructor
+MASTER	(n.) mastre, mastro, chef, director, principale; experte; instructor
 MASTERFUL	despotic, imperiosi, dominatri
 MASTERLY	expert, superiori
 MASTERPIECE	mastre-ovre
@@ -9141,7 +9139,7 @@ MAWKISH	fad, ínsipid; nauseativ
 MAXILLARY	maxillari
 MAXIM	maxime; principie
 MAXIMUM	(adj.) max, maxim
-MAXIMUM	maximum
+MAXIMUM	(n.) maximum
 MAY	(n.) (month) may; (hawthorn) may-flor, blancospine; (possibly) fórsan (with verb)
 MAY	(v.aux.) posser, esser líber, haver li jure
 MAYBUG	melodonte
@@ -9255,7 +9253,7 @@ MERRY-GO-ROUND	carruselle
 MERRYMAKING	festada
 MESALLIANCE	misalliantie
 MESH	(v.) (mech.) ingagear
-MESH	lace, rete
+MESH	(n.) lace, rete
 MESMERISE	(v.) mesmerisar
 MESS	(n.) confusion; sordidage; (mil.) mess
 MESS	(v.) (bungle) bosillar; (to soil) sordidar
@@ -9293,7 +9291,7 @@ MICTURITION	urination
 MIDDAY	midíe, medidíe
 MIDDEN	escombre-cumul, sterc-cunml
 MIDDLE	(adj.) medial
-MIDDLE	medie, centre
+MIDDLE	(n.) medie, centre
 MIDDLE AGES	medievie (-al)
 MIDDLING	mediocri, passabil
 MIDGET	pigméo
@@ -9362,10 +9360,10 @@ MINIATURE	miniatura
 MINIM	(mus.) demi-note
 MINIMIZE	(v.) minimisar
 MINIMUM	(adj.) minimal
-MINIMUM	minimum, lu minim
+MINIMUM	(n.) minimum, lu minim
 MINION	minion (-a), favorito
 MINISTER	(v.) servir; contribuer
-MINISTER	ministre; ambassador; (eccl.) pastor
+MINISTER	(n.) ministre; ambassador; (eccl.) pastor
 MINISTRATION	servicie
 MINISTRY	ministerie (-al); (eccl.) clero, pastoratu, sacerdotie
 MINOR	(adj.) minori (-itá, -ité), inferiori
@@ -9376,7 +9374,7 @@ MINT	(bot.) minte; (coin-factory) monetaría
 MINT	(v.) monetar, stampar
 MINUET	menuette
 MINUS	minus
-MINUTE	(adj.) minuciosi; detalliat.
+MINUTE	(adj.) minuciosi; detalliat
 MINUTE	(n.) minute; (note) note, (pl.) protocol
 MINUTIAE	minucies
 MINX	(n.) un puella impertinent, impertinenta
@@ -9384,7 +9382,7 @@ MIRACLE	miracul (-osi)
 MIRAGE	mirage, fata-morgana
 MIRE	mudde (-osi), fango
 MIRROR	(v.) reflecter, spegular
-MIRROR	spegul
+MIRROR	(n.) spegul
 MIRTHFUL	gay (-itá, -esse)
 MIS	(prefix) mis-aplicar, -dir, -calcular, -prender, -usar, -ducter
 MISADVENTURE	misfortun; accidente
@@ -9398,7 +9396,7 @@ MISCELLANEOUS	diversi, varie
 MISCHIEF	damage, nocentie, male, malicie (-osi)
 MISCONCEIVE	(v.) miscomprender, misprender
 MISCONDUCT	(v.) conduir se mal; adulterar
-MISCONDUCT	mal conduida; adulteríe; maladministration
+MISCONDUCT	(n.) mal conduida; adulteríe; maladministration
 MISCONSTRUE	(v.) misinterpretar (-ation)
 MISCREANT	fripon, rascale
 MISDEAL	(v.) misdar
@@ -9527,7 +9525,7 @@ MOON	lune (-ari)
 MOONBEAM	radie del lune
 MOONLIGHT	luce lunari
 MOOR	(v.) amarrar (-age)
-MOOR	torfiera
+MOOR	(n.) torfiera
 MOOT	(adj.) discussibil
 MOOT	(v.) proposir
 MOP	(n.) balay (moll) a lavar, moppe (-ar)
@@ -9623,7 +9621,7 @@ MOW	(v.) falcear; (with lawn mower) machin-tonder
 MR.	senior
 MRS N. IS AT HOME ON TUESDAY	Sra. N. accepte chascun mardi
 MUCH	(n.) multcós
-MUCH	mult
+MUCH	(adj.) mult
 MUCH TO BE OBLIGED TO YOU	grand mersí
 MUCILAGE	mucilágine, colle, glutine
 MUCK	inpuritá, fec; (manure) sterco
@@ -9665,7 +9663,7 @@ MUNICIPALITY	municipie
 MUNIFICENT	munificent (-ie), generosi
 MUNITION	munition
 MURAL	(n.) murale
-MURAL	mural
+MURAL	(adj.) mural
 MURDER	(v.) mortar (-ation. -ator, -ard), assassinar; (a language) balbutiar, parlachar
 MURDEROUS	mortatori
 MURKY	tenebrosi, obscur
@@ -9674,7 +9672,7 @@ MURRAIN	epizootie
 MUSCATEL	(grape) muscate; (vine) vin muscatin
 MUSCLE	muscul (-ari, -osi)
 MUSE	(n.) musal
-MUSE	(n.) revar, meditar, ruminar
+MUSE	(v.) revar, meditar, ruminar
 MUSEUM	muséo
 MUSHROOM	fungo, champinion
 MUSIC	musica (-al, -ar), harmonie
@@ -9722,7 +9720,7 @@ NAG	(n.) cavall(ach)
 NAG	(v.) criticachar, insultar
 NAIAD	nayade
 NAIL	(v.) clovar
-NAIL	clove; (of finger, toe) ungul
+NAIL	(n.) clove; (of finger, toe) ungul
 NAIL UP	(v.) adclovar
 NAIVE	naiv (-itá), ingenui
 NAKED	nud (-itá); simplic
@@ -9739,7 +9737,7 @@ NAPKIN	serviette; toale de manu
 NARCISSUS	narcisse
 NARCOSIS	narcose
 NARCOTIC	(n.) narcotico
-NARCOTIC	narcotic
+NARCOTIC	(adj.) narcotic
 NARD	narde
 NARRATE	(v.) narrar (-ation, -ator), racontar
 NARRATIVE	raconta
@@ -9867,7 +9865,7 @@ NICETY	precisitá, subtilitá, finesse, delicatesse
 NICHE	niche
 NICK	(v.) intalliar (-atura), inciser (-ura)
 NICKEL	(adj.) nickelin, ex nickel
-NICKEL	nickel
+NICKEL	(n.) nickel
 NICKNACK	ornette
 NICKNAME	joc-nómine, moc-nómine
 NICOTINE	nicotine
@@ -9960,7 +9958,7 @@ NOTARY	notario (-atu)
 NOTATION	notation
 NOTCH	(v.) inciser (-ura), breche
 NOTE	(v.) remarcar; (jot down) notar
-NOTE	note;(banknote) billet; (mus.) note, ton
+NOTE	(n.) note; (banknote) billet; (mus.) note, ton
 NOTE PAPER	scri-papere
 NOTEBOOK	caderne, nota-librette
 NOTED	celebri, famosi; mal famat
@@ -9973,7 +9971,8 @@ NOTIFY	(v.) notificar (-ation), avisar
 NOTION	notion, conception, idé
 NOTORIOUS	notori (-tá)
 NOTWITHSTANDING	(prep.) malgré; con
-NOTWITHSTANDING	malgré to; (although) benque
+NOTWITHSTANDING	(adv.) malgré to
+NOTWITHSTANDING	(conj.) (although) benque
 NOUGAT	nugate
 NOUGHT	nequó; (cipher) null, zero
 NOUN	substantive, nómine
@@ -9995,7 +9994,7 @@ NUANCE	nuancie (-ar)
 NUCLEOUS	nucleo (-ari)
 NUDE	nud (-itá)
 NUDGE	(v.) pussar per li cude
-NUDGE	colp del cude
+NUDGE	(n.) colp del cude
 NUGATORY	futil, van
 NUGGET	bul, pepite
 NUISANCE	molestation, enoya, gena
@@ -10003,7 +10002,7 @@ NULL	de null efecte
 NULLIFY	(v.) anullar, nullificar
 NULLITY	nullitá
 NUMB	(v.) far ínsentient
-NUMB	ínsentient, ínsensibil, apatic
+NUMB	(adj.) ínsentient, ínsensibil, apatic
 NUMBER	(quantity) númere (-ar); (of periodical) numeró; (figure) ciffre
 NUMERAL	(adj.) numeral
 NUMERAL	(n.) numerale
@@ -10132,7 +10131,7 @@ OFFHOOT	crescon
 OFFICE	oficie, servicie, function; (place of business) buró, oficia, contor; (private room) cabinet
 OFFICER	oficero; (civilian) oficiario, functionario
 OFFICIAL	(n.) oficiario
-OFFICIAL	oficial
+OFFICIAL	(adj.) oficial
 OFFICIATE	(v.) oficiar, dejorar
 OFFICIOUS	interferaci, intrusiv
 OFFSET	(n.) (print.) offset; (hort.) crescon
@@ -10171,11 +10170,9 @@ OMNIPRESENT	omnipresent (-ie), ubiqui
 OMNISCIENT	omnisavent (-ie)
 ON	(adv.) (onwards) adavan
 ON	(prep.) sur; (on to) (ad)sur
-ON ACCOUNT OF	pro
 ON ACCOUNT OF	pro, per cause de
 ON ARRIVING	arivante, pos har arivat
 ON BEHALF OF	in nómine de, por
-ON BEHALF OF	por
 ON FOOT	a pedes
 ON NO ACCOUNT	pro nequel (null) cause, certmen ne
 ON PAIN OF DEATH	sub pena de morte
@@ -10264,7 +10261,7 @@ ORCHID	orchidé
 ORDAIN	(decree) decreter; (eccl.) ordinar, consacrar
 ORDEAL	ordalie
 ORDER	(v.) comandar; (comm.) comendar; (set in order) ordinar
-ORDER	órdine, arangeament, regulament; condition, statu; (command) comande, decrete; (class) rang, classe; (comm.) comende; (money order) mandate; (decoration & eccl.) órden
+ORDER	(n.) órdine, arangeament, regulament; condition, statu; (command) comande, decrete; (class) rang, classe; (comm.) comende; (money order) mandate; (decoration & eccl.) órden
 ORDERLY	(adj.) metodic, in bon órdine
 ORDERLY	(n.) oficero de ordonantie
 ORDINAL	(n.) ordinale
@@ -10344,7 +10341,7 @@ OUTLAW	(v.) proscrir (-ito, -ition), bannir
 OUTLAY	custa, deborsament, expenses
 OUTLET	exeada, surtida, efluentie
 OUTLINE	(v.) esquissar, dessinar li contura
-OUTLINE	contura; esquisse
+OUTLINE	(n.) contura; esquisse
 OUTLINE OF A SPEECH	concept-discurse, cladde
 OUTLIVE	(v.) superviver
 OUTLOOK	perspective, prospect
@@ -10475,7 +10472,7 @@ PAINT	(v.) picter (-ero, -or, -ura); (a house etc.) colorar
 PAINT-BRUSH	pinsel (-ar)
 PAINTER	colorist; pictor, pictero
 PAIR	(v.) acuplar
-PAIR	pare, cuple
+PAIR	(n.) pare, cuple
 PAL	intimo, camarade
 PALACE	palace
 PALADIN	paladino
@@ -10523,7 +10520,7 @@ PANEGYRIC	(n.) panegirica, eulogie
 PANEL	panel (-ar, -age); registre
 PANG	acut dolore, angustie, tormente
 PANIC	(n.) panica
-PANIC	panic
+PANIC	(adj.) panic
 PANICLE	(bot.) panicul
 PANNIER	(flanc)corbe
 PANOPLY	panoplie
@@ -10541,7 +10538,7 @@ PAP	tette; (food) puré
 PAPA	papá
 PAPACY	papatu
 PAPER	(v.) (rooms) tapetar
-PAPER	papere (-in); (newspaper) jurnale
+PAPER	(n.) papere (-in); (newspaper) jurnale
 PAPER CURRENCY	paper-moné
 PAPER-HANGER	tapetero
 PAPER-KNIFE	trancha-papere
@@ -10551,7 +10548,7 @@ PAPIST	papist
 PAPRIKA	paprica
 PAPYRUS	papyre
 PAR	(n.) norme, egalitá
-PAR	pari (-tá)
+PAR	(adj.) pari (-tá)
 PARABLE	parábol
 PARABOLA	parabola (-ic)
 PARACHUTE	paracade
@@ -10572,22 +10569,22 @@ PARASITE	parasite (-ic)
 PARASOL	para-sole
 PARBOIL	(v.) subbollientar, far demi-bollir
 PARCEL	(v.) partir
-PARCEL	paquette, pacca
+PARCEL	(n.) paquette, pacca
 PARCH	(v.) siccar, aridar, torrefar
 PARCHED WITH THIRST	siccat per sete, haver sete ardent
 PARCHMENT	pergamen
 PARDON	pardon (-ar, -abil)
 PARE	(peel) decorticar; (trim) tonder, oiser
 PARENT	(adj.) matrin, principal
-PARENT	genitor
+PARENT	(n.) genitor
 PARENTAGE	orígine, provenientie, descendentie
 PARENTHESIS	parenteSe (-tic)
 PARIAH	paria
-PARISH	parocia ;(civil) comunité, comuna
+PARISH	parocia; (civil) comunité, comuna
 PARISHIONER	parocian
 PARITY	paritá
 PARK	(v.) parcar
-PARK	parc
+PARK	(n.) parc
 PARLANCE	términos de conversation, linguage
 PARLEY	(v.) conferer (-entie), parlamentar
 PARLIAMENT	(v.) parlament (-ari, -ario)
@@ -10662,11 +10659,11 @@ PASTIME	passa-témpor, divertissement
 PASTOR	pastor (-al, -atu)
 PASTRY	pastete (-era)
 PASTURE	(v.) paster, pasturar
-PASTURE	pastura (-ar, -age)
+PASTURE	(n.) pastura (-ar, -age)
 PASTY	(n.) pastete
 PAT	(adv.) aptmen, sin hesitation; (blow) frappa, tappa; (of butter) pezze
 PATCH	(v.) lappar, repezzar
-PATCH	lapp (-osi, -allia); (of colour) macul; (tyre) plastre
+PATCH	(n.) lapp (-osi, -allia); (of colour) macul; (tyre) plastre
 PATCH UP	(v.) reparar, provar, arangear
 PATCHWORK	repezzament, lapperíe
 PATE	vertice; cap
@@ -10758,7 +10755,7 @@ PEERLESS	sin egal, íncomparabil
 PEEVISH	iritabil, petulant
 PEEWIT	vanelle
 PEG	(v.) palissettar
-PEG	clove lignin, jalon, palissette; (hook) croc
+PEG	(n.) clove lignin, jalon, palissette; (hook) croc
 PEG AWAY	(v.) perseverar
 PEJORATIVE	pejorativ (-e)
 PELARGONIUM	pelargonium
@@ -10771,7 +10768,7 @@ PELLUCID	(adj.) clar, limpid
 PELT	(v.) bombardar, lapidar; (of rain) torrentear
 PELVIS	pelve (-ic)
 PEN	(v.) scrir; (animals) inhagar
-PEN	plum; (enclosure) inhagatura, padó
+PEN	(n.) plum; (enclosure) inhagatura, padó
 PENAL	penal, punitiv
 PENAL SERVITUDE	servitude penitentiari
 PENALTY	punition
@@ -10986,7 +10983,7 @@ PICTURE	(v.) picter; imaginar; descrir; representar
 PIE	pastete; (fruit) torte
 PIEBALD	multicolori
 PIECE	(v.) repezzar, lappar
-PIECE	pezze, portion, fragment; (theatre) drama
+PIECE	(n.) pezze, portion, fragment; (theatre) drama
 PIECEMEAL	in pezzes, ye pezzes
 PIECEWORK	labore per tache
 PIED	diverscolori, maculat
@@ -11049,7 +11046,7 @@ PIQUANT	picant (-ie)
 PIQUE	(n.) rancore, resentiment
 PIQUE	(v.) vexar, rancorar
 PIRATE	(v.) editer sin jure, plagiar
-PIRATE	pirate (eríe, -ie, -ic), corsaro
+PIRATE	(n.) pirate (eríe, -ie, -ic), corsaro
 PIROUETTE	(n.) piruette (-ar)
 PISCATORIAL	piscatori
 PISS	(v.) pissar (-uore), urinar
@@ -11085,7 +11082,7 @@ PLACENTA	placenta (-al, -ari)
 PLACID	placid (-itá)
 PLAGIARIZE	(v.) plagiar (-ate, -ator, -ari)
 PLAGUE	(v.) tormentar, vexar, tribular
-PLAGUE	peste, pestilentie
+PLAGUE	(n.) peste, pestilentie
 PLAICE	plat-pisc
 PLAID	tartan-chal, plede
 PLAIN	(adj.) clar, evident, simplic; (frank) franc; (in looks) ne bell; (of material) unicolori, sin dessines
@@ -11099,7 +11096,7 @@ PLAINTIVE	plendaci
 PLAIT	(n.) (hair) tresse (-ar); (of dress) plica
 PLAIT	(v.) plecter (-ura)
 PLAN	(v.) planar, projecter
-PLAN	plan, dessine, projects; esquisse; intention
+PLAN	(n.) plan, dessine, projecte; esquisse; intention
 PLANE	(adj.) plani; .(n.) (tool) rabot (-ar, -uore); (tree) platane; (airplane) avion
 PLANET	planete (-ari, -arium)
 PLANK	planca
@@ -11152,7 +11149,7 @@ PLENITUDE	plenitá; abundantie
 PLENTEOUS	abundant
 PLENTIFUL	abundant
 PLENTY	(n.) abundantie
-PLENTY	suficent, sat mult de
+PLENTY	(adj.) suficent, sat mult de
 PLEONASM	pleonasme
 PLEONASTIC	pleonastic
 PLETHORA	superabundantie, pletore
@@ -11179,7 +11176,7 @@ PLUMB	(n.) sonde (-ar), perpendicul
 PLUMBAGO	grafite
 PLUMBER	plumbero
 PLUME	(v.) (plume oneself) orgolliar se pri
-PLUME	plume; (tuft) plum-toffe
+PLUME	(n.) plume; (tuft) plum-toffe
 PLUMMET	sonde
 PLUMP	(adj.) grassosi, grassatri
 PLUNDER	(v.) pilliar (-iage, -iard), raubar; marodar
@@ -11223,7 +11220,7 @@ POKE	(v.) pussar; (fire) agitar, inbrasar; (fun) mocar
 POKER	foy-ferre; (cards) póker
 POKY	(adj.) strett, constrictet, restrictet
 POLE	(astr. elect.) pol (-ari, -aritá, -arisar)
-POLE	pal, palisse; (of vehicle) timon
+POLE	(n.) pal, palisse; (of vehicle) timon
 POLE-AXE	buch-hacca
 POLECAT	pútor
 POLEMICS	polemica (-ar)
@@ -11303,7 +11300,7 @@ PORTFOLIO	portafolie
 PORTHOLE	fenestre de nave, porta
 PORTICO	portico
 PORTLON	(v.) partir, portionar
-PORTLON	portlon, parte; dot
+PORTLON	(n.) portlon, parte; dot
 PORTLY	corpulent
 PORTMANTEAU	porta-mantó, valise, coffre
 PORTRAIT	portrete (-ar, -ist)
@@ -11508,9 +11505,9 @@ PRICELESS	sin precie, ínestimabil
 PRICK	(n.) pica (-ar)
 PRICK	(v.) ticlar
 PRICKLE	(v.) picar
-PRICKLE	spine (-osi)
+PRICKLE	(n.) spine (-osi)
 PRIDE	(v.) (pride oneself on) orgolliar se pri
-PRIDE	orgollie, fieritá
+PRIDE	(n.) orgollie, fieritá
 PRIEST	prestro, clerico (-acho, -allia), sacerdote (-al)
 PRIESTCRAFT	politica clerical
 PRIG	(n.) fatuo, pedanto
@@ -11629,7 +11626,7 @@ PROMISSORY-NOTE	billet promessori
 PROMONTORY	promontorie, cap
 PROMOTE	(v.) promoer (-tion, -tor, -tiv), avansar; iniciar
 PROMPT	(v.) suggester, instigar; (theatre) sufflar (-ator)
-PROMPT	prompt (-itá)
+PROMPT	(adj.) prompt (-itá)
 PROMULGATE	(v.) promulgar (-ation), proclamar
 PRONE	inclinat; prostrat, jacent
 PRONG	punta
@@ -11674,7 +11671,7 @@ PROSELYTE	proselite (-isar)
 PROSEWRITER	prosaist
 PROSODY	prosodie (-ic)
 PROSPECT	(v.) serchar, explorar
-PROSPECT	perspective
+PROSPECT	(n.) perspective
 PROSPECTOR	serchator (de minerales)
 PROSPECTUS	prospecte, programma
 PROSPER	(v.) prosperar
@@ -11724,7 +11721,7 @@ PRUDE	(n.) pruda (-eríe)
 PRUDENT	prudent (-ie), caut
 PRUDISH	prud
 PRUNE	(v.) forciser, decupar
-PRUNE	prun siccat
+PRUNE	(n.) prun siccat
 PRURIENT	lasciv (-itá)
 PRUSSIC ACID	* acide prussic
 PRY	(v.) curiosar, spiar
@@ -11749,7 +11746,7 @@ PUCE	purpur (-ie)
 PUCKER	(n.) frunse (-ar)
 PUDDING	púdding
 PUDDLE	(v.) (iron) puddlar
-PUDDLE	flac
+PUDDLE	(n.) flac
 PUERILE	pueril (-itá), ihfantil
 PUERPERAL	parturitional
 PUFF	(adj.) (pastry) foliat
@@ -11772,7 +11769,7 @@ PULLET	gallinell(a)
 PULLEY	vind, rul
 PULMONARY	pulmonari
 PULP	(v.) inpulpar
-PULP	pulpe
+PULP	(n.) pulpe
 PULPIT	pulpit, catedre
 PULSE	pulse
 PULVERISE	(v.) pulverisar (-ation)
@@ -11826,7 +11823,7 @@ PURPOSE	(v.) intenter
 PURPOSELY	intentionalmen
 PURR	(v.) ronronar
 PURSE	(v.) rugar
-PURSE	borse, porta-moné
+PURSE	(n.) borse, porta-moné
 PURSER	provisor, provisionario; (ship's purser) cassero
 PURSUE	(v.) persequer, chassar
 PURSUIT	chassada, persequida; ocupation
@@ -11909,7 +11906,7 @@ QUARANTINE	quarantene (-ar)
 QUARREL	(n.) querelle (-ar), dispute
 QUARRELSOME	querellaci
 QUARRY	(v.) minar, exeavar; fracter
-QUARRY	petriera; (hunting) preda
+QUARRY	(n.) petriera; (hunting) preda
 QUARRYMAN	petrero
 QUART	un quart gallon
 QUARTER	(one fourth) quart; (of year etc.) quartale, trimestre; (district) quartere, region; (mercy) indulgentie
@@ -11961,7 +11958,7 @@ QUIET	(v.) calmar, tranquilisar
 QUIETUDE	quietitá, quietesse
 QUILL	quill
 QUILT	(v.) trapuntar
-QUILT	covri-lette, covritura de lette
+QUILT	(n.) covri-lette, covritura de lette
 QUINCE	cidonio
 QUININE	quinine
 QUINQUENNIAL	quinennial
@@ -11998,7 +11995,7 @@ RABBLE	canallia, plebeyallia, turbe
 RABID	rabiosi; frenetic
 RABIES	rabie, hidrofobie
 RACE	(v.) currer
-RACE	curse, currida; carriera; (breed) rasse
+RACE	(n.) curse, currida; carriera; (breed) rasse
 RACECOURSE	piste
 RACEME	racem
 RACIAL	rassal
@@ -12021,7 +12018,7 @@ RADISH	radise
 RADIUM	radium
 RADIUS	(Geom.) rádius; (of action) rayon
 RAFFLE	(v.) far un loteríe
-RAFFLE	loteríe
+RAFFLE	(n.) loteríe
 RAFT	flottuore
 RAFTER	trave, raftre
 RAG	chifon, lapp (-allia)
@@ -12038,7 +12035,7 @@ RAIL	(v.) (at) insultar, invectivar; (rail in) palissar
 RAILING	palisse (-ade)
 RAILLERY	persiflage
 RAILWAY	(adj.) ferroviari, ferrovial
-RAILWAY	ferrovia, relvia
+RAILWAY	(n.) ferrovia, relvia
 RAIMENT	vestiment
 RAIN	pluvie (-al, -osi, -ar)
 RAIN-GAUGE	pluviometre
@@ -12052,7 +12049,7 @@ RAKE	(implement) rastre (-ar); (person) libertino, debochero
 RAKE	(v.) (artill.) rader
 RALLY	(v.) reunir (-ion); (troops) ralliar; (regain strength) refortijar
 RAM	(v.) (in)rammar; compresser
-RAM	agno; (battering ram) ramme
+RAM	(n.) agno; (battering ram) ramme
 RAMBLE	(n.) promenada
 RAMBLE	(v.) migrar, vagar; promenar
 RAMBLING	discursiv
@@ -12102,7 +12099,7 @@ RASP	rasp (-ar), lime
 RASPBERRY	frambere (-iero)
 RAT	ratte
 RATE	(v.) taxar; impostar; evaluar; (scold) reprimandar
-RATE	rate, percentage, tarif; rapidore; (exchange) valuta; (tax) impost; (death rate) mortalitá
+RATE	(n.) rate, percentage, tarif; rapidore; (exchange) valuta; (tax) impost; (death rate) mortalitá
 RATE OF EXCHANGE	curse de exchange, valuta
 RATHER	plutost
 RATIFY	(v.) ratificar (-ation)
@@ -12157,9 +12154,9 @@ REASONABLE	moderat, just, rasonabil
 REASONING	rasonament
 REASSURE	(v.) tranquilisar, calmar
 REBATE	(v.) diminuer
-REBATE	rabatte
+REBATE	(n.) rabatte
 REBEL	(v.) rebeller, insurecter (-ion), revoltar
-REBEL	rebello
+REBEL	(n.) rebello
 REBELLIOUS	rebellic, rebelliosi
 REBOUND	(v.) retrosaltar, ricochettar
 REBUFF	(n.) rebatte, refusa; defete, repulse
@@ -12229,7 +12226,7 @@ RECURRENCE	reeveniment, retorn
 RECURRING DECIMAL	* decimale periodic
 RECUSANT	recusant, dissident
 RED	(n.) rubore, rubie
-RED	rubi
+RED	(adj.) rubi
 RED PEPPER	paprica, rubi pipre
 RED TAPE	rutine, burocratie
 RED-HOT	ardent
@@ -12251,9 +12248,9 @@ REDUNDANT	superflú (-itá)
 REED	canne; (of mus. instrument) bec
 REEF	riff; (naut.) reff (-ar)
 REEK	(v.) emisser vapores, malodorar
-REEK	fum, vapor
+REEK	(n.) fum, vapor
 REEL	(v.) chancelar; vertiginar
-REEL	bobine, spul; (fishing) molinette
+REEL	(n.) bobine, spul; (fishing) molinette
 REFECTORY	manjatoria; refectoria
 REFER	(v.) referer (se a), aluder; relater; consultar
 REFEREE	(n.) arbitro, referent
@@ -12269,7 +12266,7 @@ REFLUX	reflute
 REFORM	(n.) reforme (-ar, -ativ, -ator, -atoria, -ation)
 REFRACT	(v.) refracter (-iv, -ion, -or, -ibil)
 REFRACTORY	(n.) infusibile
-REFRACTORY	obstinat, recalcitrant; "ínfusibil
+REFRACTORY	(adj.) obstinat, recalcitrant; ínfusibil
 REFRAIN	(n.) refrane
 REFRAIN	(v.) abstener se de, frenar se
 REFRANGIBLE	refractibil
@@ -12496,7 +12493,7 @@ RESPONDENT	respondente
 RESPONSE	response (-abil, -iv)
 RESPONSORY	responsorie
 REST	(v.) reposar; (stay) maner, restar; (lean) apoyar
-REST	repose, pause; (remainder) reste, lu céteri
+REST	(n.) repose, pause; (remainder) reste, lu céteri
 RESTAURANT	restorería, restauration
 RESTFUL	tranquil, quiet
 RESTITUTION	restitution
@@ -12506,7 +12503,7 @@ RESTRAIN	(v.) represser, refrenar
 RESTRICT	(v.) restricter (-ion, -iv), limitar, reducter
 RESULT	(v.) resultar (-ate, -ant)
 RESUME	(v.) reprender, recomensar
-RESUME	resumé, resumate
+RESUME	(n.) resumé, resumate
 RESURRECT	(v.) resurecter (-ion), revivificar, reviventar
 RESUSCITATE	(v.) reviventar, revivificar
 RETAIL	(v.) vendir in detallie
@@ -12553,7 +12550,7 @@ REVERENT	reverent (-ie)
 REVERIE	reverie
 REVERSAL	inversion, reversion
 REVERSE	(v.) reversar; revocar, reverTer
-REVERSE	defete; (side) reverse; (opposite) lu oposit, contrarie
+REVERSE	(n.) defete; (side) reverse; (opposite) lu oposit, contrarie
 REVERSION	reversion
 REVERT	(v.) reverTer (-sibil)
 REVIEW	(n.) (periodical) revúe
@@ -12634,7 +12631,7 @@ RIPARIAN	riveran, rivari
 RIPE	matur (-ar, -itá)
 RIPE	prevalent, reyent, luxuriant
 RIPLE	(v.) spoliar, traserchar
-RIPLE	carabine (-ero), fusil
+RIPLE	(n.) carabine (-ero), fusil
 RIPLE-BUTTS	para-balles
 RIPP-RAPF	canallia
 RIPPLE	(v.) undettear
@@ -12663,11 +12660,11 @@ ROB	(v.) raubar; deprivar; (steal from) furter
 ROBBER	furtero, furtard, raubero
 ROBBERY	raube, furte
 ROBE	(v.) vestir
-ROBE	robe; (official gown) talare
+ROBE	(n.) robe; (official gown) talare
 ROBIN	rubicol, rubi-péctore
 ROBUST	robust, vigorosi
 ROCK	(v.) balansar; lullar
-ROCK	rocca (-osi), petre
+ROCK	(n.) rocca (-osi), petre
 ROCKET	rakete, roquette
 ROCKOIL	petroleo
 ROCOCO	rococo
@@ -12735,7 +12732,7 @@ ROUNDABOUT	(n.) carruselle
 ROUNDEL	rondelle
 ROUSE	(v.) avigilar, alarmar; incitar
 ROUT	(v.) derutar
-ROUT	desórdine, fugida; defete; (mil.) derute
+ROUT	(n.) desórdine, fugida; defete; (mil.) derute
 ROUTE	rute, via
 ROUTINE	rutine (-ari, -al)
 ROVE	(v.) inigrar, vagar
@@ -12775,9 +12772,9 @@ RUG	tapisse; (cloth) lan-covritura
 RUGATE	rugat, rugosi
 RUGGED	aspri, sulcosi
 RUIN	(v.) ruinar, damagear; desolar
-RUIN	ruine (-osi), perition
+RUIN	(n.) ruine (-osi), perition
 RULE	(v.) guvernar; (establish, lay down) statuer; (line) linear
-RULE	regul, norme; (regulation) regulament; (for lines), lineale; (of king etc.) regne, regnantie
+RULE	(n.) regul, norme; (regulation) regulament; (for lines), lineale; (of king etc.) regne, regnantie
 RULE OUT	(v.) excluder
 RULER	guvernator; (instrument) mesurette, lineale
 RUM	(adj.) strangi, bizarri
@@ -12842,7 +12839,7 @@ SACROSANCT	sacro-sant
 SAD	trist (-esse), morni; (grievous) grav
 SADDEN	(v.) atristar
 SADDLE	(v.) (burden) chargear
-SADDLE	sedle (-ar, -ero, -ería)
+SADDLE	(n.) sedle (-ar, -ero, -ería)
 SAFE	(adj.) salv, secur, ínnocet, in bon statu, in bon standa
 SAFE	(n.) moné-scaf, garda-moné; (food) garda-manjage
 SAFE-CONDUCT	(n.) passa-permisse
@@ -12883,14 +12880,14 @@ SALUBRIOUS	salubri (-tá)
 SALUTARY	util, salutari
 SALUTE	salute (-ar)
 SALVAGE	(v.) salvagear
-SALVAGE	salvage
+SALVAGE	(n.) salvage
 SALVATION	salvation (-ist)
 SALVE	unguente (-ar), balsam
 SALVO	salve
 SAME	sam, identic
 SAMOVAR	(n.) samovar
 SAMPLE	(v.) provar, mustrar
-SAMPLE	specimen, mustre, exemplare
+SAMPLE	(n.) specimen, mustre, exemplare
 SANATORIUM	sanatoria
 SANCTIFY	(v.) santificar (-ation)
 SANCTIMONIOUS	hipocritic, piachi
@@ -12980,14 +12977,14 @@ SCALES	balancie
 SCALLOP	feston; (mollusc) péctine
 SCALP	scalp (-ar, -el)
 SCAMP	(v.) laborachar
-SCAMP	rascale, vale-necós
+SCAMP	(n.) rascale, vale-necós
 SCAMPER	(v.) hastar
 SCAN	(v.) scanDer (-sion); examinar
 SCANDAL	scandale (-isar, -osi)
 SCANT	(v.) usar mesquinmen
-SCANT	scarsi, insuficent, rar
+SCANT	(adj.) scarsi, insuficent, rar
 SCANTY	(v.) usar mesquinmen
-SCANTY	scarsi, insuficent, rar
+SCANTY	(adj.) scarsi, insuficent, rar
 SCAPEGOAT	expiator, peccon
 SCAPULA	scapul (-arie)
 SCAR	cicatre (-isar)
@@ -13013,7 +13010,7 @@ SCEPTICAL	sceptic (-isme)
 SCEPTRE	sceptre
 SCHEDULE	liste, formulare, tabelle, cedul
 SCHEME	(v.) projector, conspirar, intrigar
-SCHEME	schema (-tic), plan, projecte
+SCHEME	(n.) schema (-tic), plan, projecte
 SCHISM	schisma (-tic)
 SCHIST	schist
 SCHOLAR	elev (-a, -o) , scolero; docte, erudito
@@ -13032,7 +13029,7 @@ SCISSORS	cisores, cisette, tondette
 SCOFF	(v.) deriDer, mocar
 SCOLD	(v.) insultar, injuriar, reprimandar
 SCOOP	(v.) hauster, excavar
-SCOOP	haustor, palla
+SCOOP	(n.) haustor, palla
 SCOPE	oportunitá; cadre, camp de action; (aim) scope
 SCORBUTIC	scorbutic
 SCORCH	(v.) ustular (-ation)
@@ -13176,7 +13173,7 @@ SELFDENIAL	abnegation
 SELFEVIDENT	self
 SELFGOVERNING	autonom (-ie)
 SELFHELP	self-auxilie
-SELFINSTRUCTION	self, autodidactie.
+SELFINSTRUCTION	self, autodidactie
 SELFISH	egoistic
 SELFISHNESS	egoisme
 SELL	(v.) vendir (-itor, -ition)
@@ -13198,7 +13195,7 @@ SENILE	senil (-itá)
 SENIOR	(adj.) plu old, senior (-itá)
 SENSATION	sensation (-al, -alisme), eclate, sentida
 SENSE	(v.) sentir, percepter
-SENSE	sense, signification; prudentie; (faculty) sensu
+SENSE	(n.) sense, signification; prudentie; (faculty) sensu
 SENSELESS	absurd; insensat; (unconscious) ínconscient, ínsensibil
 SENSIBLE	prudent, inteligent; (able to feel) sensibil; (appreciable) sentibil, perceptibil
 SENSITIVE	sensitiv (-itá), sensibil, impressibil
@@ -13291,7 +13288,7 @@ SHACKLE	(v.) (in)catenar
 SHADE	(n.) ombre (-ar, -osi, -age); (degree) nuancie (-ar)
 SHADING	ombration
 SHADOW	(v.) observar
-SHADOW	ombre; semblantie
+SHADOW	(n.) ombre; semblantie
 SHADY	ombrosi; deshonest, suspectibil
 SHAFT	(arrow) fleche; (of vehicle) timon; (of mine) puteo; (of gun) tube
 SHAGGY	vellut, vellosi
@@ -13302,11 +13299,11 @@ SHAKY	ínstabil, labil, chancelant; tremorosi, tremid
 SHALE	(husk) cortice; (Geol.) schist; (gravel) gravie
 SHALLOT	cebulette
 SHALLOW	(n.) bass-funde
-SHALLOW	superficial; ínprofund
+SHALLOW	(adj.) superficial; ínprofund
 SHAM	(adj.) fals, ne genuin, fictet
 SHAM	(v.) ficter, simular, pretexter
 SHAME	(v.) pudentar, deshonorar, hontar
-SHAME	pudore, honte; desgracie
+SHAME	(n.) pudore, honte; desgracie
 SHAME-FACED	pudic, confuset, hontosi
 SHAMEFUL	hontosi, infam
 SHAMELESS	impudent, cinic
@@ -13315,6 +13312,7 @@ SHAMPOO	(v.) lavar li cap
 SHANK	gambe, tibia; (stem) trunc
 SHANTY	cabane
 SHAPE	(n.) forme (-ar), figura, modelle (-ar)
+SHAPED	(suffix) -form
 SHARE	(n.) portion, parte; (fin.) action
 SHARE	(v.) partir, divider; distribuer; partiprender
 SHAREHOLDER	actionario
@@ -13383,7 +13381,7 @@ SHOP	(n.) butíca, magasine; (workshop) ateliere
 SHOP	(v.) comprar, far li compras
 SHOP-KEEPER	buticario
 SHORE	(v.) (shore up) subtener per traves, apoyar
-SHORE	borde (del mare), costa, rive, plage, litore
+SHORE	(n.) borde (del mare), costa, rive, plage, litore
 SHORN	tondet; (deprived) privat
 SHORT	curt, brevi; mancant; abrupt
 SHORT STORY	novelle
@@ -13426,7 +13424,7 @@ SHRINK	(v.) contraer (se); retraer (se); (recoil) recular; (lessen) demeliorar, 
 SHRIVE	(v.) confesser, absoluer
 SHRIVEL	(v.) contraer se, marcir
 SHROUD	(v.) invelopar
-SHROUD	mort-linage; (naut.) vantes
+SHROUD	(n.) mort-linage; (naut.) vantes
 SHROVE TUESDAY	grass mardí
 SHRUB	arbuste, bosco (-age)
 SHRUG	(v.) levar li epoles
@@ -13443,7 +13441,7 @@ SHUTTLECOCK	balls plumat
 SHY	(adj.) timid; suspectiv
 SHY	(v.) cabrar se
 SIBILANT	(n.) sibilante
-SIBILANT	sibilant
+SIBILANT	(n.) sibilant
 SICK	malad
 SICKEN	(v.) amaladar se, maladijar; revulser, nausear
 SICKLE	falce
@@ -13484,7 +13482,7 @@ SILL	sill
 SILLY	stult, stupid, folli, fatui, ínept, idiotic
 SILO	silo
 SILT	(v.) insablar se (-ament)
-SILT	slamme, depositura, sable
+SILT	(n.) slamme, depositura, sable
 SILVER	(n.) argente (-in)
 SILVER	(v.) inargentar
 SILVER PLATE	service argentin
@@ -13515,7 +13513,7 @@ SINGE	(v.) ustular
 SINGLE	(adj.) sol, singul, unic; (unmarried) celib (-o)
 SINGLE	(v.) (single out) selecter
 SINGULAR	(n.) (gramm.) singulare
-SINGULAR	singulari (-tá), ínusual, apart; bizarri
+SINGULAR	(adj.) singulari (-tá), ínusual, apart; bizarri
 SINISTER	sinistri
 SINK	(n.) (domestic) rinsuore, eversuore, lav-petre
 SINK	(v.) submerser, descenDer, plongear; diminuer; (sink a shaft) excavar
@@ -13551,9 +13549,9 @@ SKILL	habilitá, dexteritá
 SKIM	(v.) (milk) decremar, scumar; (skim through) traleer superficialmen, superglissar
 SKIM-MILK	lacte decremat
 SKIN	(v.) depellar, decorticar
-SKIN	pelle, pellicul; membrane, derma; shell, cortice
+SKIN	(n.) pelle, pellicul; membrane, derma; shell, cortice
 SKINFLINT	(adj.) parcimoniosi
-SKINFLINT	avaron
+SKINFLINT	(n.) avaron
 SKINNY	magri, ossi
 SKIP	(v.) saltettar
 SKIPPER	(naut,) capitano, mastro
@@ -13591,7 +13589,7 @@ SLATEPENCIL	ardes-crayon
 SLATTERN	salopona
 SLAUGHTER	(v.) buchar (-ada, -ería)
 SLAV	(n.) slavo (-a)
-SLAV	slav, slavic
+SLAV	(adj.) slav, slavic
 SLAVE	(n.) sclavo, servo
 SLAVER	(v.) bavar
 SLAVERY	servitude, sclavitá, sclaveríe
@@ -13643,7 +13641,7 @@ SLOPS	rinsura, rinsallia
 SLOT	micri apertura, fensura
 SLOTH	pigresse, pigritá; (animal) plantigrade
 SLOTHFUL	índolent, tardigrad, lentaci, pigri
-SLOUGH	morasse, muddiera
+SLOUGH	(n.) morasse, muddiera
 SLOUGH	(v.) vader índolentmen
 SLOVEN	(n.) salopon, sordidon
 SLOW	(adj.) lent (-ore), tard; (wearisome) enoyant
@@ -13664,8 +13662,7 @@ SLY	astut, secretiv, insidiosi, simulant
 SMACK	(n.) frappa, batte, colpe
 SMACK	(v.) batter; (with lips) labie-claccar
 SMALL	micri, litt
-SMALL LETTER	(not capital) minuscul
-SMALL LETTER	minuscul
+SMALL LETTER	(n.) (not capital) minuscul
 SMALL-POX	variol
 SMART	(adj.) elegant; habil; vivosi; (witty) espritosi
 SMART	(n.) dolore
@@ -13750,7 +13747,7 @@ SOBER	(adj.) sobri (-etá); grav; moderat; calm
 SOBER	(v.) far sobri
 SOCIABLE	sociabil, afabil (-itá)
 SOCIAL	(n.) soaré
-SOCIAL	social (-isme, -ist, -istic), societan
+SOCIAL	(adj.) social (-isme, -ist, -istic), societan
 SOCIETY	societé; (the community) societá
 SOCIOLOGIST	sociologo (-ie, -ic)
 SOCK	demí-strumpe, strumpette; (inner sole) solea intern
@@ -13794,9 +13791,9 @@ SOLUBLE	soluibil (-itá)
 SOLUTION	solution
 SOLVE	(dis)soluer
 SOLVENT	(n.) solutive
-SOLVENT	solvabil
+SOLVENT	(adj.) solvabil
 SOMBRE	tenebrosi; melancolic, sombri
-SOME	alcun;.(a few) quelc
+SOME	alcun; (a few) quelc
 SOME QUANTITY	alquant
 SOME SAY HE IS RICH, OTHERS...	li unes di que il es rich, li altres...
 SOME SORT OF	alqual
@@ -13864,7 +13861,7 @@ SPACE	(n.) loc, spacie (-al, -osi)
 SPACE	(v.) interspaciar
 SPACE LINE	interlinea
 SPADE	(v.) spadar, fossar
-SPADE	spade, fossette; (at cards) pic
+SPADE	(n.) spade, fossette; (at cards) pic
 SPAN	(n.) spanne (-ar); arc, curve; (of oxen) atelage
 SPAN	(v.) mesurar, extenDer se
 SPANGLE	flittre
@@ -13914,7 +13911,7 @@ SPECULATE	(v.) conjecter (-ion); (fin.) specular (-ator, -ation, -ativ)
 SPEECH	(n.) discurse, oration, parlada; (language) idioma, lingue; (faculty) parlation
 SPEECHLESS	mut
 SPEED	(v.) ear rapidmen
-SPEED	rapiditá, rapidore, velocitá
+SPEED	(n.) rapiditá, rapidore, velocitá
 SPEED UP	(v.) accelerar
 SPEEDOMETER	tacometre
 SPELL	(enchantment) incantation, sorcie; (turn) vez
@@ -13975,7 +13972,7 @@ SPOKE	radion
 SPOKESMAN	porta-voce
 SPOLIATION	spoliation
 SPONGE	(n.) nettar per spongie
-SPONGE	spongie (-iatri, -iosi)
+SPONGE	(n.) spongie (-iatri, -iosi)
 SPONGE ON	(v.) parasitar ye
 SPONSOR	garante; (godparent) compatre, commatre
 SPONTANEOUS	spontan (-itá)
@@ -14032,7 +14029,7 @@ SQUAD	file
 SQUADRON	(mil.) escadron; (mar.) escadre
 SQUALID	sórdid
 SQUALL	(v.) strider
-SQUALL	squall (-i, -osi), burasca
+SQUALL	(n.) squall (-i, -osi), burasca
 SQUALOR	sordidesse
 SQUAMOSE	squamosi
 SQUANDER	(v.) dissipar, prodigar
@@ -14120,7 +14117,7 @@ STARCH	(n.) amidon
 STARCH	(v.) (in)amidonar
 STARCHY	amidonal; formal
 STARE	(v.) regardar fixmen
-STARE	regarde fix o ínpudent
+STARE	(n.) regarde fix o ínpudent
 STARK	rigid; pur, absolut, tot
 STARLING	sturne
 STARRY	stellosi, stellut
@@ -14139,7 +14136,7 @@ STATESMAN	statmann, ministro
 STATIC	static
 STATICS	statica
 STATION	(v.) postar
-STATION	posto; (Rail.) station; (rank) rang
+STATION	(n.) posto; (Rail.) station; (rank) rang
 STATIONARY	stationari, fix
 STATIONER	paperero (-eríe)
 STATIONMASTER	chef de station
@@ -14153,7 +14150,7 @@ STATUS	rang
 STATUS QUO	statu-quo
 STATUTE	statute (-ari), lege
 STAUNCH	(v.) desanguar, far haltar
-STAUNCH	fidibil, loyal, firm
+STAUNCH	(adj.) fidibil, loyal, firm
 STAVE	(n.) baston; (of barrel) doga
 STAVE IN	(v.) brechar
 STAY	(n.) apoy; (naut.) stag; sejorne, restada
@@ -14222,7 +14219,7 @@ STILETTO	stilette
 STILL	(adv.) (however) támen
 STILL	(n.) distill-aparate, alambic
 STILL	(v.) calmar, quietar, contentar
-STILL	calm, quiet, seren, silent; ínmobil, tranquil
+STILL	(adj.) calm, quiet, seren, silent; ínmobil, tranquil
 STILL MORE	ancor plu
 STILL-BORN	mort-nascet
 STILT	stelte, marchette
@@ -14282,7 +14279,7 @@ STORE	(v.) acumular, provisionar; inmagasinar; (the mind) inrichar
 STOREY	etage
 STORK	storc
 STORM	(v.) stormear; (rage) furer; (mil.) assaltar, storm-ataccar
-STORM	storm (-i, -osi), tempeste , burasca
+STORM	(n.) storm (-i, -osi), tempeste , burasca
 STORY	historie, raconta; fabul; (a lie) mentie
 STOUT	corpulent; brav; (strong) fort
 STOVE	forne; (primus stove) forne portabil
@@ -14330,7 +14327,7 @@ STRICKEN	aflictet
 STRICT	severi (-tá), strict (-ease), exact
 STRICTURE	critica, desaprobation; (med.) constriction
 STRIDE	(v.) ear per long passus
-STRIDE	un long passu
+STRIDE	(n.) un long passu
 STRIDENT	strident
 STRIFE	lucte, dispute, querelle, conflicte
 STRIKE	(n.) (of workers) bastament (-ar, -ero)
@@ -14387,7 +14384,7 @@ STUTTER	(v.) balbutiar
 STY	svinstalle, sviniera
 STYE	hordeol
 STYLE	(v.) titular
-STYLE	stil (-ist, -istica); (of clothes) fasson; (fashion) moda
+STYLE	(n.) stil (-ist, -istica); (of clothes) fasson; (fashion) moda
 SUAVE	suavi (-tá)
 SUBALTERN	(adj.) subordinat
 SUBALTERN	(n.) subaltern-oficero
@@ -14551,7 +14548,7 @@ SURETY	certitá; (guarantor) garante; (bail) caution
 SURF	(n.) mar-creste, mar-undes
 SURFACE	superficie (-al)
 SURFEIT	(v.) saturar
-SURFEIT	excesse
+SURFEIT	(n.) excesse
 SURGE	(v.) marear, undear (-ation), undular
 SURGEON	chirurgo (-ic)
 SURGERY	chirurgie; (place) cabinete, chirurgia
@@ -14593,7 +14590,7 @@ SWAB	(v.) vattar, nettar, scurar
 SWADDLE	(v.) circumvoluer
 SWAGGER	(v.) strucear, fanfaronar
 SWAGGERING	(n.) bravade
-SWAGGERING	bravach
+SWAGGERING	(adj.) bravach
 SWAIN	rustico; (lover) amante
 SWALLOW	(n.) hirunde
 SWALLOW	(v.) (in)glotir
@@ -14605,7 +14602,7 @@ SWARM	(v.) formicar, turbular
 SWARM OF FLIES	moscallia
 SWARTHY	brun, nigratri
 SWAY	(v.) oscillar, chancelar
-SWAY	dominion, influentie (-ar)
+SWAY	(n.) dominion, influentie (-ar)
 SWEAR	(v.) blasfemar, maledir; (on oath) jurar
 SWEAR IN	(v.) far jurar
 SWEAT	(n.) sudore
@@ -14615,7 +14612,7 @@ SWEEP	(v.) balayar; (as wind) chassar
 SWEEPINGS	balayallia
 SWEEPSTAKES	cavall-currida u li premie consists in li recivage
 SWEET	(n.) bonbon; (dish) sucrage
-SWEET	dulci, sucrosi
+SWEET	(adj.) dulci, sucrosi
 SWEETEN	(v.) adulciar; sucrar
 SWEETHEART	amata, inamorato
 SWELL	(n.) undeada
@@ -14705,7 +14702,7 @@ TAG	puntale
 TAIL	caude (-al, -at)
 TAILOR	talliero
 TAINT	(v.) corupter; infecter; (poison) invenenar
-TAINT	tintura; infection
+TAINT	(n.) tintura; infection
 TAKE	(v.) prender; capter; ocupar; (require) postular, exiger; (understand) comprender
 TAKE A HAND IN	(v.) partiprender
 TAKE A PERSON'S PART	(v.) defender, suportar
@@ -14717,7 +14714,7 @@ TAKE AMISS	(v.) esser ofendet per, prender in male
 TAKE AN OATH	(v.) jurar
 TAKE BEARINGS	(v.) orientar se
 TAKE CARE	(v.) atenter
-TAKE CARE	atention!, garda vos!
+TAKE CARE!	(interj.) atention!, garda vos!
 TAKE CARE OF	(v.) cuidar
 TAKE COLD	(v.) refrigidar se, inreumar se
 TAKE EFFECT	(v.) efecter, operar
@@ -14818,7 +14815,7 @@ TATTERDEMALION	chifonoso
 TATTLE	(n.) babillache
 TATTOO	revúe; (of drums) tamburada; v, tatuar (-age)
 TAUNT	(v.) mocar (-ada)
-TAUNT	acri reprocha, insulte, moca
+TAUNT	(n.) acri reprocha, insulte, moca
 TAUT	tendet, rigid
 TAUTOLOGY	tautologie (-ic)
 TAVERN	taverne (-ero), gastería
@@ -14952,7 +14949,7 @@ TEUTONIC	teutonic
 TEXT	textu (-al)
 TEXT-BOOK	manuale
 TEXTILE	(n.) textile
-TEXTILE	textil
+TEXTILE	(adj.) textil
 TEXTURE	textura
 THAN	quam
 THANK	(v.) mersiar
@@ -14968,7 +14965,7 @@ THAT DOESN'T MATTER	to ne fa nequo
 THAT IS TO SAY	a saver
 THAT WAS YOUR DOING	ta vu es culpabil, pri to vu es responsabil
 THATCH	(v.) tegmentar per pallie, inpalliar
-THATCH	pallie
+THATCH	(n.) pallie
 THAW	(n.) degel (-ar)
 THE	li; (abstract) lu
 THE ACCUSED GOT OFF	on absoluet li acusato
@@ -15028,7 +15025,7 @@ THEREUPON	poy
 THERMO	termometre, -scop etc.
 THESAURUS	tresor
 THESE	(pron.) tis
-THESE	adj. ti
+THESE	(adj.) ti
 THESIS	tese, dissertation
 THEY	ili
 THEY CAN	ili posse
@@ -15204,7 +15201,7 @@ TOILSOME	penosi, fatigant
 TOKEN	signe; simbol; (pledge) gage
 TOLERATE	(v.) tolerar (-abil, -ant, -antie, -ation)
 TOLL	(v.) sonar; clochear
-TOLL	imposte (de via)
+TOLL	(n.) imposte (de via)
 TOM-CAT	cato
 TOMATO	tomate
 TOMB	tombe, sepultura
@@ -15258,7 +15255,7 @@ TOTTER	(v.) chancelar; vacillar; (collapse) crular
 TOUCH	(n.) tracie, spasma, levi atacca
 TOUCH	(v.) tuchar; palpar; (reach) atinger; (of feelings) emoer
 TOUCHING	(prep.) concernent, pri
-TOUCHING	emotiv; patetic
+TOUCHING	(adj.) emotiv; patetic
 TOUCHY	iritabil
 TOUGH	tenaci; dur; resistent; desfacil
 TOUR	(n.) tur (-ist, -isme), excursion
@@ -15311,7 +15308,7 @@ TRAM	tram (-via)
 TRAMMEL	(n.) catenes, impediment
 TRAMMEL	(v.) catenar, impedir
 TRAMP	(v.) migrar; ped-ear
-TRAMP	vagabunde, vagard, tramp
+TRAMP	(n.) vagabunde, vagard, tramp
 TRAMPLE	(v.) tramplar (-ada), ped-presser
 TRANCE	extaSe; cataleptie, transe
 TRANQUIL	tranquil (-itá, -isar), calm
@@ -15371,7 +15368,7 @@ TREATISE	tractate; tese, dissertation
 TREATMENT	tractament; (med.) terapie
 TREATY	tractate; negociation, pacte, tratte
 TREBLE	(n.) soprano
-TREBLE	triplic (-ar)
+TREBLE	(adj.) triplic (-ar)
 TREE	árbor; (boot-tree) listel
 TREFOIL	trifolie
 TRELLIS	trellie
@@ -15402,7 +15399,7 @@ TRIBUTARY	(adj.) tributari
 TRIBUTARY	(n.) confluente; (payer of tribute) tributario
 TRIBUTE	tribute
 TRICK	(v.) dupar, decepter
-TRICK	tric (-ar), artificie; (in conjuring) jongleríe; (of manner) hábitu, custom
+TRICK	(n.) tric (-ar), artificie; (in conjuring) jongleríe; (of manner) hábitu, custom
 TRICK OUT	(v.) ornar
 TRICKLE	(v.) fluettar; guttear
 TRICYCLE	tricicle
@@ -15707,8 +15704,8 @@ UP AND DOWN	a ci e ta, ad supra e infra
 UP STREAM	a monte
 UP TO	til
 UP TO DATE	(adj.) modern, hodial, til hodie
-UP TO DATE	til hodíe
-UP-TO-DATE	modern
+UP TO DATE	(adv.) til hodíe
+UP-TO-DATE	(adj.) modern, hodial, til hodie
 UPBRAID	(v.) reprochar
 UPBRINGING	education
 UPHEAVAL	eruption, tumultu
@@ -15722,7 +15719,7 @@ UPON	sur; concernent(e), pri
 UPPER	plu alt, supra; superiori
 UPPERMOST	max alt
 UPRIGHT	(n.) verticale
-UPRIGHT	vertical, erect; honest
+UPRIGHT	(adj.) vertical, erect; honest
 UPRISING	insurection
 UPROAR	tumultu
 UPSET	(v.) renversar; (grieve) vexar, chagrinar, índisposir
@@ -15858,7 +15855,7 @@ VENT	(v.) (to give vent to) eversar, far audir
 VENTILATE	(v.) ventilar (-ation, -ator)
 VENTRILOQUAL	ventriloqui (-ist, -isme)
 VENTURE	(v.) riscar; (dare) audaciar
-VENTURE	interprense
+VENTURE	(n.) interprense
 VERACIOUS	veraci (-tá)
 VERANDA	veranda
 VERB	verbe (-al, -alisar)
@@ -15893,7 +15890,7 @@ VERTICAL	(n.) verticale
 VERTIGO	vertígine (-osi)
 VERVE	verve (-osi)
 VERY	(adj.) identic; self
-VERY	tre
+VERY	(adv.) tre
 VESPERS	vespres
 VESSEL	vase, recipiente; (ship) nave
 VEST	(n.) subcamise
@@ -15908,7 +15905,7 @@ VETERAN	(n.) veterane
 VETERINARY	veterinari
 VETERINARY SURGEON	veterinario
 VETO	(v.) aplicar su veto
-VETO	veto
+VETO	(n.) veto
 VEX	(v.) iritar, vexar
 VEXATIOUS	(leg.) maliciosi; iritant, vexant
 VEXED	disputat, contestat
@@ -15929,7 +15926,7 @@ VICTUAL	(v.) provisionar
 VICTUALS	victuales, comestibles
 VIE	(v.) concurrer contra
 VIEW	(v.) regardar; vider; egardar
-VIEW	vista, vise; perspective; opinion
+VIEW	(n.) vista, vise; perspective; opinion
 VIEWFINDER	visette
 VIGIL	guardie; vigilie
 VIGILANT	vigilant (-ie)
@@ -15939,7 +15936,7 @@ VILE	vili (-tá), bass, abominabil
 VILIFY	(v.) defamar, calumniar
 VILLA	villa
 VILLAGE	(adj.) villagesi
-VILLAGE	village
+VILLAGE	(n.) village
 VILLAGER	villageano
 VILLAIN	vilano, furbon, rascale
 VILLAINOUS	vilan (-ie)
@@ -16012,7 +16009,7 @@ VOLUBLE	volubil (-itá), eloquent
 VOLUME	volume, torn; (capacity) volúmine (-osi)
 VOLUNTARY	voluntari, spontan
 VOLUNTEER	(v.) ofertar se
-VOLUNTEER	voluntario
+VOLUNTEER	(n.) voluntario
 VOLUPTUARY	volupton
 VOLUPTUOUS	voluptosi (-tá)
 VOMIT	(v.) vomir (-ition, -itiv, -ida)
@@ -16024,10 +16021,10 @@ VOUCH	(v.) atestar, garantir
 VOUCHER	atest(ation), certificate
 VOUCHSAFE	(v.) conceder, permisser afabilmen
 VOW	(v.) voer
-VOW	voe, jurament
+VOW	(n.) voe, jurament
 VOWEL	vocale (-ic)
 VOYAGE	(v.) viagear (-ator)
-VOYAGE	viage
+VOYAGE	(n.) viage
 VULCANITE	vulcanite
 VULGAR	vulgarach, índelicat, grossieri
 VULNERABLE	vulnerabil (-itá)
@@ -16067,7 +16064,7 @@ WALK	(n.) promenada, marcha; via
 WALK	(v.) vader, pedear, marchar; pronienar se. (in one's sleep) somnainbular
 WALK GINGERLY	(v.) passuar cautmen o circumspectmen
 WALL	(v.) (wall up) inmurar
-WALL	mur; (internal) parete
+WALL	(n.) mur; (internal) parete
 WALL-PAPER	tapete (-ar)
 WALLET	porta-papere, paperiere
 WALLFLOWER	gilliflor
@@ -16086,16 +16083,16 @@ WANTING	deficient, mancant
 WANTON	(n.) voluptona
 WANTON	(sportive) petulant; (purposeless) ínmotivat; (voluptuous) voluptosi
 WAR	(v.) guerrear
-WAR	guerre, hostilitá
+WAR	(n.) guerre, hostilitá
 WAR-CRY	cri de guerre
 WARBLE	(v.) trillar
-WARD	(n.) pupillo, tutelata;. (of lock) barrette
+WARD	(n.) pupillo, tutelata; (of lock) barrette
 WARD	(v.) gardar, protecter
 WARD OFF	(v.) detornar, defender, parar
 WARDER	carcerero, gardator
 WARDROBE	garda-robe, veste-scaf, vestiere
 WAREHOUSE	(v.) inmagasinar (-age)
-WAREHOUSE	depó, magasine
+WAREHOUSE	(n.) depó, magasine
 WARES	merces
 WARFARE	guerreada, hostilitás
 WARLIKE	guerresc
@@ -16130,7 +16127,7 @@ WATCH-DOG	can de garda
 WATCHFUL	vigilant, atentiv
 WATCHWORD	passa-parol. devise
 WATER	(v.) (horses) far trincar; (land) irigar; (plants) arosear
-WATER	aqua (-ar, -tic)
+WATER	(n.) aqua (-ar, -tic)
 WATER-COURSE	curse de aqua
 WATER-GLASS	natrium-silicate
 WATER-LOGGED	saturat
@@ -16145,7 +16142,7 @@ WATERLY	liquid, aquosi, diluet
 WATERPROOF	resistent, ínpermeabil, hermetic
 WATT	watt (-age)
 WAVE	(v.) (flutter) flirtar, volettar; (hair) undular
-WAVE	unde (-atri, -osi, -ear)
+WAVE	(n.) unde (-atri, -osi, -ear)
 WAVER	(v.) chancelar, vacillar, hesitar
 WAX	(n.) cire (-ar)
 WAX	(v.) (increase) crescer; devenir
@@ -16181,12 +16178,12 @@ WED	(v.) maritar
 WEDDED TO	devoet a
 WEDDING	maritage, nuptie
 WEDGE	(v.) cunear
-WEDGE	cuneo
+WEDGE	(n.) cuneo
 WEDGESHAPED	cuneiform, sfenoid
 WEDLOCK	matrimonie (-al)
 WEDNESDAY	mercurdí
 WEED	(v.) sarclar (-age, -uore)
-WEED	malherbe
+WEED	(n.) malherbe
 WEEDY	plen de malherbes; magri, debil
 WEEK	semane (-al, -ale)
 WEEK-END	fine-de-semane
@@ -16226,7 +16223,7 @@ WESTERN	occidental, westal
 WESTERNER	occidentale
 WESTWARD	vers li occidente
 WET	(v.) humidar, inhumidar
-WET	humid; (weather) pluviosi
+WET	(adj.) humid; (weather) pluviosi
 WET-NURSE	nutressa
 WHACK	(n.) brui-batte
 WHACK	(v.) batter
@@ -16245,7 +16242,7 @@ WHATNOT	etagiere
 WHEAT	frument, grane
 WHEEDLE	(v.) persuader per flattosi paroles o caresses
 WHEEL	(v.) pussar, rular
-WHEEL	rot
+WHEEL	(n.) rot
 WHEELBARROW	carruch, carriol, puss-carrette
 WHEELWRIGHT	carrettero
 WHEEZE	(v.) spirar astmaticmen, sifflantmen
@@ -16265,7 +16262,7 @@ WHETHER ... OR ...	sive ... sive ...
 WHEY	buttre-serum
 WHICH	quel
 WHICHEVER	quelcunc
-WHIFF	(n.) soffle.
+WHIFF	(n.) soffle
 WHILE	(v.) passar
 WHILE	durante que
 WHILST	durante que
@@ -16292,7 +16289,7 @@ WHIST	wist (-lude)
 WHISTLE	(n.) siffla; (instrument) sifflette
 WHISTLE	(v.) sifflar
 WHITE	(n.) (egg) albúmine, blanc ovine; (person) blanco
-WHITE	blanc; pallid
+WHITE	(adj.) blanc; pallid
 WHITE ANT	termite
 WHITE OF EGG	albúmine
 WHITEN	(v.) blancar, ablanoar; devenir blanc
@@ -16374,7 +16371,7 @@ WINDSCREEN	paravente
 WINDWARD	vers li vente, al vente de
 WINE	vin (-iera, -icultor, -ero, -icultura, -venditor)
 WING	(v.) (injure) vulnerar
-WING	ale (-ar)
+WING	(n.) ale (-ar)
 WINGS	(theatre) culisse
 WINK	(v.) palpebrar, oculettar, ocul-slgnar
 WINKLE	litorine
@@ -16386,7 +16383,7 @@ WINTER-GREEN	pírola
 WIPE	(v.) essuyar; siccar
 WIPE OUT	(v.) exterminar, obliterar, anullar, efaciar
 WIRE	(v.) ligar per ferrofil; telegrafar
-WIRE	metall-fil, ferrofil; telegramma
+WIRE	(n.) metall-fil, ferrofil; telegramma
 WIRE-PULLING	intrigas, manipulation
 WIRELESS	radio
 WIRELESS SET	radio-receptor
@@ -16442,7 +16439,7 @@ WONDER	(v.) esser curiosi, demandar se, questionar se
 WONDERFUL	magnific, marvelosi; prodigiosi
 WONT	(n.) custom, hábitu
 WOO	(v.) cortesar; solicitar (-ante)
-WOOD	ligne; (trees) boscage
+WOOD	(n.) ligne; (trees) boscage
 WOOD PIGEON	palumbe
 WOOD-LOUSE	onisco
 WOOD-PIGEON	palumbe, forest-columbe
@@ -16455,7 +16452,7 @@ WOODWORK	carpenteríe, ligneríe
 WOOF	trama
 WOOL	lane (-at, -in, -atri, -osi, -age, -eríe)
 WORD	(v.) expresser
-WORD	parol, vocabul
+WORD	(n.) parol, vocabul
 WORD FOR WORD	parol por parol, textualmen
 WORDING	textu
 WORDY	prolix (-itá)
@@ -16469,7 +16466,7 @@ WORKSHOP	ateliere, laboratoria, oficina
 WORLD	munde (-al, -an, -ano); universe, cosmo
 WORLDLY	(opposed to spiritual) seculari, profan, materialistic
 WORM	(v.) (one's way) insinuar se
-WORM	verme; (earthworm) lumbric
+WORM	(n.) verme; (earthworm) lumbric
 WORMWOOD	absinte
 WORN OUT	perusat; exhaustet
 WORRY	(n.) tribulation, torment (-ar), truble
@@ -16479,7 +16476,7 @@ WORSEN	(a)pejorar, demeliorar, far plu mal, agravar
 WORSHIP	(n.) cultu, adoration; servicie divin
 WORSHIP	(v.) adorar
 WORST	(v.) victer, superar
-WORST	max mal, pessim
+WORST	(adj.) max mal, pessim
 WORSTED	fil de lane
 WORTH	(adj.) digni de
 WORTH	(n.) valore, merite; precie
@@ -16562,7 +16559,7 @@ YOKE	yug; (of oxen) pare; (for carrying pails) vecte
 YOKEL	rustico
 YOLK	vitelle, yelb-ovine
 YONDER	(adj.) ti-ta
-YONDER	ta, a ta
+YONDER	(adv.) ta, a ta
 YOU	vu; (dat. ace.) vos
 YOU NEEDN'T STAY	vu ne besona restar
 YOUNG	yun; (of animals) -ello

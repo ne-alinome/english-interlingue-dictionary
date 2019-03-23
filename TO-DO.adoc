@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-23
+:revdate: 2019-03-24
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -44,6 +44,7 @@
   "BOOK" without translation.
 - Fix notation . "AT ONE'S WITS' END esser al fine de su Latin, plu ne
   saver quo far", because the English expression is not a verb.
+- Add "(num.)" to "ONE". Maybe other cases.
 
 == Doubts
 
@@ -99,6 +100,15 @@
   "successiv men".
 - "COWEE (v.) ahoccar se; horrer (avan)".
 - Consult "(ent.)".
+- "SHAPED (suffix) -form" should be "-formi".
+- "HATCH OUT" was "HATCH (OUT)" in the original transcription.
+- Consulta "BEATEN TRACK trantran".
+- "BUBBLE (n.) bul; vessic; (comm.) fraude". vessic -> vessica?
+- "CONTINGENT dependent de".
+- "COSMETIC grime, cosmetic".
+- "FORTH (prep.) ex, fro" and "FORTH for" (prep. "for" in Interlingue,
+  but a prep. or an adverb in English?.
+- Type of "WHILE durante que", "WHILST durante que".
 
 == Notes about the contents
 
@@ -119,3 +129,5 @@
 - Add "AKIMBO".
 - Move/copy "TAKE CARE: atention!, garda vos!" from "TAKE" to "TAKE
   CARE".
+- In "REFRACTORY (n.) infusibile" is missing meaning "A refractory
+  person".
