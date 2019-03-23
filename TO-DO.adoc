@@ -42,6 +42,8 @@
   "foot- (2)" without translation.
 - Fix : In the original transcription "BOOKMARK" was at the end of
   "BOOK" without translation.
+- Fix notation . "AT ONE'S WITS' END esser al fine de su Latin, plu ne
+  saver quo far", because the English expression is not a verb.
 
 == Doubts
 
@@ -95,6 +97,8 @@
 - "LAMP SHADE covri lampe; (manes) manes" (was the end of "SHADE".
 - "THREE DAYS RUNNING tri dies successivmen". There was typo:
   "successiv men".
+- "COWEE (v.) ahoccar se; horrer (avan)".
+- Consult "(ent.)".
 
 == Notes about the contents
 
