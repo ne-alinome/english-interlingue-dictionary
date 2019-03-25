@@ -137,6 +137,14 @@
 - "ALTO alto", also n./adj. in Interlingue?
 - "ANARCHY anarchic (-ist)".
 - "BATTLEDORE AND SHUTTLECOCK rácket e volante".
+- "AFAR lontan, distant, for". translations are adj. and adv., but
+  "AFAR" is adv.
+- "ALTO alto", n. or adj.
+- "AWAY (adv.) for, absent", adv./adj.
+- "AFT detra; in li stern", adj./adv. -> prep./adv.
+- "BAROQUE baroc" adj./n.?
+- "BEACON fares turre lucent; (on a hill) fanale; (at sea) boye,
+  signal-marca, mar-signe"
 
 == Notes about the contents
 

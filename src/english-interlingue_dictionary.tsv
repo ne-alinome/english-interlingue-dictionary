@@ -1,16 +1,16 @@
-A	un
-A BANK OVERGROWN WITH THYME	un banca u luxuria li tim
-A CLOSE FIGHT	un combatte long índecidet
-A DOWNRIGHT FOOL	un absolut folio
-A FOUR	quadren
-A GOOD DEAL	mult, sat mult
+A	(art.) un
+A BANK OVERGROWN WITH THYME	(n.) un banca u luxuria li tim
+A CLOSE FIGHT	(n.) un combatte long índecidet
+A DOWNRIGHT FOOL	(n.) un absolut folio
+A FOUR	(n.) quadren
+A GOOD DEAL	(adj.) mult, sat mult
 A LOT OF	(adj.) mult
-A MAN OF LETTERS	litterato
-A MATTER OF COURSE	un afere natural
-A ONE	unen
-A PIECE OF NEWS	un nova
-A SMATTERER IN PHILOSOPHY	un filosofastro
-A WORK OF SUPEREROGATION	superflú bonitá
+A MAN OF LETTERS	(n.) litterato
+A MATTER OF COURSE	(n.) un afere natural
+A ONE	(n.) unen
+A PIECE OF NEWS	(n.) un nova
+A SMATTERER IN PHILOSOPHY	(n.) un filosofastro
+A WORK OF SUPEREROGATION	(n.) superflú bonitá
 TAKEN ABACK	(adj.) consternat, perplex, surprisat
 ABAFT	(adj.) vers li sterne
 ABANDON	(n.) licentie
@@ -240,7 +240,7 @@ AERATE	(v.) aerar
 AERIAL	(n.) antenne
 AERO	(prefix) aero-dinamic, -nautica, -plane etc.
 AESTHETE	(n.) estete (-ic, -ica)
-AFAR	lontan, distant, for
+AFAR	(adv.) lontan, distant, for
 AFFABLE	(adj.) afabil (-itá)
 AFFAIR	(n.) afere
 AFFECT	(v.) afecter; (the feelings) emoer, emotionar; (pretend) afectar (-ation), ficter
@@ -354,8 +354,8 @@ ALKALI	(n.) alcali (-in)
 ALL	(n.) (everything) omnicos; (the whole) li totalité, lu tot
 ALL	(adj.) (all the) omni
 ALL BUT	presc
-ALL OVER EUROPE	tra tot Europa
-ALL THE YEAR ROUND	li tot annu
+ALL OVER EUROPE	(adv.) tra tot Europa
+ALL THE YEAR ROUND	(adv.) li tot annu
 ALLAY	(v.) calmar, aleviar, moderar, quietar, mitigar
 ALLEGE	(v.) afirmar, asserter
 ALLEGIANCE	(n.) loyalitá, fidelitá, homage, deventie
@@ -386,7 +386,7 @@ ALMOND	(n.) mandul (-iero)
 ALMOST	(adv.) presc; quasi
 ALMS	(n.) almosne
 ALOE	(n.) aloe
-ALOFT	supra, in supra
+ALOFT	(adv.) supra, in supra
 ALONE	(adj.) sol, solitari
 ALONE	(adv.) (only) solmen
 ALONG	(prep.) along
@@ -406,7 +406,7 @@ ALTERNATE	(adj.) alternant
 ALTERNATE	(v.) alternar (-ation, -ative, -ator)
 ALTHOUGH	(conj.) benque, etsi
 ALTITUDE	(n.) altore, altitá; (geogr.) altitudine
-ALTO	alto
+ALTO	(n.) alto
 ALTOGETHER	(adv.) (as a whole) in tot; (wholly) totmen, absolutmen
 ALTRUISM	(n.) altruisme
 ALUM	(n.) alune
@@ -444,7 +444,7 @@ AMISS	(adj.) incorect, fals
 AMMETER	(n.) amper-metre
 AMMONIA	(n.) amoniac
 AMMUNITION	(n.) munition
-AMOK	amocc
+AMOK	(adj.) amocc
 AMONG	(prep.) ínter
 AMOROUS	(adj.) amorosi
 AMORPHOUS	(adj.) amorf, sin forme
@@ -475,21 +475,21 @@ ANARCHY	anarchic (-ist)
 ANATHEMA	(n.) anatema
 ANATOMY	(n.) anatomie (-ic, -ico, -isar), structura
 ANCESTOR	(n.) antecessor (-al), preavo
-ANCESTRY	progenitores, antecessores, devenientie
+ANCESTRY	(n.) progenitores, antecessores, devenientie
 ANCHOR	(n.) ancre (-ar, -age)
 ANCHORITE	(n.) anacorete, eremite
 ANCHOVY	(n.) anchove
-ANCIENT	ancian, antiqui, old
+ANCIENT	(adj.) ancian, antiqui, old
 ANCILLARY	(adj.) suplementari, auxiliari
 AND	(conj.) e
-AND SO ON	et cetera
+AND SO ON	(adv.) et cetera
 ANECDOTE	(n.) anecdote
 ANEMOMETER	(n.) anemometre
 ANEMONE	(n.) anemone
 ANENT	(prep.) pri, concernent
 ANEURISM	(n.) aneurisme
 ANEW	(adv.) denov
-ANGEL	ángel (-ic)
+ANGEL	(n.) ángel (-ic)
 ANGER	(v.) colerar
 ANGER	(n.) colere (-osi)
 ANGLE	(v.) croc-piscar
@@ -500,13 +500,13 @@ ANILINE	(n.) aniline
 ANIMADVERSION	(n.) blama, reproche, reprimande
 ANIMAL	(adj.) animalic
 ANIMAL	(n.) bestie, animale, brute
-ANIMALCULA	infusories
+ANIMALCULA	(n.) infusories
 ANIMATE	(v.) animar, inspirar
 ANIMOSITY	(n.) inamicitá, hostilitá
 ANISEED	(n.) anise
 ANKER	(n.) ancre (-age)
-ANKLE	malleol
-ANNALS	annales, cronica
+ANKLE	(n.) malleol
+ANNALS	(n.) annales, cronica
 ANNEAL	(v.) temperar
 ANNEX	(n.) anexe
 ANNEX	(v.) anexer, adjunter
@@ -525,8 +525,8 @@ ANODE	(n.) anode
 ANODYNE	(n.) anodine, dedolorative
 ANOINT	(v.) unguentar, uncter
 ANOMALY	(n.) anomalie
-ANON	strax; (later) bentost; depoy
-ANONYMOUS	anonim (-itá)
+ANON	(adv.) strax; (later) bentost; depoy
+ANONYMOUS	(adj.) anonim (-itá)
 ANOTHER	(adj. pron.) altri, ancor un
 ANSERINE	(adj.) gansin; stult
 ANSWER	(v.) responder
@@ -565,15 +565,15 @@ ANUS	(n.) ánus
 ANVIL	(n.) incude
 ANXIETY	(n.) anxietá
 ANXIOUS	(adj.) íntranquil, anxiosi; tre desirosi
-ANY	alquel, quelcunc; (any kind of) alqual, qualcunc. Often omitted
-ANYBODY	(interr.) alcun, alquí, alquem; (no matter who(m)) quicunc, quemcunc
-ANYHOW	alquam; (no matter how) quamcunc
-ANYTHING	(interr.) alquó; (no matter what) quocunc
+ANY	(adj. pron.) alquel, quelcunc; (any kind of) alqual, qualcunc. Often omitted
+ANYBODY	(n.) (interr.) alcun, alquí, alquem; (no matter who(m)) quicunc, quemcunc
+ANYHOW	(adv.) alquam; (no matter how) quamcunc
+ANYTHING	(n.) (interr.) alquó; (no matter what) quocunc
 ANYTHING BUT	omno quam
-ANYWHERE	(interr.) alcú; (no matter where) ucunc
+ANYWHERE	(adv.) (interr.) alcú; (no matter where) ucunc
 APACE	(adv.) rapidmen, hastosimen
 APART	(adj.) apart, separat, isolat, desunit
-APART FROM THAT	ultra to
+APART FROM THAT	(adv.) ultra to
 APATHETIC	(adj.) apátic
 APATHY	(n.) apatíe
 APE	(v.) imitachar, simiar
@@ -705,7 +705,7 @@ ARQUEBUS	(n.) arcabuse (-ero)
 ARRACK	(n.) aracc
 ARRAIGN	(v.) acusar, inculpar
 ARRANGE	(v.) arangear (-ament), ordinar; disposir
-ARRANT	archi-
+ARRANT	(adj.) archi-
 ARRAY	(n.) órdine, serie; vestes
 ARRAY	(v.) ordinar, arangear; vestir
 ARREARS	(n.) residue, rest, summa ínpayat
@@ -739,11 +739,11 @@ AS A RULE	(adv.) generalmen, in general
 AS FAR AS	(prep.) til
 AS FAR AS I KNOW	(adv.) secun quo yo save
 AS LIEF	(v.) preferer
-AS MUCH AS	tant quant
-AS RICH AS	tam rich quam
-AS SOON AS POSSIBLE	max bentost possibil
-AS THOUGH	quam si, quasi
-AS TO	concernent
+AS MUCH AS	(adv.) tant quant
+AS RICH AS	(adv.) tam rich quam
+AS SOON AS POSSIBLE	(adv.) max bentost possibil
+AS THOUGH	(adv.) quam si, quasi
+AS TO	(prep.) concernent
 ASBESTOS	(n.) asbeste
 ASCEND	(v.) ascender (-Sion), montar
 ASCENDANCY	(n.) superioritá
@@ -812,41 +812,41 @@ ASTUTE	(adj.) astut (-ie)
 ASUNDER	(adj.) apart, separat; dis-
 ASYLUM	(n.) asil, hospicie por alienates
 AT	(prep.) (place) in (London), a; (time) ye; (house, shop) che; (towards) vers, contra, a; (at the rate of) tri horloges a Fr. 100
-AT A PREMIUM	súper pari, súper nominale
-AT A STRETCH	sin intermittentie
-AT ALL EVENTS	in omni casu
-AT ANY RATE	in omni casu
-AT EASE	sin gena
-AT FIRST	in prim
-AT FIRST SIGHT	ye prim vise
-AT HAND	che manu, proxim
-AT HOME	in hem
-AT ISSUE	in dispute, in question
-AT LARGE	líber
-AT LAST	in fine
-AT LEAST	adminim, alminu
-AT LENGTH	in fine; detalliatmen
-AT MOST	admaxim
-AT ONCE	strax; simultanmen
+AT A PREMIUM	(adv.) súper pari, súper nominale
+AT A STRETCH	(adv.) sin intermittentie
+AT ALL EVENTS	(adv.) in omni casu
+AT ANY RATE	(adv.) in omni casu
+AT EASE	(adv.) sin gena
+AT FIRST	(adv.) in prim
+AT FIRST SIGHT	(adv.) ye prim vise
+AT HAND	(adv.) che manu, proxim
+AT HOME	(adv.) in hem
+AT ISSUE	(adv.) in dispute, in question
+AT LARGE	(adj.) líber
+AT LAST	(adv.) in fine
+AT LEAST	(adv.) adminim, alminu
+AT LENGTH	(adv.) in fine; detalliatmen
+AT MOST	(adv.) admaxim
+AT ONCE	(adv.) strax; simultanmen
 AT ONE'S WITS' END	esser al fine de su Latin, plu ne saver quo far
-AT PAR	al pari
-AT PRESENT	in presente, nu
-AT RANDOM	in hasarde
-AT SIGHT	che vise
-AT THE BACK OF	detra
-AT THE BARBER'S	che li barbero
-AT THE END OF ONE'S TETHER	al fine de su corde
-AT THE OUTSET	in prim linea
-AT THREE O'CLOCK	ye tri horas
-AT TIMES	a vezes
-AT VARIANCE	discordant, in dissension
-AT WILL	secun arbitrie
+AT PAR	(adv.) al pari
+AT PRESENT	(adv.) in presente, nu
+AT RANDOM	(adv.) in hasarde
+AT SIGHT	(adv.) che vise
+AT THE BACK OF	(adv.) detra
+AT THE BARBER'S	(adv.) che li barbero
+AT THE END OF ONE'S TETHER	(adv.) al fine de su corde
+AT THE OUTSET	(adv.) in prim linea
+AT THREE O'CLOCK	(adv.) ye tri horas
+AT TIMES	(adv.) a vezes
+AT VARIANCE	(adj. adv.) discordant, in dissension
+AT WILL	(adv.) secun arbitrie
 ATHEISM	(n.) ateisme
 ATHEIST	(n.) ateo
 ATHLETE	(n.) atlete (-ic)
-ATLAS	atlas, landcarte
+ATLAS	(n.) atlas, landcarte
 ATMOSPHERE	(n.) atmosfere (-ic)
-ATMOSPHERICS	atmosferic perturbationes
+ATMOSPHERICS	(n.) atmosferic perturbationes
 ATOLL	(n.) atoile
 ATOM	(n.) atom (-ic, -bombe)
 ATONE FOR	(v.) expiar, compensar
@@ -930,7 +930,7 @@ AWAKEN	(v.) avigilar (se)
 AWARD	(n.) judicament, sententie; (prize) premie
 AWARD	(v.) adjudicar
 AWARD A PRIZE TO	(v.) premiar
-AWAY	for, absent
+AWAY	(adv.) for, absent
 AWE	(n.) timore, veneration, reverentie
 AWEARY	(adj.) lassi, fatigat
 AWFUL	(adj.) terribil, horribil
@@ -967,7 +967,7 @@ BACKSIDE	(n.) cul
 BACKSLIDE	(v.) rebeller, apostasiar
 BACKSLIDER	(n.) apostatico
 BACKSTAIRS	(n.) detra-scaliere
-BACKWARDS	retro-
+BACKWARDS	(adv.) retro-
 BACKWARDS AND FORWARDS	(adv.) a ci e ta
 BACKWATER	(n.) aqua barrat
 BACON	(n.) larde
@@ -1060,7 +1060,7 @@ BARE	(adj.) nud, simplic; (empty) vacui; (mean) mesquin, miserabil
 BAREFACED	(adj.) ínpudent, audaci, arogant
 BAREFOOTED	(adj.) nudipedi, nudipedat
 BAREHEADED	(adj.) nudicapat
-BARELY	apen
+BARELY	(adv.) apen
 BARGAIN	(n.) (agreement) arangeament, negocie; (cheap purchase) un modic compra
 BARGAIN	(v.) negociar, merc(ach)ar
 BARGE	(n.) barge (-ero), canal-bote
@@ -1069,7 +1069,7 @@ BARIUM	(n.) barium
 BARK	(n.) (boat) barca, nave; (of dog) aboya; (tree) cortice
 BARK	(v.) aboyar; (trees) decorticar
 BARLEY	(n.) hordeo
-BARM	leven
+BARM	(n.) leven
 BARN	(n.) graniere
 BARNACLE	(n.) (goose) barnacle; (crustacean) cirripede
 BAROMETER	(n.) barometre (-ic)
