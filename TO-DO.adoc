@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-24
+:revdate: 2019-03-25
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -45,6 +45,30 @@
 - Fix notation . "AT ONE'S WITS' END esser al fine de su Latin, plu ne
   saver quo far", because the English expression is not a verb.
 - Add "(num.)" to "ONE". Maybe other cases.
+- "AS LIEF (v.) preferer", "I WOULD AS LIEF yo vell preferer".
+- Fix: "ALOUD (adv.) vocosi, con voce, audibilmen". "ALOUD" is adverb,
+  but "vocosi" is adjective. -> "vocosimen".
+- Fix: FRUMP (n.) oldmodic, feminach, oldmodona". "oldmodic" is not a
+  noun.
+- Fix: "GIVEN TO inclinat, disposit". The corresponding prepositions
+  are missing in Interlingue.
+- Fix: "ACCOMPLISHMENT (n.) (aquisit) habilitá". The notation of
+  "(aquisit)" is that of the English comments.
+- Fix: "GULLIBLE (adj.) (facil) dupabil".  The notation of "(facil)"
+  is that of the English comments.
+- Separate usages: "ANOTHER (adj. pron.) altri, ancor un".
+- Fix: "ARRANT archi-"
+- "ANALOGY analog (-ie)". "ANALOGY" is noun, but "analog" is
+  adjective.
+- "CLIEUT clieut (-ela)" -> "CLIENT".
+- In "GLIB (tro) fluent; suavi" "(tro)" is Interlingue, but uses the
+  notation of English comments.
+- In "JINGLE (far) tintinar" "(far)" is Interlingue, but uses the
+  notation of English comments.
+- Use notation "(expr.)" for sentences.
+- "POLICY (plan) plan de action; (politics) political; (insur.)
+  police". "political" -> "politica".
+- "YODEL (sons) yodle (-ero, -ar)" -> songs
 
 == Doubts
 
@@ -109,6 +133,10 @@
 - "FORTH (prep.) ex, fro" and "FORTH for" (prep. "for" in Interlingue,
   but a prep. or an adverb in English?.
 - Type of "WHILE durante que", "WHILST durante que".
+- "AS (adv. conj.) (because) proque; (manner) quam".
+- "ALTO alto", also n./adj. in Interlingue?
+- "ANARCHY anarchic (-ist)".
+- "BATTLEDORE AND SHUTTLECOCK rácket e volante".
 
 == Notes about the contents
 

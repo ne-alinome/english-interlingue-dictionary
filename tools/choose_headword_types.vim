@@ -22,11 +22,14 @@ function! ChooseHeadwordTypes()
 
   while search('\t[^(]',"cW")
 
+  " Alternative to search for definitions that start with a comment:
+  "while search('\t(\a\+)',"cW")
+
     " Make sure the cursor is at the centre and redraw the screen
     normal z.
     redraw!
 
-    echo "[a]dj. a[d]v. [c]onj. [i]nterj. [n]. ]rep. [v]. [Q]UIT"
+    echo "[a]dj. a[d]v. [c]onj. [i]nterj. [n]. [p]rep. p[r]on. [v]. [Q]UIT"
 
     let l:key=nr2char(getchar())
 
@@ -42,6 +45,8 @@ function! ChooseHeadwordTypes()
       call SetHeadwordType("(n.)")
     elseif l:key=="p"
       call SetHeadwordType("(prep.)")
+    elseif l:key=="r"
+      call SetHeadwordType("(pron.)")
     elseif l:key=="v"
       call SetHeadwordType("(v.)")
     elseif l:key=="Q"
