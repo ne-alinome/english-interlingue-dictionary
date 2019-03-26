@@ -266,7 +266,7 @@ AFOOT|adv.|in eada|
 AFORE|prefix|pre-, antey|
 AFRAID|adj.|timorosi|
 AFRESH|adv.|denov|
-AFT|XXX|detra; in li stern|
+AFT|adv.|in detra; in li stern|
 AFTER|conj.|posque|
 AFTER|prep.|pos|
 AFTER ALL|adv.|in fine, pos omno, in summa|
@@ -295,7 +295,7 @@ AGITATE|v.|agitar (-ation, -ator)|
 AGLOW|adj.|ardent, fervent|
 AGNOSTIC|n.|agnostico|
 AGNOSTIC|adj.|agnostic|
-AGO|XXX|ante|
+AGO|n.|ante|
 AGONIZE|v.|tormentar, agonisar|
 AGONY|n.|torment(es), agonie|
 AGRARIAN|adj.|agrari|
@@ -353,7 +353,7 @@ ALIVE|adj.|vivent; vivid, alert, vivaci|
 ALKALI|n.|alcali (-in)|
 ALL|n.|(everything) omnicos; (the whole) li totalité, lu tot|
 ALL|adj.|(all the) omni|
-ALL BUT|XXX|presc|
+ALL BUT|adv.|presc|
 ALL OVER EUROPE|adv.|tra tot Europa|
 ALL THE YEAR ROUND|adv.|li tot annu|
 ALLAY|v.|calmar, aleviar, moderar, quietar, mitigar|
@@ -467,11 +467,11 @@ ANAESTHESIA|n.|anestesie|
 ANAESTHETIC|n.|anestetico|
 ANAESTHETIC|adj.|anestetic (-a)|
 ANAGRAM|n.|anagramma|
-ANALOGY|XXX|analog (-ie)|
+ANALOGY|n.|analog (-ie)|XXX FIXME -- analog/ie
 ANALYSE|v.|analisar|
 ANALYSIS|n.|analise|
 ANALYTICAL|adj.|analitic|
-ANARCHY|XXX|anarchic (-ist)|
+ANARCHY|n.|anarchic (-ist)|XXX FIXME -- anarchic/anarchie
 ANATHEMA|n.|anatema|
 ANATOMY|n.|anatomie (-ic, -ico, -isar), structura|
 ANCESTOR|n.|antecessor (-al), preavo|
@@ -569,7 +569,7 @@ ANY|adj. pron.|alquel, quelcunc; (any kind of) alqual, qualcunc. Often omitted|
 ANYBODY|n.|(interr.) alcun, alquí, alquem; (no matter who(m)) quicunc, quemcunc|
 ANYHOW|adv.|alquam; (no matter how) quamcunc|
 ANYTHING|n.|(interr.) alquó; (no matter what) quocunc|
-ANYTHING BUT|XXX|omno quam|
+ANYTHING BUT||omno quam| XXX FIXME --
 ANYWHERE|adv.|(interr.) alcú; (no matter where) ucunc|
 APACE|adv.|rapidmen, hastosimen|
 APART|adj.|apart, separat, isolat, desunit|
@@ -828,7 +828,7 @@ AT LEAST|adv.|adminim, alminu|
 AT LENGTH|adv.|in fine; detalliatmen|
 AT MOST|adv.|admaxim|
 AT ONCE|adv.|strax; simultanmen|
-AT ONE'S WITS' END|XXX|esser al fine de su Latin, plu ne saver quo far|
+AT ONE'S WITS' END||esser al fine de su Latin, plu ne saver quo far|XXX FIXME --
 AT PAR|adv.|al pari|
 AT PRESENT|adv.|in presente, nu|
 AT RANDOM|adv.|in hasarde|
@@ -934,9 +934,9 @@ AWAY|adv.|for, absent|
 AWE|n.|timore, veneration, reverentie|
 AWEARY|adj.|lassi, fatigat|
 AWFUL|adj.|terribil, horribil|
-AWHILE|XXX|poc momentes|
+AWHILE||poc momentes|XXX FIXME
 AWKWARD|adj.|ínhabil, genant, rustic; embarassant, plump|
-AWL|XXX|alen|
+AWL|n.|alen|
 AWNING|n.|(canopy) marquise, covritura|
 AWRY|adj.|tordet, obliqui|
 AXE|n.|hache|
@@ -962,7 +962,7 @@ BACKBONE|n.|spine dorsal|
 BACKGAMMON|n.|trictrac|
 BACKGROUND|n.|funde|
 BACKPEDAL|v.|retropedalar|
-BACKSHEESH|XXX|bakchich|
+BACKSHEESH|n.|bakchich|
 BACKSIDE|n.|cul|
 BACKSLIDE|v.|rebeller, apostasiar|
 BACKSLIDER|n.|apostatico|
@@ -1074,7 +1074,7 @@ BARN|n.|graniere|
 BARNACLE|n.|(goose) barnacle; (crustacean) cirripede|
 BAROMETER|n.|barometre (-ic)|
 BARON|n.|baron (-essa)|
-BAROQUE|XXX|baroc|
+BAROQUE|adj.|baroc|XXX FIXME -- baroc?
 BARQUE|n.|barca|
 BARRACKS|n.|baracca, caserne|
 BARRAGE|n.|barrage|
@@ -1111,7 +1111,7 @@ BATHE|v.|balnear; inmerser|
 BATHROOM|n.|chambre balneari|
 BATHS|n.|balnería, piscine|
 BATMAN|n.|servitor de oficero; soldate de ordonantie|
-BATRACHIAN|XXX|batracian|
+BATRACHIAN||batracian|XXX FIXME
 BATTALION|n.|battallion|
 BATTEN|n.|latte|
 BATTEN|v.|grassijar|
@@ -1120,7 +1120,7 @@ BATTER|v.|batter, dismartellar|
 BATTERING-RAM|n.|assalt-ramme|
 BATTERY|n.|batterie|
 BATTLE|n.|battallie, combatte|
-BATTLEDORE AND SHUTTLECOCK|XXX|rácket e volante|
+BATTLEDORE AND SHUTTLECOCK||rácket e volante|XXX FIXME
 BATTLELMENTS|n.|bastion, parapete, crenel|
 BAUBLE|n.|auripelle, ludette, bagatelle|
 BAULK|n.|trave|
@@ -1215,7 +1215,7 @@ BE WORTHY OF|v.|meriter (-osi, -ori)|
 BE ZEALOUS|v.|zelar (-ator, -ation)|
 BEACH|v.|strandar|
 BEACH|n.|plage, borde|
-BEACON|XXX|fares turre lucent; (on a hill) fanale; (at sea) boye, signal-marca, mar-signe|
+BEACON|n.|fares turre lucent; (on a hill) fanale; (at sea) boye, signal-marca, mar-signe|
 BEAD|n.|perle, globette|
 BEADLE|n.|pedello; servitor de tribunale; (church) intendante|
 BEAGLE|n.|chass-cane|
@@ -1270,14 +1270,14 @@ BEEFSTEAK|n.|bifstec|
 BEER|n.|bir|
 BEESWAX|n.|cire apin|
 BEETLE|n.|scarabe; (cockroach) blatte|
-BEETROOT|XXX|bet-rap|
+BEETROOT|n.|bet-rap|
 BEFALL|v.|evenir, accider|
 BEFIT|v.|convener, decer|
 BEFOG|v.|invelopar in nebul; confuser|
 BEFORE|conj.|ante que|
 BEFORE|n.|(place) avan (time or place) ante; (already) ja; (in the presence of) córam; (previously) antey|
-BEFORE HE CAME|XXX|ante que il arivat|
-BEFOREHAND|XXX|in ante, in avanse, antecipatmen|
+BEFORE HE CAME|expr.|ante que il arivat|
+BEFOREHAND|adv.|in ante, in avanse, antecipatmen|
 BEFOUL|v.|sordidar, macular|
 BEFRIEND|v.|protecter, patronisar|
 BEG|v.|(alms) mendicar; (request) petir, suplicar, implorar|
@@ -1301,7 +1301,7 @@ BEHEST|n.|ordon, decrete, comanda|
 BEHIND|adv.|in detra|
 BEHIND|n.|cul, posteriore|
 BEHIND|prep.|detra|
-BEHIND THE SCENES|XXX|detra li culisse|
+BEHIND THE SCENES|adv.|detra li culisse|
 BEHOLD|v.|vider, spectar, regardar|
 BEHOLD!|interj.|vi!|
 BEHOVE|v.|convener|
@@ -1335,7 +1335,7 @@ BELOVED|n.|cara, caro|
 BELOVED|adj.|car, amat, carissim|
 BELOW|adv.|infra, in infra|
 BELOW|prep.|sub|
-BELOW PAR|XXX|infra pari|
+BELOW PAR|adv.|infra pari|
 BELT|n.|cintura|
 BELVEDERE|n.|belvedere|
 BEMOAN|v.|deplorar, regretar, lamentar|
@@ -1371,7 +1371,7 @@ BESEEM|v.|decer, convener|
 BESET|v.|circumdar, persecuter; (siege) assediar|
 BESIDE|prep.|apu, proxim; except, exter|
 BESIDES|adv.|ultra to, in ultra, adplu|
-BESIDES FRENCH HE ALSO SPEAKS SPANISH|XXX|ultra francesi il parla anc hispan|
+BESIDES FRENCH HE ALSO SPEAKS SPANISH|expr.|ultra francesi il parla anc hispan|
 BESIEGE|v.|assediar, circumpresser|
 BESMEAR|v.|sordidar, macular|
 BESOM|n.|balaye|
@@ -1409,7 +1409,7 @@ BEWITCH|v.|insorciar, fascinar|
 BEYOND|prep.|ultra; trans; (past) préter|
 BI|prefix|bi-annual, -furcat, -lateral etc.|
 BIAS|n.|inclination, partialitá, tendentie, predilection|
-BIASSED AGAINST|XXX|prejudiciat contra|
+BIASSED AGAINST||prejudiciat contra|XXX FIXME
 BIB|n.|bavette|
 BIBLE|n.|bible (-ic)|
 BIBLIO|prefix|biblio-grafie, -maniac|
@@ -1478,7 +1478,7 @@ BLACK|adj.|nigri|
 BLACK|v.|(boots) cirar|
 BLACK ALDER|n.|frangul|
 BLACK-BEETLE|n.|blatte|
-BLACK-CURRANT|XXX|nigri crusbere, cassis (-iero)|
+BLACK-CURRANT|n.|nigri crusbere, cassis (-iero)|
 BLACK-FLY|n.|afise|
 BLACK-LEG|n.|renegate|
 BLACKAMOOR|n.|negro|
@@ -1628,7 +1628,7 @@ BOMBAST|n.|bombast (-ic)|
 BOMBER|n.|bombavion, porta-bombes|
 BON-MOT|n.|esprite, "bon-mot"|
 BONMOT|n.|esprite, "bon-mot"|
-BONA FIDE|XXX|genuin; in bon fide|
+BONA FIDE|adj.|genuin; in bon fide|
 BOND|n.|(tie) bande; (legal) contracte; (money) obligation|
 BONDAGE|n.|captivitá, sclaveríe, servitude|
 BONDS|n.|catenes|
@@ -1675,7 +1675,7 @@ BOTANIC|adj.|botanic (-o)|
 BOTANY|n.|botanica (-al)|
 BOTCH|v.|bosillar (-atura, -age)|
 BOTH|adj.|ambi|
-BOTH ... AND ...|XXX|é ... é ...|
+BOTH ... AND ...|conj.|é ... é ...|
 BOTHER|v.|vexar, íncomodar, trublar, tedar|
 BOTHER ABOUT|v.|suciar|
 BOTTLE|v.|inbotellar|
@@ -1690,7 +1690,7 @@ BOUNCE|v.|retrosaltar, ricochettar|
 BOUND|n.|(a leap) salta|
 BOUND|adj.|(obliged) obligat|
 BOUND|v.|saltar; (limit); bornar|
-BOUND FOR|XXX|destinat a|
+BOUND FOR|prep.|destinat a|
 BOUNDARY|n.|frontiere, límite|
 BOUNDS|n.|límite, born|
 BOUNTEOUS|adj.|generosi, liberal|
@@ -1897,7 +1897,7 @@ BULB|n.|(bot.) bulbe, túbere; (elect.) ampulle electric; lampe|
 BULGE|n.|bosse, protuberantie|
 BULGE|v.|protuberar, prominer|
 BULK|n.|pluparte; volúmine (-osi), masse; (size) grandore|
-BULKHEAD|XXX|clusion|
+BULKHEAD|n.|clusion|
 BULL|n.|bovo, tauro (-in, -eator, -ero); (papal) bulle|
 BULL'S EYE|n.|cible-centre|
 BULLDOG|n.|bulldogg|
@@ -1907,9 +1907,9 @@ BULLFINCH|n.|pírrul|
 BULLION|n.|aure o argente in barres|
 BULLOCK|n.|bove castrat|
 BULLY|n.|brute, tiranno, rixard|
-BULRUSH|XXX|glatt junc|
+BULRUSH|n.|glatt junc|
 BULWARK|n.|bastion, vall|
-BUMBLE-BEE|XXX|burdon|
+BUMBLE-BEE|n.|burdon|
 BUMP|n.|batte, colpe, choc; (hump) bosse|
 BUMPER|n.|plen glass; (rail.) parachoc, buffre|
 BUMPKIN|n.|plumpon, rustico|
@@ -1953,12 +1953,12 @@ BURST INTO A ROOM|v.|irupter in un chambre|
 BURY|v.|interrar, sepulter, inhumar|
 BUS|n.|autobus, omnibus|
 BUSH|n.|bosco, arbuste; (copse) boscage|
-BUSHEL|XXX|bushel|
+BUSHEL|n.|bushel|
 BUSHY|adj.|densi, toffosi, capillut|
 BUSINESS|n.|afere(s), comercie; (transaction) negocie (-ar)|
 BUSINESSLUCE|adj.|practic|
 BUSINESSMAN|n.|comerciante|
-BUSKIN|XXX|coturne|
+BUSKIN|n.|coturne|
 BUST|n.|buste|
 BUSTLE|n.|brue, activitá|
 BUSTLE|v.|moer se o far alquo agilmen, ocupar se|
@@ -1971,7 +1971,7 @@ BUTT|v.|pussar per li cap|
 BUTT|n.|baril; (thrust) pussa|
 BUTTEND|n.|spess extremitá; cloppe; (object) scope|
 BUTTER|n.|buttre|
-BUTTERCUP|XXX|ranuncul|
+BUTTERCUP|n.|ranuncul|
 BUTTERFLY|n.|papilion|
 BUTTERMILK|n.|buttre-serum|
 BUTTOCK|n.|fesse, sede, cul, posteriore|
@@ -1997,11 +1997,11 @@ BY NO MEANS|adv.|nequalmen|
 BY RETURN OF POST|adv.|per retroposta|
 BY ROTE|adv.|per memorie|
 BY STEALTH|adv.|furtivmen, insidiosimen|
-BY THAT HE MEANS|XXX|il vole dir per to que...|
-BY THE TIME WE ARRIVE|XXX|til quande noi va arivar|
+BY THAT HE MEANS|expr.|il vole dir per to que...|
+BY THE TIME WE ARRIVE|expr.|til quande noi va arivar|
 BY THE WAY|adv.|apropó, passante|
 BY TURNS|adv.|secun torne|
-BY WAY OF|XXX|quam|
+BY WAY OF|adv.|quam|
 BY-PRODUCT|n.|sub-producte|
 BYE-ELECTION|n.|election suplemental|
 BYE-LAW|n.|statute local|
@@ -2013,7 +2013,7 @@ BYSTANDER|n.|spectator, assistente|
 BYWORD|n.|proverbie; moc-nómine|
 CAB|n.|fiacre (-ero)|
 CABAL|n.|cabale, intriga, conspiration|
-CABBAGE|XXX|caul|
+CABBAGE|n.|caul|
 CABIN|n.|cabane, baracca; (on ship) cayute, cabine|
 CABIN BOY|n.|elev de nave|
 CABINET|n.|cabinette, chambrette; (cupboard) scaf; (pol.) consilie, ministerie|
@@ -2024,7 +2024,7 @@ CACAO|n.|cacáo|
 CACHALOT|n.|cachalote|
 CACHEXY|n.|cachexie|
 CACHINATION|n.|rision|
-CACHOU|XXX|eachú|
+CACHOU|n.|cachú|
 CACKLE|v.|cacarear|
 CACOPHONY|n.|cacofonie|
 CACTUS|n.|cacté|
@@ -2040,7 +2040,7 @@ CAFFEIN|n.|cafeine|
 CAGE|v.|incagear|
 CAGE|n.|cage|
 COGNATE|adj.|parent, afini|
-CAIRN|XXX|cairn, tumul|
+CAIRN|n.|cairn, tumul|
 CAISSON|n.|munition-vagone; casson|
 CAJOLE|v.|persuader, flattar, adular|
 CAKE|v.|incrustar se|
@@ -2076,7 +2076,7 @@ CALLOUS|adj.|ínsensibil, ínsusceptibil|
 CALLOW|adj.|ínmatur|
 CALM|v.|calmar, tranquilisar|
 CALM|adj.|calm, tranquil, quiet|
-CALOMEL|XXX|calomel|
+CALOMEL|n.|calomel|
 CALORY|n.|calorie (-ific)|
 CALUMNY|n.|calumnie (-ar, -osi)|
 CALYX|n.|cálice|
@@ -2087,7 +2087,7 @@ CAMEL|n.|camel|
 CAMELLIA|n.|camelia|
 CAMEO|n.|camé|
 CAMERA|n.|cámera|
-CAMISOLE|XXX|camisol|
+CAMISOLE|n.|camisol|
 CAMOMILE|n.|camomille|
 CAMOUFLAGE|v.|camuflar (-age)|
 CAMP|n.|camp (-ar)|
@@ -2095,11 +2095,11 @@ CAMP-BEDSTEAD|n.|plio-lettiere|
 CAMPAIGN|n.|campanie (-al)|
 CAMPANALOGY|n.|clocheation|
 CAMPANULA|n.|campanula|
-CAMPHOR|XXX|camfor (-ic)|
-CAMPION|XXX|lichnide|
+CAMPHOR|n.|camfor (-ic)|
+CAMPION|n.|lichnide|
 CAN|n.|potte, cruche; metallic scatulle|
 CAN|v.|inladar|
-CAN YOU SPARE THIS?|XXX|esque to es vos superflú?, esque vu dispone to?|
+CAN YOU SPARE THIS?|expr.|esque to es vos superflú?, esque vu dispone to?|
 CANAILLE|n.|canallia|
 CANAL|n.|canale (-isar)|
 CANALLOCK|n.|scluse|
@@ -2122,9 +2122,9 @@ CANKER|n.|cáncere, coruption|
 CANNIBAL|n.|canibale (-isrne), antropofago|
 CANNON|n.|cannone (-ar, -ada, -ero); (billiards) carambol (-ar)|
 CANNY|adj.|strangi; caut, circumspect, prudent|
-CANOE|XXX|canó|
+CANOE|n.|canó|
 CANON|n.|(a law) canon (-isar, -ic); (person) canonico|
-CANOPY|XXX|baldachine; (shade) covritura|
+CANOPY|n.|baldachine; (shade) covritura|
 CANT|v.|dissimular, ficter|
 CANT|n.|dissimulation|
 CANTANKEROUS|adj.|iritabil, morosi|
@@ -2274,7 +2274,7 @@ CATCH SIGHT OF|v.|percepter|
 CATCH UP WITH|v.|atinger|
 CATECHISM|n.|catechisme|
 CATEGORY|n.|categorie (-ic)|
-CATEIN|XXX|ament|
+CATEIN||ament|XXX FIXME
 CATER|v.|provisionar; cuidar|
 CATERPILLAR|n.|eruca|
 CATHARTIC|adj.|purgativ, laxativ|
@@ -2665,147 +2665,147 @@ CLOCKWORK|n.|mecanisme|
 CLOD|n.|gleb; (lump) bul|
 CLOG|n.|(shoe) ligni-sapate|
 CLOG|v.|impedir, genar, obstructer|
-CLOISTER|XXX|claustre, monastere, monaciera, conventu|
+CLOISTER|n.|claustre, monastere, monaciera, conventu|
 CLOSE|adj.|(near) proxim; (dense) densi; (miserly) avari, mesquin; (secret) secret, celat; (atmosphere) sufocant; (musty) mofosi|
 CLOSE|n.|fine, conolusion|
 CLOSE|v.|cluder, finir, terminar|
-CLOSET|XXX|closete, cabinete; (w.c.) latrine|
-CLOSURE|XXX|clusura|
+CLOSET|n.|closete, cabinete; (w.c.) latrine|
+CLOSURE|n.|clusura|
 CLOT|n.|masse, glom|
 CLOT|v.|coagular (-ation)|
-CLOTH|XXX|drap; (a cloth) linage; (naut.) seglage|
+CLOTH|n.|drap; (a cloth) linage; (naut.) seglage|
 CLOTHE|v.|vestir (-iment)|
-CLOTHES HOOK|XXX|patere|
-CLOTHIER|XXX|drapero, vestimentero|
-CLOUD|XXX|nube (-at, -osi)|
-CLOUDLESS|XXX|sin nubes, clar, seren|
+CLOTHES HOOK|n.|patere|
+CLOTHIER|n.|drapero, vestimentero|
+CLOUD|n.|nube (-at, -osi)|
+CLOUDLESS|adj.|sin nubes, clar, seren|
 CLOUT|n.|(rag) lapp; (blow) colpe|
-CLOVE|XXX|cariofil|
-CLOVER|XXX|trifolie|
-CLOWN|XXX|buffon, arlequin, clown; (boor) rustico, plumpon|
+CLOVE|n.|cariofil|
+CLOVER|n.|trifolie|
+CLOWN|n.|buffon, arlequin, clown; (boor) rustico, plumpon|
 CLUB|v.|clobbar|
 CLUB|n.|club; (cards) treff; (weapon) clobbe|
 CLUCK|v.|glussar|
-CLUE|XXX|fil, guide, clave, signe|
-CLUMP|XXX|clump, gruppe|
-CLUMSY|XXX|ínhabil, pesant, plump|
+CLUE|n.|fil, guide, clave, signe|
+CLUMP|n.|clump, gruppe|
+CLUMSY|adj.|ínhabil, pesant, plump|
 CLUSTER|n.|(grapes) uve; (trees etc.) gruppe; (flowers) toff|
 CLUTCH|n.|griffe; (motoring) acuplator|
 CLUTCH|v.|capter, tener|
-CLUTCH PEDAL|XXX|pedale de acuplage|
+CLUTCH PEDAL|n.|pedale de acuplage|
 CO-OPERATE|v.|cooperar (-ation, -ativ, -ative)|
 CO-OPT|v.|cooptar (-ation)|
 CO-ORDINATE|v.|coordinar (-ation, -ator, -ates)|
-COACH|XXX|coche (-ero), caleche, carosse; (rail.) vagon; (tutor) privat instructor|
+COACH|n.|coche (-ero), caleche, carosse; (rail.) vagon; (tutor) privat instructor|
 COAGULATE|v.|coagular (-ation)|
 COAL|v.|(a ship) cargar carbon, prender carbon|
 COAL|n.|carbon (-iere, -iera)|
 COALESCE|v.|fuser, fusionar|
-COAMINGS|XXX|sill|
-COARSE|XXX|rud, vnlgari, índelicat, gross, crud|
+COAMINGS|n.pl.|sill|
+COARSE|adj.|rud, vulgari, índelicat, gross, crud|
 COAST|v.|cabotar (-age, -ero)|
 COAST|n.|costa, marborde, líttore, rive|
 COAT|n.|(jacket) jaque, veston; (dress coat) frac; (of animals) pelisse. (coat of arms) blason|
-COAT OF ARMS|XXX|blason, emblema|
-COAT-HANGER|XXX|veste-croc|
-COATED|XXX|stuccat, incrustat|
+COAT OF ARMS|n.|blason, emblema|
+COAT-HANGER|n.|veste-croc|
+COATED|adj.|stuccat, incrustat|
 COAX|v.|persuaDer|
-COB|XXX|un fort pony; (maize) spica|
-COBALT|XXX|cobalt|
+COB||un fort pony; (maize) spica|XXX FIXME
+COBALT|n.|cobalt|
 COBBLE|v.|lappar, reparar|
-COBBLER|XXX|sapatero, sapat-reparator|
-COCA|XXX|coca|
-COCAINE|XXX|coca|
-COCBOAT|XXX|yoll, chalupe|
-COCHINEAL|XXX|cochenill|
+COBBLER|n.|sapatero, sapat-reparator|
+COCA|n.|coca|
+COCAINE|n.|coca|
+COCBOAT|n.|yoll, chalupe|
+COCHINEAL|n.|cochenill|
 COCK|n.|(fowl) gallino; (of gun) clave; (tap) robinete, tornette|
 COCK A GUH|v.|tender li clave|
-COCKADE|XXX|cocarde|
-COCKATOO|XXX|cacatú|
-COCKATRICE|XXX|basilisco|
-COCKCHAFER|XXX|melolont|
-COCKCROWL|XXX|cante gallinin|
-COCKEREL|XXX|gallinello|
+COCKADE|n.|cocarde|
+COCKATOO|n.|cacatú|
+COCKATRICE|n.|basilisco|
+COCKCHAFER|n.|melolont|
+COCKCROWL|n.|cante gallinin|
+COCKEREL|n.|gallinello|
 COCKLE|n.|(zool.) cardio|
 COCKPIT|n.|(naut.) cocpit|
-COCKROACH|XXX|blatte|
-COCKSCOMB|XXX|crest del gallino|
-COCOA|XXX|cacáo|
-COCONUT|XXX|coco|
-COCONUTTREE|XXX|cocopalme|
-COCOON|XXX|cocon|
+COCKROACH|n.|blatte|
+COCKSCOMB|n.|crest del gallino|
+COCOA|n.|cacáo|
+COCONUT|n.|coco|
+COCONUTTREE|n.|cocopalme|
+COCOON|n.|cocon|
 COD|n.|(fish) morúe|
 CODDLE|v.|dorlotar; afeminar|
-CODE|XXX|code (-ificar)|
-CODICIL|XXX|codicille|
-COEFFICIENT|XXX|coeficiente|
+CODE|n.|code (-ificar)|
+CODICIL|n.|codicille|
+COEFFICIENT|n.|coeficiente|
 COERCE|v.|fortiar, obligar, coercir|
-COEVAL|XXX|contemporan, de sam epoca|
-COFFEE|XXX|café|
-COFFEEPOT|XXX|cafeiere|
-COFFER|XXX|coffre, moné-bux|
-COFFIN|XXX|sarco|
-COG|XXX|dente|
-COGENT|XXX|convictiv|
+COEVAL|adj.|contemporan, de sam epoca|
+COFFEE|n.|café|
+COFFEEPOT|n.|cafeiere|
+COFFER|n.|coffre, moné-bux|
+COFFIN|n.|sarco|
+COG|n.|dente|
+COGENT|adj.|convictiv|
 COGITATE|v.|meditar, reflecter|
-COGNAC|XXX|cognac|
-COGNOMEN|XXX|co-nómine|
-COGWHEEL|XXX|rote dentat|
+COGNAC|n.|cognac|
+COGNOMEN|n.|co-nómine|
+COGWHEEL|n.|rote dentat|
 COHABIT|v.|cohabitar|
 COHERE|v.|coherer (-ent)|
-COHESION|XXX|cohesion|
-COHFIGURATION|XXX|cohfiguration|
-COHTEMPORARY|n.|contemporane|
-COIFFURE|XXX|cofie|
+COHESION|n.|cohesion|
+CONFIGURATION|n.|cohfiguration|
+CONTEMPORARY|n.|contemporane|
+COIFFURE|n.|cofie|
 COIL|v.|voluer, spular, invelopar|
 COIL|n.|spul, rul|
-COIN|XXX|monete (-ar, -ari)|
+COIN|n.|monete (-ar, -ari)|
 COINCIDE|v.|coincider (-ent, -entie)|
-COKE|XXX|cocs|
-COKERNUT|XXX|coco|
-COLANDER|XXX|cribelle|
+COKE|n.|cocs|
+COKERNUT|n.|coco|
+COLANDER|n.|cribelle|
 COLD|adj.|frigid|
 COLD|n.|frigore; (med.) catarre, refrigidation|
-COLIC|XXX|colica|
+COLIC|adj.|colica|
 COLLABORATE|v.|colaborar (-ation, -ator)|
 COLLAPSE|v.|crular, cader in ruinas, coruir, discader|
-COLLAPSIBLE BOAT|XXX|bote plicabil|
+COLLAPSIBLE BOAT|n.|bote plicabil|
 COLLAR|v.|capter|
 COLLAR|n.|colare, coliere|
-COLLAR-BONE|XXX|clavicul|
+COLLAR-BONE|n.|clavicul|
 COLLATE|v.|comparar|
-COLLATERAL|XXX|collateral|
-COLLEAGUE|XXX|colego (-a)|
+COLLATERAL|adj.|collateral|
+COLLEAGUE|n.|colego (-a)|
 COLLECT|n.|colecte|
 COLLECT|v.|colecter (-ion, -or, -iv, -ivisme, -ivist)|
 COLLECTED|adj.|(in mind) tranquil|
-COLLEGE|XXX|colegia (-al), universitá|
+COLLEGE|n.|colegia (-al), universitá|
 COLLIDE|v.|coliDer (-sion)|
-COLLIER|XXX|carbon(labor)ero, minero|
-COLLIERY|XXX|carboniera|
+COLLIER|n.|carbon(labor)ero, minero|
+COLLIERY|n.|carboniera|
 COLLOCATE|v.|colocar (-ation), ordinar, arangear|
-COLLODION|XXX|colodium|
+COLLODION|n.|colodium|
 COLLOQUIAL|adj.|(lingue) familiari, usual|
-COLLUSION|XXX|colusion, secret acordantie|
-COLON|XXX|cólon|
-COLONEL|XXX|colonel|
-COLONNADE|XXX|colonnade|
-COLONY|XXX|colonia (-al, -ist, -isar)|
-COLOSSUS|XXX|colosse (-al)|
-COLOUR|XXX|color (-ar, -ation, -ist), pigment, tinctuira; (fig.) pretexte|
-COLOURING|XXX|colorit|
-COLOURLESS|XXX|sin colore|
+COLLUSION|n.|colusion, secret acordantie|
+COLON|n.|cólon|
+COLONEL|n.|colonel|
+COLONNADE|n.|colonnade|
+COLONY|n.|colonia (-al, -ist, -isar)|
+COLOSSUS|n.|colosse (-al)|
+COLOUR|n.|color (-ar, -ation, -ist), pigment, tinctuira; (fig.) pretexte|
+COLOURING|n.|colorit|
+COLOURLESS|adj.|sin colore|
 COLOURS|n.|(flag) standarte|
-COLPORTEUR|XXX|colportero|
-COLT|XXX|cavallello|
+COLPORTEUR|n.|colportero|
+COLT|n.|cavallello|
 COLUMBINE|n.|(bot.) aquilegie; (theatre) colombina|
 COLUMN|n.|(arch.) colonne; (typ.) columne|
-COMA|XXX|coma (-tosi)|
-COMB|XXX|péctine (-ar); creste|
+COMA|n.|coma (-tosi)|
+COMB|n.|péctine (-ar); creste|
 COMBAT|v.|combatter, luctar; polemisar, disputar|
 COMBINE|v.|combinar (-ation , -ator), ligar, junter, unir, unionar|
-COMBUSTIBLE|XXX|combustibil|
-COMBUSTION|XXX|combustion|
+COMBUSTIBLE|adj.|combustibil|
+COMBUSTION|n.|combustion|
 COME|v.|venir|
 COME ABOUT|v.|evenir|
 COME ACROSS|v.|incontrar|
@@ -2820,223 +2820,223 @@ COME TO PASS|v.|evenir|
 COME TO TERM|v.|interacordar|
 COME TO THE HELP OF|v.|venir al sucurse de|
 COME UNDONE|v.|deligar se|
-COMEDIAN|XXX|comico, comediante|
-COMEDY|XXX|comedie|
-COMELY|XXX|pretti, graciosi|
-COMESTIBLES|XXX|comestibles, victuales|
-COMET|XXX|comete|
-COMFIT|XXX|sucrage|
+COMEDIAN|n.|comico, comediante|
+COMEDY|n.|comedie|
+COMELY|adj.|pretti, graciosi|
+COMESTIBLES|n.|comestibles, victuales|
+COMET|n.|comete|
+COMFIT|n.|sucrage|
 COMFORT|n.|consolation, comforte|
 COMFORT|v.|consolar, injoyar|
-COMFORTABLE|XXX|comfortabil, comod, agreabil|
+COMFORTABLE|adj.|comfortabil, comod, agreabil|
 COMIC|adj.|comic (-o)|
-COMMA|XXX|comma|
+COMMA|n.|comma|
 COMMAND|n.|comande, ordone, decrete|
 COMMAND|v.|comandar, ordonar, dominar, mastrisar|
 COMMANDEER|v.|prender per fortie|
-COMMANDMENT|XXX|comandament|
+COMMANDMENT|n.|comandament|
 COMMEMORATE|v.|festar, comemorar (-ation, -ativ)|
 COMMENCE|v.|comensar|
-COMMENCEMENT|XXX|comense|
+COMMENCEMENT|n.|comense|
 COMMEND|v.|laudar, recomandar|
-COMMENSURATE|XXX|proportional, relativ|
+COMMENSURATE|adj.|proportional, relativ|
 COMMENT|n.|comenta, nota, remarca|
 COMMENT|v.|comentar (-ation, -ator, -arie)|
-COMMERCE|XXX|comercie (-al), afere, negocie|
+COMMERCE|n.|comercie (-al), afere, negocie|
 COMMISERATE|v.|comiserar, compatir|
 COMMISSARIAT|mil.|comissariatu, intendantùra|
-COMMISSARY|XXX|comissario|
-COMMISSION|XXX|comission (-ario), charge, mandate, comende|
+COMMISSARY|n.|comissario|
+COMMISSION|n.|comission (-ario), charge, mandate, comende|
 COMMIT|v.|cometter, far; (entrust) confider|
 COMMIT ADULTERY|v.|adulterar|
 COMMIT SUICIDE|v.|suicidiar|
-COMMITTEE|XXX|comité|
-COMMODE|XXX|comode|
-COMMODIOUS|XXX|comod, spaciosi, vast, ampli|
-COMMODITY|XXX|merce|
-COMMODORE|XXX|comodore|
+COMMITTEE|n.|comité|
+COMMODE|n.|comode|
+COMMODIOUS|adj.|comod, spaciosi, vast, ampli|
+COMMODITY|n.|merce|
+COMMODORE|n.|comodore|
 COMMON|n.|comun pastura;|
 COMMON|adj.|comun, ordinari, banal, trivial, vulgari, frequent|
-COMMONALTY|XXX|comunitá, populache|
-COMMONER|XXX|cive|
-COMMONPLACE|XXX|banal (-itá), ordinari|
-COMMONWEAL|XXX|bene public|
-COMMONWEALTH|XXX|comunalité|
-COMMOTION|XXX|tumultu, comotion|
-COMMUNE|XXX|comunité, publica, municipie|
+COMMONALTY|n.|comunitá, populache|
+COMMONER|n.|cive|
+COMMONPLACE|adj.|banal (-itá), ordinari|
+COMMONWEAL|n.|bene public|
+COMMONWEALTH|n.|comunalité|
+COMMOTION|n.|tumultu, comotion|
+COMMUNE|n.|comunité, publica, municipie|
 COMMUNE WITH|v.|conferer con|
-COMMUNICANT|XXX|comunient|
+COMMUNICANT|n.|comunient|
 COMMUNICATE|v.|comunicar (-ation, -ativ), informar, advertir, dar avise|
 COMMUNION|eccles.|comunion, eucaristie|
-COMMUNIST|XXX|comunist (-ic, -isme)|
-COMMUNITY|XXX|comunité|
+COMMUNIST|n.|comunist (-ic, -isme)|
+COMMUNITY|n.|comunité|
 COMMUTE|v.|changear; comutar; (a sentence) transformar, amildar|
 COMPACT|adj.|compact, compresset|
-COMPANION|XXX|compane, socio|
-COMPANY|XXX|companie, societé, association, truppe, bande; confratrie|
+COMPANION|n.|compane, socio|
+COMPANY|n.|companie, societé, association, truppe, bande; confratrie|
 COMPARE|v.|comparar (-abil, -ation, -ativ, -ative)|
-COMPARISON|XXX|comparation|
-COMPARTMENT|XXX|rayon, branche, compartiment; (rail.) cupé|
-COMPASS|XXX|circuit, circul, sfere, circumferentie; (extent) extension, limites; (ship's) bussol; (pair of compasses) compasse|
-COMPASSION|XXX|compassion, misericordie|
-COMPATIBLE|XXX|campatabil|
-COMPATRIOT|XXX|compatriot|
-COMPEER|XXX|socio|
+COMPARISON|n.|comparation|
+COMPARTMENT|n.|rayon, branche, compartiment; (rail.) cupé|
+COMPASS|n.|circuit, circul, sfere, circumferentie; (extent) extension, limites; (ship's) bussol; (pair of compasses) compasse|
+COMPASSION|n.|compassion, misericordie|
+COMPATIBLE|adj.|compatabil|
+COMPATRIOT|n.|compatriot|
+COMPEER|n.|socio|
 COMPEL|v.|fortiar, obligar|
-COMPENDIUM|XXX|compendie, extrate|
+COMPENDIUM|n.|compendie, extrate|
 COMPENSATE|v.|compensar (-ation, -atori), rimborsar, reparar|
 COMPETE|v.|concurrer, competir (-itor, -ition)|
-COMPETENCE|XXX|suficentie, habilitá, competentie|
-COMPETENT|XXX|competent (-ie)|
+COMPETENCE|n.|suficentie, habilitá, competentie|
+COMPETENT|adj.|competent (-ie)|
 COMPILE|v.|compilar (-ation, -ator)|
-COMPLACENT|XXX|content, self-satisfat|
+COMPLACENT|adj.|content, self-satisfat|
 COMPLAIN|v.|plendir, lamentar|
-COMPLAINT|XXX|plende, petition; maladie, índisposition|
-COMPLAISENT|XXX|complesent (-ie), gentil|
-COMPLEMENT|XXX|complement (-ari), suplement|
+COMPLAINT|n.|plende, petition; maladie, índisposition|
+COMPLAISENT|adj.|complesent (-ie), gentil|
+COMPLEMENT|n.|complement (-ari), suplement|
 COMPLETE|adj.|complet|
 COMPLETE|v.|compleer, completar, finir, perfectionar|
-COMPLEX|XXX|complex (-itá), complicat; (noion) complexe|
-COMPLEXION|XXX|facie-color, carnation|
+COMPLEX|adj.|complex (-itá), complicat; (noion) complexe|
+COMPLEXION|n.|facie-color, carnation|
 COMPLICATE|v.|complicar (-ation)|
-COMPLICITY|XXX|complicitá, complicie|
-COMPLIMENT|XXX|compliment (-ar, -ari)|
+COMPLICITY|n.|complicitá, complicie|
+COMPLIMENT|n.|compliment (-ar, -ari)|
 COMPLY|v.|submetter se a, ceder, obedir|
-COMPONENT|XXX|componente, element, parte, ingrediente|
+COMPONENT|n.|componente, element, parte, ingrediente|
 COMPORT|v.|conduir se (-ida)|
 COMPOSE|v.|composir (-ition, -itor); (oneself) quietar, tranquilisar se; (set up type) composter (-ero, -or)|
-COMPOSITE|XXX|composit, complicat|
-COMPOSITION|XXX|composition, artícul, ovre; consistentie|
-COMPOST|XXX|composte|
-COMPOSURE|XXX|tranquilitá, calmie|
-COMPOTE|XXX|compotte|
+COMPOSITE|adj.|composit, complicat|
+COMPOSITION|n.|composition, artícul, ovre; consistentie|
+COMPOST|n.|composte|
+COMPOSURE|n.|tranquilitá, calmie|
+COMPOTE|n.|compotte|
 COMPOUND|adj.|complex|
 COMPOUND|n.|mixtura, combination|
 COMPOUND|v.|mixter, combinar, junter|
-COMPOUND INTEREST|XXX|intereste acumulativ|
+COMPOUND INTEREST|n.|intereste acumulativ|
 COMPOUND WITH ONE'S CREDITORS|v.|atinger un arangeament con su creditores|
 COMPREHEND|v.|comprenDer (-sion, -sibil), percepter, capir, incluDer|
-COMPREHENSIVE|XXX|inbrassant, vast, extensiv|
+COMPREHENSIVE|adj.|inbrassant, vast, extensiv|
 COMPRESS|v.|compresser (-ion, -or, -ibil)|
 COMPRISE|v.|inbrassar, contener, incluDer|
 COMPROMISE|n.|compromisse, arangeament|
 COMPROMISE|v.|compromisser (-ion); (a person) comprometter (-ent)|
-COMPULSION|XXX|fortiation, pression,obligation|
-COMPULSORY|XXX|obligativ, obligatori|
+COMPULSION|n.|fortiation, pression,obligation|
+COMPULSORY|adj.|obligativ, obligatori|
 COMPUTE|v.|computar, calcular; evaluar, taxar (-ation)|
-COMRADE|XXX|camarado, compane, socio|
+COMRADE|n.|camarado, compane, socio|
 CON|v.|studiar, leer atentivmen|
 CONCATENATE|v.|concatenar (-ation)|
-CONCAVE|XXX|cavi, concav (-itá)|
+CONCAVE|adj.|cavi, concav (-itá)|
 CONCEAL|v.|celar, ocultar|
 CONCEDE|v.|conceder (-ssion)|
-CONCEIT|XXX|vanitá, presumption, imagination, idé|
-CONCEITED|XXX|vanitosi, fier, ínmodest|
+CONCEIT|n.|vanitá, presumption, imagination, idé|
+CONCEITED|adj.|vanitosi, fier, ínmodest|
 CONCEIVE|v.|capir, comprender, concepter, presentar se, imaginar; (become pregnant) gravidijar, concepter|
 CONCENTRATE|v.|concentrar (-ation, -ic)|
-CONCEPT|XXX|conception, notion, idé|
+CONCEPT|n.|conception, notion, idé|
 CONCERN|n.|afere, interesse|
 CONCERN|v.|concerner (-ent)|
 CONCERNING|prep.|concernente, pri|
 CONCERT|v.|interconsentir|
 CONCERT|n.|concert; (agreement) acorde, consente|
-CONCERTINA|XXX|concertina|
-CONCESSION|XXX|concession (-ario)|
-CONCHOLOGY|XXX|conchologie|
+CONCERTINA|n.|concertina|
+CONCESSION|n.|concession (-ario)|
+CONCHOLOGY|n.|conchologie|
 CONCILIATE|v.|conciliar (-ant, -ation, -ator)|
-CONCISE|XXX|concis|
-CONCLAVE|XXX|conclave|
+CONCISE|adj.|concis|
+CONCLAVE|n.|conclave|
 CONCLUDE|v.|concluDer (-sion, -siv), finir, terminar|
 CONCOCT|v.|fabricar, preparar, cocinar, excogitar, inventer|
-CONCOMITANT|XXX|acompaniant, samtemporal, co-existent|
+CONCOMITANT|adj.|acompaniant, samtemporal, co-existent|
 CONCORD|v.|concordar|
 CONCORD|n.|concordie|
-CONCOURSE|XXX|assemblé; turbe|
+CONCOURSE|n.|assemblé; turbe|
 CONCRETE|adj.|concret (-isar)|
 CONCRETE|n.|beton|
-CONCUBINE|XXX|concubina (-age, -atu)|
-CONCUPISCENCE|XXX|voluptá, voluptositá, concupiscentie|
+CONCUBINE|n.|concubina (-age, -atu)|
+CONCUPISCENCE|n.|voluptá, voluptositá, concupiscentie|
 CONCUR|v.|consentir, coincider|
-CONCUSSION|XXX|comotion cerebral|
+CONCUSSION|n.|comotion cerebral|
 CONDEMN|v.|condamnar, blamar, desaprobar|
 CONDENSE|v.|condensar (-ation, -ator), compresser|
 CONDESCEND|v.|condescender (-entie), dignar, compleser|
-CONDIGN|XXX|meritet|
-CONDIMENT|XXX|condiment, spice|
-CONDITION|XXX|condition (-al, -ar), statu|
+CONDIGN|adj.|meritet|
+CONDIMENT|n.|condiment, spice|
+CONDITION|n.|condition (-al, -ar), statu|
 CONDOLE|v.|condoler (-ent, -entie)|
 CONDONE|v.|pardonar, excusar|
-CONDOR|XXX|condor|
+CONDOR|n.|condor|XXX TODO -- confir accent
 CONDUCE|v.|contribuer, axixiliar, servir, favorisar|
 CONDUCT|n.|conduida|
 CONDUCT|v.|ducter, guidar, directer; (behave) conduir (se)|
-CONDUCTOR|XXX|conductor; (mus.) director, capellmastro, chef de orchestre, dirigente|
-CONDUIT|XXX|aqua-tub|
-CONE|XXX|cone (-ic)|
-CONFECTIONERY|XXX|sucrage (-ero, -ería)|
+CONDUCTOR|n.|conductor; (mus.) director, capellmastro, chef de orchestre, dirigente|
+CONDUIT|n.|aqua-tub|
+CONE|n.|cone (-ic)|
+CONFECTIONERY|n.|sucrage (-ero, -ería)|
 CONFEDERATE|v.|confederar (-ation, -ativ), alliar|
 CONFER|v.|conferer (-entie. -entiero); (bestow) dar; (consult) consultar|
 CONFESS|v.|declarar, confesser (-ion, -or, -ionale)|
 CONFIDE|v.|confider (-ent, -entie, -ential)|
-CONFIDENT|XXX|cert|
+CONFIDENT|adj.|cert|
 CONFINE|n.|confine|
 CONFINE|v.|limitar, restricter, incarcerar, confinar; (childbirth) acuchar|
 CONFIRM|v.|confirmar (-ation), constatar|
-CONFIRMED|XXX|fix, constant; (med.) cronic|
+CONFIRMED|adj.|fix, constant; (med.) cronic|
 CONFISCATE|v.|confiscar (-ation)|
-CONFLAGRATION|XXX|incendie, flagration|
+CONFLAGRATION|n.|incendie, flagration|
 CONFLICT|n.|conflicte, lucte|
 CONFLICT|v.|conflicter|
-CONFLUENCE|XXX|confluentie|
+CONFLUENCE|n.|confluentie|
 CONFORM|v.|adaptar, conformar (-ation, -ativ, -itá)|
-CONFORMABLE|XXX|conform|
+CONFORMABLE|adj.|conform|
 CONFOUND|v.|confuser, destructer|
-CONFOUND HIM!|XXX|li diábol mey capter le!|
-CONFRATERNITY|XXX|fraternité|
-CONFRERE|XXX|colego|
+CONFOUND HIM!|expr.|li diábol mey capter le!|
+CONFRATERNITY|n.|fraternité|
+CONFRERE|n.|colego|
 CONFRONT|v.|confrontar (-ation)|
 CONFUSE|v.|confuser (-ion); inbrolliar|
 CONFUTE|v.|convicter pri erra, confutar|
 CONGEAL|v.|gelar, glaciar se, congelar (-ation)|
-CONGENER|XXX|homogen|
-CONGENIAL|XXX|plesent, simpatic, afini|
-CONGENITAL|XXX|natural, de nascentie, ínnascet, congenital|
+CONGENER||homogen|XXX FIXME
+CONGENIAL|adj.|plesent, simpatic, afini|
+CONGENITAL|adj.|natural, de nascentie, ínnascet, congenital|
 CONGER|n.|mar-anguille, congre|
-CONGERIES|XXX|conglomerate|
+CONGERIES|n.|conglomerate|
 CONGEST|v.|congester (-ion, -ionar)|
 CONGLOMERATE|v.|conglomerar (-ation, -ate)|
 CONGRATULATE|v.|gratular (-ation, -atori), felicitar|
 CONGREGATE|v.|congregar (-ation), assemblar, convenir|
-CONGRESS|XXX|congress|
-CONGRUENT|XXX|congruent (-ie)|
-CONIFER|XXX|conifere|
+CONGRESS|n.|congress|
+CONGRUENT|adj.|congruent (-ie)|
+CONIFER|n.|conifere|
 CONJECTURE|v.|conjecter (-ion, -ura), suposir|
 CONJOIN|v.|conjunter (-ion, -iv, -ura)|
-CONJUGAL|XXX|conjugal, marital, matrimonial|
+CONJUGAL|adj.|conjugal, marital, matrimonial|
 CONJUGATE|v.|conjugar (-ation)|
-CONJUNCTION|XXX|conjuntion|
+CONJUNCTION|n.|conjuntion|
 CONJURE|v.|(beseech) conjurar; (perform tricks) prestidigitar, jonglar (-ero, -eríe)|
 CONNECT|v.|conexer (-ion)|
-CONNECTION|XXX|relation, parentité; conexion; (person) parente|
-CONNING-TOWER|XXX|comanda-turre|
+CONNECTION|n.|relation, parentité; conexion; (person) parente|
+CONNING-TOWER|n.|comanda-turre|
 CONNIVE|v.|coniventiar, esser in complicitá con|
-CONNOISSEUR|XXX|conossero|
+CONNOISSEUR|n.|conossero|
 CONNOTE|v.|significar|
-CONNUBIAL|XXX|nuptial, marital|
+CONNUBIAL|adj.|nuptial, marital|
 CONQUER|v.|conquestar (-ation, -ator); victer, superar|
-CONQUEST|XXX|victorie, triumf, conqueste|
-CONSANGUINEOUS|XXX|parent, consanguin (-itá)|
-CONSCIENCE|XXX|conscientie (-osi)|
-CONSCIOUS|XXX|conscient|
+CONQUEST|n.|victorie, triumf, conqueste|
+CONSANGUINEOUS|adj.|parent, consanguin (-itá)|
+CONSCIENCE|n.|conscientie (-osi)|
+CONSCIOUS|adj.|conscient|
 CONSCRIPT|v.|(mil.) conscrir (-te, -tion), recrutar|
 CONSECRATE|v.|consacrar (-ation), benedir, dedicar|
-CONSECUTIVE|XXX|consecutiv, successiv|
-CONSENSUS|XXX|consentiment|
+CONSECUTIVE|adj.|consecutiv, successiv|
+CONSENSUS|n.|consentiment|
 CONSENT|n.|consente|
 CONSENT|v.|consentir|
-CONSEQDENTIAL|XXX|pomposi|
-CONSEQUENCE|XXX|consequentie, resultate, importantie|
-CONSEQUENTLY|XXX|ergo, dunc, per consequentie|
+CONSEQDENTIAL|adj.|pomposi|
+CONSEQUENCE|n.|consequentie, resultate, importantie|
+CONSEQUENTLY|adv.|ergo, dunc, per consequentie|
 CONSERVE|v.|conservar (-ation, -ator, -ativ, -atori), preservar; (fruit etc.) confiter|
 CONSIDER|v.|considerar (-ation, -abil)} contemplar, prender in calcul, egardar|
 CONSIDERATE|adj.|indulgent|
@@ -3051,24 +3051,24 @@ CONSOLE|v.|consolar (-ation, -ativ)|
 CONSOLIDATE|v.|consolidar (-ation)|
 CONSONANT|adj.|consonant|
 CONSONANT|n.|consonante|
-CONSORT|XXX|consort, socio|
+CONSORT|n.|consort, socio|
 CONSORT WITH|v.|associar se con|
-CONSPICUOUS|XXX|prominent, clar, salient, frappant|
+CONSPICUOUS|adj.|prominent, clar, salient, frappant|
 CONSPIRE|v.|conspirar (-ation, -ator), complotar|
-CONSTABLE|XXX|policist, conestable|
-CONSTANT|XXX|constant (-e, -ie), frequent|
-CONSTELLATION|XXX|constellation|
+CONSTABLE|n.|policist, conestable|
+CONSTANT|adj.|constant (-e, -ie), frequent|
+CONSTELLATION|n.|constellation|
 CONSTERNATE|v.|consternar (-ation)|
 CONSTIPATE|v.|constipar (-ation)|
-CONSTITUENCY|XXX|districte electoral|
-CONSTITUENT|XXX|elector|
+CONSTITUENCY|n.|districte electoral|
+CONSTITUENT|n.|elector|
 CONSTITUTE|v.|constituer (-tion, -tional, -tiv, -ente)|
 CONSTRAIN|v.|fortiar, obligar|
-CONSTRAINT|XXX|fortie, fortiation|
+CONSTRAINT|n.|fortie, fortiation|
 CONSTRICT|v.|constricter (-ion, -iv), contraer|
 CONSTRUCT|v.|constructer (-ion, -iv, -or)|
 CONSTRUE|v.|interpretar|
-CONSUL|XXX|consul (-atu)|
+CONSUL|n.|consul (-atu)|
 CONSULT|v.|consultar (-ation)|
 CONSUME|v.|consumpter (-ion, -iv); (eat) manjar|
 CONSUMMATE|adj.|habilissim|
@@ -3076,193 +3076,194 @@ CONSUMMATE|v.|completar, perfecter|
 CONSUMPTION|med.|ftise (-ic); consumption|
 CONTACT|v.|comunicar con, contacter|
 CONTACT|n.|contacte|
-CONTAGION|XXX|contagie (-osi), infection|
+CONTAGION|n.|contagie (-osi), infection|
 CONTAIN|v.|contener (-ete, -entie, -ida)|
 CONTAMINATE|v.|contaminar (-ation), polluer, infecter (-ion)|
 CONTEMN|v.|despecter, despreciar|
 CONTEMPLATE|v.|contemplar (-ation, -ativ)|
-CONTEMPORANEOUS|XXX|contemporan (-ie)|
-CONTEMPT|XXX|despection|
-CONTEMPTIBLE|XXX|abject, depreciabil|
-CONTEMPTUOUS|XXX|orgolliosi, depreciant, sarcastic|
+CONTEMPORANEOUS|adj.|contemporan (-ie)|
+CONTEMPT|n.|despection|
+CONTEMPTIBLE|adj.|abject, depreciabil|
+CONTEMPTUOUS|adj.|orgolliosi, depreciant, sarcastic|
 CONTEND|v.|combatter, luctar, polemisar, asserter, mantener|
 CONTENT|adj.|content|
 CONTENT|v.|contentar (-ament), satisfar|
-CONTENTIOUS|XXX|querellaci|
-CONTENTS|XXX|contenete|
-CONTERMINOUS|XXX|adjacent, contigui|
+CONTENTIOUS|adj.|querellaci|
+CONTENTS|n.|contenete|
+CONTERMINOUS|adj.|adjacent, contigui|
 CONTEST|v.|contestar (-ation. -abil), negar|
 CONTEST|n.|combatte, lucte, concurse, polemica|
-CONTEXT|XXX|contextu (-al)|
-CONTIGUOUS|XXX|contigui (-tá)|
+CONTEXT|n.|contextu (-al)|
+CONTIGUOUS|adj.|contigui (-tá)|
 CONTINENT|adj.|chast, abstenent|
 CONTINENT|n.|continente (-al)|
 CONTINGENT|n.|contingente|
-CONTINGENT|XXX|dependent de|
-CONTINUAL|XXX|continui (-tá), íncessant|
+CONTINGENT|adj.|dependent de|
+CONTINUAL|adj.|continui (-tá), íncessant|
 CONTINUE|v.|continuar (-ation), extenDer|
 CONTORT|v.|torDer (-sion)|
-CONTOUR|XXX|contur|
+CONTOUR|n.|contur|
 CONTRA|prefix|as in English: contra-dir, -bass, -punct|
-CONTRABAND|XXX|contrabande (-ar, -ero)|
+CONTRABAND|n.|contrabande (-ar, -ero)|
 CONTRACT|n.|ocontrate, pacte|
 CONTRACT|v.|contraer (se) (-tion, -tiv); abreviar|
-CONTRACTOR|XXX|interprendero|
+CONTRACTOR|n.|interprendero|
 CONTRADICT|v.|contradir (-tion), dementir|
-CONTRALTO|XXX|contralto|
-CONTRAPUNTAL|XXX|contrapuntal|
+CONTRALTO|n.|contralto|
+CONTRAPUNTAL|adj.|contrapuntal|
 CONTRARY|adj.|contrari, adversi|
 CONTRARY|n.|contrarie (-etá)|
-CONTRAST|XXX|contraste (-ar)|
+CONTRAST|n.|contraste (-ar)|
 CONTRAVENE|v.|contravenir (-tion); contra-acter, violar|
 CONTRIBUTE|v.|contribuer (-tion, -tiv)|
-CONTRITE|XXX|repentent, contrit (-ion)|
-CONTRIVANCE|XXX|aparate, mecanisme|
+CONTRITE|adj.|repentent, contrit (-ion)|
+CONTRIVANCE|n.|aparate, mecanisme|
 CONTRIVE|v.|inventer, ingeniar, successar|
-CONTROL|XXX|control (-ar), direction, supervision|
-CONTROVERSIAL|XXX|disputabil|
-CONTROVERSY|XXX|polemica, controverse (-ar)|
+CONTROL|n.|control (-ar), direction, supervision|
+CONTROVERSIAL|adj.|disputabil|
+CONTROVERSY|n.|polemica, controverse (-ar)|
 CONTROVERT|v.|refutar, despruvar, oposir|
-CONTUMACIOUS|XXX|obstinaci, perversi, renitent|
-CONTUMELY|XXX|insolentie, linguage arogant|
+CONTUMACIOUS|adj.|obstinaci, perversi, renitent|
+CONTUMELY|n.|insolentie, linguage arogant|
 CONTUSE|v.|contuser (-ion, -ionar), aplastar|
-CONUNDRUM|XXX|enigma, rebus|
+CONUNDRUM|n.|enigma, rebus|
 CONVALESCE|v.|convalescer (-ent, -entie)|
 CONVENE|v.|convocar, assemblar; (summon) citar|
-CONVENIENT|XXX|comod, apt, convenent|
-CONVENT|XXX|conventu (-al), monastere, monaciera, claustre|
-CONVENTION|XXX|convention, assemblé, convenida|
-CONVENTIONAL|XXX|conventional, usual, customal|
+CONVENIENT|adj.|comod, apt, convenent|
+CONVENT|n.|conventu (-al), monastere, monaciera, claustre|
+CONVENTION|n.|convention, assemblé, convenida|
+CONVENTIONAL|adj.|conventional, usual, customal|
 CONVERGE|v.|converger (-ent, -entie)|
-CONVERSANT|XXX|versat, adept|
-CONVERSAZIONE|XXX|soaré|
+CONVERSANT|adj.|versat, adept|
+CONVERSAZIONE|n.|soaré|
 CONVERSE|n.|lu oposit|
 CONVERSE|v.|parlar, conversar (-tion)|
-CONVERSELY|XXX|invers, in contrari|
-CONVERSION|XXX|conversion, transformation, change|
+CONVERSELY|adv.|invers, in contrari|
+CONVERSION|n.|conversion, transformation, change|
 CONVERT|n.|convertete, proselite, neofite|
 CONVERT|v.|converter, proselitar|
-CONVEX|XXX|convex (-itá)|
+CONVEX|adj.|convex (-itá)|
 CONVEY|v.|(news) transmisser, comunicar; (carry) transportar, transferter|
-CONVEYANCE|XXX|expedition; (veh.) vehicul, carre|
-CONVEYANCER|XXX|notario|
+CONVEYANCE|n.|expedition; (veh.) vehicul, carre|
+CONVEYANCER|n.|notario|
 CONVICT|n.|criminard condamnat a servitude penal, penitentiario|
 CONVICT|v.|declarar culpabil|
 CONVICTION|n.|(opinion) conviction, crede|
 CONVINCE|v.|convicter|
-CONVIVIAL|XXX|festinal, festal, sociabil|
+CONVIVIAL|adj.|festinal, festal, sociabil|
 CONVOKE|v.|convocar|
-CONVOLUTION|XXX|convolution|
-CONVOLVULUS|XXX|convolvul|
-CONVOY|XXX|convoy (-ar, -ero), escorte|
+CONVOLUTION|n.|convolution|
+CONVOLVULUS|n.|convolvul|
+CONVOY|n.|convoy (-ar, -ero), escorte|
 CONVULSE|v.|convulser (-ion, -iv)|
 COO|v.|rucular (-ada)|
 COOK|v.|cocinar (-ero, -era, -ería)|
-COOKERY|XXX|cocine, arte culinari|
+COOKERY|n.|cocine, arte culinari|
 COOL|v.|(re)frigidar|
 COOL|adj.|frigid, frisc; (fig.) calm, índiferent, flegmatic, ínturbat|
-COOLIE|XXX|culi|
+COOLIE|n.|culi|
 COOLING|n.|(mech.) refrigidation|
-COOLNESS|XXX|aplombe|
-COOP|XXX|cage por volallia|
-COOPER|XXX|cuvero|
-COOT|XXX|fulica|
+COOLNESS|n.|aplombe|
+COOP|n.|cage por volallia|
+COOPER|n.|cuvero|
+COOT|n.|fulica|
 COPE|eccl.|sutane; (dome) cupol|
 COPE WITH|v.|luctar contra, mastrisar|
-COPIOUS|XXX|ampli, rich, abundant, numerosi|
-COPPER|XXX|cupre; (vessel) cuve|
-COPPER WORKS|XXX|cuprería|
-COPPICE|XXX|boscage|
+COPIOUS|adj.|ampli, rich, abundant, numerosi|
+COPPER|n.|cupre; (vessel) cuve|
+COPPER WORKS|n.|cuprería|
+COPPICE|n.|boscage|
 COPULATE|v.|copular (-ation, -ativ), coiter|
 COPY|v.|copiar, imitar|
 COPY|n.|copie (-ar, -ist), modelle, duplicate, specimen; (of a book) exemplare; (art) reproduction|
-COPY-BOOK|XXX|caderne|
-COPYRIGHT|XXX|jure editorial|
-COQUETTISH|XXX|coquet (-ar, -eríe)|
-CORAL|XXX|coralle (-in)|
-CORAL ISLAND|XXX|atoll|
-CORD|XXX|corde (-age)|
+COPY-BOOK|n.|caderne|
+COPYRIGHT|n.|jure editorial|
+COQUETTISH|adj.|coquet (-ar, -eríe)|
+CORAL|n.|coralle (-in)|
+CORAL ISLAND|n.|atoll|
+CORD|n.|corde (-age)|
 CORDIAL|n.|cordiale|
 CORDIAL|adj.|cordial (-itá)|
-CORDITE|XXX|cordite|
+CORDITE|n.|cordite|
 CORDON|mil.|cordon|
-CORE|XXX|nucleo, cordie; quintessentie|
+CORE|n.|nucleo, cordie; quintessentie|
 CORK|v.|corcar|
 CORK|n.|corc; (bung) tapon|
-CORK TREE|XXX|corciere|
-CORKSCREW|XXX|tira-corc|
-CORMORANT|XXX|cormoran|
+CORK TREE|n.|corciere|
+CORKSCREW|n.|tira-corc|
+CORMORANT|n.|cormoran|
 CORN|n.|(on foot) calle; (grain) frument, cereales, mais, grane|
-CORNCRAKE|XXX|crex|
-CORNEA|XXX|cornea|
+CORNCRAKE|n.|crex|
+CORNEA|n.|cornea|
 CORNER|v.|(comm.) acaparar|
 CORNER|n.|angul|
-CORNER STONE|XXX|lápid angulari|
-CORNET|XXX|cornette (-ist)|
-CORNFLOWER|XXX|centaurea, cianette|
-CORNICE|XXX|corniche|
+CORNER STONE|n.|lápid angulari|
+CORNET|n.|cornette (-ist)|
+CORNFLOWER|n.|centaurea, cianette|
+CORNICE|n.|corniche|
 COROLLA|n.|(bot.) corol|
-COROLLARY|XXX|corolarie|
-CORONATION|XXX|coronation|
-CORONER|XXX|inquestor legal|
-CORONET|XXX|coronette|
-CORPORAL|XXX|corporal, (mil.) caporale|
-CORPORATE|XXX|corporat|
-CORPORATION|XXX|corporation, municipie|
-CORPOREAL|XXX|corporal, material|
+COROLLARY|n.|corolarie|
+CORONATION|n.|coronation|
+CORONER|n.|inquestor legal|
+CORONET|n.|coronette|
+CORPORAL|adj.|corporal|
+CORPORAL|n.|(mil.) caporale|
+CORPORATE|adj.|corporat|
+CORPORATION|n.|corporation, municipie|
+CORPOREAL|adj.|corporal, material|
 CORPS|mil.|corpo|
-CORPSE|XXX|cadavre, morto|
-CORPULENT|XXX|corpulent (-ie), obesi|
-CORPUSCLE|XXX|corpuscul (-ari)|
+CORPSE|n.|cadavre, morto|
+CORPULENT|adj.|corpulent (-ie), obesi|
+CORPUSCLE|n.|corpuscul (-ari)|
 CORRECT|adj.|corect, just|
 CORRECT|v.|corecter (-ion, -iv, -ura),punir|
 CORRELATE|v.|corelater (-ion, -iv)|
 CORRESPOND|v.|coresponder (-ent, -entie)|
-CORRESPONDING TO|XXX|conform a, secun|
-CORRIDOR|XXX|coridor|
-CORRIGENDUM|XXX|un erra a corecter, corectende|
+CORRESPONDING TO|prep.|conform a, secun|
+CORRIDOR|n.|coridor|
+CORRIGENDUM|n.|un erra a corecter, corectende|
 CORROBORATE|v.|coroborar (-ation, -ativ), confirmar|
 CORRODE|v.|coroDer (-sion, -siv)|
 CORRUGATE|v.|rugar|
 CORRUPT|adj.|corupt, depravat|
 CORRUPT|v.|corupter (-ion, -iv)|
-CORSAGE|XXX|corsage|
-CORSAIR|XXX|corsare, pirate|
-CORSET|XXX|corsete (-era)|
-CORSLET|XXX|demi-curasse|
-CORTEGE|XXX|cortege, escorte, suita|
-CORTEX|XXX|cortice (-al)|
+CORSAGE|n.|corsage|
+CORSAIR|n.|corsare, pirate|
+CORSET|n.|corsete (-era)|
+CORSLET|n.|demi-curasse|
+CORTEGE|n.|cortege, escorte, suita|
+CORTEX|n.|cortice (-al)|
 CORUSCATE|v.|scintillear, brilliar|
-CORVETTE|XXX|corvete|
-CORVINE|XXX|corvin|
-CORYPHAEUS|XXX|corifé|
+CORVETTE|n.|corvete|
+CORVINE|adj.|corvin|
+CORYPHAEUS||corifé|XXX FIXME
 COSMETIC|n.|cosmetico|
-COSMETIC|XXX|grime, cosmetic|
-COSMIC|XXX|cosmic|
+COSMETIC||grime, cosmetic|XXX FIXME
+COSMIC|adj.|cosmic|
 COSMO|prefix|as in English: cosmo-gonie, -grafie, -logie, -polit|
-COSMOS|XXX|cosmo|
-COSSACK|XXX|cosac|
+COSMOS|n.|cosmo|
+COSSACK|n.|cosac|
 COSSET|v.|dorlotar (-on)|
-COST|XXX|custa, precie|
+COST|n.|custa, precie|
 COSTAL|med.|costal|
-COSTERMONGER|XXX|stradvenditor|
-COSTIVE|XXX|constipat|
+COSTERMONGER|n.|stradvenditor|
+COSTIVE|n.|constipat|
 COSTLY|adj.|car, custosi, expensiv|
-COSTUME|XXX|costume (-ero)|
+COSTUME|n.|costume (-ero)|
 COSY|adj.|agreabil, comfortabil|
 COSY|n.|té-muff, covri-teiere|
-COT|XXX|infant-lette; domette|
-COTERIE|XXX|coteríe, clique|
-COTTAGE|XXX|cottage, domette, villa|
-COTTER-PIN|XXX|clavette, bolt fendet|
-COTTON|XXX|coton (-age); (thread) fil|
-COTTON-WOOL|XXX|vate|
+COT|n.|infant-lette; domette|
+COTERIE|n.|coteríe, clique|
+COTTAGE|n.|cottage, domette, villa|
+COTTER-PIN|n.|clavette, bolt fendet|
+COTTON|n.|coton (-age); (thread) fil|
+COTTON-WOOL|n.|vate|
 COUCH|v.|expresser|
 COUCH|n.|canapé, sofa, reposuore|
 COUGAR|n.|cugar, puma|
 COUGH|n.|tusse (-ar, -ada)|
-COULISSE|XXX|culisse|
-COUNCIL|XXX|concil|
+COULISSE|n.|culisse|
+COUNCIL|n.|concil|
 COUNSEL|v.|consiliar (-ator), deliberar, conferer pri|
 COUNSEL|n.|consilie (-ero), avise; (barrister) avocate|
 COUNT|v.|numerar, contar, calcular|
@@ -3272,57 +3273,57 @@ COUNTENANCE|n.|facie, visage; aprobation|
 COUNTER|n.|contore; (games) chip, jeton|
 COUNTER|prefix) (in comp.|contra-mesura, -demande, -póndere|
 COUNTER|v.|contra-acter|
-COUNTER-CHECK|XXX|centra-control|
+COUNTER-CHECK|n.|centra-control|
 COUNTERFEIT|adj.|fictiv, fals|
 COUNTERFEIT|v.|contrafar, imitar|
-COUNTERFOIL|XXX|control-folie|
+COUNTERFOIL|n.|control-folie|
 COUNTERMAND|v.|revocar, contra-ordonar, contramandar|
 COUNTERSINK|v.|fresar|
-COUNTRY|XXX|land, país; (as distinct from town) rure, campania|
-COUNTRYMAN|XXX|paisan, rurano|
-COUNTY|XXX|comtia, provincia|
+COUNTRY|n.|land, país; (as distinct from town) rure, campania|
+COUNTRYMAN|n.|paisan, rurano|
+COUNTY|n.|comtia, provincia|
 COUPLE|v.|junter, ligar; (mech.) cuplar|
 COUPLE|n.|pare, cuple|
-COUPON|XXX|cupon|
-COURAGE|XXX|corage (-osi)|
-COURIER|XXX|curriero|
+COUPON|n.|cupon|
+COURAGE|n.|corage (-osi)|
+COURIER|n.|curriero|
 COURSE|n.|(lessons) cursu; (race) curse; (of water) fluida; (of life) carriera, serie|
 COURSING|n.|lepor-chassada, chass-currida|
 COURT|v.|cortesar; (disaster) invitar|
 COURT|n.|corte; (law) corte, tribunale|
 COURT USHER|n.|bedello|
 COURTEOUS|adj.|cortesi (-esie)|
-COURTESAN|XXX|curtisana, hetera|
-COURTIER|XXX|cortesan|
+COURTESAN|n.|curtisana, hetera|
+COURTIER|n.|cortesan|
 COUSIN|n.|cusino (-a)|
-COVE|XXX|baya, golfette|
+COVE|n.|baya, golfette|
 COVENANT|v.|concordar|
 COVENANT|n.|contrate, pacte; (league) liga, fédere|
 COVER|n.|covritura; (lid) covriment, covrette; (book) covriment|
 COVER|v.|covrir|
-COVERLET|XXX|covri-lette|
+COVERLET|n.|covri-lette|
 COVERT|adj.|secret, covrit|
 COVERT|n.|bestie-refugia|
 COVET|v.|desirar, cupidar, esser avid pri|
-COVETOUS|XXX|avid; (miserly) avari|
-COVEY|XXX|coyatura, vola|
+COVETOUS|adj.|avid; (miserly) avari|
+COVEY|n.|coyatura, vola|
 COW|v.|intimidar, dominar|
 COW|n.|vacca|
-COWARD|XXX|caudard, poltron (-eríe). timoron|
+COWARD|n.|caudard, poltron (-eríe). timoron|
 COWBOY|n.|vaccero|
-COWDUNG|XXX|flad|
+COWDUNG||flad|XXX FIXME
 COWEE|v.|ahoccar se; horrer (avan)|
-COWL|XXX|capuce|
-COWSLIP|XXX|primul|
-COXCOMB|XXX|dandy, fatuo, vaniton|
-COXSWAIN|XXX|botstirero, stirmann|
-COY|XXX|modest, prud, timid|
+COWL|n.|capuce|
+COWSLIP|n.|primul|
+COXCOMB|n.|dandy, fatuo, vaniton|
+COXSWAIN|n.|botstirero, stirmann|
+COY|adj.|modest, prud, timid|
 CRAB|n.|(zool.) crabe|
-CRAB-APPLE|XXX|pomastre|
-CRABBED|XXX|morosi, acerb|
+CRAB-APPLE|n.|pomastre|
+CRABBED|adj.|morosi, acerb|
 CRACK|v.|fender, rupter; cracar|
 CRACK|n.|fende; (of whip) clacca; (of gun) detonation|
-CRACKER|XXX|craca-bonbon; (for nuts) nuce-cracator, craca-nuce|
+CRACKER|n.|craca-bonbon; (for nuts) nuce-cracator, craca-nuce|
 CRACKLE|v.|gnistar, crepitar|
 CRADLE|n.|lulluore|
 CRAFT|n.|mestiere, artise; (cunning) astutie; (naut.) nave, bote|
@@ -3335,290 +3336,290 @@ CRAMPED|adj.|strett, rigid, confinat|
 CRANBERRY|n.|oxicocco, rubi mirtille|
 CRANE|n.|(bird) grue; (mech.) cran|
 CRANE THE NECK|v.|extender li col|
-CRANIUM|XXX|cranie (-al)|
+CRANIUM|n.|cranie (-al)|
 CRANK|adj.|(naut.) instabil|
 CRANK|n.|(mech.) manivelle; (a turn) torsion; (person) maniac|
-CRANNY|XXX|fendette, fissura|
-CRAPE|XXX|crepon|
+CRANNY|n.|fendette, fissura|
+CRAPE|n.|crepon|
 CRASH|n.|crac, fracass, detonation; (comm.) bancrott, bankruptie|
 CRASH|v.|aplastar se, coliDer; (collapse) crular|
-CRASS|XXX|crass, extrem, gross|
-CRATE|XXX|chest, pacca-corbe|
-CRATER|XXX|erátere|
+CRASS|adj.|crass, extrem, gross|
+CRATE|n.|chest, pacca-corbe|
+CRATER|n.|crátere|
 CRAVAT|n.|cravatte|
 CRAVE|v.|implorar, suplicar; (crave for) avidar|
 CRAVEN|n.|poltron|
 CRAVEN|adj.|caudari|
-CRAWFISH|XXX|crev|
+CRAWFISH|n.|crev|
 CRAWL|v.|repter|
-CRAYON|XXX|pastelle|
-CRAZE|XXX|manie, frenesie|
+CRAYON|n.|pastelle|
+CRAZE|n.|manie, frenesie|
 CRAZY|adj.|alienat, frenesi, folli|
 CREAK|v.|crepitar, cracar|
 CREAM|n.|crem (-osi)|
 CREASE|v.|plicar; (crumple) frossar; (pucker) frunsar|
 CREATE|v.|crear (-ation, -ator, -ativ, -atura)|
-CREDENCE|XXX|fide, crede(ntie)|
-CREDENTIALS|XXX|legitimation-paperes|
-CREDIBLE|XXX|credibil (-ita)|
+CREDENCE|n.|fide, crede(ntie)|
+CREDENTIALS|n.|legitimation-paperes|
+CREDIBLE|adj.|credibil (-ita)|
 CREDIT|n.|credite, honore|
 CREDIT|v.|creder; (place to credit) crediter|
-CREDITABLE|XXX|honorant|
-CREDITOR|XXX|creditor|
-CREDULOUS|XXX|credul (-itá), credaci|
-CREED|XXX|confession, credentie|
-CREEK|XXX|bay, rivere, litt inboccatura|
-CREEL|XXX|pisc-corb|
+CREDITABLE|adj.|honorant|
+CREDITOR|n.|creditor|
+CREDULOUS|adj.|credul (-itá), credaci|
+CREED|n.|confession, credentie|
+CREEK|n.|bay, rivere, litt inboccatura|
+CREEL|n.|pisc-corb|
 CREEP|v.|repter, serpentar, ear sin brue|
 CREEPER|n.|(bot.) sarment, branchette; (plant) climbator|
 CREMATE|v.|cremar (-ation, -atoria), incindrar|
-CRENELLATED|XXX|crenellat|
-CREOLE|XXX|creol|
-CREOSOTE|XXX|creosot|
-CREPE|XXX|crepon|
-CREPUSCULAR|XXX|crepusculari|
-CRESCENDO|XXX|crescendo|
+CRENELLATED|adj.|crenellat|
+CREOLE|n.|creol|
+CREOSOTE|n.|creosot|
+CREPE|n.|crepon|
+CREPUSCULAR|adj.|crepusculari|
+CRESCENDO|adj. adv.|crescendo|
 CRESCENT|n.|crescente; (of moon) falcette|
-CRESS|XXX|cresson (-iera)|
-CREST|XXX|creste, toff|
-CRETACEOUS|XXX|cretosi, cretatri|
-CRETIN|XXX|cretino|
-CRETONNE|XXX|creton|
-CREVASSE|XXX|fende, fissura|
-CREVICE|XXX|fendette, fissura|
-CREW|XXX|truppe, bande, equip; clicca|
+CRESS|n.|cresson (-iera)|
+CREST|n.|creste, toff|
+CRETACEOUS|adj.|cretosi, cretatri|
+CRETIN|n.|cretino|
+CRETONNE|n.|creton|
+CREVASSE|n.|fende, fissura|
+CREVICE|n.|fendette, fissura|
+CREW|n.|truppe, bande, equip; clicca|
 CRIB|v.|plagiar; restricter|
 CRIB|n.|crippe, manjuore, stall, infant-lette|
-CRIBBLE|XXX|cribelle|
-CRICK|XXX|crampe, spasma|
+CRIBBLE|n.|cribelle|
+CRICK|n.|crampe, spasma|
 CRICKET|n.|(game) cricket; (insect) grillie|
-CRIME|XXX|crímine (-al, -ard), delicte|
+CRIME|n.|crímine (-al, -ard), delicte|
 CRIMP|v.|crispar|
-CRIMSON|XXX|carmesin|
+CRIMSON||carmesin|XXX FIXME
 CRINGE|v.|adflexer se servilmen avan|
 CRINKLE|v.|rugar, plicar|
-CRINOLINE|XXX|crinoline|
+CRINOLINE|n.|crinoline|
 CRIPPLE|adj.|(crippled) claudicant, paralisat|
 CRIPPLE|n.|invalido, mutilato|
-CRISIS|XXX|crise|
+CRISIS|n.|crise|
 CRISP|adj.|(hair) crisp; (air) frisc; (brittle) crumelaci|
 CRISP|v.|crispar|
-CRITERION|XXX|criterie|
-CRITIC|XXX|critico (-ard)|
+CRITERION|n.|criterie|
+CRITIC|n.|critico (-ard)|
 CRITICAL|adj.|(crisis) critic; (censorious) criticaci|
 CRITICISE|v.|criticar, criticachar|
-CRITICISM|XXX|critica|
+CRITICISM|n.|critica|
 CROAK|v.|croacar; (frogs) coacar (-ada)|
 CROCHET|v.|crochetar (-age, -eríe)|
-CROCK|XXX|potte terrin, cruche|
-CROCKERY|XXX|argil-merce, potteríe, fayance|
-CROCODILE|XXX|crocodile|
-CROCUS|XXX|crocus, safran|
-CROFT|XXX|micri farme|
-CRONY|XXX|intim amico, intimo|
-CROOK|XXX|croc, croc-baston; (swindler) fraudero|
-CROOKED|XXX|curvi, obliqui, desrect; perversi|
+CROCK|n.|potte terrin, cruche|
+CROCKERY|n.|argil-merce, potteríe, fayance|
+CROCODILE|n.|crocodile|
+CROCUS|n.|crocus, safran|
+CROFT|n.|micri farme|
+CRONY|n.|intim amico, intimo|
+CROOK|n.|croc, croc-baston; (swindler) fraudero|
+CROOKED|adj.|curvi, obliqui, desrect; perversi|
 CROON|v.|cantar pianmen|
 CROP|v.|tonder, abciser; (reap) falcear|
 CROP|n.|recolte; (bird's) cropp|
-CROQUET|XXX|croquete|
+CROQUET|n.|croquete|
 CROSS|adj.|travers, transversal; obliqui, diagonal; iritabil, morosi|
 CROSS|n.|cruce, crucifix; hibride|
 CROSS|v.|transear, transir, passar; (oppose) oposir; (plants) crucear, hibridisar|
 CROSS OUT|v.|trastrecar; (of streets) intersecter se|
-CROSS-EXAMINE|XXX|contra-questionar|
-CROSS-EYED|XXX|strab (-on, -isme)|
+CROSS-EXAMINE|v.|contra-questionar|
+CROSS-EYED|adj.|strab (-on, -isme)|
 CROSS-GRAINED|adj.|(of persons) obstinat, renitent|
-CROSS-ROADS|XXX|crucevia|
+CROSS-ROADS|n.|crucevia|
 CROSS-TREES|n.|(naut.) travers-salinga|
-CROSSBOW|XXX|arbalest|
-CROSSING|XXX|passage, trajecte; (rail.) nivell-passage|
+CROSSBOW|n.|arbalest|
+CROSSING|n.|passage, trajecte; (rail.) nivell-passage|
 CROTCHET|n.|(whim) marotte, capricie; (mus.) quart-note|
 CROUCH|v.|ahoccar se, inflexer se, bassar se|
 CROUP|med.|crupp; (animals) crupe|
 CROW|n.|(bird) cornille|
 CROW|v.|cantar quam un gállino, triumfar (súper)|
-CROW'S NEST|XXX|mast-corb|
-CROWBAR|XXX|levuore, ferrin fuste|
+CROW'S NEST|n.|mast-corb|
+CROWBAR|n.|levuore, ferrin fuste|
 CROWD|v.|presser, amassar, superplenar|
 CROWD|n.|hom-amasse, turbe|
 CROWD SAILS|v.|presser segles, portar tro mult segles|
 CROWN|v.|coronar (-ation)|
 CROWN|n.|coron, diadem; (wreath) guirlande; (of head) vertice; (of anchor) cruce|
-CRUCIAL|XXX|critic, decisiv|
-CRUCIBLE|XXX|fusuore, crusel|
-CRUCIFIX|XXX|crucifix|
+CRUCIAL|adj.|critic, decisiv|
+CRUCIBLE|n.|fusuore, crusel|
+CRUCIFIX|n.|crucifix|
 CRUCIFY|v.|crucificar (-ation)|
-CRUDE|XXX|crud (-itá)|
-CRUEL|XXX|cruel (-itá)|
-CRUET|XXX|flacon, botellette, condimentiere|
+CRUDE|adj.|crud (-itá)|
+CRUEL|adj.|cruel (-itá)|
+CRUET|n.|flacon, botellette, condimentiere|
 CRUISE|n.|plesur-viage, cruce|
 CRUISE|v.|crucear|
-CRUISER|XXX|crucero, cruceator|
-CRUMB|XXX|orumel; (a crumb) crumelun|
+CRUISER|n.|crucero, cruceator|
+CRUMB|n.|orumel; (a crumb) crumelun|
 CRUMBLE|v.|crumelar; (into dust) dispolvar|
 CRUMPLE|v.|frossar|
 CRUNCH|v.|(teeth) grinsar; (of snow) gnistar, crepitar|
 CRUPPER|n.|(harness) caude-strap; (of horse) crupe|
-CRUSADE|XXX|cruceade (-ero)|
-CRUSE|XXX|cruchette|
+CRUSADE|n.|cruceade (-ero)|
+CRUSE|n.|cruchette|
 CRUSH|v.|supresser, aplastar; presser, anihilar; (bruise) contuser; (pound) pistar|
-CRUST|XXX|cruste, cortice|
-CRUSTACEAN|XXX|crustacé|
-CRUTCH|XXX|cruca (-on)|
-CRUX|XXX|desfacilitá|
+CRUST|n.|cruste, cortice|
+CRUSTACEAN|n.|crustacé|
+CRUTCH|n.|cruca (-on)|
+CRUX|n.|desfacilitá|
 CRY|n.|cri|
 CRY|v.|criar, clamar; (weep) lacrimar, plorar (-ada)|
 CRY OUT|v.|exclamar|
-CRYPT|XXX|cripta, tombe|
-CRYPTIC|XXX|secret, ocult, enigmatic|
-CRYSTAL|XXX|cristalle (-in. -isar)|
+CRYPT|n.|cripta, tombe|
+CRYPTIC|adj.|secret, ocult, enigmatic|
+CRYSTAL|n.|cristalle (-in. -isar)|
 CUB|n.|(of lion, fox etc.) leonello, foxello; garsonacho|
-CUBE|XXX|cub (-ic, -ar, -atura, -ist)|
-CUBICLE|XXX|cuchatoria, dorm-chambrette|
-CUCKOLD|XXX|cocú|
-CUCKOO|XXX|cucú|
-CUCUMBER|XXX|cucumbre|
+CUBE|n.|cub (-ic, -ar, -atura, -ist)|
+CUBICLE|n.|cuchatoria, dorm-chambrette|
+CUCKOLD|n.|cocú|
+CUCKOO|n.|cucú|
+CUCUMBER|n.|cucumbre|
 CUDDLE|v.|caressar, inbrassar, circumpresser|
-CUDGEL|XXX|clobb, bastonazzo|
-CUE|XXX|billiard-baston; (theatre) parol indicatori, signe|
-CUFF|XXX|manchette; (blow) colpe (per li punie); puniade|
-CUIRASS|XXX|curasse (-iero, -ero)|
-CUISINE|XXX|cocine, arte culinari|
-CUL-DE-SAC|XXX|ciec-via|
-CULINARY|XXX|culinari|
+CUDGEL|n.|clobb, bastonazzo|
+CUE|n.|billiard-baston; (theatre) parol indicatori, signe|
+CUFF|n.|manchette; (blow) colpe (per li punie); puniade|
+CUIRASS|n.|curasse (-iero, -ero)|
+CUISINE|n.|cocine, arte culinari|
+CUL-DE-SAC|n.|ciec-via|
+CULINARY|adj.|culinari|
 CULL|v.|colier|
 CULMINATE|v.|culminar (-ation)|
-CULPABLE|XXX|culpabil (-itá), criminal|
-CULPRIT|XXX|culpon, malefator|
-CULT|XXX|cultu|
-CULTERED|XXX|cult|
+CULPABLE|adj.|culpabil (-itá), criminal|
+CULPRIT|n.|culpon, malefator|
+CULT|n.|cultu|
+CULTERED||cult|XXX FIXME
 CULTIVATE|v.|cultivar (-ation, -ator, -abil)|
-CULTURE|XXX|cultura (-al)|
+CULTURE|n.|cultura (-al)|
 CUMBER|v.|genar, embarassar, incumbrar|
-CUMBERSOME|XXX|genant, molest, ponderosi|
-CUMIN|XXX|cúmine|
-CUMULATIVE|XXX|cumulativ|
-CUMULUS|XXX|cumulus|
-CUNEIFORM|XXX|cuneiform|
+CUMBERSOME|adj.|genant, molest, ponderosi|
+CUMIN|n.|cúmine|
+CUMULATIVE|adj.|cumulativ|
+CUMULUS|n.|cumulus|
+CUNEIFORM|adj.|cuneiform|
 CUNNING|adj.|astut (-ie), insidie|
-CUP|XXX|tasse (-ade), cope; (in sport) bocale|
-CUPBOARD|XXX|scaf|
-CUPID|XXX|cupid (itá)|
-CUPOLA|XXX|cupol|
-CUPREOUS|XXX|cupric, cuprin|
-CUR|XXX|canach|
-CURATE|XXX|sub-paroco, vicario|
-CURATOR|XXX|curator, intendante|
+CUP|n.|tasse (-ade), cope; (in sport) bocale|
+CUPBOARD|n.|scaf|
+CUPID|n.|cupid (itá)|
+CUPOLA|n.|cupol|
+CUPREOUS|adj.|cupric, cuprin|
+CUR|n.|canach|
+CURATE|n.|sub-paroco, vicario|
+CURATOR|n.|curator, intendante|
 CURB|v.|bridar, frenar, moderar|
 CURDLE|v.|coagular|
-CURDS|XXX|coagulat lacte, caseine|
+CURDS|n.|coagulat lacte, caseine|
 CURE|v.|sanar, remediar; insalar, preparar|
 CURE|n.|cura(tion), terapie, remedie|
-CURFEW|XXX|vésper-cloche|
-CURIO|XXX|curiositá, raritá|
-CURIOUS|XXX|curiosi, inquisitiv, strangi|
+CURFEW|n.|vésper-cloche|
+CURIO|n.|curiositá, raritá|
+CURIOUS|adj.|curiosi, inquisitiv, strangi|
 CURL|v.a.|friser, buclar|
 CURL|n.|bucle; (of waves) crispada; (of smoke) serpenteada|
-CURLEW|XXX|numenio|
-CURLING-PAPER|XXX|papilotte|
-CURMUDGEON|XXX|avaron, mesquino|
-CURRANT|XXX|crusbere|
-CURRENCY|XXX|circulation; valuta, moné|
-CURRENT|XXX|current, fluent, circulant|
-CURRICULUM|XXX|curriculum|
-CURRIER|XXX|preparator de cute|
+CURLEW|n.|numenio|
+CURLING-PAPER|n.|papilotte|
+CURMUDGEON|n.|avaron, mesquino|
+CURRANT|n.|crusbere|
+CURRENCY|n.|circulation; valuta, moné|
+CURRENT|adj.|current, fluent, circulant|
+CURRICULUM|n.|curriculum|
+CURRIER|n.|preparator de cute|
 CURRY|n.|carri|
 CURRY FAVOUR|v.|insinuar se|
-CURRY-COMB|XXX|strigul (-ar)|
+CURRY-COMB|n.|strigul (-ar)|
 CURSE|n.|anatema, blasfema|
 CURSE|v.|maledir (-ition), blasfemar|
-CURSIVE|XXX|cursiv|
-CURSORY|XXX|cursori, efemeral, fugitiv, superficial|
-CURT|XXX|brusqui, laconic, abrupt|
+CURSIVE|adj.|cursiv|
+CURSORY|adj.|cursori, efemeral, fugitiv, superficial|
+CURT|adj.|brusqui, laconic, abrupt|
 CURTAIL|v.|acurtar, abreviar, restricter, limitar|
-CURTAIN|XXX|cortine|
+CURTAIN|n.|cortine|
 CURTSEY|v.|far reverentie, cortesiar|
 CURTSEY|n.|reverentie, cortesie|
 CURVE|v.|curvar, flexer|
 CURVE|n.|curve, curvatura|
-CURVED|XXX|curv(i)|
-CUSHION|XXX|cussine (-ette)|
-CUSTARD|XXX|crem ovin|
-CUSTODIAN|XXX|curator, custode, gardero|
-CUSTODY|XXX|custodie|
-CUSTOM|XXX|custom (-al, -ari), hábitu, usu; (social practice) more|
-CUSTOMER|XXX|client, comprator|
-CUSTOMS|XXX|doane (-ero), tribute|
+CURVED|adj.|curv(i)|
+CUSHION|n.|cussine (-ette)|
+CUSTARD|n.|crem ovin|
+CUSTODIAN|n.|curator, custode, gardero|
+CUSTODY|n.|custodie|
+CUSTOM|n.|custom (-al, -ari), hábitu, usu; (social practice) more|
+CUSTOMER|n.|client, comprator|
+CUSTOMS|n.pl.|doane (-ero), tribute|
 CUT|adj.|(glass) polit, slifat|
 CUT|n.|cisura; tranchitura; (style) fasson|
 CUT|v.|(hair) tonder; (meat) tranchir; (stone) ciser, sculpter|
 CUT OFF|v.|decupar, deciser|
-CUT-THROAT|XXX|assassinator, cise-gurgul|
-CUTANEOUS|XXX|pellic, dermatic, cutin|
-CUTE|XXX|sagaci, astut|
-CUTICLE|XXX|epiderma, cuticul|
-CUTLER|XXX|cultellero (-íe)|
-CUTLET|XXX|cotlette|
+CUT-THROAT|n.|assassinator, cise-gurgul|
+CUTANEOUS|adj.|pellic, dermatic, cutin|
+CUTE|adj.|sagaci, astut|
+CUTICLE|n.|epiderma, cuticul|
+CUTLER|n.|cultellero (-íe)|
+CUTLET|n.|cotlette|
 CUTTER|n.|(blade) lame, cupuore; (naut.) cuttre|
 CUTTING|n.|(hort.) demergeon|
 CUTTLEFISH|n.|sepia|
 CYCLAMEN|adv.|ciclamen|
 CYCLE|n.|bicicle(tte); (of time) cicle|
-CYCLONE|XXX|ciclon|
-CYGNET|XXX|cignell|
-CYLINDER|XXX|cilindre (-ic)|
-CYMBAL|XXX|cimbale|
-CYNIC|XXX|cinic (-o, -isme)|
-CYNOSURE|XXX|stelle guidant, punctu de atration|
-CYPHER|XXX|ciffre; (nought) null|
-CYPRESS|XXX|cipresse|
-CYST|XXX|vessic, sac|
+CYCLONE|n.|ciclon|
+CYGNET|n.|cignell|
+CYLINDER|n.|cilindre (-ic)|
+CYMBAL|n.|cimbale|
+CYNIC|adj.|cinic (-o, -isme)|
+CYNOSURE|n.|stelle guidant, punctu de atration|
+CYPHER|n.|ciffre; (nought) null|
+CYPRESS|n.|cipresse|
+CYST|n.|vessic, sac|
 CZAR|n.|tsar (-essa)|
 DAB|n.|tappa|
 DAB|v.|tappar|
 DABBLE|v.|barbotar, spruzzar|
 DABBLE IN|v.|laborachar ye, dilettantar|
-DABBLER IN PHILOSOPHY|XXX|filosofastro|
-DACHSHUND|XXX|bassete|
-DACTYL|XXX|dactile (-ic, -ologie)|
-DAD|XXX|papá|
-DAFFODIL|XXX|yelb narcisse|
-DAFT|XXX|idiotic, folli, stult|
-DAGGER|XXX|puniale|
-DAHLIA|XXX|dalia|
+DABBLER IN PHILOSOPHY|n.|filosofastro|
+DACHSHUND|n.|bassete|
+DACTYL|n.|dactile (-ic, -ologie)|
+DAD|n.|papá|
+DAFFODIL|n.|yelb narcisse|
+DAFT|adj.|idiotic, folli, stult|
+DAGGER|n.|puniale|
+DAHLIA|n.|dalia|
 DAILY|adj.|dial, diari|
 DAILY|n.|diale|
 DAINTY|n.|gurmandage|
 DAINTY|adj.|delicat (-esse), fin, pretti|
-DAIRY|XXX|lacteria|
-DAIRY MAID|XXX|lactera|
-DAIS|XXX|estrade, tribune|
-DAISY|XXX|margarita|
-DALE|XXX|valléy(ette)|
+DAIRY|n.|lacteria|
+DAIRY MAID|n.|lactera|
+DAIS|n.|estrade, tribune|
+DAISY|n.|margarita|
+DALE|n.|valléy(ette)|
 DALLY|v.|hesitar, perdir témpor; amorettar, flirtar|
-DAM|XXX|diga; (of animals) matre|
+DAM|n.|diga; (of animals) matre|
 DAMAGE|v.|damagear, nocer|
 DAMAGE|n.|damage; (law) desdamageament, compensation|
-DAMASK|XXX|damasco|
-DAME|XXX|dama|
+DAMASK|n.|damasco|
+DAME|n.|dama|
 DAMN|v.|(con)damnar (-ation, -abil), anatemar|
-DAMNED|XXX|maledit|
-DAMP|XXX|humid (-ar, -itá)|
-DAMP PROOF|XXX|inpermeabil|
-DAMPER|XXX|(for fires) camin-clappe|
-DAMSEL|XXX|senioretta, puella|
-DAMSON|XXX|prune damascin|
+DAMNED|adj.|maledit|
+DAMP|adj.|humid (-ar, -itá)|
+DAMP PROOF|adj.|inpermeabil|
+DAMPER|n.|(for fires) camin-clappe|
+DAMSEL|n.|senioretta, puella|
+DAMSON|n.|prune damascin|
 DANCE|n.|dansa (-ero, -era, -ada), ball|
 DANCE|v.|dansar|
-DANDELION|XXX|leontodon, taráxaco|
+DANDELION|n.|leontodon, taráxaco|
 DANDLE|v.|saltillar, balansar|
-DANDY|XXX|dandy|
-DANGER|XXX|dangere (-osi)|
+DANDY|n.|dandy|
+DANGER|n.|dangere (-osi)|
 DANGLE|v.|balansar, oscillar, pender, pendular|
-DANK|XXX|humid|
-DAPPER|XXX|chic, alert, elegant|
-DAPPLED|XXX|puntillat, maculat|
+DANK|adj.|humid|
+DAPPER|adj.|chic, alert, elegant|
+DAPPLED|adj.|puntillat, maculat|
 DARE|v.|audaciar, haver li corage, defiar|
 DARING|adj.|audaci (-tá), brav, corageosi, temerari|
 DARK|adj.|obscur, tenebrosi, sinistri|
@@ -3632,121 +3633,121 @@ DART|n.|micri fleche, lansette, darde|
 DART AT|v.|precipitar se a|
 DASH|v.|(hurl) lansar, jettar(se) ; (smash) fracassar; (one's hopes) forprender li esperantie; (dash against) chocar contra|
 DASH|n.|strec; (quantity) un poc; admixtura; (spirit) elan|
-DASHING|XXX|frappant, evocant atention, audaci, galant|
-DASTARD|XXX|caudard, poltron (-eríe)|
-DASTARDLY|XXX|abominabil, caudardi|
-DATA|XXX|data, factes, detallies|
+DASHING|adj.|frappant, evocant atention, audaci, galant|
+DASTARD|n.|caudard, poltron (-eríe)|
+DASTARDLY|adj.|abominabil, caudardi|
+DATA|n.|data, factes, detallies|
 DATE|n.|(fruit) datil|
 DATE|n.|date (-ar)|
 DATIVE|adj.|dativ|
 DATIVE|n.|dative|
-DAUB|XXX|(with brush) pinselachar; pictachar|
-DAUGHTER|XXX|filia|
-DAUGHTER-IN-LAW|XXX|belfilia|
+DAUB|v.|(with brush) pinselachar; pictachar|
+DAUGHTER|n.|filia|
+DAUGHTER-IN-LAW|n.|belfilia|
 DAUNT|v.|intimidar, descoragear|
-DAVIT|XXX|davit, bot-cran|
+DAVIT|n.|davit, bot-cran|
 DAWDLE|v.|lentear, dissipar, témpor|
 DAWN|v.|matinear, albijar|
 DAWN|n.|aurora, crepuscul; alba|
-DAY|XXX|die; (opposed to night) jorne|
-DAYDREAM|XXX|reve|
-DAYDREAM|XXX|reve (-ar)|
-DAYLIGHT|XXX|luce diari|
+DAY|n.|die; (opposed to night) jorne|
+DAYDREAM|n.|reve (-ar)|
+DAYLIGHT|n.|luce diari|
 DAZE|v.|aturdir, stupefar; (dazzle) ciecar|
 DAZZLE|v.|(a)ciecar, fascinar, dazlar|
-DEACON|XXX|diacon (-atu, -essa); (Church officer presbitero|
+DEACON|n.|diacon (-atu, -essa); (church officer) presbitero|
 DEAD|adj.|mort (-al), ínanimat; (dead to) ínsensibil por; (accurate) exact|
-DEAD HEAT|XXX|egalitá|
-DEAD MARCH|XXX|marcha funebri|
+DEAD HEAT|n.|egalitá|
+DEAD MARCH|n.|marcha funebri|
 DEADEN|v.|obtuser, moderar, narootisar|
-DEADLOCK|XXX|stagnation, cessation|
-DEADLY|XXX|mortal, fatal|
-DEADLY NIGHTSHADE|XXX|belladonna|
-DEAF|XXX|surd (-ar)|
+DEADLOCK|n.|stagnation, cessation|
+DEADLY|adj.|mortal, fatal|
+DEADLY NIGHTSHADE|n.|belladonna|
+DEAF|adj.|surd (-ar)|
 DEAL|v.|(cards) distribuer, dar; (trade) mercar, negociar; (trade with) comprar che; (a blow) far, inflicter; (deal with) liquidar, executer|
 DEAL|n.|parte, portion; (timber) planca|
-DEALER|XXX|comerciante, mercator, mercero, negociant|
-DEALINGS|XXX|interrelationes, tráfic, negociationes|
-DEAN|XXX|decan (-atu)|
-DEAP-MUTE|XXX|surdimuto|
+DEALER|n.|comerciante, mercator, mercero, negociant|
+DEALINGS|n.|interrelationes, tráfic, negociationes|
+DEAN|n.|decan (-atu)|
+DEAF-MUTE|n.|surdimuto|
+DEAF-MUTE|adj.|surdimut|
 DEAR|adj.|car, amat; (costly) custosi, car, expensiv|
-DEARTH|XXX|manca, indigentie, scarsitá|
-DEATH|XXX|morte (-al, -alitá)|
-DEATH AGONY|XXX|agonie|
-DEATH RATTLE|XXX|stertorada|
-DEATHBED|XXX|lette de morte|
-DEATHLESS|XXX|ínmortal|
-DEBACLE|XXX|catastrof, debacle|
+DEARTH|n.|manca, indigentie, scarsitá|
+DEATH|n.|morte (-al, -alitá)|
+DEATH AGONY|n.|agonie|
+DEATH RATTLE|n.|stertorada|
+DEATHBED|n.|lette de morte|
+DEATHLESS|adj.|ínmortal|
+DEBACLE|n.|catastrof, debacle|
 DEBAR|v.|excluDer, refusar|
 DEBASE|v.|degradar, depravar, humilar; (coinage) falsar|
-DEBASED|XXX|viciosi, degradat, corupt(et)|
-DEBATE|XXX|debatte (-ar, -abil)|
+DEBASED|adj.|viciosi, degradat, corupt(et)|
+DEBATE|n.|debatte (-ar, -abil)|
 DEBAUCH|v.a.|debochar (-ard, -eríe), libertinar|
 DEBAUCH|v.|seducter, ruinar|
-DEBENTURE|XXX|obligation, debit-atest|
+DEBENTURE|n.|obligation, debit-atest|
 DEBILITATE|v.|debilisar (-ation)|
 DEBIT|comm.|debete (-ar)|
-DEBONAIR|XXX|galant, benigni, afabil|
+DEBONAIR|adj.|galant, benigni, afabil|
 DEBOUCH|v.|exmarchar, exfluer|
-DEBRIS|XXX|fragmentes, roccallia|
-DEBT|XXX|debite (-or)|
-DEBUT|XXX|debut (-ante)|
-DECADE|XXX|decennie (-al)|
-DECADENT|XXX|decadent (-ie)|
+DEBRIS|n.|fragmentes, roccallia|
+DEBT|n.|debite (-or)|
+DEBUT|n.|debut (-ante)|
+DECADE|n.|decennie (-al)|
+DECADENT|n.|decadent (-ie)|
 DECAMP|v.|departer, secretmen forear, decampar|
 DECANT|v.|transvasar|
-DECANTER|XXX|caraffe|
-DECAPITATE|XXX|decap(it)ar (-ation)|
+DECANTER|n.|caraffe|
+DECAPITATE|v.|decap(it)ar (-ation)|
 DECARBONISE|v.|decarbonisar|
 DECAY|n.|caducitá, putrition|
 DECAY|v.|devenir caduc, decrepir, deperir, decader; (rot) putrir; decomposir se|
-DECEASE|XXX|morte, decesse|
-DECEIT|XXX|duperíe, fraude|
+DECEASE|n.|morte, decesse|
+DECEIT|n.|duperíe, fraude|
 DECEIVE|v.|decepter (-ion, -iv); (mislead) seducter, dupar|
-DECEMBER|XXX|decembre|
-DECENNIAL|XXX|decennial, deci-annual|
-DECENT|XXX|decent (-ie), pudic; suficent|
+DECEMBER|n.|decembre|
+DECENNIAL|adj.|decennial, deci-annual|
+DECENT|adj.|decent (-ie), pudic; suficent|
 DECENTRALISE|v.|decentralisar (-ation)|
 DECIDE|v.|deciDer (-sion, -siv)|
 DECIDED|adj.|cert, positiv, firm|
-DECIDUOUS|XXX|decidui|
-DECIMAL|XXX|decimal|
+DECIDUOUS|adj.|decidui|
+DECIMAL|adj.|decimal|
 DECIMATE|v.|decimar (-ation)|
 DECIPHER|v.|deciffrar|
-DECISION|XXX|decision, firmitá|
+DECISION|n.|decision, firmitá|
 DECK|n.|(naut.) deck, ponte; (quarter-deck) stern-deck|
 DECK|v.|ornar, vestir|
 DECLAIM|v.|declamar (-ation. -ator)|
 DECLARE|v.|declarar (-ation), anunciar, asserter|
-DECLENSION|XXX|declination|
+DECLENSION|n.|declination|
 DECLINE|n.|marasma, ftise|
 DECLINE|v.|declinar, refusar; diminuer|
-DECLIVITY|XXX|declive|
+DECLIVITY|n.|declive|
 DECOCT|v.|decocter (-ion)|
 DECODE|v.|deciffrar, decodificar|
-DECOLLETE|XXX|decolté, decoltat|
+DECOLLETE|n.|decolté, decoltat|
 DECOMPOSE|v.|decomposir (se) (-ition)|
 DECONTROL|v.|decontrolar, liberar de control|
 DECORATE|v.|ornar; decorar (-ation, -ativ, -ator)|
-DECOROUS|XXX|decent, convenent|
+DECOROUS|adj.|decent, convenent|
 DECORTICATE|v.|decorticar|
-DECORUM|XXX|decentie, bon manieres|
+DECORUM|n.|decentie, bon manieres|
 DECOY|v.|atraer, lurar|
 DECOY|n.|lure|
 DECREASE|v.|(di)minuer (-tion), decrescer (-entie)|
-DECREE|XXX|decrete (-er), ordon (-ar)|
-DECREPIT|XXX|decrepit, caduc|
+DECREE|n.|decrete (-er), ordon (-ar)|
+DECREPIT|adj.|decrepit, caduc|
 DECRY|v.|decreditar, depreciar|
 DEDICATE|v.|dedicar (-ation, -atori), consacrar, devoer (se)|
 DEDUCE|v.|deducter (-ion, -iv), concluDer, derivar|
 DEDUCT|v.|subtraer (-tion)|
-DEED|XXX|acte, action; document|
+DEED|n.|acte, action; document|
 DEEM|v.|opiner, considerar|
 DEEP|adj.|profund (-ita, -esse, -ore)|
 DEEP|n.|mare, abisse|
-DEEP-SEATED|XXX|inradicat|
+DEEP-SEATED|adj.|inradicat|
 DEEPEN|v.|aprofundar, devenir plu intens|
-DEER|XXX|cervo (-a); (Roe) capreol|
+DEER|n.|cervo (-a); (roe) capreol|
 DEFACE|v.|defigurar, deformar, defecter|
 DEFALCATE|v.|defraudar|
 DEFAME|v.|defamar (-ation, -atori), calumniar|
@@ -3755,16 +3756,16 @@ DEFAULT|v.|negliger|
 DEFAULTER|comm.|insolvente|
 DEFEAT|n.|defete|
 DEFEAT|v.|victer, victoriar; frustrar, anullar; (mil.) defetar|
-DEFECT|XXX|defecte (-iv), manaca, erra|
-DEFECTION|XXX|desertion, abandon|
-DEFENCE|XXX|defense, defension, protection|
+DEFECT|n.|defecte (-iv), manaca, erra|
+DEFECTION|n.|desertion, abandon|
+DEFENCE|n.|defense, defension, protection|
 DEFEND|v.|defenDer (-siv), gardar, protecter; (law) pledar|
-DEFENDANT|XXX|acusato, inculpato|
+DEFENDANT|n.|acusato, inculpato|
 DEFER|v.|procrastinar, ajornar; submisser se; (yield) ceder|
-DEFERENCE|XXX|respecte, consideration|
-DEFIANCE|XXX|bravade, defiation|
-DEFICIENT|XXX|mancant, ínsuficent, defectiv, ínperfect|
-DEFICIT|XXX|deficite|
+DEFERENCE|n.|respecte, consideration|
+DEFIANCE|n.|bravade, defiation|
+DEFICIENT|adj.|mancant, ínsuficent, defectiv, ínperfect|
+DEFICIT|n.|deficite|
 DEFILE|n.|defilé (strett) pass|
 DEFILE|v.|depravar, deshonorar; (mil.) defilar|
 DEFINE|v.|definir (-ition, -itiv), preeiser, limitar|
@@ -3774,128 +3775,128 @@ DEFLOWER|v.|deshonorar, desvirginar; (a plant) desflorar|
 DEFORM|v.|deformar (-ation, -itá), mutilar|
 DEFRAUD|v.|defraudar|
 DEFRAY|v.|payar|
-DEFT|XXX|habil, déxteri|
-DEFUNCT|XXX|mort, decedet|
+DEFT|adj.|habil, déxteri|
+DEFUNCT|n.|mort, decedet|
 DEFY|v.|bravar, provocar, defiar|
 DEGENERATE|adj.|degenerat, decadent, perversi|
 DEGENERATE|v.|degenerar (-ation)|
 DEGRADE|v.|degradar, humilar|
-DEGREE|XXX|gradu, mesura, scala; proportion; (rank) rang, diploma|
+DEGREE|n.|gradu, mesura, scala; proportion; (rank) rang, diploma|
 DEIFY|v.|deificar|
 DEIGN|v.|dignar, condescender|
-DEISM|XXX|de-isme (-ist)|
-DEITY|XXX|Deo, deitá|
-DEJECTED|XXX|depresset, descorageat, desanimat|
+DEISM|n.|de-isme (-ist)|
+DEITY|n.|Deo, deitá|
+DEJECTED|adj.|depresset, descorageat, desanimat|
 DELAY|n.|retarde, mora|
 DELAY|v.a.|retardar, procrastinar, demorar|
 DELAY|v.n.|tardar, hesitar|
-DELECTABLE|XXX|deliciosi, juitiv, delectabil|
+DELECTABLE|adj.|deliciosi, juitiv, delectabil|
 DELEGATE|v.|delegar (-ation. -ate), deputar|
 DELETE|v.|forstrecar, deleter (-ion)|
-DELETERIOUS|XXX|nociv, nocent|
+DELETERIOUS|adj.|nociv, nocent|
 DELIBERATE|adj.|intentional|
 DELIBERATE|v.|deliberar (-ation)|
-DELICACY|XXX|delicatesse; (a dainty) gurmandage|
-DELICATE|XXX|delicat, fin, tendri|
-DELICIOUS|XXX|deliciosi, ravissent; (of taste) saporosi|
+DELICACY|n.|delicatesse; (a dainty) gurmandage|
+DELICATE|adj.|delicat, fin, tendri|
+DELICIOUS|adj.|deliciosi, ravissent; (of taste) saporosi|
 DELIGHT|v.|charmar, injoyar, pleser, delectar|
 DELIGHT|n.|delicie, plesura, joya|
 DELIGHT IN|v.|juir|
 DELIMIT|v.|definir, delimitar|
 DELINEATE|v.|delinear; (sketch out) esquissar, dessinar|
-DELINQUENCY|XXX|delicte, culpabilitá|
-DELINQUENT|XXX|delinquente, culpon|
+DELINQUENCY|n.|delicte, culpabilitá|
+DELINQUENT|n.|delinquente, culpon|
 DELIQUESCE|v.|liquificar se|
-DELIRIUM|XXX|delire|
+DELIRIUM|n.|delire|
 DELIVER|v.|(free) liberar, emancipar; (rescue) salvar; (goods) liverar; (hand over) transdar; (an opinion) enunciar; (confinement) acuchar|
-DELL|XXX|valleyette|
-DELPHINIUM|XXX|delfinium|
-DELTA|XXX|delta|
+DELL|n.|valleyette|
+DELPHINIUM|n.|delfinium|
+DELTA|n.|delta|
 DELUDE|v.|dupar, decepter|
 DELUDE ONE INTO|v.|seducter|
 DELUGE|n.|diluvie (-al)|
 DELUGE|v.|inundar (-ation)|
-DELUSION|XXX|fals notion, halucination, deception|
+DELUSION|n.|fals notion, halucination, deception|
 DELVE|v.|fossar, serchar in|
 DEMAGNETISE|v.|demagnetisar|
-DEMAGOGUE|XXX|demagog (-ic)|
+DEMAGOGUE|n.|demagog (-ic)|
 DEMAND|n.|demande, beson|
 DEMAND|v.|exiger, demandar, postular|
 DEMARCATE|v.|delimitar, demarcar|
 DEMEAN|v.|abassar, degradar; (behave) conduir se|
-DEMEANOUR|XXX|conduida, atitude, maniere|
-DEMENTED|XXX|folli, rabiat, rabiosi, frenetic, dement|
-DEMERIT|XXX|culpe, defecte, demerite|
-DEMESME|XXX|domene, possedage|
+DEMEANOUR|n.|conduida, atitude, maniere|
+DEMENTED|adj.|folli, rabiat, rabiosi, frenetic, dement|
+DEMERIT|n.|culpe, defecte, demerite|
+DEMESME|n.|domene, possedage|
 DEMI|prefix|as in English: demí-deo etc.|
-DEMIJOHN|XXX|corb-botelle, damajan|
-DEMISE|XXX|morte|
-DEMISEMIQUAVER|XXX|triantiduesim note|
+DEMIJOHN|n.|corb-botelle, damajan|
+DEMISE|n.|morte|
+DEMISEMIQUAVER|n.|triantiduesim note|
 DEMOBILISE|v.|demobilisar|
-DEMOCRAT|XXX|democrat (-ie, -ic, -isar)|
+DEMOCRAT|n.|democrat (-ie, -ic, -isar)|
 DEMOLISH|v.|demolir (-ation), destructer, anihilar|
-DEMON|XXX|demon (-ic, -isar, -isme)|
+DEMON|n.|demon (-ic, -isar, -isme)|
 DEMONSTRATE|v.|demonstrar (-ant, -ation, -ativ)|
 DEMORALISE|v.|demoralisar|
 DEMUR|v.|hesitar, objecter|
-DEMURE|XXX|prud, seriosi, modest|
-DEMURRAGE|XXX|demorage|
-DEN|XXX|caverne, antre, grotte, refugia|
-DENIAL|XXX|negation|
-DENIZEN|XXX|habitante|
+DEMURE|adj.|prud, seriosi, modest|
+DEMURRAGE|n.|demorage|
+DEN|n.|caverne, antre, grotte, refugia|
+DENIAL|n.|negation|
+DENIZEN|n.|habitante|
 DENOMINATE|v.|nominar, designar|
-DENOMINATION|XXX|secta, categorie, division|
+DENOMINATION|n.|secta, categorie, division|
 DENOTE|v.|significar, indicar, marcar, signar, designar|
-DENOUEMENT|XXX|developament, solution|
+DENOUEMENT|n.|developament, solution|
 DENOUNCE|v.|denunciar (-ation, -ator), acusar|
-DENSE|XXX|densi (-tá, -ore, -allia); (fig.) stult, inept|
+DENSE|adj.|densi (-tá, -ore, -allia); (fig.) stult, inept|
 DENT|v.|bosselar|
 DENT|n.|incisura, cavette|
-DENTAL|XXX|dental|
-DENTATE|XXX|dentat|
-DENTIFRICE|XXX|dentifricte|
-DENTIST|XXX|dentist (-ica)|
-DENTURES|XXX|dentage|
+DENTAL|adj.|dental|
+DENTATE|adj.|dentat|
+DENTIFRICE|n.|dentifricte|
+DENTIST|n.|dentist (-ica)|
+DENTURES|n.|dentage|
 DENUDE|v.|denudar (-ation)|
 DENY|v.|negar, refusar|
 DEODAR|v.|deodar|
 DEODORIZE|v.|desodorisar|
 DEPART|v.|departer|
 DEPARTED|adj.|(deceased) decedet|
-DEPARTMENT|XXX|branche, profession, division, section, departement, rayon|
-DEPARTURA|XXX|departe|
+DEPARTMENT|n.|branche, profession, division, section, departement, rayon|
+DEPARTURA|n.|departe|
 DEPEND|v.|depender (de) (-ent, -entie)|
-DEPENDABLE|XXX|pruvat, cert, secur, fidibil|
+DEPENDABLE|adj.|pruvat, cert, secur, fidibil|
 DEPICT|v.|(paint) picter; (describe) descrir, caracterisar, portretar|
 DEPLETE|v.|exhauster (-ion), desplenar, vacuar|
 DEPLORE|v.|deplorar (-abil)|
 DEPOLARISE|v.|depolarisar|
 DEPOPULATE|v.|depopular|
 DEPORT|v.|deportar (-ation), exiliar|
-DEPORTMENT|XXX|postura, marchada, statura|
+DEPORTMENT|n.|postura, marchada, statura|
 DEPOSE|v.|(a king) detronar; (law) atestar, declarar|
 DEPOSIT|n.|deposite, sediment|
 DEPOSIT|v.|deposir (-ition, -itor, -itoria), dar in depó|
-DEPOT|XXX|depó, magasine, depositoria|
+DEPOT|n.|depó, magasine, depositoria|
 DEPRAVE|v.|depravar|
-DEPRAVED|XXX|viciosi, depravat|
+DEPRAVED|adj.|viciosi, depravat|
 DEPRECATE|v.|desaprobar, regretar|
 DEPRECIATE|v.|depreciar; (price) minuer, reducter|
 DEPREDATE|v.|pilliar, spoliar (-ation)|
 DEPRESS|v.|depresser (-ion), abassar|
 DEPRIVE|v.|privar (-ation, -ativ)|
-DEPTH|XXX|profunditá; (measurement) profundore|
+DEPTH|n.|profunditá; (measurement) profundore|
 DEPUTE|v.|deputar (-ate, -ation), delegar|
 DEPUTY|prefix|vice-|
 DERAIL|v.|derelar|
 DERANGE|v.|desordinar, desarangear, confuser; (the mind) alienar|
-DERELICT|XXX|abandonat, ruinat|
-DERELICTION|XXX|negligentie, omission|
+DERELICT|adj.|abandonat, ruinat|
+DERELICTION|n.|negligentie, omission|
 DERIDE|v.|deriDer (-sori, -sion), mocar, persiflar|
 DEROGATE|v.|devalorar, damagear, depreciar, desestimar, minuer|
-DERRICK|XXX|cran|
-DERVISH|XXX|dervish|
-DESCANT|mus.|soprano|
+DERRICK|n.|cran|
+DERVISH|n.|dervish|
+DESCANT|n.|(mus.) soprano|
 DESCANT|v.|trillar; (fig.) discurrer pri|
 DESCEND|v.|descenDer (-se, -sion, -dente, -dentie)|
 DESCRIBE|v.|descrir (-ition, -itiv); (draw) dessinar|
@@ -3904,194 +3905,195 @@ DESECRATE|v.|desacrar, profanar|
 DESERT|adj.|desert|
 DESERT|n.|deserte|
 DESERT|v.|deserter (-ion, -or) abandonar|
-DESERTS|XXX|merite|
+DESERTS|n.|merite|
 DESERVE|v.|meriter (-ori, -osi)|
-DESHABILLE|XXX|negligé|
+DESHABILLE|n.|negligé|
 DESICCATE|v.|(ex)siccar (-ation)|
-DESIDERATUM|XXX|beson, manca|
+DESIDERATUM|n.|beson, manca|
 DESIGN|v.|(draw) dessinar, esquissar; (plan out) projector, designar; (intend) intenter|
 DESIGN|n.|dessine, plan, projecte|
 DESIGNATE|v.|designar (-ation, -abil), destinar, nominar|
-DESIGNING|XXX|perfid, astut|
-DESIRE|XXX|desire (-ar, -abil)|
+DESIGNING|adj.|perfid, astut|
+DESIRE|n.|desire (-ar, -abil)|
 DESIST|v.|cessar, detener se|
-DESK|XXX|pupitre,scri-table|
+DESK|n.|pupitre,scri-table|
 DESOLATE|adj.|desert, desolat, isolat|
 DESOLATE|v.|devastar (-ation)|
 DESPAIR|v.|desesperar (-antie)|
 DESPATCH|n.|celeritá; (mil.) depeche|
 DESPATCH|v.|inviar, expedir, misser; (kill) mortar|
-DESPATCH RIDER|XXX|estafet|
-DESPERADO|XXX|desperado|
-DESPERATE|XXX|desperat, desesperat|
-DESPICABLE|XXX|despectibil|
+DESPATCH RIDER|n.|estafet|
+DESPERADO|n.|desperado|
+DESPERATE|adj.|desperat, desesperat|
+DESPICABLE|adj.|despectibil|
 DESPISE|v.|despecter|
-DESPITE|XXX|malgré|
+DESPITE|prep.|malgré|
 DESPOIL|v.|spoliar, marodar, rapter|
 DESPOND|v.|descoragear se, desesperar|
-DESPONDENCY|XXX|depression|
-DESPOT|XXX|despot (-ic, -isme)|
+DESPONDENCY|n.|depression|
+DESPOT|n.|despot (-ic, -isme)|
 DESQUAMATE|v.|desquamar|
-DESSERT|XXX|dessert|
-DESSERT SPOON|XXX|coclare a dessert|
-DESTINATION|XXX|destination, adresse|
+DESSERT|n.|dessert|
+DESSERT SPOON|n.|coclare a dessert|
+DESTINATION|n.|destination, adresse|
 DESTINE|v.|destinar|
-DESTINY|XXX|destine, fate|
+DESTINY|n.|destine, fate|
 DESTITUTE|adj.|indigent, privat de, sin sucurse|
 DESTROY|v.|destructer, ruinar, anihilar|
-DESTROYER|XXX|destróyer, torpedobot-chassero, destructor|
-DESTRUCTION|XXX|destruction|
-DESUETUDE|XXX|desusantie|
-DESULTORY|XXX|superficial, cursori, incoherent|
+DESTROYER|n.|destróyer, torpedobot-chassero, destructor|
+DESTRUCTION|n.|destruction|
+DESUETUDE|n.|desusantie|
+DESULTORY|adj.|superficial, cursori, incoherent|
 DETACH|v.|separar, deligar|
 DETACHMENT|mil.|section; (aloofness) isolation|
-DETAIL|XXX|detallie (-ar, -at); (tell off) selecter, definir|
+DETAIL|n.|detallie (-ar, -at)|
+DETAIL|v.|(tell off) selecter, definir|
 DETAIN|v.|arestar, stoppar, retener|
 DETECT|v.|(notice) remarcar; (discover) decovrir, detecter (-or, -ion, -iv, -ive)|
 DETER|v.|impedir|
 DETERGENT|adj.|detergent, purificant|
-DETERIORATE|XXX|deterioraf (-ation), pejorar|
+DETERIORATE|adj.|deteriorat (-ation), pejorat|
 DETERMINE|v.|determinar (-ation, -ativ), resoluer|
 DETERMINED|adj.|resolut, ínflexibil|
 DETEST|v.|abominar (-abil, -ation), odiar, detestar|
 DETHRONE|v.|detronar|
 DETONATE|v.|detonar (-ation, -ator), explodentar|
-DETOUR|XXX|detorne, via índirect|
+DETOUR|n.|detorne, via índirect|
 DETRACT|v.|detracter (-ion, -or), calumniar|
 DETRAIN|v.|debarcar del tren|
-DETRIMENT|XXX|detriment, damage, desavantage|
-DEUCE|XXX|diábol; (at cards) li du; (tennis) in egalitá|
+DETRIMENT|n.|detriment, damage, desavantage|
+DEUCE|n.|diábol; (at cards) li du; (tennis) in egalitá|
 DEVASTATE|v.|devastar (-ation)|
 DEVELOP|v.|developar (-ation), disvoluer|
 DEVIATE|v.|deviar (-ation), digresser|
-DEVICE|XXX|remedie, plan, projecte, invention, expediente; simbol, devise|
-DEVIL|XXX|diábol (-ic, -eríe)|
-DEVIOUS|XXX|deviatori, índirect|
+DEVICE|n.|remedie, plan, projecte, invention, expediente; simbol, devise|
+DEVIL|n.|diábol (-ic, -eríe)|
+DEVIOUS|adj.|deviatori, índirect|
 DEVISE|v.|imaginar, inventer; (legal) legar|
-DEVOID OF|XXX|sin, vacui de, ne havent|
+DEVOID OF|prep.|sin, vacui de, ne havent|
 DEVOLVE UPON|v.|scader sur|
 DEVOTE|v.|devoer, consacrar, dedicar|
-DEVOTEE|XXX|entusiaste, adepte, adorator, disciple|
-DEVOTION|XXX|devotion|
+DEVOTEE|n.|entusiaste, adepte, adorator, disciple|
+DEVOTION|n.|devotion|
 DEVOUR|v.|devorar|
-DEVOUT|XXX|devoet, pie, religiosi|
-DEW|XXX|rosé|
-DEXTEROUS|XXX|déxteri (-tá)|
-DIABETES|XXX|diabete (-ic, -ico)|
-DIABOLICAL|XXX|diabolic|
-DIADEM|XXX|diadem|
-DIAGNOSIS|XXX|diagnoSe (-ar, -tic, -tica)|
-DIAGONAL|XXX|diagonal|
-DIAGONAL|XXX|diagonal (e)|
-DIAGRAM|XXX|diagramma (-tic), figura|
-DIAL|XXX|disco|
-DIALECT|XXX|dialecte (-ica)|
-DIALOGUE|XXX|dialog|
-DIAMETER|XXX|diametre (-ic, -al)|
-DIAMOND|XXX|diamant; (cards) caro|
-DIAPASON|XXX|diapason|
-DIAPER|XXX|involuette|
-DIAPHANOUS|XXX|diafan|
-DIAPHRAGM|XXX|diafragma|
-DIARRHOEA|XXX|diaré|
-DIARY|XXX|diarium|
-DIATRIBE|XXX|diatribe, invective|
-DICE|XXX|ossettes, cubes|
-DICOTYLEDON|XXX|dicotiledon|
+DEVOUT|adj.|devoet, pie, religiosi|
+DEW|n.|rosé|
+DEXTEROUS|adj.|déxteri (-tá)|
+DIABETES|n.|diabete (-ic, -ico)|
+DIABOLICAL|adj.|diabolic|
+DIADEM|n.|diadem|
+DIAGNOSIS|n.|diagnoSe (-ar, -tic, -tica)|
+DIAGONAL|adj.|diagonal|
+DIAGONAL|n.|diagonal(e)|XXX FIXME --
+DIAGRAM|n.|diagramma (-tic), figura|
+DIAL|n.|disco|
+DIALECT|n.|dialecte (-ica)|
+DIALOGUE|n.|dialog|
+DIAMETER|n.|diametre (-ic, -al)|
+DIAMOND|n.|diamant; (cards) caro|
+DIAPASON|n.|diapason|
+DIAPER|n.|involuette|
+DIAPHANOUS|adj.|diafan|
+DIAPHRAGM|n.|diafragma|
+DIARRHOEA|n.|diaré|
+DIARY|n.|diarium|
+DIATRIBE|n.|diatribe, invective|
+DICE|n.|ossettes, cubes|
+DICOTYLEDON|n.|dicotiledon|
 DICTATE|v.|dictar (-at, -ator, -atori, -atura, -ation), ordonar|
-DICTION|XXX|diction|
-DICTIONARY|XXX|lexico, dictionarium|
-DICTUM|XXX|dictum|
-DIDACTIC|XXX|didactic (-a)|
+DICTION|n.|diction|
+DICTIONARY|n.|lexico, dictionarium|
+DICTUM|n.|dictum|
+DIDACTIC|adj.|didactic (-a)|
 DIE|n.|cube, stamp|
 DIE|v.|morir; (perish) perir; (die out) extinter se|
-DIET|XXX|diete (-ari, -ic, -ica)|
+DIET|n.|diete (-ari, -ic, -ica)|
 DIFFER|v.|diferer (-ent, -entie, -entiar, -ential, -entiale)|
-DIFFICULT|XXX|desfacil (-itá), penosi|
-DIFFIDENT|XXX|modest, misfident|
+DIFFICULT|adj.|desfacil (-itá), penosi|
+DIFFIDENT|adj.|modest, misfident|
 DIFFRACT|v.|difracter (-ion, -iv, -or)|
 DIFFUSE|adj.|prolix|
 DIFFUSE|v.|difuser (-ion)|
 DIG|v.|fossar|
 DIGEST|n.|compendie, resumé|
 DIGEST|v.|digester (-ibil, -ion, -iv)|
-DIGIT|XXX|ciffre|
-DIGITALIS|XXX|digitale|
-DIGNIFIED|XXX|digni (-tá, -tosi, -tario)|
+DIGIT|n.|ciffre|
+DIGITALIS|n.|digitale|
+DIGNIFIED|adj.|digni (-tá, -tosi, -tario)|
 DIGRESS|v.|digresser (-ion)|
 DIKE|n.|diga|
 DIKE|v.|dinear|
-DILAPIDATED|XXX|in ruines, caduc|
+DILAPIDATED|adj.|in ruines, caduc|
 DILATE|v.|dilatar, elargar|
-DILATORY|XXX|procrastinatori, lent, tardigrad, lentaci|
-DILEMMA|XXX|dilemma|
-DILETTANTE|XXX|dilettante, amator|
-DILIGENT|XXX|diligent (-ie)|
-DILL|XXX|anete|
+DILATORY|adj.|procrastinatori, lent, tardigrad, lentaci|
+DILEMMA|n.|dilemma|
+DILETTANTE|n.|dilettante, amator|
+DILIGENT|n.|diligent (-ie)|
+DILL|n.|anete|
 DILLY-DALLY|v.|procrastinar|
 DILUTE|v.|diluer (-tion)|
-DILUVIAL|XXX|diluvial|
+DILUVIAL|adj.|diluvial|
 DIM|v.|obscurar|
 DIM|adj.|obscur, ínclar, pallid, debil|
-DIMENSION|XXX|dimension (-al), mesura|
+DIMENSION|n.|dimension (-al), mesura|
 DIMINISH|v.|(di)minuer (-tion, -tiv), decrescer|
-DIMPLE|XXX|cavette|
-DIN|XXX|bruida|
+DIMPLE|n.|cavette|
+DIN|n.|bruida|
 DIN INTO OUR EARS|v.|tamburar a nor oreles|
-DINGHLY|XXX|yoll|
-DINGY|XXX|morni, sordid, obscur|
-DINING-ROOM|XXX|manjatoria|
-DINNER|XXX|diné|
-DINT|XXX|impression|
-DIOCESE|XXX|diocese, (-an)|
+DINGHLY|n.|yoll|XXX FIXME ->"DINGHY"?
+DINGY|adj.|morni, sordid, obscur|
+DINING-ROOM|n.|manjatoria|
+DINNER|n.|diné|
+DINT|n.|impression|
+DIOCESE|n.|diocese, (-an)|
 DIOPTRIC|adj.|(phys.) dioptric|
-DIORAMA|XXX|diorama|
+DIORAMA|n.|diorama|
 DIP|v.|(immerse) (in)merser, plongear; (sun) descenDer; (magnet) declinar|
 DIP INTO A BOOK|v.|percurrer|
 DIP OUT OF|v.|hauster|
 DIP THE FLAG|v.|(naut.) salutar per li flagga|
-DIPHTHERIA|XXX|difterite|
-DIPHTHONG|XXX|diftongo (-al)|
-DIPLOMA|XXX|diploma|
-DIPLOMAT|XXX|diplomat (-ic, -ie)|
-DIPSOMANIA|XXX|dipsomanie (-ac)|
-DIRE|XXX|terribil, trist|
+DIPHTHERIA|n.|difterite|
+DIPHTHONG|n.|diftongo (-al)|
+DIPLOMA|n.|diploma|
+DIPLOMAT|n.|diplomat (-ic, -ie)|
+DIPSOMANIA|n.|dipsomanie (-ac)|
+DIRE|adj.|terribil, trist|
 DIRECT|adj.|direct, rect|
 DIRECT|v.|directer (-ion, -iv, -ive, -or, -oratu); (to order) ordonar; (music) diriger (-ent)|
 DIRECTLY|adv.|ínmediatmen, strax, prompt, ho-moment|
-DIRECTORY|XXX|adressarium|
-DIRGE|XXX|himne funeral, elegie|
-DIRIGIBLE|XXX|ballon directibil|
-DIRK|XXX|puniale|
-DIRT|XXX|crasse, sordidallia, sordidage; (mud) fango, mudde|
+DIRECTORY|n.|adressarium|
+DIRGE|n.|himne funeral, elegie|
+DIRIGIBLE|n.|ballon directibil|
+DIRK|n.|puniale|
+DIRT|n.|crasse, sordidallia, sordidage; (mud) fango, mudde|
 DIRTY|v.|incrassar|
 DIRTY|adj.|sordid, ínpur|
 DISABLE|v.|far íncapabil, debilisar, desvalidar; (cripple) mutilar|
 DISABUSE|v.|desilusionar|
-DISADVANTAGE|XXX|desavantage, detriment, damage|
+DISADVANTAGE|n.|desavantage, detriment, damage|
 DISAFFECT|v.|desloyalisar, descontentar|
 DISAGREE|v.|desacordar, deconsentir, querellar|
-DISAGREEABLE|XXX|desagreabil, contrari|
+DISAGREEABLE|adj.|desagreabil, contrari|
 DISALLOW|v.|rejecter, refusar, depermisser|
 DISAPPEAR|v.|desaparir (-ition)|
 DISAPPOINT|v.|decepter (-tion, -iv)|
-DISAPPROBATION|XXX|desapprobation|
+DISAPPROBATION|n.|desapprobation|
 DISAPPROVE|v.|desaprobar|
 DISARM|v.|desarmar (-ament)|
 DISARRANGE|v.|desordinar, desarangear|
-DISASTER|XXX|desastre (-osi), desfortun, adversitá, catastrofe|
+DISASTER|n.|desastre (-osi), desfortun, adversitá, catastrofe|
 DISAVOW|v.|negar, deconfesser|
 DISBAND|v.|separar (se), congediar, demisser|
 DISBELIEVE|v.|dubitar, ne creder|
 DISBURDEN|v.|dechargear|
 DISBURSE|v.|expenser, desinborsar|
-DISC|XXX|disco|
+DISC|n.|disco|
 DISCARD|v.|rejecter, escartar|
 DISCERN|v.|discerner, percepter, distinter|
-DISCERNMENT|XXX|sagacitá|
+DISCERNMENT|n.|sagacitá|
 DISCHARGE|v.|demisser, congediar; executer; (a prisoner) aquittar, absoluer; (ship) decargar; (matter) supurar|
-DISCIPLE|XXX|disciple (-a, -o), adepte, adherente, partisan|
-DISCIPLINE|XXX|discipline (-ar, -ari)|
+DISCIPLE|n.|disciple (-a, -o), adepte, adherente, partisan|
+DISCIPLINE|n.|discipline (-ar, -ari)|
 DISCLAIM|v.|repudiar, negar, dementir|
 DISCLOSE|v.|decovrir, revelar (-ation)|
 DISCOLOUR|v.|decolorar (-ation)|
@@ -4101,34 +4103,34 @@ DISCOMFORT|v.|íncomodar|
 DISCOMPOSE|v.|perturbar, vexar, confuser|
 DISCONCERT|v.|embarassar, perturbar|
 DISCONNECT|v.|separar, deligar, disjunter; (mech.) decuplar|
-DISCONSOLATE|XXX|ínconsolabil, desolat, atristat|
-DISCONTENT|XXX|descontentament, dessatisfation|
+DISCONSOLATE|adj.|ínconsolabil, desolat, atristat|
+DISCONTENT|n.|descontentament, dessatisfation|
 DISCONTINUE|v.|decontinuar, cessar|
-DISCORD|XXX|discordie, dissonantie, desharmonie|
+DISCORD|n.|discordie, dissonantie, desharmonie|
 DISCOUNT|n.|rabatte, disconto|
 DISCOUNT|v.|discontar|
 DISCOUNTENANCE|v.|desaprobar, desfavorar|
 DISCOURAGE|v.|decoragear|
 DISCOURSE|v.|discurrer|
 DISCOURSE|n.|discurse, parlada|
-DISCOURTEOUS|XXX|descortesi, ínpolit|
+DISCOURTEOUS|adj.|descortesi, ínpolit|
 DISCOVER|v.|decovrir, revelar; (find) trovar|
 DISCREDIT|n.|descredite, honte, mal repu tation|
 DISCREDIT|v.|defamar, dubitar pri|
-DISCREDITABLE|XXX|hontosi, infam|
-DISCREET|XXX|discret, prudent, caut, circumspect|
-DISCREPANCY|XXX|diferentie, discrepantie|
-DISCRETION|XXX|discretion; (judgment) bon trova, judicie, arbitrie|
+DISCREDITABLE|adj.|hontosi, infam|
+DISCREET|adj.|discret, prudent, caut, circumspect|
+DISCREPANCY|n.|diferentie, discrepantie|
+DISCRETION|n.|discretion; (judgment) bon trova, judicie, arbitrie|
 DISCRIMINATE|v.|distinter, diferentiar|
-DISCRIMINATION|XXX|distintion, sagacitá|
-DISCURSIVE|XXX|digressiv|
-DISCUS|XXX|disco|
+DISCRIMINATION|n.|distintion, sagacitá|
+DISCURSIVE|adj.|digressiv|
+DISCUS|n.|disco|
 DISCUSS|v.|discusser (-ion)|
 DISDAIN|n.|mal estimation|
 DISDAIN|v.|dedignar, despecter|
-DISEASE|XXX|maladie, malsanie, morbe|
+DISEASE|n.|maladie, malsanie, morbe|
 DISEMBARK|v.|debarcar, desinbarcar|
-DISEMBODIED|XXX|desincorporat|
+DISEMBODIED|adj.|desincorporat|
 DISEMBOWEL|v.|eviscerar, desintralliar|
 DISENCHANT|v.|desilusionar|
 DISENCUMBER|v.|desembarassar, liberar|
@@ -4137,53 +4139,53 @@ DISENGAGE|v.|liberar, degagear|
 DISENTANGLE|v.|debrolliar, liberar, devoluer|
 DISESTABLISH|v.|desetablisser, destatisar|
 DISESTEEM|v.|despecter|
-DISFAVOUR|XXX|desfavore|
+DISFAVOUR|n.|desfavore|
 DISFIGURE|v.|deformar, defigurar|
 DISFRANCHISE|v.|privar del sufragie, del votjure|
 DISGORGE|v.|vomir, ejecter, expulser; restituer|
-DISGRACE|XXX|deshonor, honte, desfavore|
-DISGRUNTLED|XXX|descontent, plendaci|
+DISGRACE|n.|deshonor, honte, desfavore|
+DISGRUNTLED|adj.|descontent, plendaci|
 DISGUISE|v.|mascar, travestir (se); (feelings) dissimular, ficter|
-DISGUST|XXX|desguste, nausea (-tiv), repugnantie, aversion, repulsion|
-DISH|XXX|plate, cope, vase; (food) manjage|
-DISHCLOTH|XXX|lavette, lapp por lavar|
+DISGUST|n.|desguste, nausea (-tiv), repugnantie, aversion, repulsion|
+DISH|n.|plate, cope, vase; (food) manjage|
+DISHCLOTH|n.|lavette, lapp por lavar|
 DISHEARTEN|v.|descoragear|
 DISHEVEL|v.|desordinar, defriser|
-DISHONEST|XXX|deshonest|
-DISHONOUR|XXX|deshonor (-ar, -abil), ignominie|
+DISHONEST|adj.|deshonest|
+DISHONOUR|n.|deshonor (-ar, -abil), ignominie|
 DISILLUSION|v.|desilusionar, derevar, decepter|
-DISINCLINATION|XXX|aversion, antipatíe|
+DISINCLINATION|n.|aversion, antipatíe|
 DISINFECT|v.|desinfecter (-ion)|
-DISINGENUOUS|XXX|ínsinceri|
+DISINGENUOUS|adj.|ínsinceri|
 DISINHERIT|v.|desheredar|
 DISINTEGRATE|v.|dissoluer, desintegrar|
 DISINTER|v.|exhumar, exfossar|
-DISINTERESTED|XXX|ínpartial, altruistic|
+DISINTERESTED|adj.|ínpartial, altruistic|
 DISJOIN|v.|dejunter, separar|
-DISJOINTED|XXX|íncoherent|
+DISJOINTED|adj.|íncoherent|
 DISLIKE|v.|haver aversion contra, desamar|
 DISLIKE|n.|aversion|
 DISLOCATE|med.|luxar (-ation), desordinar|
 DISLODGE|v.|expulser, forchassar|
-DISLOYAL|XXX|ínfidel, perfid|
-DISMAL|XXX|trubli, morni; (dark) tenebrosi|
+DISLOYAL|adj.|ínfidel, perfid|
+DISMAL|adj.|trubli, morni; (dark) tenebrosi|
 DISMANTLE|v.|demonter, demolir, detaclar|
 DISMAY|v.|consternar (-ation)|
-DISMEMBER|XXX|di smembrar|
+DISMEMBER|v.|dismembrar|
 DISMISS|v.|demisser (-ion); (a guest etc.) congediar|
 DISMOUNT|v.|descenDer|
 DISOBEY|v.|desobedir (-ent, -entie)|
 DISOBLIGE|v.|decompleser|
-DISORDER|XXX|desórdine|
+DISORDER|n.|desórdine|
 DISORGANISE|v.|desorganisar|
 DISOWN|v.|repulser, refusar a reconosser|
 DISPARAGE|v.|defamar, depreciar|
-DISPARITY|XXX|illegalitá|
-DISPASSIONATE|XXX|quiet, calm, sin passion, placid, ínpartial|
+DISPARITY|n.|illegalitá|
+DISPASSIONATE|adj.|quiet, calm, sin passion, placid, ínpartial|
 DISPATCH|n.|depeche|
 DISPATCH|v.|expedir, inviar, misser|
 DISPEL|v.|forchassar, dissipar, disperser|
-DISPENSARY|XXX|apoteca, farmacia|
+DISPENSARY|n.|apoteca, farmacia|
 DISPENSATION|n.|(of Providence) disposition|
 DISPENSE|v.|rendir, administrar; preparar medicamentes|
 DISPENSE WITH|v.|carir, indiger|
@@ -4194,24 +4196,24 @@ DISPLAY|v.|(de)monstrar, exposir, paradar|
 DISPLAY|n.|exposition, etalation, spectacul, ostentation; (mil.) parade|
 DISPLEASE|v.|depleser (-ura), ofender|
 DISPORT ONESELF|v.|amusar se, divertisser se|
-DISPOSAL|XXX|disposition, arbitrie, usa|
+DISPOSAL|n.|disposition, arbitrie, usa|
 DISPOSE|v.|disposir, arangear|
 DISPOSE OF|v.|disponer, vendir, alienar; (deal with) tractar|
-DISPOSITION|XXX|disposition; temperament|
+DISPOSITION|n.|disposition; temperament|
 DISPOSSESS|v.|deposseder, privar de, expulser|
-DISPROPORTION|XXX|desproportion (-al)|
+DISPROPORTION|n.|desproportion (-al)|
 DISPROVE|v.|refutar|
 DISPUTE|n.|contro verse, querelle|
 DISPUTE|n.|disput (-ar, -ant, -aci, -ation, -ator), debatter, polemisar|
 DISQUALIFY|v.|dequalificar (-ation)|
 DISQUIET|n.|perturbation, destranquilitá|
 DISQUIET|v.|ínquietar|
-DISQUISITION|XXX|dissertation|
+DISQUISITION|n.|dissertation|
 DISREGARD|n.|índiferentie|
 DISREGARD|v.|ignorar|
 DISRELISH|v.|haver aversion contra|
-DISREPAIR|XXX|mal statu, mal órdine,caducitá|
-DISREPUTE|XXX|descredit, mal reputation|
+DISREPAIR|n.|mal statu, mal órdine, caducitá|
+DISREPUTE|n.|descredit, mal reputation|
 DISRESPECT|v.|desrespectar|
 DISROBE|v.|devestir|
 DISRUPT|v.|disrupter (-ion, -iv)|
@@ -4219,177 +4221,177 @@ DISSATISFY|v.|desatisfar (-ation, -atori)|
 DISSECT|v.|dissecter (-ion); (med.) anatomisar|
 DISSEMBLE|v.|dissimular (-ation)|
 DISSEMINATE|v.|dissemar (-ation)|
-DISSENSION|XXX|dissension, discordie|
+DISSENSION|n.|dissension, discordie|
 DISSENT|v.|deconsentir, altrimen pensar; (eccl.) dissider|
-DISSENTER|XXX|dissidente, non-conformist|
-DISSERTATION|XXX|dissertation|
-DISSERVICE|XXX|mal servicie, damage|
+DISSENTER|n.|dissidente, non-conformist|
+DISSERTATION|n.|dissertation|
+DISSERVICE|n.|mal servicie, damage|
 DISSEVER|v.|divider, dejunter, separar|
-DISSIDENCE|XXX|discordantie; (rel.) dissidentie|
-DISSIMILAR|XXX|dessimil (-itá)|
+DISSIDENCE|n.|discordantie; (rel.) dissidentie|
+DISSIMILAR|adj.|dessimil (-itá)|
 DISSIMULATE|v.|(dis)simular|
 DISSIPATE|v.|dissipar, disperser; prodigar|
 DISSIPATED|adj.|deboehat|
 DISSOCIATE|v.|dissociar|
-DISSOLUTE|XXX|debochant, libertin|
-DISSOLUTION|XXX|dissolution|
+DISSOLUTE|adj.|debochant, libertin|
+DISSOLUTION|n.|dissolution|
 DISSOLVE|v.|(melt) dissoluer, evaporar se; anullar|
-DISSONANT|XXX|dissonant (-ie)|
+DISSONANT|adj.|dissonant (-ie)|
 DISSUADE|v.|dissuaDer (-sion, -siv), deconsiliar|
-DISTAFF|XXX|spindle|
-DISTANT|XXX|distant (-ie), lontan; (in manner) reservat|
-DISTASTE|XXX|aversion, antipatíe|
-DISTASTEFUL|XXX|desagreabil, antipatic|
+DISTAFF|n.|spindle|
+DISTANT|adj.|distant (-ie), lontan; (in manner) reservat|
+DISTASTE|n.|aversion, antipatíe|
+DISTASTEFUL|adj.|desagreabil, antipatic|
 DISTEMPER|v.|badigeonar|
 DISTEMPER|n.|febre canin; (colouring) badigeon (-age, -ero)|
 DISTEND|v.|distenDer (-sion), dilatar, expanDer|
-DISTICH|XXX|disticon|
+DISTICH|n.|disticon|
 DISTIL|v.|distillar (-ería, -ation, -ator)|
-DISTINCT|XXX|distint (-iv), separat, clar|
-DISTINCTION|XXX|distintion, eminentie, honor; diferentie|
+DISTINCT|adj.|distint (-iv), separat, clar|
+DISTINCTION|n.|distintion, eminentie, honor; diferentie|
 DISTINGUISH|v.|distinter|
 DISTORT|v.|distorDer (-sion), defigurar, deformar|
 DISTRACT|v.|trublar, distracter (-ion, -iv), confuser|
-DISTRACTION|XXX|amusament; frenesie|
+DISTRACTION|n.|amusament; frenesie|
 DISTRAIN|v.|sequestrar, confiscar|
 DISTRESS|v.|trublar, tormentar|
 DISTRESS|n.|misere, afliction, suffrentie|
 DISTRIBUTE|v.|distribuer (-tion, -tiv, -tor), disdar|
-DISTRICT|XXX|districte, region|
+DISTRICT|n.|districte, region|
 DISTRUST|v.|misfider (-entie)|
 DISTURB|v.|(dis)turbar, genar, ínquietar; (disarrange) desordinar, íncomodar|
 DISUNITE|v.|desunir, divider|
 DISUSE|n.|desusu|
-DISUSED|XXX|ne plu usat|
-DISYLLABLE|XXX|dusillabic parol|
-DITCH|XXX|fosse, canalette, tranché|
-DITTO|XXX|dito, idem, lu sam|
-DITTY|XXX|canzonette|
-DIURNAL|XXX|dial, diari, quotidian|
-DIVAN|XXX|divan, sofa|
+DISUSED|adj.|ne plu usat|
+DISYLLABLE|n.|dusillabic parol|
+DITCH|n.|fosse, canalette, tranché|
+DITTO|n.|dito, idem, lu sam|
+DITTY|n.|canzonette|
+DIURNAL|adj.|dial, diari, quotidian|
+DIVAN|n.|divan, sofa|
 DIVE|v.|plongear (-gero), merser|
 DIVER|ornith.|colimbe; (professional) scafandriero|
 DIVERGE|v.|diverger (-ent, -entie)|
-DIVERSE|XXX|diversi (-ficar, -tá), pluri|
-DIVERSION|XXX|divertissement, passa-témpor, distraction|
+DIVERSE|adj.|diversi (-ficar, -tá), pluri|
+DIVERSION|n.|divertissement, passa-témpor, distraction|
 DIVERT|v.|detornar, deflecter, deflancar; amusar, divertisser|
 DIVEST|v.|devestir, privar|
 DIVIDE|v.|diviDer, partir; secter|
-DIVIDEND|XXX|dividende|
+DIVIDEND|n.|dividende|
 DIVINE|adj.|divin (-itá), deal, cielest|
 DIVINE|n.|teolog (-ie)|
 DIVINE|v.|divinar (-ation, -ator)|
-DIVING-SUIT|XXX|scafandre|
-DIVINING-ROD|XXX|verge divinatori|
-DIVISION|XXX|division (-al), districte; classe, section|
-DIVISOR|XXX|divisor|
-DIVORCE|XXX|divorcie (-ar)|
+DIVING-SUIT|n.|scafandre|
+DIVINING-ROD|n.|verge divinatori|
+DIVISION|n.|division (-al), districte; classe, section|
+DIVISOR|n.|divisor|
+DIVORCE|n.|divorcie (-ar)|
 DIVULGE|v.|divulgar (-ation), revelar|
-DIZZINESS|XXX|vertígine (-osi)|
+DIZZINESS|n.|vertígine (-osi)|
 DO|v.|far, acter, executer; (of health) standar|
 DO PENANCE|v.|peniter, far penitentie|
 DO SOMEONE A SERVICE|v.|compleser (-ntie)|
 DO WITHOUT|v.|carir, dispensar se de|
-DOCILE|XXX|docil (-itá), obedient|
+DOCILE|adj.|docil (-itá), obedient|
 DOCK|n.|(bot.) oxale; (naut.) dock, bassine (-ero); (law) piazza por acusatos|
 DOCK|v.|acurtar li caude; (a ship) inbassinar|
-DOCKET|XXX|etiquette, billet|
+DOCKET|n.|etiquette, billet|
 DOCTOR|v.|medicar, curar|
 DOCTOR|n.|medico; (of law etc.) doctor (-atu)|
-DOCTRINE|XXX|doctrine (-al, -ari, -ario)|
-DOCUMENT|XXX|document (-ari, -al)|
+DOCTRINE|n.|doctrine (-al, -ari, -ario)|
+DOCUMENT|n.|document (-ari, -al)|
 DODDER|v.|chancelar|
-DODDERING|XXX|caduc|
+DODDERING|adj.|caduc|
 DODGE|v.|evitar; saltar ad-látere|
 DODGE|n.|artificie, tric|
-DODO|XXX|dronte|
-DOE|XXX|cerva, capreola|
+DODO|n.|dronte|
+DOE|n.|cerva, capreola|
 DOFF|v.|demetter|
-DOG|XXX|cane (-in, -allia|
+DOG|n.|cane (-in, -allia)|
 DOG ONE'S STEPS|v.|persequer|
-DOG-DAYS|XXX|dies caniculari, caniculas|
-DOG-FANCIER|XXX|cane-cultor|
-DOG-ROSE|XXX|savagi rose|
-DOG-STAR|XXX|Sírius|
+DOG-DAYS|n.|dies caniculari, caniculas|
+DOG-FANCIER|n.|cane-cultor|
+DOG-ROSE|n.|savagi rose|
+DOG-STAR|n.|Sírius|
 DOGGED|adj.|tenaci, obstinat, infatigabil|
-DOGGEREL|XXX|versaches, rimallia|
-DOGMA|XXX|dogma (tic)|
+DOGGEREL|n.|versaches, rimallia|
+DOGMA|n.|dogma (tic)|XXX FIXME -- "(tic)"?
 DOLE|n.|(share) parte, portion; almosne|
 DOLE|v.|(dole out) partir, distribuer|
-DOLEFUL|XXX|morni, trist|
-DOLL|XXX|pupé|
-DOLLAR|XXX|dóllar|
-DOLOMITE|XXX|dólomit|
-DOLOROUS|XXX|dolorosi|
-DOLPHIN|XXX|delfine|
-DOLT|XXX|stulton, plumpon|
-DOMAIN|XXX|dominia; (estate) domene|
-DOME|XXX|cupol|
+DOLEFUL|adj.|morni, trist|
+DOLL|n.|pupé|
+DOLLAR|n.|dóllar|
+DOLOMITE|n.|dólomit|
+DOLOROUS|adj.|dolorosi|
+DOLPHIN|n.|delfine|
+DOLT|n.|stulton, plumpon|
+DOMAIN|n.|dominia; (estate) domene|
+DOME|n.|cupol|
 DOMESTIC|adj.|domestic (-a, -o, -ar, -itá)|
-DOMICILE|XXX|domicilie, habitation, logí|
+DOMICILE|n.|domicilie, habitation, logí|
 DOMINATE|v.|dominar (-ation)|
 DOMINEER|v.|tirannisar|
-DOMING|XXX|dominó|
-DOMINION|XXX|hegemonie, soveranitá, regne; (territory) dominia|
+DOMING|n.|dominó|
+DOMINION|n.|hegemonie, soveranitá, regne; (territory) dominia|
 DON|n.|colegial preceptor|
 DON|v.|metter, vestir se per|
-DON'T BUDGE!|XXX|stopp!|
+DON'T BUDGE!|interj.|stopp!|
 DONATE|v.|donar (-ation, -ator)|
-DONKEY|XXX|ásino (-in)|
+DONKEY|n.|ásino (-in)|
 DOOM|v.|condamnar|
 DOOM|n.|fate, destine, ruine, perition; (law) sententie|
-DOOR|XXX|porta|
-DOOR BELL|XXX|sonette|
-DOORKEEPER|XXX|portero|
+DOOR|n.|porta|
+DOOR BELL|n.|sonette|
+DOORKEEPER|n.|portero|
 DOPE|v.|narcotisar|
-DORMANT|XXX|dormient|
-DORMER-WINDOW|XXX|tegment-fenestre|
-DORMITORY|XXX|dormitoria|
-DORMOUSE|XXX|glire|
-DORSAL|XXX|dorsal|
-DOSE|XXX|dose (-ar)|
-DOT|XXX|punctu|
-DOTAGE|XXX|imbecilitá, radotage|
-DOTARD|XXX|oldastro, caduco|
+DORMANT|adj.|dormient|
+DORMER-WINDOW|n.|tegment-fenestre|
+DORMITORY|n.|dormitoria|
+DORMOUSE|n.|glire|
+DORSAL|adj.|dorsal|
+DOSE|n.|dose (-ar)|
+DOT|n.|punctu|
+DOTAGE|n.|imbecilitá, radotage|
+DOTARD|n.|oldastro, caduco|
 DOTE|v.|radotar|
 DOTE ON|v.|esser inamorat in|
 DOUBLE|adj.|duplic (-ar)|
 DOUBLE|n.|duplicon|
-DOUBLE-BARRELLED|XXX|con du tubes|
-DOUBLE-DEALING|XXX|falsada, duperíe|
-DOUBLET|XXX|camisol|
-DOUBT|XXX|dúbite, (-ar, -abil, -osi)|
-DOUCHE|XXX|duche|
-DOUGH|XXX|pasta|
-DOUGHTY|XXX|brav, corageosi|
-DOUR|XXX|obstinaci, dur, ínflexibil|
+DOUBLE-BARRELLED|adj.|con du tubes|
+DOUBLE-DEALING|n.|falsada, duperíe|
+DOUBLET|n.|camisol|
+DOUBT|n.|dúbite, (-ar, -abil, -osi)|
+DOUCHE|n.|duche|
+DOUGH|n.|pasta|
+DOUGHTY|adj.|brav, corageosi|
+DOUR|adj.|obstinaci, dur, ínflexibil|
 DOUSE|v.|(dip) merser|
-DOVE|XXX|columbe|
-DOVECOT|XXX|columbiera|
+DOVE|n.|columbe|
+DOVECOT|n.|columbiera|
 DOVETAIL|v.|mortesar|
-DOWAGER|XXX|vidua|
-DOWDY|XXX|oldmodic, ínelegant|
-DOWER|XXX|dot (-ar)|
+DOWAGER|n.|vidua|
+DOWDY|adj.|oldmodic, ínelegant|
+DOWER|n.|dot (-ar)|
 DOWN|adv.|(below) infra|
 DOWN|n.|lanuge|
-DOWN STREAM|XXX|a valley|
-DOWNCAST|XXX|depresset, decorageat|
-DOWNFALL|XXX|ruina, perition, cade|
-DOWNGRADE|XXX|declive|
-DOWNHILL|XXX|a bass, a valléy|
-DOWNPOUR|XXX|pluvia, torrent, diluvie|
+DOWN STREAM|adv.|a valley|
+DOWNCAST|adj.|depresset, decorageat|
+DOWNFALL|n.|ruina, perition, cade|
+DOWNGRADE|n.|declive|
+DOWNHILL|adv.|a bass, a valléy|
+DOWNPOUR|n.|pluvia, torrent, diluvie|
 DOWNRIGHT|adj.|franc, sinceri|
-DOWNRIGHT NONSENSE|XXX|nequo altri quam nonsense|
-DOWNSTAIRS|XXX|in infra|
-DOWNTRODDEN|XXX|aplastat, supresset|
+DOWNRIGHT NONSENSE|n.|nequo altri quam nonsense|
+DOWNSTAIRS|adv.|in infra|
+DOWNTRODDEN|adj.|aplastat, supresset|
 DOWNWARD|adj.|descendent|
 DOWNWARD|adv.|ad-infra|
-DOWRY|XXX|dot|
-DOWSING|XXX|radiestesie, divination per verge|
-DOXOLOGY|XXX|doxologie|
+DOWRY|n.|dot|
+DOWSING|n.|radiestesie, divination per verge|
+DOXOLOGY|n.|doxologie|
 DOZE|n.|somniacie|
 DOZE|v.|dormiettar, somnoler|
-DOZEN|XXX|dozene, deciduene|
+DOZEN|n.|dozene, deciduene|
 DRAB|n.|salopa|
 DRAB|adj.|monoton, brun-grisi; ínatrativ|
 DRAFT|n.|(money) tratte; (mil.) section; (lit.) esquisse, plan, concepte, cladde|
@@ -4397,156 +4399,156 @@ DRAFT|v.|(draw up) redacter; (mil.) misser, selecter, expedir|
 DRAG|n.|dragg; impediment|
 DRAG|v.|trenar, tirar; (dredge) draggar|
 DRAGGLE|v.|trenar in mudde|
-DRAGON|XXX|dracon|
-DRAGON-FLY|XXX|libellul|
-DRAGOON|XXX|dragon|
+DRAGON|n.|dracon|
+DRAGON-FLY|n.|libellul|
+DRAGOON|n.|dragon|
 DRAIN|v.|drenar (-age, -ation)|
-DRAINPIPE|XXX|dren-tub|
+DRAINPIPE|n.|dren-tub|
 DRAINS|n.|(brewer's etc.) recrement; (sewer) cloaca|
-DRAKE|XXX|anato|
-DRAMA|XXX|drama (-tic, -tisar, -turg, -turgie)|
+DRAKE|n.|anato|
+DRAMA|n.|drama (-tic, -tisar, -turg, -turgie)|
 DRAPE|v.|drapar (-ero, -eríe)|
-DRASTIC|XXX|drastic|
-DRAUGHT|XXX|tira; aer-currente; (med.) tisane; (on paper) esquisse, dessin, plan, projecte|
-DRAUGHTS|XXX|dama-lude|
-DRAUGHTSMAN|XXX|dessinator; (in game) pezze|
-DRAUGHTY|XXX|ventosi|
+DRASTIC|adj.|drastic|
+DRAUGHT|n.|tira; aer-currente; (med.) tisane; (on paper) esquisse, dessin, plan, projecte|
+DRAUGHTS|n.|dama-lude|
+DRAUGHTSMAN|n.|dessinator; (in game) pezze|
+DRAUGHTY|adj.|ventosi|
 DRAW|n.|(sport) egalitá|
 DRAW|v.|(pull) tirar, traer, atraer; (drag) trenar; (water) hauster; (on paper) dessinar; (lots) lotar; (draw near) aproximar se|
 DRAW-BRIDGE|n.|tir-ponte, ponte levabil|
-DRAWBACK|XXX|desavantage|
-DRAWER|XXX|tiruore, tirbux, tircheste|
-DRAWERS|XXX|calson|
-DRAWING|XXX|dessin, li dessination|
-DRAWING BOARD|XXX|dessinuore|
-DRAWING-ROOM|XXX|salon|
+DRAWBACK|n.|desavantage|
+DRAWER|n.|tiruore, tirbux, tircheste|
+DRAWERS|n.|calson|
+DRAWING|n.|dessin, li dessination|
+DRAWING BOARD|n.|dessinuore|
+DRAWING-ROOM|n.|salon|
 DRAWL|n.|tren parlada|
 DRAWL|v.|trenar li paroles|
-DRAY|XXX|bass carre|
+DRAY|n.|bass carre|
 DREAD|v.|timer (-ore), horrer (-ore)|
-DREADFUL|XXX|horribil, terribil|
-DREAM|XXX|somnie|
-DREAMY|XXX|revaci, revosi|
-DREARY|XXX|desert, trist|
+DREADFUL|adj.|horribil, terribil|
+DREAM|n.|somnie|
+DREAMY|adj.|revaci, revosi|
+DREARY|adj.|desert, trist|
 DREDGE|v.|draggar|
-DREDGER|XXX|mudd-haustor, dragg-machine; (ship) draggator|
-DREGS|XXX|sediment|
+DREDGER|n.|mudd-haustor, dragg-machine; (ship) draggator|
+DREGS|n.|sediment|
 DRENCH|v.|saturar (per aqua), balnear|
 DRESS|n.|vestiment, costume, robe|
 DRESS|v.|vestir; (garnish) ornar, decorar; (wound) bandagear; (food) preparar, apretar|
-DRESS-COAT|XXX|frac|
-DRESSING-TABLE|XXX|toilette-table|
+DRESS-COAT|n.|frac|
+DRESSING-TABLE|n.|toilette-table|
 DRESSMAKER|v.|tallier(ess)a|
 DRIBBLE|v.|guttear; (as child) bavar; (foot ball) dribblar|
-DRIED CURRANT|XXX|corinte|
-DRIFT|XXX|tendentie, impulse, scope; (snowdrift) nive-banca; (naut.) drive (-ar), flottar con li currente; (wander) vagar|
+DRIED CURRANT|n.|corinte|
+DRIFT|n.|tendentie, impulse, scope; (snowdrift) nive-banca; (naut.) drive (-ar), flottar con li currente; (wander) vagar|
 DRILL|n.|exercida; (tool) drill; (hort.) sulca|
 DRILL|v.|(per)forar, drillar; (mil.) dresser, exercir (-ida, -itie)|
 DRINK|v.|trincar (-age)|
 DRINK TO|v.|tostar|
 DRIP|v.|guttear|
-DRIPPING|XXX|rost-grasse, grasse culinari|
+DRIPPING|n.|rost-grasse, grasse culinari|
 DRIVE|n.|promenada, excursion; (road) calech-via, allé|
 DRIVE|v.a.|conductor, far functionar, far avansar, far ear, propulser, promoer; (a horse) ducter; (a machine) mo(v)er, operar, vehicular, choferar; (compel) fortiar|
 DRIVE TO DISTRACTION|v.|far frenetic|
 DRIVEL|v.|radotar, parlar ínepties; (slaver) bavar|
-DRIVER|XXX|cochero, chofero, conductor|
-DRIZZLE|XXX|pluviette (-ar, -ada)|
-DROLL|XXX|drolli (-eríe), comic|
-DROMEDARY|XXX|dromedare|
+DRIVER|n.|cochero, chofero, conductor|
+DRIZZLE|n.|pluviette (-ar, -ada)|
+DROLL|adj.|drolli (-eríe), comic|
+DROMEDARY|n.|dromedare|
 DRONE|n.|(bee) drone; (hum) murmurada, burdonament|
 DROOP|v.|pender, clinar se; (wither) marcir|
 DROP|v.|(let fall) lassar cader|
 DROP|n.|gutte; (fall) cade|
-DROPSY|XXX|hidropsie|
+DROPSY|n.|hidropsie|
 DROSS|n.|(metals) scorie, residues, scumallia; sinvalorage|
-DROUGHT|XXX|siccore, ariditá, manca de pluvie|
-DROVE|XXX|truppe de boves, bestie-truppe, greg|
+DROUGHT|n.|siccore, ariditá, manca de pluvie|
+DROVE|n.|truppe de boves, bestie-truppe, greg|
 DROWN|v.|dronar|
-DROWSY|XXX|somnolent, dormiaci|
+DROWSY|adj.|somnolent, dormiaci|
 DRUB|v.|batter, bastonar|
-DRUDGE|XXX|quasi-sclave (-a), marmiton|
-DRUDGERY|XXX|strapacie, penosi labore|
+DRUDGE|n.|quasi-sclave (-a), marmiton|
+DRUDGERY|n.|strapacie, penosi labore|
 DRUG|v.|narcot isar, intoxicar|
 DRUG|n.|drogue (-ist), medicament|
-DRUID|XXX|druide (-ic)|
-DRUM|XXX|tambur (-ar, -ero, -ist); cilindre; (of ear) timpane|
-DRUNK|XXX|ebri, ebriat (in-ar)|
-DRUNKARD|XXX|trincard, trincon|
-DRUNKEN|XXX|ebri, ebriat (in-ar)|
-DRUNKENNESS|XXX|ebrietá, trinc-manie|
+DRUID|n.|druide (-ic)|
+DRUM|n.|tambur (-ar, -ero, -ist); cilindre; (of ear) timpane|
+DRUNK|adj.|ebri, ebriat (in-ar)|
+DRUNKARD|n.|trincard, trincon|
+DRUNKEN|adj.|ebri, ebriat (in-ar)|
+DRUNKENNESS|n.|ebrietá, trinc-manie|
 DRY|v.|assiccar|
 DRY|adj.|sicc, arid; (fig.) laconic, íninteressant, enoyant|
-DRY-ROT|XXX|planc-fungo|
-DUAL|XXX|dual (-isme)|
+DRY-ROT|n.|planc-fungo|
+DUAL|adj.|dual (-isme)|
 DUB|v.|nominar, titular|
-DUBIOUS|XXX|dubitosi|
-DUCAL|XXX|ducal|
-DUCAT|XXX|ducate|
-DUCHESS|XXX|ducessa|
+DUBIOUS|adj.|dubitosi|
+DUCAL|adj.|ducal|
+DUCAT|n.|ducate|
+DUCHESS|n.|ducessa|
 DUCK|n.|(bird) anate|
 DUCK|v.|clinar se, bassar se; (immerse) merser|
-DUCKWEED|XXX|lemna|
-DUCT|XXX|tub, canale|
-DUCTILE|XXX|ductil (-itá), malleabil|
-DUDGEON|XXX|colere, ressentiment, rancore|
+DUCKWEED|n.|lemna|
+DUCT|n.|tub, canale|
+DUCTILE|adj.|ductil (-itá), malleabil|
+DUDGEON|n.|colere, ressentiment, rancore|
 DUE|adj.|payand; (seemly) convenent|
-DUEL|XXX|duelle (-ar, -ante)|
-DUES|XXX|impost|
-DUET|XXX|duett|
+DUEL|n.|duelle (-ar, -ante)|
+DUES|n.|impost|
+DUET|n.|duett|
 DUG|n.|tette, but on de mamme|
-DUKE|XXX|due (-al, -atu, -essa)|
-DULCET|XXX|dulci|
-DULCIMER|XXX|clavicímbal|
+DUKE|n.|due (-al, -atu, -essa)|XXX FIXME -- "due"?
+DULCET|adj.|dulci|
+DULCIMER|n.|clavicímbal|
 DULL|adj.|(of sound) obtusi, insonori; (blunt) desacut; (stupid) stult, inept, stupid; (uninteresting) enoyant; (colour) pallid, matt, falb|
 DULL|v.|blasar, stupefar|
 DULY|adv.|justmen; (often not translated)|
-DUMB|XXX|mut|
-DUMB-BELL|XXX|haltere|
-DUMMY|XXX|muto; imitation; (baby's) sucette|
+DUMB|adj.|mut|
+DUMB-BELL|n.|haltere|
+DUMMY|n.|muto; imitation; (baby's) sucette|
 DUMP|n.|cumul de jettallia, amasse|
 DUMP|v.|(comm.) dumpar; jettar, deposir, bascular|
-DUMPS|XXX|melanoolie, mal humor|
-DUMPY|XXX|stumpi; curt e spess|
+DUMPS|n.|melanoolie, mal humor|
+DUMPY|adj.|stumpi; curt e spess|
 DUN|v.|importunar; postular payament|
 DUN|adj.|gris-brun|
-DUNCE|XXX|stulton|
-DUNE|XXX|dune|
-DUNG|XXX|sterco (-ar), excrement|
-DUNGEON|XXX|cárcere subterran|
+DUNCE|n.|stulton|
+DUNE|n.|dune|
+DUNG|n.|sterco (-ar), excrement|
+DUNGEON|n.|cárcere subterran|
 DUPE|n.|dupe|
 DUPE|v.|dupar, fraudar, bluffar|
 DUPLICATE|v.|duplicar (-ate)|
-DUPLICITY|XXX|duplicitá, perfidie|
-DURABLE|XXX|durabil (-itá), stabil|
-DURATION|XXX|duration, durada|
-DURESS|XXX|prison, cárcer, arest|
-DURING|XXX|durante|
-DUSK|XXX|crepuscul; (morning) aurora|
-DUSKY|XXX|obscur, nigratri|
+DUPLICITY|n.|duplicitá, perfidie|
+DURABLE|adj.|durabil (-itá), stabil|
+DURATION|n.|duration, durada|
+DURESS|n.|prison, cárcer, arest|
+DURING|prep.|durante|
+DUSK|n.|crepuscul; (morning) aurora|
+DUSKY|adj.|obscur, nigratri|
 DUST|v.|(remove dust) terger, essuyar, depolvar; (to powder) surpluverar|
 DUST|n.|polve (-osi)|
-DUSTER|XXX|tergette, polv-linage, essuyette|
-DUSTPAN|XXX|cindriere|
-DUTY|XXX|deve(ntie); (on goods) impost, tribute|
-DUTY FREE|XXX|exempt de doane|
-DWARF|XXX|pigmé, nan|
+DUSTER|n.|tergette, polv-linage, essuyette|
+DUSTPAN|n.|cindriere|
+DUTY|n.|deve(ntie); (on goods) impost, tribute|
+DUTY FREE|adj.|exempt de doane|
+DWARF|n.|pigmé, nan|
 DWELL|v.|logiar, habitar|
 DWELL UPON|v.|emfasar, tractar detalliatmen|
-DWELLING|XXX|logí, logiment, domicilie, habitation|
+DWELLING|n.|logí, logiment, domicilie, habitation|
 DWINDLE|v.|decrescer, diminuer|
-DYE|XXX|tinctura, pigment (-ar), color|
-DYKE|XXX|diga(ment), tranché|
-DYNAMITE|XXX|dinamite|
-DYNAMO|XXX|dinamo (-ic, -ica, -ist, -isme, -ometre)|
-DYNASTY|XXX|dinastie (-ic)|
-DYSENTERY|XXX|disenterie|
-DYSPEPSIA|XXX|dispepsie|
-DYSPEPTIC|XXX|dispeptic|
-EACH|XXX|chascun, singul|
-EACH OTHER|XXX|unaltru|
-EAGER|XXX|zelosi, fervent, fervorosi, ardent; avid|
-EAGLE|XXX|áquil (-in)|
+DYE|n.|tinctura, pigment (-ar), color|
+DYKE|n.|diga(ment), tranché|
+DYNAMITE|n.|dinamite|
+DYNAMO|n.|dinamo (-ic, -ica, -ist, -isme, -ometre)|
+DYNASTY|n.|dinastie (-ic)|
+DYSENTERY|n.|disenterie|
+DYSPEPSIA|n.|dispepsie|
+DYSPEPTIC|adj.|dispeptic|
+EACH|adj.|chascun, singul|
+EACH OTHER|pron.|unaltru|
+EAGER|adj.|zelosi, fervent, fervorosi, ardent; avid|
+EAGLE|n.|áquil (-in)|
 EAR|XXX|orel; (of corn) spica; (for music) audie musical|
 EAR-ACHE|XXX|orel-dolore|
 EAR-SPLITTING|XXX|assurdant|
