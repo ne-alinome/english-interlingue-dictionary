@@ -118,7 +118,6 @@
   entries, but sometimes they are not in entry "noun", but in entry
   "adjective", e.g. "FAIRY TAIL".
 - "(THE) GENERAL PUBLIC".
-- "A MN OF LETTERS".
 - "LAMP SHADE covri lampe; (manes) manes" (was the end of "SHADE".
 - "THREE DAYS RUNNING tri dies successivmen". There was typo:
   "successiv men".
@@ -145,6 +144,7 @@
 - "BAROQUE baroc" adj./n.?
 - "BEACON fares turre lucent; (on a hill) fanale; (at sea) boye,
   signal-marca, mar-signe"
+- ínamico -> ínamíco
 
 == Notes about the contents
 

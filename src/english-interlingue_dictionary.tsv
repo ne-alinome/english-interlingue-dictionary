@@ -5167,52 +5167,52 @@ EYELET|n.|oculette|
 EYELID|n.|palpebre|
 EYESIGHT|n.|visivitá|
 EYRIE|n.|áquil-nest|
-FABLE|XXX|fabul (-ist, -osi), saga, legende|
-FABRIC|XXX|edificie, structural (cloth.) stoff, materie, textage|
+FABLE|n.|fabul (-ist, -osi), saga, legende|
+FABRIC|n.|edificie, structural (cloth.) stoff, materie, textage|
 FABRICATE|v.|fabricar, inventer|
-FACADE|XXX|fassade|
+FACADE|n.|fassade|
 FACE|n.|facie (-al), visage; (of clock) disco; (of coins etc.) averse; (surface) superficie|
 FACE|v.|frontar|
-FACE TO FACE|XXX|vis-a-vis, contra|
-FACET|XXX|facette|
-FACETIOUS|XXX|jocosi|
-FACILE|XXX|facil (-itá)|
-FACSIMILE|XXX|facsimile|
-FACT|XXX|facte|
-FACTION|XXX|partise, clique|
-FACTITIOUS|XXX|artificial, fals|
-FACTOR|XXX|factor, agente|
-FACTORY|XXX|fabrica, usina|
-FACULTATIVE|XXX|facultativ|
-FACULTY|XXX|talent, capabilitá; (univ.) facultá|
-FAD|XXX|marotte, dadá|
+FACE TO FACE|adj. adv.|vis-a-vis, contra|XXX FIXME -- "contra" is preposition
+FACET|n.|facette|
+FACETIOUS|adj.|jocosi|
+FACILE|adj.|facil (-itá)|
+FACSIMILE|n.|facsimile|
+FACT|n.|facte|
+FACTION|n.|partise, clique|
+FACTITIOUS|adj.|artificial, fals|
+FACTOR|n.|factor, agente|
+FACTORY|n.|fabrica, usina|
+FACULTATIVE|adj.|facultativ|
+FACULTY|n.|talent, capabilitá; (univ.) facultá|
+FAD|n.|marotte, dadá|
 FADE|v.|marcir, pallidar, evanescer|
-FAECES|XXX|fecallia, excrement|
+FAECES|n.|fecallia, excrement|
 FAG|n.|servitor; strapacie|
 FAG|v.|fatigar|
-FAGGOT|XXX|fasce, fagotte|
-FAIENCE|XXX|fayance|
+FAGGOT|n.|fasce, fagotte|
+FAIENCE|n.|fayance|
 FAIL|v.|dessuccesser; (business or examination) fallir, bancrottar; (grow weak) debilijar; (be wanting) mancar; (a person) decepter|
-FAILING|XXX|manca, delicte, culpa|
-FAILURE|XXX|bancrotte, dessuccesse, defecte; cessation, falliment|
+FAILING|n.|manca, delicte, culpa|
+FAILURE|n.|bancrotte, dessuccesse, defecte; cessation, falliment|
 FAINT|adj.|debil, pallid|
 FAINT|v.|evanescer (-ement)|
-FAINT-HEARTED|XXX|pusilanim, timid, decorageosi|
+FAINT-HEARTED|adj.|pusilanim, timid, decorageosi|
 FAIR|n.|ferie|
 FAIR|adj.|bell, pretti; blond; honest, ínpartial, just, "fair"; seren|
-FAIR-COPY|XXX|nettage|
+FAIR-COPY|n.|nettage|
 FAIRLY|adv.|honestmen, justmen; (enough) sat, passabilmen, alquant|
 FAIRY|adj.|feeric|
 FAIRY|n.|fea, silf(a), elf|
-FAIRY ART|XXX|feeríe|
-FAIRY TALE|XXX|fiaba|
-FAITH|XXX|fide, crede, confidentic; confession|
-FAITHFUL|XXX|fidel (-itá)|
-FAITHLESS|XXX|ínfidel, perfid (-ie)|
+FAIRY ART|n.|feeríe|
+FAIRY TALE|n.|fiaba|
+FAITH|n.|fide, crede, confidentic; confession|XXX FIXME -- "confidentic"?
+FAITHFUL|adj.|fidel (-itá)|
+FAITHLESS|adj.|ínfidel, perfid (-ie)|
 FAKE|n.|fraude; (naut.) rul de cordage|
 FAKE|v.|falsificar (-ation)|
-FALCHION|XXX|gladie, sabre|
-FALCON|XXX|falcon (-ero)|
+FALCHION|n.|gladie, sabre|
+FALCON|n.|falcon (-ero)|
 FALL|n.|cade, cadida|
 FALL|v.|cader|
 FALL ASLEEP|v.|indormir|
@@ -5221,286 +5221,286 @@ FALL DUE|v.|(on exchange) scader|
 FALL IN|v.|crular, cader in ruinas; (mil.) formar se in ranges, stantar se|
 FALL IN LOVE|v.|inamorar se|
 FALL OUT|v.|querellar; ocurrer|
-FALLACIOUS|XXX|ilusiv, deceptiv, sofistic|
-FALLACY|XXX|sofisme, fals conclusion, erra|
-FALLIBLE|XXX|fallibil (-itá)|
-FALLOW|XXX|íncultivat, ínusat, reposant; (colour) falvi|
-FALSE|XXX|fals (-itá), fictiv, perfid|
-FALSEHOOD|XXX|mentie, mentida|
-FALSETTO|XXX|falsett(e)|
+FALLACIOUS|adj.|ilusiv, deceptiv, sofistic|
+FALLACY|n.|sofisme, fals conclusion, erra|
+FALLIBLE|adj.|fallibil (-itá)|
+FALLOW|adj.|íncultivat, ínusat, reposant; (colour) falvi|
+FALSE|adj.|fals (-itá), fictiv, perfid|
+FALSEHOOD|n.|mentie, mentida|
+FALSETTO|n.|falsett(e)|
 FALSIFY|v.|falsificar (-ation)|
 FALTER|v.|chancelar, vacilar; (in speech) hesitar, balbutiar|
-FAME|XXX|fama (-osi), renomé|
-FAMILIAR|XXX|familiari (-tá, -isar)|
-FAMILY|XXX|familie (-al)|
-FAMINE|XXX|famine; (fig.) manca|
+FAME|n.|fama (-osi), renomé|
+FAMILIAR|adj.|familiari (-tá, -isar)|
+FAMILY|n.|familie (-al)|
+FAMINE|n.|famine; (fig.) manca|
 FAMISH|v.|afamar|
-FAN|XXX|ventol (-ar); (tech.) ventilator|
-FANATIC|XXX|fanatic (-o)|
-FANATICISME|XXX|fanatisme|
-FANCIFUL|XXX|fantastic, capriciosi, imaginari, marottic|
+FAN|n.|ventol (-ar); (tech.) ventilator|
+FANATIC|adj.|fanatic (-o)|
+FANATICISME|n.|fanatisme|
+FANCIFUL|adj.|fantastic, capriciosi, imaginari, marottic|
 FANCY|v.|imaginar, preferer, presentar se|
 FANCY|n.|fantasie, imagination, idé, notion, preferentie, gust|
-FANE|XXX|temple|
-FANFARE|XXX|fanfare, tush|
-FANG|XXX|griffe|
-FANTASTIC|XXX|fantastic|
-FANTASY|XXX|fantasie|
+FANE|n.|temple|
+FANFARE|n.|fanfare, tush|
+FANG|n.|griffe|
+FANTASTIC|adj.|fantastic|
+FANTASY|n.|fantasie|
 FAR|adj.|lontan, distant|
 FAR|adv.|mult|
-FAR AFIELD|XXX|in lontanie|
-FAR TOO MUCH|XXX|mult tro mult|
-FARCE|XXX|farse, buffa, comedie; (cul.) farce|
+FAR AFIELD|adv.|in lontanie|
+FAR TOO MUCH|adj.|mult tro mult|XXX FIXME -- adj./adv.?
+FARCE|n.|farse, buffa, comedie; (cul.) farce|
 FARE|n.|nutriment; passagero; precie|
 FARE|v.|standar|
 FAREWELL|adj.|demissional|
 FAREWELL|interj.|adío, til revide!|
-FARINA|XXX|farine|
+FARINA|n.|farine|
 FARM|v.|cultivar; (farm out) locar, forluar|
 FARM|n.|farme (-ero)|
-FARRAGO|XXX|mixtura, conglomerate|
-FARRIER|XXX|huf-forjero; veterinario|
-FARTHER|XXX|plu lontan|
+FARRAGO|n.|mixtura, conglomerate|
+FARRIER|n.|huf-forjero; veterinario|
+FARTHER|adj.|plu lontan|
 FASCINATE|v.|fascinar (-ation), charmar|
 FASHION|v.|fassonar|
 FASHION|n.|moda; maniere, custom; (cut of garment) fasson|
-FASHIONABLE|XXX|secun li moda|
+FASHIONABLE|adj.|secun li moda|
 FAST|n.|carema (-ar), abstinentie|
 FAST|adj.|rapid, veloci; fix, stabil, firm; (of clock) avansat, tro rapid|
 FASTEN|v.|fixar, ligar, serrar; (a dress) agraffar|
 FASTIDIOUS|adv.|desfacilmen satisfat|
 FAT|adj.|grassi, corpulent|
 FAT|n.|grasse|
-FATE|XXX|fate (-al), destine|
+FATE|n.|fate (-al), destine|
 FATHER|v.|geniter; (father upon) atribuer a|
 FATHER|n.|patre|
-FATHER-IN-LAW|XXX|belpatre|
-FATHERLESS|XXX|orfan, sin patre|
+FATHER-IN-LAW|n.|belpatre|
+FATHERLESS|adj.|orfan, sin patre|
 FATHOM|n.|(naut.) brassade|
 FATHOM|v.|sondar; comprender, penetrar|
-FATHOMLINE|XXX|sonde|
-FATIGUE|XXX|fatiga (-ar), exhaustion|
+FATHOMLINE|n.|sonde|
+FATIGUE|n.|fatiga (-ar), exhaustion|
 FATTEN|v.|ingrassar, far (devenir) grass|
-FATUOUS|XXX|fatui (-tá), idiotic, absurd, inept|
-FAULT|XXX|defecte, manca, erra, culpa|
-FAULTY|XXX|ínperfect, defectiv|
-FAUNA|XXX|fauna, animalité|
-FAVOUR|XXX|favore (-ar, -abil)|
+FATUOUS|adj.|fatui (-tá), idiotic, absurd, inept|
+FAULT|n.|defecte, manca, erra, culpa|
+FAULTY|adj.|ínperfect, defectiv|
+FAUNA|n.|fauna, animalité|
+FAVOUR|n.|favore (-ar, -abil)|
 FAVOURITE|adj.|favorit (-e, -isme), preferet|
 FAWN|adj.|cervin|
 FAWN|n.|cervello|
 FAWN UPON|v.|repter avan, flattachar|
-FAWNING|XXX|servil, reptiv|
-FAY|XXX|fea, nimfa|
-FEALTY|XXX|fidelitá|
+FAWNING|adj.|servil, reptiv|
+FAY|n.|fea, nimfa|
+FEALTY|n.|fidelitá|
 FEAR|v.|timer (-ore, -orosi)|
-FEARFUL|XXX|terribil; timid|
-FEASIBLE|XXX|possibil, practicabil, efectuabil|
+FEARFUL|adj.|terribil; timid|
+FEASIBLE|adj.|possibil, practicabil, efectuabil|
 FEAST|v.|festinar, regalar (se)|
 FEAST|n.|festine, banquette, regale|
 FEAT|n.|(of agility etc.) artificie, habilitá; heroic action|
-FEATHER|XXX|plum|
+FEATHER|n.|plum|
 FEATHER WEIGHT|n.|(sport) plum-póndere|
-FEATHERED|XXX|plumat|
-FEATURE|XXX|trate, caracteristica|
+FEATHERED|adj.|plumat|
+FEATURE|n.|trate, caracteristica|
 FEBRUARY|n.|februar|
-FECUND|XXX|fecund (-itá), fertil (-itá)|
-FEDERAL|XXX|federal (-isme)|
+FECUND|adj.|fecund (-itá), fertil (-itá)|
+FEDERAL|adj.|federal (-isme)|
 FEDERATE|v.|federar (-ation)|
-FEE|XXX|honorarie, recompense|
-FEEBLE|XXX|debil (-itá, -isar)|
+FEE|n.|honorarie, recompense|
+FEEBLE|adj.|debil (-itá, -isar)|
 FEED|v.a.|nutrir, alimentar; (eat) manjar; (cattle) forragear|
 FEED ON|v.|nutrir se per|
 FEEL|v.|sentir; (by touch) palpar, tastar|
 FEELER|ent.|antenne|
-FEELING|XXX|sente, sensation, emotion|
+FEELING|n.|sente, sensation, emotion|
 FEIGN|v.|ficter, simular|
-FEINT|XXX|fiction, simulation, pretexte; tric; (fencing) finte|
+FEINT|n.|fiction, simulation, pretexte; tric; (fencing) finte|
 FELICITATE|v.|felicitar, gratular|
-FELINE|XXX|catin|
+FELINE|adj.|catin|
 FELL|adj.|terribil, cruel|
 FELL|v.|abatter, cadentar|
-FELLOE|XXX|felga|
-FELLOW|XXX|compane, socio, membre, co-; (individual) chap, homacho|
-FELLOW COUNTRYMAN|XXX|compatriot|
-FELLOWSHIP|XXX|membratu; (brotherhood) fraternité|
-FELON|XXX|criminard, malefator|
+FELLOE|n.|felga|
+FELLOW|n.|compane, socio, membre, co-; (individual) chap, homacho|
+FELLOW COUNTRYMAN|n.|compatriot|
+FELLOWSHIP|n.|membratu; (brotherhood) fraternité|
+FELON|n.|criminard, malefator|
 FELT|n.|feltre (-in)|
 FEMALE|n.|fémina (-in, -initá, -isme); female|
-FEMUR|XXX|femur (-al)|
-FEN|XXX|palude, morasse|
+FEMUR|n.|femur (-al)|
+FEN|n.|palude, morasse|
 FENCE|v.|palissar, inhagar; (sport) escrimar, parar|
 FENCE|n.|palissade|
 FENCING|n.|(sport) escrime (-ero)|
 FEND FOR|v.|provider por, cuidar|
-FENDER|XXX|para-foy; (naut.) garda-látere|
-FENNEL|XXX|fenicul|
-FERMENT|XXX|ferment (-ar, -ation), maichar|
-FERN|XXX|filice|
-FEROCIOUS|XXX|feroci, savagi|
-FERRET|XXX|furette|
+FENDER|n.|para-foy; (naut.) garda-látere|
+FENNEL|n.|fenicul|
+FERMENT|n.|ferment (-ar, -ation), maichar|
+FERN|n.|filice|
+FEROCIOUS|adj.|feroci, savagi|
+FERRET|n.|furette|
 FERRET ABOUT|v.|furettar|
-FERRULE|XXX|virol|
-FERRY|XXX|pram|
-FERTILE|XXX|fertil, fecund (-itá)|
-FERULE|XXX|ferul|
-FERVENT|XXX|fervent, ardent|
-FERVID|XXX|fervid, ardent, avid, passionat|
-FERVOUR|XXX|fervore, ferventie, zel|
-FESTAL|XXX|festal, gay|
+FERRULE|n.|virol|
+FERRY|n.|pram|
+FERTILE|adj.|fertil, fecund (-itá)|
+FERULE|n.|ferul|
+FERVENT|adj.|fervent, ardent|
+FERVID|adj.|fervid, ardent, avid, passionat|
+FERVOUR|n.|fervore, ferventie, zel|
+FESTAL|adj.|festal, gay|
 FESTER|v.|supurar, ulcerar|
-FESTIVAL|XXX|festa|
-FESTIVE|XXX|festal, festiv|
-FESTIVITY|XXX|festa, gayita|
-FESTOON|XXX|feston (-ar)|
+FESTIVAL|n.|festa|
+FESTIVE|adj.|festal, festiv|
+FESTIVITY|n.|festa, gayita|
+FESTOON|n.|feston (-ar)|
 FETCH|v.|aportar; (a person) far venir|
-FETE|XXX|festa (-ar)|
-FETID|XXX|fetid, malodorant|
-FETISH|XXX|fetiche, idol|
-FETLOCK|XXX|fanon|
+FETE|n.|festa (-ar)|
+FETID|adj.|fetid, malodorant|
+FETISH|n.|fetiche, idol|
+FETLOCK|n.|fanon|
 FETTER|n.|caten, ferre|
 FETTER|v.|ligar, incatenar, impedir|
-FEUD|XXX|vendetta, querell; (fief) feude (-al, -alisme)|
-FEVER|XXX|febre (-osi)|
-FEW|XXX|poc|
-FEZ|XXX|fez|
-FIANCE|XXX|sponso (-a)|
-FIANCEE|XXX|sponso (-a)|
-FIANCÉE|XXX|sponso (-a)|
-FIASCO|XXX|fiasco|
-FIAT|XXX|decrete|
-FIBRE|XXX|fibre (-in, -osi)|
-FIBULA|XXX|fibula|
-FICKLE|XXX|ínconstant, capriciosi|
+FEUD|n.|vendetta, querell; (fief) feude (-al, -alisme)|
+FEVER|n.|febre (-osi)|
+FEW|adj.|poc|
+FEZ|n.|fez|
+FIANCE|n.|sponso (-a)|
+FIANCEE|n.|sponso (-a)|
+FIANCÉE|n.|sponso (-a)|
+FIASCO|n.|fiasco|
+FIAT|n.|decrete|
+FIBRE|n.|fibre (-in, -osi)|
+FIBULA|n.|fibula|
+FICKLE|adj.|ínconstant, capriciosi|
 FICTION|n.|(feigning) fiction; (novels) romanes|
-FICTITIOUS|XXX|fictiv, fals, inventet|
+FICTITIOUS|adj.|fictiv, fals, inventet|
 FIDDLE|n.|violine|
-FIDDLE BOW|XXX|arc|
-FIDDLE STRING|XXX|corde|
-FIDDLESTICKS|XXX|nonsense|
-FIDELITY|XXX|fidelitá|
+FIDDLE BOW|n.|arc|
+FIDDLE STRING|n.|corde|
+FIDDLESTICKS|n.|nonsense|
+FIDELITY|n.|fidelitá|
 FIDGET|v.|esser desquiet, movettar se nervosimen|
-FIE|XXX|fi!|
-FIELD|XXX|agre, prate, camp|
-FIELD HOSPITAL|XXX|ambulantia|
-FIELD-GLASS|XXX|binocul|
-FIEND|XXX|diábol (-ic)|
-FIERCE|XXX|furiosi, feroci, violent|
-FIERY|XXX|ardent, foyosi, impetuosi|
-FIFE|XXX|siffluore|
-FIFTH|XXX|quinesim; (mus.) quinte|
-FIG|XXX|figue (-iero)|
+FIE|interj.|fi!|XXX FIXME -- homogenize "!" in all interj.
+FIELD|n.|agre, prate, camp|
+FIELD HOSPITAL|n.|ambulantia|
+FIELD-GLASS|n.|binocul|
+FIEND|n.|diábol (-ic)|
+FIERCE|adj.|furiosi, feroci, violent|
+FIERY|adj.|ardent, foyosi, impetuosi|
+FIFE|n.|siffluore|
+FIFTH|adj.|quinesim
+FIFTH|n.|quinesim; (mus.) quinte|
+FIG|n.|figue (-iero)|
 FIGHT|n.|combatte|
 FIGHT|v.|combatter; (with sword) escrimar, gladiar; (with fist) boxar|
-FIGMENT|XXX|fiction|
+FIGMENT|n.|fiction|
 FIGURE|v.|calcular|
 FIGURE|n.|figura (-ar, -ant), forme, statura; (number) ciffre|
-FIGURE OF SPEECH|XXX|metáfor|
-FIGURE OF SPEECH|XXX|trope|
-FIGUREHEAD|XXX|antefigura; (person) comparse|
-FILAMENT|XXX|fil, fibre, filament|
+FIGURE OF SPEECH|n.|metáfor, trope
+FIGUREHEAD|n.|antefigura; (person) comparse|
+FILAMENT|n.|fil, fibre, filament|
 FILCH|v.|furter|
 FILE|n.|(papers) file; classificator; (mil.) range; (tool) lime|
 FILE|v.|classificar; (mech.) limar|
-FILIAL|XXX|filial|
+FILIAL|adj.|filial|
 FILIBUSTER|v.|obstructer (-or)|
 FILIBUSTER|n.|corsaro|
-FILIGREE|XXX|filigran|
-FILINGS|XXX|limallia|
+FILIGREE|n.|filigran|
+FILINGS|n.|limallia|
 FILL|n.|plenitá, satie|
 FILL|v.|plenar; (teeth) piumbar|
-FILLER|XXX|funel|
-FILLET|XXX|cap-band; (cul.) filé, pisc despinat|
-FILLIP|XXX|stimul, incitation|
-FILLY|XXX|cavallella, yun cavalla|
-FILM|XXX|membrane, pellículi (phot.) film (-actor, -stelle)|
-FILTER|XXX|filtre (-ar)|
-FILTH|XXX|sordidage, sordidallia|
-FIN|XXX|pinne, svimmuore|
-FIN-FOOTED|XXX|pinnipedat|
-FINAL|XXX|final, ultim|
-FINALE|XXX|final|
-FINANCE|XXX|financie (-al, -ero)|
-FINCH|XXX|pinson|
+FILLER|n.|funel|
+FILLET|n.|cap-band; (cul.) filé, pisc despinat|
+FILLIP|n.|stimul, incitation|
+FILLY|n.|cavallella, yun cavalla|
+FILM|n.|membrane, pellículi (phot.) film (-actor, -stelle)|
+FILTER|n.|filtre (-ar)|
+FILTH|n.|sordidage, sordidallia|
+FIN|n.|pinne, svimmuore|
+FIN-FOOTED|adj.|pinnipedat|
+FINAL|adj.|final, ultim|
+FINALE|n.|final|XXX FIXME -- "final" -> "finale"
+FINANCE|n.|financie (-al, -ero)|
+FINCH|n.|pinson|
 FIND|n.|trova, trovage|
 FIND|v.|trovar; constatar; (supply with) provider|
 FIND FAULT|v.|criticar|
 FINDING|n.|sententie, verdicte, judicie|
 FINE|adj.|bell; (thin) tenui; subtil; (sharp) acut; (delicate) fin, delicat|
 FINE|n.|punition pocuhiari, multa, amende|
-FINERY|XXX|ornamentes|
-FINESSE|XXX|finesse, astutie, subtilitá; (at cards) finte|
+FINERY|n.|ornamentes|
+FINESSE|n.|finesse, astutie, subtilitá; (at cards) finte|
 FINGER|v.|palpar|
 FINGER|n.|fingre|
-FINGER PRINT|XXX|fingre-print|
-FINGER-POST|XXX|pal indicatori, indicator de via|
-FINICKING|XXX|tro precisi, afectat|
+FINGER PRINT|n.|fingre-print|
+FINGER-POST|n.|pal indicatori, indicator de via|
+FINICKING|adj.|tro precisi, afectat|
 FINISH|n.|fine|
 FINISH|v.a.|finir, terminar; (of stuffs) apretar|
 FINISH|v.n.|cessar|
-FINITE|XXX|finit, limitat|
-FIORD|XXX|fiord|
-FIR|XXX|abiete|
+FINITE|adj.|finit, limitat|
+FIORD|n.|fiord|
+FIR|n.|abiete|
 FIRE|v.|incendiar, far foy; (a gun) tirar, dar foy; (heat) calentar|
 FIRE|n.|foy; incendie|
-FIRE ALARM|XXX|foy-alarmaparate|
-FIRE BRAND|XXX|incendiard, impetuoso|
-FIREBRIGADE|XXX|incendie-brigade|
-FIRECONE|XXX|pin-fructa|
-FIREESCAPE|XXX|salv-aparate|
-FIREGUARD|XXX|para-foy|
-FIREMAN|XXX|pumpero, parafoyero; (stoker; calentator, foymann|
-FIREPLACE|XXX|camine|
-FIREWOOD|XXX|combustibile|
-FIREWORKS|XXX|foyes artificial, pirotecnica|
+FIRE ALARM|n.|foy-alarmaparate|
+FIRE BRAND|n.|incendiard, impetuoso|
+FIREBRIGADE|n.|incendie-brigade|
+FIRECONE|n.|pin-fructa|
+FIREESCAPE|n.|salv-aparate|
+FIREGUARD|n.|para-foy|
+FIREMAN|n.|pumpero, parafoyero; (stoker) calentator, foymann|
+FIREPLACE|n.|camine|
+FIREWOOD|n.|combustibile|
+FIREWORKS|n.|foyes artificial, pirotecnica|
 FIRM|adj.|firm, fix, stabil|
 FIRM|n.|firma|
-FIRMAMENT|XXX|firmament|
-FIRST|XXX|unesim, prim|
-FIRSTLING|XXX|primicie|
-FIRTH|XXX|estuarie, inboccatura|
-FISCAL|XXX|fiscal|
-FISH|XXX|pise (-ar, -ator, -iera)|
-FISH HOOK|XXX|pisca-croc|
-FISHING-LINE|XXX|pisc-fil|
-FISHING-LINEROD|XXX|canne a piscar|
-FISHMONGER|XXX|pisc-venditor, piscero|
+FIRMAMENT|n.|firmament|
+FIRST|adj.|unesim, prim|
+FIRSTLING|n.|primicie|
+FIRTH|n.|estuarie, inboccatura|
+FISCAL|adj.|fiscal|
+FISH|n.|pise (-ar, -ator, -iera)|
+FISH HOOK|n.|pisca-croc|
+FISHING-LINE|n.|pisc-fil|
+FISHING-LINEROD|n.|canne a piscar|
+FISHMONGER|n.|pisc-venditor, piscero|
 FISISHED|adj.|(refined) rafinat|
-FISSION|XXX|fission|
-FISSURE|XXX|fissura, fensura|
-FIST|XXX|punie|
-FISTULA|XXX|fistul|
+FISSION|n.|fission|
+FISSURE|n.|fissura, fensura|
+FIST|n.|punie|
+FISTULA|n.|fistul|
 FIT|n.|humor, capricie; (med.) accesse, convulsion, paroxisme|
 FIT|v.|adaptar, ajustar, acomodar; (fit up, fit out) equipar, provider, installar, monter; (a suit) ad-mesurar|
 FIT|adj.|apt, bon, util; decent; in bon statu; san|
-FITTER|XXX|montero|
+FITTER|n.|montero|
 FITTING|adj.|convenent|
-FITTINGS|XXX|accessories|
-FIVE|XXX|quin|
+FITTINGS|n.|accessories|
+FIVE|adj., n.|quin|
 FIX|n.|dilemma|
 FIX|v.|fixar, regular, ligar|
-FIXTURE|XXX|arangeament; (property) imobilie|
+FIXTURE|n.|arangeament; (property) imobilie|
 FIZZ|v.|sibilar|
 FLABBERGAST|v.|consternar, astonar|
-FLABBY|XXX|moll, lax|
-FLACCID|XXX|debil, marcid|
+FLABBY|adj.|moll, lax|
+FLACCID|adj.|debil, marcid|
 FLAG|v.|debilijar, languir|
 FLAG|n.|flagga, standarte, baniere; (stone) strad-petre|
 FLAGELLATE|v.|flagellar (-ation)|
-FLAGON|XXX|flacon|
-FLAGRANT|XXX|flagrant, notori|
-FLAIL|XXX|drachuore|
+FLAGON|n.|flacon|
+FLAGRANT|adj.|flagrant, notori|
+FLAIL|n.|drachuore|
 FLAKE|v.|exfoliar|
 FLAKE|n.|flocc; (metal) lámine|
-FLAMBEAU|XXX|torche|
-FLAMBOYANT|XXX|florid, flammeant|
+FLAMBEAU|n.|torche|
+FLAMBOYANT|adj.|florid, flammeant|
 FLAME|v.|flammar|
 FLAME|n.|flamme; ardore|
-FLAME THROWER|XXX|lansa-flamme|
-FLAMINGO|XXX|flamingo|
-FLANGE|XXX|flange|
-FLANK|XXX|flanca (-ar), látere|
-FLANNEL|XXX|flanelle|
+FLAME THROWER|n.|lansa-flamme|
+FLAMINGO|n.|flamingo|
+FLANGE|n.|flange|
+FLANK|n.|flanca (-ar), látere|
+FLANNEL|n.|flanelle|
 FLAP|v.|clappar; frappar, batter|
 FLAP|n.|clappe; (of wing) batte|
 FLARE|n.|torche|
@@ -5508,41 +5508,41 @@ FLARE|v.|flammear, flagrar|
 FLARE UP|v.|(fig.) incolerar se|
 FLASH|n.|scintille, fúlmine|
 FLASH|v.|lucer, fulminar, eclatar|
-FLASK|XXX|botelle, flacon|
+FLASK|n.|botelle, flacon|
 FLAT|adj.|plan, plat; (of voice) fals; (of taste) fad, ínsipid|
 FLAT|adv.|francmen|
 FLAT|n.|apartament; etage; (mus.) bemoll; (naut.) bassfunde|
-FLAT-FOOT|XXX|platpede|
-FLAT-IRON|XXX|glattuore|
+FLAT-FOOT|n.|platpede|
+FLAT-IRON|n.|glattuore|
 FLATLY|adv.|francmen|
 FLATTEN|v.|aplatar, aplanar; aplastar|
 FLATTER|v.|flattar (-osi, -ant)|
-FLATULENCE|XXX|flatu (-ent, -entie, -osi), gas intestinal; fatuitá, vanitá|
+FLATULENCE|n.|flatu (-ent, -entie, -osi), gas intestinal; fatuitá, vanitá|
 FLAUNT|v.|paradar, ostentar|
 FLAVOUR|v.|spicear|
 FLAVOUR|n.|sapore, gust, aroma|
-FLAW|XXX|defecte; (crack) fensura|
-FLAX|XXX|lin (-atri)|
+FLAW|n.|defecte; (crack) fensura|
+FLAX|n.|lin (-atri)|
 FLAY|v.|depellar, excoriar; torturar|
-FLEA|XXX|pulce|
-FLEDGED|XXX|volativ, vola-capabil; plumat|
-FLEDGELING|XXX|avielle|
+FLEA|n.|pulce|
+FLEDGED|adj.|volativ, vola-capabil; plumat|
+FLEDGELING|n.|avielle|
 FLEE|v.|fugir (-itor, -ida), forcurrer|
 FLEECE|v.|tonder; (cheat) fraudar|
 FLEECE|n.|lane, lan-pelle|
 FLEET|adj.|rapid, agil|
 FLEET|n.|flotte|
-FLEETING|XXX|fugitiv, efemeri|
-FLESH|XXX|carne (-al, -ivori, -osi)|
+FLEETING|adj.|fugitiv, efemeri|
+FLESH|n.|carne (-al, -ivori, -osi)|
 FLEXIBLE|adj.|flexibil (-itá)|
 FLICK|n.|tappa|
 FLICKER|v.|flamettar, movettar se|
-FLIGHT|XXX|vola(da); (fleeing) fugida; (flock) volade|
-FLIGHTY|XXX|frivol, de levi anim, ínconstant|
+FLIGHT|n.|vola(da); (fleeing) fugida; (flock) volade|
+FLIGHTY|adj.|frivol, de levi anim, ínconstant|
 FLIMSY|adj.|ínsubstantial, tenui|
 FLINCH|v.|(retro)ceder|
 FLING|v.|jettar, lansar; (of horses) regambar|
-FLINT|XXX|silice (-osi)|
+FLINT|n.|silice (-osi)|
 FLIPPANT|adj.|temerari, frivoli, ínseriosi|
 FLIRT|n.|coquetto (-a), flirt|
 FLIRT|v.|coquettar, amorettar; flirtar|
@@ -5552,25 +5552,25 @@ FLOAT|v.|flottar; (hover) planear|
 FLOCK|v.|amassar se, gregar se|
 FLOCK|wool etc.|flocc|
 FLOCK|n.|greg, truppe, gruppe|
-FLOE|XXX|camp de glacie|
+FLOE|n.|camp de glacie|
 FLOG|v.|flagellar (-ation), knutar, castigar|
 FLOOD|n.|torrent, flut, diluvie|
 FLOOD|v.|inundar (-ation)|
-FLOOR|XXX|suol, planc-suol; (storey) etage|
+FLOOR|n.|suol, planc-suol; (storey) etage|
 FLORA|n.|(bot.) flora|
 FLORAL|adj.|floral|
-FLORET|XXX|florette|
-FLORID|XXX|tro ornat, ostentativ|
+FLORET|n.|florette|
+FLORID|adj.|tro ornat, ostentativ|
 FLORIST|n.|florist|
-FLOSS|XXX|lane de semes, lanuge|
-FLOSS-SILK|XXX|filoselle|
-FLOSSY|XXX|silkin|
-FLOTILLA|XXX|flottille|
-FLOTSAM|XXX|flottallia, vrecallia|
+FLOSS|n.|lane de semes, lanuge|
+FLOSS-SILK|n.|filoselle|
+FLOSSY|adj.|silkin|
+FLOTILLA|n.|flottille|
+FLOTSAM|n.|flottallia, vrecallia|
 FLOUNCE|v.|precipitar se|
 FLOUNDER|n.|(fish) pleuronecte|
 FLOUNDER|v.|gambear, chancelar|
-FLOUR|XXX|farine|
+FLOUR|n.|farine|
 FLOURISH|n.|(in writing) floscul, arabesca; fanfare; volut|
 FLOURISH|v.|florear, prosperar; (a weapon) brandisser|
 FLOUT|v.|mocar, derider|
@@ -5578,128 +5578,128 @@ FLOW|n.|currente, flution|
 FLOW|v.|fluer|
 FLOWER|v.|florar, florescer|
 FLOWER|n.|flor|
-FLOWER BED|XXX|flor-bed|
+FLOWER BED|n.|flor-bed|
 FLUCTUATE|v.|fluctuar (-ation), variar|
-FLUE|XXX|fum-tube|
+FLUE|n.|fum-tube|
 FLUENT|adj.|fluent (-ie)|
-FLUFF|XXX|lanuge, flocc|
+FLUFF|n.|lanuge, flocc|
 FLUID|n.|fluide, liquide|
 FLUID|adj.|fluid, liquid (-itá)|
-FLUKE|XXX|hasarde; (fish) pleuronecte|
-FLUNKEY|XXX|lacayo, leccard, adulator; servitor in livré|
+FLUKE|n.|hasarde; (fish) pleuronecte|
+FLUNKEY|n.|lacayo, leccard, adulator; servitor in livré|
 FLUORESCENT|adj.|fluorescent|
-FLUORSPAR|XXX|fluor|
+FLUORSPAR|n.|fluor|
 FLURRIED|adj.|anxiosi, confuset|
 FLURRY|v.|confuser, agitar|
 FLUSH|n.|ruble, rubiation|
 FLUSH|v.|rubijar; (flush out) rinsar|
 FLUSTER|v.|agitar|
-FLUTE|XXX|flaute; (arch.) cannel; (of anchor) pattes del ancre|
+FLUTE|n.|flaute; (arch.) cannel; (of anchor) pattes del ancre|
 FLUTTER|n.|ínquietesse|
 FLUTTER|v.|(birds) volettar; (of heart) palpitar; (flags) far flirtar|
 FLUVIAL|adj.|fluvial|
-FLUX|XXX|fluentie; (soldering) medie a suldar, suldage|
+FLUX|n.|fluentie; (soldering) medie a suldar, suldage|
 FLY|n.|(insect) mosca|
 FLY|v.|volar; (in aeroplane) aviar; (fig.) hastar; (flag) far flirtar|
-FLYING BUTTRESS|XXX|suporte arcat|
-FOAL|XXX|cavallello|
-FOAM|XXX|scum (-ar)|
-FOCUS|XXX|foco (-al)|
-FODDER|XXX|forrage|
-FOE|XXX|ínamico, adversario|
-FOETUS|XXX|feto|
+FLYING BUTTRESS|n.|suporte arcat|
+FOAL|n.|cavallello|
+FOAM|n.|scum (-ar)|
+FOCUS|n.|foco (-al)|
+FODDER|n.|forrage|
+FOE|n.|ínamico, adversario|XXX FIXME -- ínamíco
+FOETUS|n.|feto|
 FOG|adj.|(spess) nebul (-osi, -ositá)|
-FOGHORN|XXX|sirene|
-FOGSIGNAL|XXX|nebul-petarde|
-FOIBLE|XXX|capricie, debilesse|
+FOGHORN|n.|sirene|
+FOGSIGNAL|n.|nebul-petarde|
+FOIBLE|n.|capricie, debilesse|
 FOIL|n.|florete, rapiere; (metal) folie|
 FOIL|v.|frustrar, vanificar|
 FOIST UPON|v.|obtruder|
 FOLD|v.|plicar; (hands) junter; (sheep) inhagar, incorralar|
 FOLD|n.|plica; (sheep) corrale, hagatura|
 FOLDING|adj.|plicabil|
-FOLIAGE|XXX|foliage|
-FOLIO|XXX|folio, págine|
-FOLK|XXX|gente; (a people) popul, nation|
-FOLKLORE|XXX|folklore|
+FOLIAGE|n.|foliage|
+FOLIO|n.|folio, págine|
+FOLK|n.|gente; (a people) popul, nation|
+FOLKLORE|n.|folklore|
 FOLLOW|v.|sequer; succeDer; obedir|
-FOLLOWER|XXX|adherente, partisan, adepte; successor|
-FOLLY|XXX|follie, stultie, stultesse|
+FOLLOWER|n.|adherente, partisan, adepte; successor|
+FOLLY|n.|follie, stultie, stultesse|
 FOMENT|v.|fomentar (-ation), incitar|
 FOND|adj.|tendri, indulgent, afectionat|
 FONDLE|v.|caressar|
-FONT|XXX|cuve baptismal|
-FOOD|XXX|manjage, nutriment, aliment; (animals) forrage, vorage|
-FOOD-STUFFS|XXX|nutritives, victuales|
+FONT|n.|cuve baptismal|
+FOOD|n.|manjage, nutriment, aliment; (animals) forrage, vorage|
+FOOD-STUFFS|n.|nutritives, victuales|
 FOOL|n.|folio, idiote, stulton|
 FOOL|v.|decepter, dupar|
 FOOLHARDY|adj.|temerari|
 FOOLISH|adj.|folli, stupid|
 FOOT|n.|pede; base|
 FOOT|v.|ear a pede, pedear, vader|
-FOOTBALL|XXX|futballe|
-FOOTMAN|XXX|lacayo|
-FOOTMARK|XXX|ped-tracie|
-FOOTNOTE|XXX|ped-note|
-FOOTPASSENGER|XXX|pedon, pedeator|
-FOOTPATH|XXX|ped-via, viette, trottuore|
-FOOTPRINT|XXX|ped-tracie, vestigie|
-FOOTSTEP|XXX|passu|
-FOP|XXX|dandy, fatuo|
+FOOTBALL|n.|futballe|
+FOOTMAN|n.|lacayo|
+FOOTMARK|n.|ped-tracie|
+FOOTNOTE|n.|ped-note|
+FOOTPASSENGER|n.|pedon, pedeator|
+FOOTPATH|n.|ped-via, viette, trottuore|
+FOOTPRINT|n.|ped-tracie, vestigie|
+FOOTSTEP|n.|passu|
+FOP|adj.|dandy, fatuo|
 FOPPISH|adj.|afectat, dandyatri|
 FOR|prep.|por; (because) pro que; (during) durante; (in exchange for) por, contra; (in spite of) malgre; (on account of) pro; (on behalf of) por; (towards) a|
-FOR A WHILE|XXX|durante quelc témpor|
-FOR AYE|XXX|por sempre|
-FOR EVER|XXX|por sempre|
-FOR GOOD|XXX|por sempre|
-FOR MY PART|XXX|quo concerne me|
-FOR THE MOST PART|XXX|in general, max sovente|
-FOR THE PRESENT|XXX|ínterim|
-FOR THE SAKE OF|XXX|pro, por, pro egarde a|
+FOR A WHILE|adv.|durante quelc témpor|
+FOR AYE|adv.|por sempre|
+FOR EVER|adv.|por sempre|
+FOR GOOD|adv.|por sempre|
+FOR MY PART|adv.|quo concerne me|
+FOR THE MOST PART|adv.|in general, max sovente|
+FOR THE PRESENT|adv.|ínterim|
+FOR THE SAKE OF|prep.|pro, por, pro egarde a|
 FORAGE|v.|serchar forrage|
 FORAGE|n.|forrage|
-FORAY|XXX|razzia, raubatori excurse|
+FORAY|n.|razzia, raubatori excurse|
 FORBEAR|n.|(forebear) preavo|
 FORBEAR|v.|abstener se de|
 FORBID|v.|interdicter, prohibir|
 FORBIDDING|adj.|repugnant, repulsiv|
 FORCE|v.|fortiar, violar; obligar; (to force upon) obtruder|
 FORCE|n.|fortie, vigore, violentie; (might) potentie|
-FORCEPS|XXX|forcepse|
+FORCEPS|n.|forcepse|
 FORCIBLE|adj.|fort, fortiosi, violent|
-FORD|XXX|vada (-ar)|
+FORD|n.|vada (-ar)|
 FORE|prefix|pre-|
-FOREARM|XXX|avan-brasse|
-FOREBODE|XXX|pre-indicar, presentir (-iment), predir|
+FOREARM|n.|avan-brasse|
+FOREBODE|v.|pre-indicar, presentir (-iment), predir|
 FORECAST|v.|predir, previder, augurar, prognosticar|
-FOREFATHERS|XXX|preavos|
-FOREFINGER|XXX|fingre indicatori, index-fingre|
-FOREFRONT|XXX|avan-fronte|
+FOREFATHERS|n.pl.|preavos|
+FOREFINGER|n.|fingre indicatori, index-fingre|
+FOREFRONT|n.|avan-fronte|
 FOREGO|v.|renunciar; preceder|
 FOREGOING|adj.|precedent|
-FOREGROUND|XXX|avanplan|
-FOREHEAD|XXX|fronte|
-FOREIGN|XXX|foren, extran; strangi; (bot.) exotic|
-FOREIGNER|XXX|extrano, foreno|
-FORELAND|XXX|promontorie|
+FOREGROUND|n.|avanplan|
+FOREHEAD|n.|fronte|
+FOREIGN|adj.|foren, extran; strangi; (bot.) exotic|
+FOREIGNER|n.|extrano, foreno|
+FORELAND|n.|promontorie|
 FORELOCK|n.|front-bucle|
 FOREMAN|n.|suprastante, chef-ovrero|
 FOREMAST|n.|foc-mast|
 FOREMOST|adj.|prim, chef, plu avansat|
 FORENOON|n.|premidí, antemidí|
 FORENSIC|adj.|judiciari|
-FORERUNNER|XXX|precursor, pionero; ómine|
-FORESAIL|XXX|foc(segle)|
+FORERUNNER|n.|precursor, pionero; ómine|
+FORESAIL|n.|foc(segle)|
 FORESEE|v.|previder|
-FORESHADOW|XXX|pre-indicar, presignar|
-FORESHORE|XXX|rive (intermareal)|
+FORESHADOW|v.|pre-indicar, presignar|
+FORESHORE|n.|rive (intermareal)|
 FORESHORTEN|v.|dessinar in perspective, perspectivisar|
-FORESIGHT|XXX|prevision, previdentie|
-FORESKIN|XXX|prepucio|
+FORESIGHT|n.|prevision, previdentie|
+FORESKIN|n.|prepucio|
 FOREST|n.|forest (-ero), silva (-in)|
 FORESTALL|v.|prevenir, anticipar|
 FORESTRY|n.|forest-cultura|
-FORETASTE|XXX|antegust|
+FORETASTE|n.|antegust|
 FORETELL|v.|predir|
 FORETHOUGHT|n.|premeditation, previdentie|
 FOREVER|adv.|por sempre|
@@ -5732,7 +5732,7 @@ FORSWEAR|v.|abjurar, renegar; (oneself) jurar falsmen, perjurar se|
 FORT|n.|forteresse|
 FORTE|n.|fort látere (de un person)|
 FORTH|prep.|ex, fro|
-FORTH|XXX|for|
+FORTH|adv., prep.|for|
 FORTHWITH|adv.|strax|
 FORTIFY|v.|fortificar (-ation), infortiar, consolidar|
 FORTNIGHT|n.|du semanes, deciquar dies|
@@ -5765,8 +5765,8 @@ FOUNT|n.|fonte; (typ.) fonde|
 FOUNTAIN|n.|fontane|
 FOUNTAIN-PEN|n.|fontan-plum|
 FOUR|v.|quar|
-FOURFOLD|XXX|quadriplic|
-FOURTEEN|v.|deciquar|
+FOURFOLD|adj., n.|quadriplic|
+FOURTEEN|adj., n.|deciquar|
 FOWL|n.|avie; (domestic) gállin|
 FOWLER|n.|avie-captor, avie-fusilator|
 FOX|n.|fox|
@@ -5794,7 +5794,7 @@ FRATERNITY|n.|fraternitá; (society) fraternité|
 FRATERNIZE|v.|fraternisar (-ation)|
 FRAUD|n.|fraude, dupada, deception|
 FRAUDULENT|adj.|fraudatori|
-FRAUGHT WITH|XXX|chargeat per|
+FRAUGHT WITH|prep.|chargeat per|
 FRAY|v.|fricter, forfricter|
 FRAY|n.|conflicte, combatte|
 FREAK|n.|singularitá, monstruositá; (whim) marotte|
@@ -5802,7 +5802,7 @@ FRECKLE|n.|lentige|
 FREE|v.|liberar|
 FREE|adj.|líber; gratuit; franc|
 FREE FROM BIAS|adj.|ínpartial|
-FREE OF TAX|XXX|exempt de tribute|
+FREE OF TAX|adj.|exempt de tribute|
 FREEBOOTER|n.|marodero|
 FREEDOM|n.|libertá; (of city) borgesie|
 FREEHOLD|n.|líber possedage|
@@ -5881,7 +5881,7 @@ FULCRUM|n.|pivot, punta de apoy|
 FULFIL|v.|far, plenar, compleer, realisar|
 FULL|v.|(cloth) fullar|
 FULL|adj.|plen, complet, tot, integri; ampli; (of food) sat|
-FULL-FACED|XXX|guanciut|
+FULL-FACED|adj.|guanciut|
 FULL-GROWN|adj.|plen-crescet, adult|
 FULL-LENGTH|adj.|prosternat|
 FULL-MOON|n.|plenlunie|
