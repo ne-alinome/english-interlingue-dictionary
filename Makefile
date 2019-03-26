@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201903090036
+# Last modified 201903260057
 # See change log at the end of the file
 
 # ==============================================================
@@ -105,7 +105,7 @@ xml: target/$(book_basename).adoc.xml
 .SECONDARY: tmp/$(book_basename).tsv.adoc
 
 tmp/%.tsv.adoc: src/%.tsv
-	sed -e "s/^\(.\+\)\t/- .\1: /" $< > $@
+	sed -e "s/^\(.\+\)|\(.\+\)|\(.\+\)|/- \1 (\2): \3/"  $< > $@
 	vim -S make/add_letter_headings.vim $@
 
 target/$(book_basename).adoc: \
@@ -218,7 +218,7 @@ tmp/$(dict_basename).$(dict_data_format): \
 	src/$(book_basename).tsv \
 	tmp/dict_header.adoc.xml.txt
 	cat tmp/dict_header.adoc.xml.txt > $@
-	sed -e "s/^\(.\+\)\t/:\1:/" \
+	sed -e "s/^\(.\+\)|\(.\+\)|\(.\+\)|/:\1:(\2): \3/" \
 		$< >> $@
 
 # ==============================================================
@@ -271,3 +271,5 @@ uninstall:
 #
 # 2019-03-09: Add an interface command "odt" for OpenDocument. Reorder the
 # interface commands.
+#
+# 2019-03-26: Update to the new format of the data.
