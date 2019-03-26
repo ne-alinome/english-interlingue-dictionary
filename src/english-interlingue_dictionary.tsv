@@ -7644,7 +7644,7 @@ INN|n.|albergo, gastería, taverne|
 INN KEEPER|n.|albergator, tavernero, restorator|
 INNATE|adj.|innat, innascet, natural|
 INNER|adj.|interiori, internal|
-INNINGS|XXX|(cricket) range, torn|
+INNINGS|n.|(cricket) range, torn|
 INNOCENT|adj.|ínnocent, sin culpa, ignorant|
 INNOCUOUS|adj.|ínofensiv, ínnociv|
 INNOVATE|v.|innovar (-ation, -ator)|
@@ -7947,144 +7947,145 @@ JAB AT|v.|pussar contra (per punta de alquo), picar|
 JABBER|v.|jargonar, carcarear|
 JACK|n.|(at cards) valet; (spit) torn-pica; (screwjack) cric|
 JACK OF ALL TRADES|n.|(naut.) flagga de proa|
-JACK-IN-THE-BOX|XXX|diabolette-in-buxe|
-JACKAL|XXX|chacale|
-JACKASS|XXX|ásino|
-JACKDAW|XXX|monedul|
-JACKET|XXX|jaquette|
-JADE|XXX|cavallacha; feminach; (min.) jade|
-JADED|XXX|fatigat, lassi|
-JAGGED|XXX|con inregulari bordes|
+JACK-IN-THE-BOX|n.|diabolette-in-buxe|
+JACKAL|n.|chacale|
+JACKASS|n.|ásino|
+JACKDAW|n.|monedul|
+JACKET|n.|jaquette|
+JADE|n.|cavallacha; feminach; (min.) jade|
+JADED|adj.|fatigat, lassi|
+JAGGED|adj.|con inregulari bordes|
 JAGUAR|n.|jaguar|
-JAIL|XXX|cárcere, prison (ario)|
-JAILER|XXX|cárcer-mastro|
+JAIL|n.|cárcere, prison (ario)|
+JAILER|n.|cárcer-mastro|
 JAM|v.|serrar, presser|
 JAM|n.|jam, confitura; embarasse|
-JAMB|XXX|pal, pilare|
+JAMB|n.|pal, pilare|
 JANGLE|v.|querellar, desacordar; (noise) raslar|
-JANITOR|XXX|portario|
+JANITOR|n.|portario|
 JANUARY|n.|januar|
 JAPAN|v.|vernissar, laccar|
 JAR|n.|(pot) potte, cruche; (sound) dissonantie; (shock) choc, sucusse|
 JAR|v.|dissonar; sucusser; cracar|
-JARGON|XXX|jargon, linguach|
-JASMINE|XXX|jasmine|
-JASPER|XXX|jaspe|
-JAUNDICE|XXX|icterite|
-JAUNT|XXX|excursion, promenada|
-JAUNTY|XXX|gay, levi|
-JAVELIN|XXX|lanse, jettlanse, javeline|
-JAW|XXX|machuore, maxille; (naut.) furca de gaff|
-JAWBONE|XXX|osse maxillari|
-JAWS|XXX|fauc|
+JARGON|n.|jargon, linguach|
+JASMINE|n.|jasmine|
+JASPER|n.|jaspe|
+JAUNDICE|n.|icterite|
+JAUNT|n.|excursion, promenada|
+JAUNTY|adj.|gay, levi|
+JAVELIN|n.|lanse, jettlanse, javeline|
+JAW|n.|machuore, maxille; (naut.) furca de gaff|
+JAWBONE|n.|osse maxillari|
+JAWS|n.pl.|fauc|
 JAY|ornith.|garrul|
-JEALOUS|XXX|jalusi, invidiosi|
-JEALOUSY|XXX|jalusie|
+JEALOUS|adj.|jalusi, invidiosi|
+JEALOUSY|n.|jalusie|
 JEER|v.|mocar, deriDer (-sion)|
-JEJUNE|XXX|vacui, van, inan|
-JELLY|XXX|gelé|
-JELLY-FISH|XXX|meduse|
+JEJUNE|adj.|vacui, van, inan|
+JELLY|n.|gelé|
+JELLY-FISH|n.|meduse|
 JEOPARDIZE|v.|hasardar, riscar, indangerar|
-JEREMIAD|XXX|jeremiada, lamentation|
+JEREMIAD|n.|jeremiada, lamentation|
 JERK|n.|sucusse; spasma|
 JERK|v.|sucusser, dar un sucusse|
-JERKIN|XXX|camisol|
+JERKIN|n.|camisol|
 JERRY-BUILT|adj.|ínsolidmen construetet|
-JERSEY|XXX|jersé; veste ex lan|
-JERUSALEM ARTICHOKE|XXX|topinambur|
-JESSAMINE|XXX|jasmine|
-JEST|XXX|joca, burla (-ar, -erie, -on)|
-JESUIT|XXX|jesuit (-ic)|
+JERSEY|n.|jersé; veste ex lan|
+JERUSALEM ARTICHOKE|n.|topinambur|
+JESSAMINE|n.|jasmine|
+JEST|n.|joca, burla (-ar, -erie, -on)|
+JESUIT|n.|jesuit (-ic)|
 JET|n.|spruzza; (gas jet) bec de gas; (min.) gagate|
-JET-PROPELLED|XXX|roquette-propulset|
-JETSAM|XXX|jettallia|
+JET-PROPELLED|adj.|roquette-propulset|
+JETSAM|n.|jettallia|
 JETTISON|v.|forjettar|
 JETTY|n.|molo, diga|
-JEW|XXX|judéo (-ic, -isme, -isar)|
-JEWEL|XXX|juvel (-ero, -erie, -eria)|
+JEW|n.|judéo (-ic, -isme, -isar)|
+JEWEL|n.|juvel (-ero, -erie, -eria)|
 JIB|n.|(naut.) jib|
 JIB|v.|paver, esser obstinat|
-JIG|XXX|jig (dansa irlandesi)|
+JIG|n.|jig (dansa irlandesi)|
 JILT|v.|exsponder se|
 JINGLE|v.|(far) tintinar|
 JINGLE|n.|tintinada|
 JOB|v.|(Stock Exchange) agiotar|
 JOB|n.|tache, afere; oficie, posto, ocupation, mestiere|
-JOBBER|XXX|agiotero, curtagero|
-JOCKEY|XXX|jokey|
-JOCOSE|XXX|jocosi, amusant|
-JOCULAR|XXX|jocaci (-tá)|
-JOCUND|XXX|gay, joyosi|
+JOBBER|n.|agiotero, curtagero|
+JOCKEY|n.|jokey|
+JOCOSE|adj.|jocosi, amusant|
+JOCULAR|adj.|jocaci (-tá)|
+JOCUND|adj.|gay, joyosi|
 JOG|v.|(the memory) amemorar; (trot) trottar lentmen|
 JOG|n.|levi pussa, micri choc|
 JOIN|v.|junter, unir (se), unionar, combinar; (a society) adherer|
-JOINER|XXX|fin-carpentero|
+JOINER|n.|fin-carpentero|
 JOINT|adj.|comun; junt(et)|
 JOINT|n.|juntura, articulation; node; (meat) pezze|
-JOINT STOCK COMPANY|XXX|societé anonim, societé actionari|
+JOINT STOCK COMPANY|n.|societé anonim, societé actionari|
 JOINTED|adj.|(con)juntet, articulat|
-JOIST|XXX|trave, subtrave|
-JOKE|XXX|joca (-ar, -on), burla|
-JOLLIFICATION|XXX|festinada|
-JOLLY|XXX|gay (-itá)|
+JOIST|n.|trave, subtrave|
+JOKE|n.|joca (-ar, -on), burla|
+JOLLIFICATION|n.|festinada|
+JOLLY|adj.|gay (-itá)|
 JOLT|v.|sucusser, chocar|
 JOSTLE|v.|cud-pussar, turbar|
 JOT|v.|(jot down) notar|
 JOT|n.|iota, minucie|
-JOURNAL|XXX|jurnale (-ist, -istic), gazette; (daybook) diarium, contolibre|
+JOURNAL|n.|jurnale (-ist, -istic), gazette; (daybook) diarium, contolibre|
 JOURNEY|v.|viagear|
 JOURNEY|n.|viage|
-JOUST|XXX|torney (-ar)|
-JOVIAL|XXX|jovial (-itá)|
-JOY|XXX|joya (-osi), gaudie|
-JUBILANT|XXX|jubilant (-ie), triumfant|
-JUBILEE|XXX|jubilé|
-JUDAISM|XXX|judeisme|
+JOUST|n.|torney (-ar)|
+JOVIAL|adj.|jovial (-itá)|
+JOY|n.|joya (-osi), gaudie|
+JUBILANT|adj.|jubilant (-ie), triumfant|
+JUBILEE|n.|jubilé|
+JUDAISM|n.|judeisme|
 JUDGE|n.|judico (-ar, -ament)|
-JUDICIAL|XXX|judicial|
-JUDICIOUS|XXX|judiciosi, prudent|
-JUG|XXX|cruche; v, stuvar|
+JUDICIAL|adj.|judicial|
+JUDICIOUS|adj.|judiciosi, prudent|
+JUG|n.|cruche|
+JUG|v.|stuvar|
 JUGGLE|v.|jonglar (-ero, -eríe), prestidigitar|
-JUGULAR|XXX|jugulari|
-JUICE|XXX|succ (-osi)|
-JULY|XXX|julí|
+JUGULAR|adj.|jugulari|
+JUICE|n.|succ (-osi)|
+JULY|n.|julí|
 JUMBLE|n.|mixtallia, confusion|
 JUMBLE|v.|mixter, inbrolliar, desordinar|
 JUMP|n.|salta (-ar)|
-JUNCTION|XXX|juntion, punctu de union, convergentie|
-JUNCTURA|XXX|punctu, (con)juntura|
-JUNE|XXX|junio|
-JUNGLE|XXX|jungle|
+JUNCTION|n.|juntion, punctu de union, convergentie|
+JUNCTURA|n.|punctu, (con)juntura|
+JUNE|n.|junio|
+JUNGLE|n.|jungle|
 JUNIOR|adj.|minori, plu yun, junior|
-JUNIPER|XXX|junevre|
+JUNIPER|n.|junevre|
 JUNK|n.|(naut.) jonke; (lumber) antiquallia|
-JUNKET|XXX|caseine, coagulate|
-JUNKETING|XXX|festinada|
-JURIDICAL|XXX|juridic|
-JURISDICTION|XXX|jurisdition|
-JURISPRUDENCE|XXX|jurisprudentie|
-JURIST|XXX|jurist (-ie)|
-JUROR|XXX|jurato, membre del jurie|
-JURY|XXX|jurie|
-JURY-MAST|XXX|fala mast|
+JUNKET|n.|caseine, coagulate|
+JUNKETING|n.|festinada|
+JURIDICAL|adj.|juridic|
+JURISDICTION|n.|jurisdition|
+JURISPRUDENCE|n.|jurisprudentie|
+JURIST|n.|jurist (-ie)|
+JUROR|n.|jurato, membre del jurie|
+JURY|n.|jurie|
+JURY-MAST|n.|fala mast|XXX FIXME -- "fala"?
 JUST|adv.|precismen|
 JUST|adj.|just, honest, equi; (barely) apen|
-JUST ABOUT TO|XXX|sur li punctu de|
-JUST AS|XXX|sammen quam|
-JUSTICE|XXX|justicie, -equita|
+JUST ABOUT TO|prep.|sur li punctu de|
+JUST AS|adv.|sammen quam|
+JUSTICE|n.|justicie, equitá|
 JUSTIFY|v.|justificar (-ation, -abil)|
-JUSTNESS|XXX|justesse|
+JUSTNESS|n.|justesse|
 JUT OUT|v.|prominer, projecter|
-JUTE|XXX|jute|
+JUTE|n.|jute|
 JUVENILE|n.|yuno, júven (-a, -o)|
 JUVENILE|adj.|juvenil, yunatri|
-JUXTAPOSITION|XXX|juxtaposition|
-KALE|XXX|caul crispat|
-KALEIDOSCOPE|XXX|caleidoscop (-ic)|
-KALENDER|XXX|calendare|
-KALIF|XXX|calif|
-KANGAROO|XXX|cangurú|
-KAOLIN|XXX|caolin|
+JUXTAPOSITION|n.|juxtaposition|
+KALE|n.|caul crispat|
+KALEIDOSCOPE|n.|caleidoscop (-ic)|
+KALENDER|n.|calendare|
+KALIF|n.|calif|
+KANGAROO|n.|cangurú|
+KAOLIN|n.|caolin|
 KEEL|n.|kil|
 KEELSON|n.|super-kil|
 KEEN|adj.|(sharp) acut, penetrant; (eager) entusiastic, ardent|
@@ -8099,111 +8100,111 @@ KEEP ONESELF WARM|v.|mantener se calid|
 KEEP OUT|v.|excluder; maner éxter; (of debt) maner líber de debites|
 KEEP QUIET|v.|tacer|
 KEEP SILENT|v.|tacer|
-KEEPER|XXX|guardian, curator, gardero, custode; (of hotel) hósped, hotelero|
-KEEPSAKE|XXX|memorette|
-KEG|XXX|barilette|
+KEEPER|n.|guardian, curator, gardero, custode; (of hotel) hósped, hotelero|
+KEEPSAKE|n.|memorette|
+KEG|n.|barilette|
 KEN|v.|conosser (-entie)|
-KENNEL|XXX|can-domette, caniera|
-KERB|XXX|borde de trottuore|
-KERCHIEF|XXX|charpe, chal|
-KERNEL|XXX|nucleo|
-KEROSENE|XXX|petroleo|
-KESTREL|XXX|astor|
-KETCH|XXX|ketch|
-KETCHUP|XXX|sauce picant|
-KETTLE|XXX|bolliere; (large) caldron|
-KETTLEDRUM|XXX|timbale|
-KEY|XXX|clave; (of piano) taste; (mus.) ton|
-KEY INDUSTRY|XXX|industrie pivotal|
-KEYBOARD|XXX|tastatura, claviere|
-KEYHOLE|XXX|clave-fore|
-KEYRING|XXX|anelle por claves, porta-claves|
-KEYSTONE|XXX|chef lápide|
+KENNEL|n.|can-domette, caniera|
+KERB|n.|borde de trottuore|
+KERCHIEF|n.|charpe, chal|
+KERNEL|n.|nucleo|
+KEROSENE|n.|petroleo|
+KESTREL|n.|astor|
+KETCH|n.|ketch|
+KETCHUP|n.|sauce picant|
+KETTLE|n.|bolliere; (large) caldron|
+KETTLEDRUM|n.|timbale|
+KEY|n.|clave; (of piano) taste; (mus.) ton|
+KEY INDUSTRY|n.|industrie pivotal|
+KEYBOARD|n.|tastatura, claviere|
+KEYHOLE|n.|clave-fore|
+KEYRING|n.|anelle por claves, porta-claves|
+KEYSTONE|n.|chef lápide|
 KICK|n.|pedcolpe; (of rifle) repulse|
 KICK|v.|dar un pedcolpe a; pussar; (horses) regambar; (toss about) stramplar|
-KID|XXX|caprello; (leather) caprocute|
+KID|n.|caprello; (leather) caprocute|
 KIDNAP|v.|rapter|
-KIDNEY|XXX|ren|
-KIDNEY-BEAN|XXX|faseol|
+KIDNEY|n.|ren|
+KIDNEY-BEAN|n.|faseol|
 KILL|v.|mortar, assassinar; (animals) buchar|
-KILN|XXX|forn|
-KILOGRAM|XXX|kilogramme|
-KILOLITRE|XXX|kilolitre|
-KILOMETRE|XXX|kilometre|
+KILN|n.|forn|
+KILOGRAM|n.|kilogramme|
+KILOLITRE|n.|kilolitre|
+KILOMETRE|n.|kilometre|
 KIN|adj.|parent, afin|
 KIN|n.|parentité|
 KIND|adj.|benevolent, clement, afabil, amabil, bon, complesent (-ie)|
 KIND|n.|sorte, specie|
-KIND REGARDS|XXX|bon desires|
-KINDHEARTED|XXX|boncordiosi|
+KIND REGARDS|n.|bon desires|
+KINDHEARTED|adj.|boncordiosi|
 KINDLE|v.|accender, inflammar|
 KINDLY|adj.|afabil; (see also kind)|
 KINDRED|adj.|parent (-ité)|
-KINEMATOGRAPH|XXX|cínema|
-KING|XXX|rey (-al, -atu, -ia)|
-KINGFISHER|XXX|alcion|
-KINK|XXX|kink ; (fig.) capricie|
-KINSFOLK|XXX|parentité|
-KINSMAN|XXX|parente|
-KIOSK|XXX|kiosk|
-KIPPER|XXX|harengo fumicat|
-KIRK|XXX|eclesie; (building) eclesia|
-KISS|n.|kiss besa (-ar)|
-KIT|XXX|possedallia, proprietá, cosage|
-KIT-BAG|XXX|sac-valise|
-KITCHEN|XXX|cocin(erí)a|
-KITCHEN CUPBOARD|XXX|scaf de cocina, utensilarium|
-KITCHEN-GARDEN|XXX|legumiera|
+KINEMATOGRAPH|n.|cínema|
+KING|n.|rey (-al, -atu, -ia)|
+KINGFISHER|n.|alcion|
+KINK|n.|kink ; (fig.) capricie|
+KINSFOLK|n.|parentité|
+KINSMAN|n.|parente|
+KIOSK|n.|kiosk|
+KIPPER|n.|harengo fumicat|
+KIRK|n.|eclesie; (building) eclesia|
+KISS|n.|besa (-ar)|
+KIT|n.|possedallia, proprietá, cosage|
+KIT-BAG|n.|sac-valise|
+KITCHEN|n.|cocin(erí)a|
+KITCHEN CUPBOARD|n.|scaf de cocina, utensilarium|
+KITCHEN-GARDEN|n.|legumiera|
 KITE|n.|(bird) milve; (paper kite) dracon volant|
 KITH|adj.|parent, afin|
 KITH|n.|parentité|
-KITTEN|XXX|catello|
-KLEPTOMANIA|XXX|cleptomanie|
-KNACK|XXX|arte, tric, artificie|
-KNACKER|XXX|cavall-buchero|
-KNAPSACK|XXX|sac dorsal, tornistre|
-KNAPWEED|XXX|centaurea|
-KNAVE|XXX|fripon (-eríe); (at cards) valet|
+KITTEN|n.|catello|
+KLEPTOMANIA|n.|cleptomanie|
+KNACK|n.|arte, tric, artificie|
+KNACKER|n.|cavall-buchero|
+KNAPSACK|n.|sac dorsal, tornistre|
+KNAPWEED|n.|centaurea|
+KNAVE|n.|fripon (-eríe); (at cards) valet|
 KNEAD|v.|plastar (-uore)|
-KNEE|XXX|genú|
-KNEE-BREECHES|XXX|curt culotte|
-KNEE-CAP|XXX|rotul; (med.) patella|
+KNEE|n.|genú|
+KNEE-BREECHES|n.|curt culotte|
+KNEE-CAP|n.|rotul; (med.) patella|
 KNEEL|v.|genuflexer (-ion), agenuar se|
 KNELL|n.|funeral clocheada|
-KNICK-KNACK|XXX|bagatelle, ornette|
-KNICKERBOCKERS|XXX|culotte|
-KNICKERS|XXX|calson|
-KNIFE|XXX|cultelle|
-KNIFE BOARD|XXX|slifuore|
-KNIGHT|XXX|cavalliero (-esc)|
-KNIGHTHOOD|XXX|cavalieratu|
+KNICK-KNACK|n.|bagatelle, ornette|
+KNICKERBOCKERS|n.|culotte|
+KNICKERS|n.|calson|
+KNIFE|n.|cultelle|
+KNIFE BOARD|n.|slifuore|
+KNIGHT|n.|cavalliero (-esc)|
+KNIGHTHOOD|n.|cavalieratu|
 KNIT|v.|tricotar (-age, -era, -ería)|
 KNIT THE BROWS|v.|rugar li fronte|
 KNIT TOGETHER|v.|unir, ligar (se)|
-KNITTING|XXX|tricot|
-KNITTING-NEEDLE|XXX|tricot-agullie|
-KNOB|XXX|bosse, tuber; (doorknob) anse|
+KNITTING|n.|tricot|
+KNITTING-NEEDLE|n.|tricot-agullie|
+KNOB|n.|bosse, tuber; (doorknob) anse|
 KNOCK|n.|frappa, batte|
 KNOCK|v.|frappar|
 KNOCK DOWN|v.|abatter, far cader|
 KNOCK UP|v.|avigilar; exhauster|
-KNOCKER|XXX|frappette, frappa-porta|
-KNOLL|XXX|tumul|
-KNOT|XXX|node (-ar); (tuft) toffe|
-KNOTTY|XXX|nodosi; complicat|
-KNOUT|XXX|knut (-ar)|
-KNOW|XXX|(acquainted with, know people) conosser (-ent, -antie, -or); (know facts) saver (-entie)|
+KNOCKER|n.|frappette, frappa-porta|
+KNOLL|n.|tumul|
+KNOT|n.|node (-ar); (tuft) toffe|
+KNOTTY|adj.|nodosi; complicat|
+KNOUT|n.|knut (-ar)|
+KNOW|v.|(acquainted with, know people) conosser (-ent, -antie, -or); (know facts) saver (-entie)|
 KNOWING|adj.|inteligent, astut|
-KNOWLEDGE|XXX|saventie, conossentie; erudition|
-KNUCKLE|XXX|articul del fingre, juntura|
+KNOWLEDGE|n.|saventie, conossentie; erudition|
+KNUCKLE|n.|articul del fingre, juntura|
 KNUCKLE UNDER|v.|ceder, submisser se|
-LABEL|XXX|etiquette, afichette, billet|
-LABIAL|XXX|labial|
-LABORATORY|XXX|laboratoria, oficina|
-LABORIOUS|XXX|diligent, laborosi; penosi, fatigant|
-LABOUR|XXX|labore (-ar, -ero); (strive) penar; (childbirth) parturition; (toil) strapacie|
-LABOUR IN VAIN|XXX|van pena|
-LABURNUM|XXX|citise|
+LABEL|n.|etiquette, afichette, billet|
+LABIAL|adj.|labial|
+LABORATORY|n.|laboratoria, oficina|
+LABORIOUS|adj.|diligent, laborosi; penosi, fatigant|
+LABOUR|n.|labore (-ar, -ero); (strive) penar; (childbirth) parturition; (toil) strapacie|
+LABOUR IN VAIN|n.|van pena|
+LABURNUM|n.|citise|
 LABYRINTH|XXX|labirinte (-in)|
 LAC|XXX|lacca|
 LACE|n.|(fabric) dentelle; (for uniform) galon; (shoelace) lace; (trimmings) pasment|
