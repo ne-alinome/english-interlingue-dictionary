@@ -6034,7 +6034,7 @@ GENERAL|n.|generale|
 GENERAL PUBLIC|n.|grand publica|
 GENERALISSIMO|n.|generalissimo|
 GENERATE|v.|generar, producter; causar|
-GENERATION|XXX|(all meanings) generation|
+GENERATION|n.|(all meanings) generation|
 GENEROUS|adj.|generosi (-tá)|
 GENESIS|n.|creation; (bibl.) genese|
 GENETIC|adj.|genetic|
@@ -6250,7 +6250,7 @@ GOOD FOR NOTHING|adj.|ínutil, (person) vale-necós|
 GOOD FRIDAY|n.|Sant Venerdí|
 GOOD GRACIOUS!|interj.|Dómino-Deo!|
 GOOD LUCK!|interj.|bon successe!, bon chance!|
-GOOD WINE NEEDS NO BUSH|XXX|bon merces lauda se self|
+GOOD WINE NEEDS NO BUSH|expr.|bon merces lauda se self|
 GOOD-FELLOWSHIP|n.|camaraderíe|
 GOOD-FOR-NOTHING|n.|vale-necós|
 GOOD-NATURED|adj.|boncordiosi|
@@ -6269,10 +6269,10 @@ GORGEOUS|adj.|grandiosi, magnific|
 GORILLA|n.|gorille|
 GORMANDIZE|v.|devorar avidmen, manjar preter satie|
 GORSE|n.|ulex|
-GORY|XXX|sanguic, sanguin|
-GOSLING|XXX|gansello|
-GOSPEL|XXX|evangelie (-ic)|
-GOSSAMER|XXX|fin gaze; diafanage; rete de arané|
+GORY|adj.|sanguic, sanguin|
+GOSLING|n.|gansello|
+GOSPEL|n.|evangelie (-ic)|
+GOSSAMER|n.|fin gaze; diafanage; rete de arané|
 GOSSIP|v.|babillar, linguachar|
 GOSSIP|n.|babillada, parlachada|
 GOTHIC|adj.|gotic; (style) ogival|
@@ -6475,322 +6475,326 @@ GULL|v.|dupar|
 GULL|n.|movette|
 GULLET|n.|gurgul, gúttur|
 GULLIBLE|adj.|(facil) dupabil|
-GULLY|XXX|ravine, cannel, canyonette|
+GULLY|n.|ravine, cannel, canyonette|
 GULP|v.|glotir|
 GUM|n.|(adhesive) gumme (-ar), colle; (of teeth) gengive|
-GUMBOIL|XXX|abscesse gengival|
-GUN|XXX|fusil, musquete, cannon|
-GUN-BARREL|XXX|fusil-tub|
-GUN-CARRIAGE|XXX|afuste|
-GUNPOWDER|XXX|púlvere|
+GUMBOIL|n.|abscesse gengival|
+GUN|n.|fusil, musquete, cannon|
+GUN-BARREL|n.|fusil-tub|
+GUN-CARRIAGE|n.|afuste|
+GUNPOWDER|n.|púlvere|
 GUNSHOT|n.|tir|
-GUNSMITH|XXX|fabricante de armes|
-GUNWALE|XXX|plat-bord|
+GUNSMITH|n.|fabricante de armes|
+GUNWALE|n.|plat-bord|
 GURGLE|n.|gluglute|
 GURGLE|v.|gurgulear, gluglutar|
 GUSH|v.|(ex)fluer; (of speech) parlar sentimentalmen o exageratmen|
-GUSHING|XXX|fervorosi, efusiv|
-GUST|XXX|burasca, squall (-i, -osi)|
+GUSHING|adj.|fervorosi, efusiv|
+GUST|n.|burasca, squall (-i, -osi)|
 GUT|v.|eviscerar|
 GUT|n.|intestine, intrallia|
-GUTTAPERCHA|XXX|guttapercha|
-GUTTER|XXX|canalette; (roof) guttiere|
-GUTTURAL|XXX|guttural|
-GUY|XXX|efigie; personache; caricatura|
+GUTTAPERCHA|n.|guttapercha|
+GUTTER|n.|canalette; (roof) guttiere|
+GUTTURAL|adj.|guttural|
+GUY|n.|efigie; personache; caricatura|
 GUZZLE|v.|trincachar, trincar avidmen|
-GYMNASIUM|XXX|sala gimnastic; (school) gimnasium|
-GYMNAST|XXX|gimnast (-ic, -ica)|
-GYPSUM|XXX|gipse|
-GYPSY|XXX|cigane (-a, -o)|
+GYMNASIUM|n.|sala gimnastic; (school) gimnasium|
+GYMNAST|n.|gimnast (-ic, -ica)|
+GYPSUM|n.|gipse|
+GYPSY|n.|cigane (-a, -o)|
 GYRATE|v.|girar (-ation, -atori), rotar|
-GYROSCOPE|XXX|giroscop|
-GYVES|XXX|catenas, ferres|
-HABERDASHER|XXX|pasmentero (-íe)|
-HABILIMENTS|XXX|vestimentes|
+GYROSCOPE|n.|giroscop|
+GYVES|n.|catenas, ferres|
+HABERDASHER|n.|pasmentero (-íe)|
+HABILIMENTS|n.|vestimentes|
 HABILITATE|v.|habilitar|
-HABIT|XXX|hábitu (-al), costume, usu; (costume) costume|
-HABITABLE|XXX|habitabil (-itá)|
-HABITAT|XXX|domicilie|
-HABITATION|XXX|habitation; domicilie|
+HABIT|n.|hábitu (-al), costume, usu; (costume) costume|
+HABITABLE|adj.|habitabil (-itá)|
+HABITAT|n.|domicilie|
+HABITATION|n.|habitation; domicilie|
 HABITUATE|v.|acustomar|
-HACK|XXX|hacca (-ar); (horse) cavalle luat, cavallache|
-HACKNEY-COACH|XXX|fiacre|
-HACKNEYED|XXX|omnidial, tro usat, banal|
-HADDOCK|XXX|eglefin|
-HAEMORRHAGE|XXX|hemoragie, sanguada|
-HAFT|XXX|tenette, manuette, anse|
-HAG|XXX|feminach|
-HAGGARD|XXX|magri, marasmat|
+HACK|n.|hacca (-ar); (horse) cavalle luat, cavallache|
+HACKNEY-COACH|n.|fiacre|
+HACKNEYED|adj.|omnidial, tro usat, banal|
+HADDOCK|n.|eglefin|
+HAEMORRHAGE|n.|hemoragie, sanguada|
+HAFT|n.|tenette, manuette, anse|
+HAG|n.|feminach|
+HAGGARD|adj.|magri, marasmat|
 HAGGLE|v.|mercachar|
 HAIL|n.|grel (-ar, -un)|
 HAIL|v.|aclamar; (summon) advocar; (greet) salutar|
 HAIL FROM|v.|provenir de|
-HAIL!|XXX|salutation!, halló!|
-HAIR|XXX|capille (-osi); (animals) crine|
-HAIR DRESSER|XXX|frisero|
-HAIRLESS|XXX|calvi|
-HAIRNET|XXX|reticelle|
-HAKE|XXX|morúe siccat, stockfish|
-HALBERD|XXX|halebarde|
-HALCYON|XXX|calm, seren; (bird) alcion|
+HAIL!|interj.|salutation!, halló!|
+HAIR|n.|capille (-osi); (animals) crine|
+HAIR DRESSER|n.|frisero|
+HAIRLESS|adj.|calvi|
+HAIRNET|n.|reticelle|
+HAKE|n.|morúe siccat, stockfish|
+HALBERD|n.|halebarde|
+HALCYON|adj.|calm, seren|
+HALCYON|n.|(bird) alcion|
 HALE|adj.|frisc, san|
 HALE|v.|trenar|
 HALF|adv.|demímen|
 HALF|adj.|demí|
-HALF BROTHER|XXX|mi-fratre|
-HALL|XXX|hall, sala, salon|
-HALL-MARK|XXX|stamps (sur juveles); marca de qualitá|
+HALF BROTHER|n.|mi-fratre|
+HALL|n.|hall, sala, salon|
+HALL-MARK|n.|stamps (sur juveles); marca de qualitá|
 HALLOW|v.|santificar, consacrar|
-HALLUCINATION|XXX|halucination, ilusion|
-HALO|XXX|aureol; (of moon) halo, nimbe|
-HALPBREED|XXX|mestisse|
-HALPMAST|XXX|ye demí-mast|
+HALLUCINATION|n.|halucination, ilusion|
+HALO|n.|aureol; (of moon) halo, nimbe|
+HALPBREED|n.|mestisse|
+AT HALFMAST|adv.|ye demí-mast|
+HALFMAST|n.|(at) ye demí-mast|
 HALT|adj.|(lame) claudicant|
 HALT|v.|haltar, stoppar; (of speech) hesitar|
-HALTER|XXX|col-strap, cap-strap|
+HALTER|n.|col-strap, cap-strap|
 HALVE|v.|divider in du, demiar|
-HALYARD|XXX|drisse|
-HAM|XXX|jambon; (anat.) hanche|
-HAMLET|XXX|villagette|
-HAMMER|XXX|martell (-ar)|
-HAMMOCK|XXX|hamac|
+HALYARD|n.|drisse|
+HAM|n.|jambon; (anat.) hanche|
+HAMLET|n.|villagette|
+HAMMER|n.|martell (-ar)|
+HAMMOCK|n.|hamac|
 HAMPER|n.|pacca corbe|
 HAMPER|v.|impedir, retardar|
-HAMSTER|XXX|hamstre|
+HAMSTER|n.|hamstre|
 HAND|v.|manuar; passar, transdar|
 HAND|n.|manu; (of clock) indicator; (work man) ovrero, mann|
 HAND OVER|v.|transdar|
-HANDBAG|XXX|reticul|
-HANDBARROW|XXX|pussa-carrette|
-HANDBILL|XXX|foliette, folie volant|
-HANDBOOK|XXX|manuale|
-HANDCUFFS|XXX|manu-ferres|
-HANDFULL|XXX|manuade|
-HANDICAP|XXX|impediment, desavantage; (sport) handicap (-ar)|
-HANDICRAFT|XXX|mestiere, artise|
-HANDIWORK|XXX|artise, ovre manual|
-HANDKERCHIEF|XXX|nas-linette|
+HANDBAG|n.|reticul|
+HANDBARROW|n.|pussa-carrette|
+HANDBILL|n.|foliette, folie volant|
+HANDBOOK|n.|manuale|
+HANDCUFF|n.|manu-ferres|
+HANDCUFFS|n.pl.|manu-ferres|
+HANDFULL|n.|manuade|
+HANDICAP|n.|impediment, desavantage; (sport) handicap (-ar)|
+HANDICRAFT|n.|mestiere, artise|
+HANDIWORK|n.|artise, ovre manual|
+HANDKERCHIEF|n.|nas-linette|
 HANDLE|n.|anse, manuette, tenette|
 HANDLE|v.|tractar, manipular, tuchar|
-HANDLEBAR|XXX|guidon, bielle|
-HANDMAID|XXX|servitora|
-HANDRAIL|XXX|balustrade-fust|
-HANDSHAKE|XXX|manu-pression|
-HANDSOME|XXX|bell, jolli; generosi|
-HANDWRITING|XXX|caligrafie, scritura, manu scrite|
-HANDY|XXX|habil, déxteri; (at hand) che manu, proxim; (convenient) convenent|
+HANDLEBAR|n.|guidon, bielle|
+HANDMAID|n.|servitora|
+HANDRAIL|n.|balustrade-fust|
+HANDSHAKE|n.|manu-pression|
+HANDSOME|adj.|bell, jolli; generosi|
+HANDWRITING|n.|caligrafie, scritura, manu scrite|
+HANDY|adj.|habil, déxteri; (at hand) che manu, proxim; (convenient) convenent|
 HANG|v.a.|apender, acrocar; (wallpaper) tapetar; (to be hanging) pender|
 HANG AROUND|v.|flanar|
 HANG BACK|v.|vacillar, retener se|
 HANG TOGETHER|v.|coherer|
-HANGAR|XXX|hangare|
-HANGER-ON|XXX|parasite|
-HANGING LAMP|XXX|lucerne|
-HANGINGS|XXX|tapete, cortines|
-HANGOVER|XXX|posebriachie|
-HANK|XXX|pelote, glom|
+HANGAR|n.|hangare|
+HANGER-ON|n.|parasite|
+HANGING LAMP|n.|lucerne|
+HANGINGS|n.|tapete, cortines|
+HANGOVER|n.|posebriachie|
+HANK|n.|pelote, glom|
 HANKER|v.|desirar vivmen|
 HAP|n.|chance, hasarde|
 HAPHAZARD|adv.|ye hasarde, hasardmen|
-HAPLESS|XXX|ínfelici, ínfortunat|
-HAPLY|XXX|per chance|
+HAPLESS|adj.|ínfelici, ínfortunat|XXX FIXME -- "HAPLESS"?
+HAPLY|adv.|per chance|
 HAPPEN|v.|evenir (-iment), accider, ocurrer (-entie)|
-HAPPY|XXX|felici, joyosi; beat|
+HAPPY|adj.|felici, joyosi; beat|
 HARANGUE|n.|oration, declamation|
 HARASS|v.|molestar, íncomodar, genar, tormentar|
-HARBINGER|XXX|precursor|
+HARBINGER|n.|precursor|
 HARBOUR|n.|portu; (fig.) asil|
 HARBOUR|v.|(persons) albergar|
 HARD|adv.|fortmen|
 HARD|adj.|dur, firm, desfacil, fort, penosi, solid; (unfeeling) ínsensibil|
-HARD A PORT|XXX|strett a babord|
-HARD A STARBOARD|XXX|strett a stir bord|
-HARD BY|XXX|proximissim|
-HARD CASH|XXX|contante|
-HARD LABOUR|XXX|labor punitori|
-HARD OF HEARING|XXX|surdatri|
-HARD UP|XXX|indigent|
-HARDIHOOD|XXX|audacie, temeraritá|
-HARDLY|XXX|apen|
-HARDLY ANYONE|XXX|presc nequí|
-HARDSHIP|XXX|adversitá, penositá|
-HARDWARE|XXX|quincallia (-ero)|
-HARDY|XXX|fort, robust|
-HARE|XXX|lépor (-in)|
-HARE-LIP|XXX|labie leporatri|
-HAREBRAINED|XXX|folli, stult|
-HAREM|XXX|harem|
+HARD A PORT|adv.|strett a babord|
+HARD A STARBOARD|adv.|strett a stir bord|
+HARD BY|adj.|proximissim|
+HARD CASH|n.|contante|
+HARD LABOUR|n.|labor punitori|
+HARD OF HEARING|adj.|surdatri|
+HARD UP|adj.|indigent|
+HARDIHOOD|n.|audacie, temeraritá|
+HARDLY|adv.|apen|
+HARDLY ANYONE|n.|presc nequí|
+HARDSHIP|n.|adversitá, penositá|
+HARDWARE|n.|quincallia (-ero)|
+HARDY|adj.|fort, robust|
+HARE|n.|lépor (-in)|
+HARE-LIP|n.|labie leporatri|
+HAREBRAINED|adj.|folli, stult|
+HAREM|n.|harem|
 HARK|v.|escutar|
-HARLEQUIN|XXX|arlequin (-ade)|
-HARLOT|XXX|prostituta, hetera|
+HARLEQUIN|n.|arlequin (-ade)|
+HARLOT|n.|prostituta, hetera|
 HARM|n.|damage|
 HARM|v.|nocer (-entie), damagear, leDer|
-HARMFUL|XXX|nociv, malefic|
-HARMLESS|XXX|ínofensiv, ínnociv|
-HARMONIUM|XXX|harmonium|
-HARMONY|XXX|harmonie (-ica, -isar, -osi)|
-HARNESS|XXX|harness (-ar, -ament)|
-HARP|XXX|harpe (-ist)|
-HARPOON|XXX|harpune (-ar)|
-HARPSICHORD|XXX|spinett|
-HARPY|XXX|harpie, megera|
-HARRIER|XXX|lépor-cane|
+HARMFUL|adj.|nociv, malefic|
+HARMLESS|adj.|ínofensiv, ínnociv|
+HARMONIUM|n.|harmonium|
+HARMONY|n.|harmonie (-ica, -isar, -osi)|
+HARNESS|n.|harness (-ar, -ament)|
+HARP|n.|harpe (-ist)|
+HARPOON|n.|harpune (-ar)|
+HARPSICHORD|n.|spinett|
+HARPY|n.|harpie, megera|
+HARRIER|n.|lépor-cane|
 HARROW|n.|herse (-ar)|
 HARROW|v.|(feelings) tormentar|
 HARRY|v.|spoliar, pilliar; tormentar, molestar|
-HARSH|XXX|aspri, brusqui, severi; (voice) rauc (-itá)|
-HART|XXX|cervo|
+HARSH|adj.|aspri, brusqui, severi; (voice) rauc (-itá)|
+HART|n.|cervo|
 HARUM-SCARUM|n.|garsonacho, bube|
 HARUM-SCARUM|adj.|frivolosi, savagi|
-HARVEST|XXX|recolte (-ar, -ator)|
-HARVESTER|XXX|recolte-machine|
-HAS HE COME YET?|XXX|esque il ha ja venit?|
+HARVEST|n.|recolte (-ar, -ator)|
+HARVESTER|n.|recolte-machine|
+HAS HE COME YET?|expr.|esque il ha ja venit?|
 HASH|n.|(cul.) ragú; mixtura|
 HASH|v.|(bungle) bosillar|
-HASP|XXX|haspe (-ar), croc|
-HASSOCK|XXX|genú-cussine, agenuore|
-HASTE|XXX|hasta (-ar), rapiditá|
+HASP|n.|haspe (-ar), croc|
+HASSOCK|n.|genú-cussine, agenuore|
+HASTE|n.|hasta (-ar), rapiditá|
 HASTEN|v.|hastar; accelerar|
-HASTY|XXX|coleric, ínpatient; hastosi|
-HAT|XXX|chapel (-ero)|
+HASTY|adj.|coleric, ínpatient; hastosi|
+HAT|n.|chapel (-ero)|
 HATCH OUT|v.|covar, inventer; (in drawing) *sgraffir|
-HATCHET|XXX|hacca, hachette|
-HATCHWAY|XXX|luca|
+HATCHET|n.|hacca, hachette|
+HATCHWAY|n.|luca|
 HATE|v.|odiar|
 HATE|n.|odie (-osi)|
-HAUGHTY|XXX|arogant, orgolliosi, tro fier, superb|
+HAUGHTY|adj.|arogant, orgolliosi, tro fier, superb|
 HAUL|n.|captura|
 HAUL|v.|trenar, tirar; (naut.) holar, remor car|
-HAULM|XXX|halm, cálame|
-HAUNCH|XXX|hanche|
+HAULM|n.|halm, cálame|
+HAUNCH|n.|hanche|
 HAUNT|n.|refugia, loc frequentat|
 HAUNT|v.|obseDer; frequentar, persecuter|
-HAUTBOY|XXX|hobóe|
+HAUTBOY|n.|hobóe|
 HAVE|v.|haver, posseDer; (auxiliary) har|
 HAVE A MIND TO|v.|inclinar, it vell pleser...si|
 HAVE AN INTUITION|v.|intuiter|
 HAVE TO|v.|dever|
-HAVE YOU ANY MATCHES|XXX|esque vu have inflammettes?|
-HAVEN|XXX|portu; (refuge) asil|
-HAVERSACK|XXX|sac dorsal, tornistre|
-HAVOC|XXX|devastation|
-HAW|XXX|bere de blancospine|
-HAWFINCH|XXX|cocotrauste|
+HAVE YOU ANY MATCHES?|expr.|esque vu have inflammettes?|
+HAVEN|n.|portu; (refuge) asil|
+HAVERSACK|n.|sac dorsal, tornistre|
+HAVOC|n.|devastation|
+HAW|n.|bere de blancospine|
+HAWFINCH|n.|cocotrauste|
 HAWK|v.|colportar (-ero)|
 HAWK|n.|astor|
-HAWSER|XXX|cable, amarre|
-HAWTHORN|XXX|blancospine|
-HAY|XXX|fen (-ero, -ation)|
-HAY-FEVER|XXX|fen-catarre|
-HAYRICK|XXX|fen-piramide|
-HAZARD|XXX|hasarde (-ar, -al)|
-HAZE|XXX|nebul (-osi)|
+HAWSER|n.|cable, amarre|
+HAWTHORN|n.|blancospine|
+HAY|n.|fen (-ero, -ation)|
+HAY-FEVER|n.|fen-catarre|
+HAYRICK|n.|fen-piramide|
+HAZARD|n.|hasarde (-ar, -al)|
+HAZE|n.|nebul (-osi)|
 HAZEL|adj.|rubi-brun|
 HAZEL|n.|avelane (-iero)|
-HE|XXX|il|
-HE BUMPED AGAINST A WALL|XXX|il chocat contra un mur|
-HE CAN AFFORD IT|XXX|su medies permisse to, il dispone lì moné|
-HE CAN'T HELP IT|XXX|il ne posse ne far to, il ne posse evitar (impedir) to|
-HE DWARFED HIS COMPANION|XXX|su compane aspectet apu il quam un nano, il nanisat su compane|
-HE HIM|XXX|il self|
-HE IS ENTITLED TO SAY|XXX|il es in jure dir|
-HE IS INDEBTED TO YOU FOR EVERYTHING|XXX|il debi a vos omnicos|
-HE IS SHAVING|XXX|il rasa se|
-HE KINDLY ASSISTED ME|XXX|il benevolet auxiliar me|
-HE MUST GO|XXX|il deve ear|
-HE WAS EDUCATED FOR THE BAR|XXX|il ha studiat (li) jure|
+HE|pron.|il|
+HE BUMPED AGAINST A WALL|expr.|il chocat contra un mur|
+HE CAN AFFORD IT|expr.|su medies permisse to, il dispone lì moné|
+HE CAN'T HELP IT|expr.|il ne posse ne far to, il ne posse evitar (impedir) to|
+HE DWARFED HIS COMPANION|expr.|su compane aspectet apu il quam un nano, il nanisat su compane|
+HE HIM|pron.|il self|
+HE IS ENTITLED TO SAY|expr.|il es in jure dir|
+HE IS INDEBTED TO YOU FOR EVERYTHING|expr.|il debi a vos omnicos|
+HE IS SHAVING|expr.|il rasa se|
+HE KINDLY ASSISTED ME|expr.|il benevolet auxiliar me|
+HE MUST GO|expr.|il deve ear|
+HE WAS EDUCATED FOR THE BAR|expr.|il ha studiat (li) jure|
 HEAD|adj.|chef-, principal|
 HEAD|v.|(lead) ducter, comandar; (a ball) cap-pussar|
 HEAD|n.|cap; chef, mastro, principale, director; (source) fonte; (on beer) scum|
-HEAD LAMP|XXX|projector|
-HEAD OF HAIR|XXX|capillatura|
-HEAD-FIRST|XXX|cap-ad-avan|
-HEADACHE|XXX|cap-dolore; rupte-cap|
+HEAD LAMP|n.|projector|
+HEAD OF HAIR|n.|capillatura|
+HEAD-FIRST|adv.|cap-ad-avan|
+HEADACHE|n.|cap-dolore; rupte-cap|
 HEADING|n.|rubrica|
-HEADLAND|XXX|promontorie|
-HEADMASTER|XXX|mastro, principale|
-HEADQUARTERS|XXX|chef-locale, chef-quartere, centrale|
-HEADSHIP|XXX|chefatu|
-HEADSTRONG|XXX|impetuosi, obstinat, opiniatri|
-HEADWAY|XXX|progresse|
-HEADWIND|XXX|vente contrari|
+HEADLAND|n.|promontorie|
+HEADMASTER|n.|mastro, principale|
+HEADQUARTERS|n.|chef-locale, chef-quartere, centrale|
+HEADSHIP|n.|chefatu|
+HEADSTRONG|adj.|impetuosi, obstinat, opiniatri|
+HEADWAY|n.|progresse|
+HEADWIND|n.|vente contrari|
 HEADY|adj.|(of liquor) intoxicant, ebriativ|
 HEAL|v.|curar, sanar, resanar; (of wounds) cicatrisar|
-HEALTH|XXX|sanitá, bon-essere|
-HEALTH GIVING|XXX|sanativ|
-HEALTH RESORT|XXX|loc sanatori|
-HEALTHY|XXX|san; salubri|
+HEALTH|n.|sanitá, bon-essere|
+HEALTH GIVING|adj.|sanativ|
+HEALTH RESORT|n.|loc sanatori|
+HEALTHY|adj.|san; salubri|
 HEAP|v.|amassar, acumular|
 HEAP|n.|amasse, cumul, quantité|
 HEAR|v.|audir|
 HEARING|n.|audie|
 HEARKEN|v.|escutar, atenter|
-HEARSAY|XXX|rumore|
-HEARSE|XXX|sarco-carre|
-HEART|XXX|cordie; corage|
-HEARTBURN|XXX|pirose|
+HEARSAY|n.|rumore|
+HEARSE|n.|sarco-carre|
+HEART|n.|cordie; corage|
+HEARTBURN|n.|pirose|
 HEARTEN|v.|incoragear, animar|
-HEARTH|XXX|camine, foyiere|
-HEARTLESS|XXX|ínhuman, ínsensibil, dur|
-HEARTY|XXX|cordial; (meal) ampli|
+HEARTH|n.|camine, foyiere|
+HEARTLESS|adj.|ínhuman, ínsensibil, dur|
+HEARTY|adj.|cordial; (meal) ampli|
 HEAT|v.|calentar (-ation)|
 HEAT|n.|calore; ardore, passion|
-HEATH|XXX|erica-prates, paise erical|
+HEATH|n.|erica-prates, paise erical|
 HEATHEN|adj.|pagan (-o, -isme)|
-HEATHER|XXX|erica|
+HEATHER|n.|erica|
 HEAVE|v.|(lift) levar, sublevar; (fling) jettar; (swell up) turner; (of ship) tangar|
 HEAVE TO|v.|brassar travers, metter (li nave) a capea|
-HEAVEN|XXX|ciel|
-HEAVENLY|XXX|cielal, cielari, celest|
-HEAVY|XXX|pesant, ponderosi|
-HEBDOMADAL|XXX|semanal|
+HEAVEN|n.|ciel|
+HEAVENLY|adj.|cielal, cielari, celest|
+HEAVY|adj.|pesant, ponderosi|
+HEBDOMADAL|adj.|semanal|
 HEBREW|n.|hebréo|
 HEBREW|adj.|hebreic|
 HECKLE|v.|interpellar (-ator, -ard)|
-HECTIC|XXX|excitant; (med.) hectic|
+HECTIC|adj.|excitant; (med.) hectic|
 HEDGE|v.|(in)hagar; (betting) pariar bilateralmen, contra-pariar; (speech) vacillar, pariar evasivmen|
 HEDGE|n.|haga|
-HEDGEHOG|XXX|erinacio, herisson|
+HEDGEHOG|n.|erinacio, herisson|
 HEED|v.|atenter (-ion, -iv)|
 HEEL|v.|talonar|
 HEEL|n.|calcan; (of boot, shoe) talon|
 HEEL OVER|v.|inclinar se|
-HEGEMONY|XXX|hegemonie|
-HEIFER|XXX|vaccella|
-HEIGHT|XXX|altore, altitá, altitudine|
+HEGEMONY|n.|hegemonie|
+HEIFER|n.|vaccella|
+HEIGHT|n.|altore, altitá, altitudine|
 HEIGHTEN|v.|elevar, augmentar; intensificar|
-HEINOUS|XXX|abominabil, atroci|
-HEIR|XXX|herede|
-HEIR APPARENT|XXX|direct herede|
-HEIRLOOM|XXX|heredate|
-HELICAL|XXX|helical, spiral|
-HELIOTROPE|XXX|heliotrop|
-HELL|XXX|inferne (-al)|
+HEINOUS|adj.|abominabil, atroci|
+HEIR|n.|herede|
+HEIR APPARENT|n.|direct herede|
+HEIRLOOM|n.|heredate|
+HELICAL|adj.|helical, spiral|
+HELIOTROPE|n.|heliotrop|
+HELL|n.|inferne (-al)|
 HELLEBORE|n.|(bot.) helébore|
 HELM|v.|stir (-ero, -mann)|
-HELMET|XXX|casco, helm|
-HELOT|XXX|helote|
+HELMET|n.|casco, helm|
+HELOT|n.|helote|
 HELP|n.|auxilie; sucurse|
 HELP|v.|auxiliar, assister, subtener, sucurser; (at table) servir, dar|
-HELPFUL|XXX|util|
-HELPFULLESS|XXX|ínpotent|
+HELPFUL|adj.|util|
+HELPFULLESS|adj.|ínpotent|
 HELPING|n.|portion|
-HELTER-SKELTER|XXX|pelmel, confusion|
+HELTER-SKELTER|n.|pelmel, confusion|
 HEM|n.|orle (-ar); borde|
 HEM|v.|(to hem in) circumbarrar, circuindar, cernar|
-HEMATITE|XXX|hematite|
+HEMATITE|n.|hematite|
 HEMI|prefix|hemi-sfere, -plegie, -opie, etc.|
-HEMLOCK|XXX|cicute|
-HEMORRHAGE|XXX|hemoragie, sanguada|
-HEMORRHOIDS|XXX|hemoroides (-al)|
-HEMP|XXX|cánabe|
-HEN|XXX|gallina (-iere)|
-HENBANE|XXX|hiosciame|
-HENCE|XXX|for, de ci; (therefore) ergo, dunc, de to...|
-HENCEFORTH|XXX|desde nu|
-HENCHMAN|XXX|servero|
-HEPATIC|XXX|hepatic|
-HEPTAGON|XXX|heptagon (-al)|
+HEMLOCK|n.|cicute|
+HEMORRHAGE|n.|hemoragie, sanguada|
+HEMORRHOIDS|n.|hemoroides (-al)|
+HEMP|n.|cánabe|
+HEN|n.|gallina (-iere)|
+HENBANE|n.|hiosciame|
+HENCE|adv.|for, de ci|
+HENCE|conj.|(therefore) ergo, dunc, de to...|
+HENCEFORTH|adv.|desde nu|
+HENCHMAN|n.|servero|
+HEPATIC|adj.|hepatic|
+HEPTAGON|n.|heptagon (-al)|
 HER|adj.poss.|su|
 HER|pron.|(obj. case) la; (following a prep.) ella|XXX FIXME -- ella, la
 HERALD|v.|anunciar|
@@ -6798,111 +6802,111 @@ HERALD|n.|heralde (-ic, -ica)|
 HERB|n.|(grass) herbe (-osi, -ari, -age, -al, -arisar, -arium, -iera, -ivori); plante|
 HERD|v.|gardar; amassar se|
 HERD|n.|greg; (swarin) turbe|
-HERE|XXX|ci|
-HERE ARE|XXX|vi|
-HERE BELOW|XXX|ci bass|
-HERE IS|XXX|vi|
-HEREABOUTS|XXX|ci proxim|
-HEREAFTER|XXX|plu tard, in futur|
-HEREBY|XXX|per to|
-HEREDITY|XXX|hereditá (-ari)|
-HERESY|XXX|hereSie (-tic, -tico), heterodoxie|
-HERETAGE|XXX|heredage|
-HERETOFORE|XXX|antey, til nu|
-HEREWITH|XXX|ci junt|
+HERE|adv.|ci|
+HERE ARE|adv.|vi|
+HERE BELOW|adv.|ci bass|
+HERE IS|adv.|vi|
+HEREABOUTS|adv.|ci proxim|
+HEREAFTER|adv.|plu tard, in futur|
+HEREBY|adv.|per to|
+HEREDITY|n.|hereditá (-ari)|
+HERESY|n.|hereSie (-tic, -tico), heterodoxie|
+HERETAGE|n.|heredage|
+HERETOFORE|adv.|antey, til nu|
+HEREWITH|adv.|ci junt|
 HERMAPHRODITE|adj.|bisexual, hibrid|
 HERMAPHRODITE|n.|hermafrodite (-ic)|
-HERMETIC|XXX|hermetic|
-HERMIT|XXX|eremite (-age), anacoret, solitario|
-HERNIA|XXX|hernie|
-HERO|XXX|heróe (-ic, -isme, -a)|
-HERON|XXX|heron; ardea|
-HERPES|XXX|hérpes|
-HERRING|XXX|harengo|
+HERMETIC|adj.|hermetic|
+HERMIT|n.|eremite (-age), anacoret, solitario|
+HERNIA|n.|hernie|
+HERO|n.|heróe (-ic, -isme, -a)|
+HERON|n.|heron; ardea|
+HERPES|n.|hérpes|
+HERRING|n.|harengo|
 HESITATE|v.|hesitar (-ant, -antie), vacillar|
-HETERODOX|XXX|heterodox (-ie)|
-HETEROGENEOUS|XXX|heterogen|
+HETERODOX|adj.|heterodox (-ie)|
+HETEROGENEOUS|adj.|heterogen|
 HEW|v.|haccar; batter; (stone) sculpter|
-HEXAGON|XXX|hexagon (-al)|
-HEYDAY|XXX|culmine, apogé, aurin etá|
-HIATUS|XXX|lacune; (gram.) hiatu|
+HEXAGON|n.|hexagon (-al)|
+HEYDAY|n.|culmine, apogé, aurin etá|
+HIATUS|n.|lacune; (gram.) hiatu|
 HIBERNATE|v.|hivernar (-ation)|
 HICCOUGH|n.|hicca (-ar, -ada)|
 HIDE|n.|cute, pelle; (of land) hube|
 HIDE|v.|celar, ocultar|
-HIDEOUS|XXX|hideosi, ofensiv, horribil|
-HIDING-PLACE|XXX|ocultuore|
+HIDEOUS|adj.|hideosi, ofensiv, horribil|
+HIDING-PLACE|n.|ocultuore|
 HIE|v.|hastar|
-HIERARCH|XXX|hierarch (-ie)|
-HIEROGLYPH|XXX|hieroglif (-ic)|
-HIGGLEDY-PIGGLEDY|XXX|confuset, pelmel|
+HIERARCH|n.|hierarch (-ie)|
+HIEROGLYPH|n.|hieroglif (-ic)|
+HIGGLEDY-PIGGLEDY|adv., adj.|confuset, pelmel|XXX FIXME -- "pelmel" is n.
 HIGH|prep.|apu|
 HIGH|adj.|alt; (meat) desfrisc, infectet; (sea) apert|
-HIGH WATER|XXX|alt marea|
-HIGH-CLASS|XXX|de alt classe|
-HIGH-HANDED|XXX|arbitrari, despotic|
-HIGH-MINDED|XXX|de alt anim, nobli|
-HIGH-SPIRITED|XXX|vivaci, audaci|
-HIGHFLOWN|XXX|inflat, pomposi|
-HIGHLAND|XXX|alt montania, alt paise|
-HIGHLY|XXX|tre|
-HIGHNESS|XXX|Altesse, Excellentie|
-HIGHROAD|XXX|chossé|
-HIGHWAYMAN|XXX|bandite, brigante|
-HILARIOUS|XXX|gayissim, hilari (-tá)|
-HILL|XXX|coline; declive|
-HILLOCK|XXX|tumul|
-HILLY|XXX|montosi|
-HILT|XXX|tenette|
-HIM|XXX|le|
-HIMSELF|XXX|se|
+HIGH WATER|n.|alt marea|
+HIGH-CLASS|adj.|de alt classe|
+HIGH-HANDED|adj.|arbitrari, despotic|
+HIGH-MINDED|adj.|de alt anim, nobli|
+HIGH-SPIRITED|adj.|vivaci, audaci|
+HIGHFLOWN|adj.|inflat, pomposi|
+HIGHLAND|n.|alt montania, alt paise|
+HIGHLY|adv.|tre|
+HIGHNESS|n.|Altesse, Excellentie|
+HIGHROAD|n.|chossé|
+HIGHWAYMAN|n.|bandite, brigante|
+HILARIOUS|adj.|gayissim, hilari (-tá)|
+HILL|n.|coline; declive|
+HILLOCK|n.|tumul|
+HILLY|adj.|montosi|
+HILT|n.|tenette|
+HIM|pron.|le|
+HIMSELF|pron.|se|
 HIND|n.|cerva|
 HINDER|adj.|posteriori|
 HINDER|v.|impedir, obstructer|
-HINDMOST|XXX|ultim|
+HINDMOST|adj.|ultim|
 HINGE|v.|(hinge on) depender de|
 HINGE|n.|pivot, charnire, gonde|
 HINT|v.|indicar, dar signe, aluder, suggester|
 HINT|n.|signe, alusion|
-HINTERLAND|XXX|hinterland, interiore del pais|
-HIP|XXX|hanche, coxe; (bot.) ros-bere, rosi-fructe|
-HIPPODROME|XXX|hipodrom|
-HIPPOPOTAMUS|XXX|hipopotam|
+HINTERLAND|n.|hinterland, interiore del pais|
+HIP|n.|hanche, coxe; (bot.) ros-bere, rosi-fructe|
+HIPPODROME|n.|hipodrom|
+HIPPOPOTAMUS|n.|hipopotam|
 HIRE|v.|luar; (servante) ingagear|
 HIRE OUT|v.|locar, forluar|
-HIRE PURCHASE|XXX|compra secun ratas|
-HIRSUTE|XXX|vellut, capillut|
-HIS CONSCIENCE SMOTE HIM|XXX|il sentit remorse|
-HIS MEMORY HAS BECOME A BLANK|XXX|il ha totmen perdit su memorie|
+HIRE PURCHASE|n.|compra secun ratas|
+HIRSUTE|adj.|vellut, capillut|
+HIS CONSCIENCE SMOTE HIM|expr.|il sentit remorse|
+HIS MEMORY HAS BECOME A BLANK|expr.|il ha totmen perdit su memorie|
 HISS|v.|sibilar|
-HISTORY|XXX|historie (-ic, -ico, -ograf)|
-HISTRIONIC|XXX|actoral, teatric|
+HISTORY|n.|historie (-ic, -ico, -ograf)|
+HISTRIONIC|adj.|actoral, teatric|
 HIT|n.|successe; (shooting) centre|
 HIT|v.|frappar, batter; dar in lu blanc|
 HITCH|n.|(in ropes) nod (de sede); (interruption) impediment, interruption|
 HITCH|v.|acrocar|
-HITHER|XXX|a ci|
-HITHERTO|XXX|til nu|
-HIVE|XXX|apiere|
-HOAR-FROST|XXX|gela crinosi, pruine|
+HITHER|adv.|a ci|
+HITHERTO|adv.|til nu|
+HIVE|n.|apiere|
+HOAR-FROST|n.|gela crinosi, pruine|
 HOARD|n.|provision, stock, amasse|
 HOARD|v.|amassar secretmen, acumular|
-HOARDINGS|XXX|planc-palissade|
-HOARSE|XXX|rauc (-itá, -ore)|
-HOARY|XXX|ancian, blanc pro etá|
+HOARDINGS|n.|planc-palissade|
+HOARSE|adj.|rauc (-itá, -ore)|
+HOARY|adj.|ancian, blanc pro etá|
 HOAX|v.|mistificar, decepter, dupar|
-HOB|XXX|suporte, plate|
+HOB|n.|suporte, plate|
 HOBBLE|v.|claudicar; ligar li pedes|
-HOBBY|XXX|dadá, cavallette|
-HOBNAIL|XXX|huf-clove|
+HOBBY|n.|dadá, cavallette|
+HOBNAIL|n.|huf-clove|
 HOBNOB|v.|associar se familiarimen con|
-HOCK|XXX|hock , vine rhenan|
-HOCKEY|XXX|hockey|
-HOCUS-POCUS|XXX|charlataneríe|
-HOD|XXX|mortre-trog, trog por briques, porta-brique|
-HOE|XXX|binette, sarcluore, jardin-hacc|
-HOG|XXX|svino, porco|
-HOGSHEAD|XXX|grand baril|
+HOCK|n.|hock , vine rhenan|
+HOCKEY|n.|hockey|
+HOCUS-POCUS|n.|charlataneríe|
+HOD|n.|mortre-trog, trog por briques, porta-brique|
+HOE|n.|binette, sarcluore, jardin-hacc|
+HOG|n.|svino, porco|
+HOGSHEAD|n.|grand baril|
 HOIST|n.|elevator, lift|
 HOIST|v.|hissar, levar|
 HOLD|n.|cargo-funde, hold|
@@ -6913,218 +6917,219 @@ HOLD ONE'S TONGUE|v.|tacer|
 HOLD OUT|v.|durar, resister|
 HOLD TOGETHER|v.|coherer, esser solidari|
 HOLD UP|v.|stop par, haltar; suportar|
-HOLDALL|XXX|necessarium|
+HOLDALL|n.|necessarium|
 HOLDER|n.|(person) tenente; (receptacle) vase, receptuore, centenente. By affixes porta-, -iero: porta-cigarre or cigarriero (Engl. cigar-holder)|
 HOLDING|n.|(land) parcelle; (small) hube|
-HOLE|XXX|fore, apertura; (in ground) cava, antre, fosse|
-HOLIDAY|XXX|vacanties; (public) die festal|
+HOLE|n.|fore, apertura; (in ground) cava, antre, fosse|
+HOLIDAY|n.|vacanties; (public) die festal|
 HOLLOW|n.|cavitá, incavatura|
 HOLLOW|v.|(ex)cavar|
 HOLLOW|adj.|cavi (-tá); (vain) van, vacui; (of sound) obtusi, cavernal|
-HOLLY|XXX|ilex|
-HOLLYHOCK|XXX|malva-rose|
-HOLOCAUST|XXX|holocaust|
-HOLSTER|XXX|pistoliere|
-HOLY|XXX|sant (-itá, -esse), sacri, sacrosant|
-HOMAGE|XXX|homage, veneration|
-HOME|XXX|hem (-atri); domicilie; pais natal; (institution) asil|
-HOMELESS|XXX|sin hem, sin tegment|
-HOMELY|XXX|simplic, rud, hematri|
-HOMESICK|XXX|nostalgic|
-HOMICIDE|XXX|homicide (-al, -ie)|
-HOMOEOPATH|XXX|homeopat (-ic. -ie)|
-HOMOGENEOUS|XXX|homogen (-itá)|
-HOMOLOGOUS|XXX|homolog|
-HOMONYM|XXX|homonim|
+HOLLY|n.|ilex|
+HOLLYHOCK|n.|malva-rose|
+HOLOCAUST|n.|holocaust|
+HOLSTER|n.|pistoliere|
+HOLY|adj.|sant (-itá, -esse), sacri, sacrosant|
+HOMAGE|n.|homage, veneration|
+HOME|n.|hem (-atri); domicilie; pais natal; (institution) asil|
+HOMELESS|adj.|sin hem, sin tegment|
+HOMELY|adj.|simplic, rud, hematri|
+HOMESICK|adj.|nostalgic|
+HOMICIDE|n.|homicide (-al, -ie)|
+HOMOEOPATH|n.|homeopat (-ic. -ie)|
+HOMOGENEOUS|adj.|homogen (-itá)|
+HOMOLOGOUS|adj.|homolog|
+HOMONYM|adj.|homonim|
 HONE|n.|slif-petre, slifuore|
 HONE|v.|slifar|
-HONEST|XXX|honest (-itá)|
-HONEY|XXX|miel (-osi)|
+HONEST|adj.|honest (-itá)|
+HONEY|n.|miel (-osi)|
 HONEYCOMB|n.|miel-cellulage|
-HONEYMOON|XXX|lun de miel, raiel-lune|
-HONEYSUCKLE|XXX|caprifolie|
-HONORARIUM|XXX|honorarie|
-HONORARY|XXX|honorari|
-HONOUR|XXX|honor (-ar, -abil)|
-HOOD|XXX|capuce|
-HOODED CLOAK|XXX|capote|
+HONEYMOON|n.|lun de miel, raiel-lune|
+HONEYSUCKLE|n.|caprifolie|
+HONORARIUM|n.|honorarie|
+HONORARY|adj.|honorari|
+HONOUR|n.|honor (-ar, -abil)|
+HOOD|n.|capuce|
+HOODED CLOAK|n.|capote|
 HOODWINK|v.|decepter, dupar|
-HOOK|XXX|croc|
-HOOLIGAN|XXX|rixard|
-HOOP|XXX|anelle de baril, cuv-bande|
-HOOP|XXX|huf|
-HOOPING-COUGH|XXX|cocluche|
+HOOK|n.|croc|
+HOOLIGAN|n.|rixard|
+HOOP|n.|anelle de baril, cuv-bande|
+HOOP|n.|huf|
+HOOPING-COUGH|n.|cocluche|
 HOOT|v.|ulular (-ada)|
 HOP|n.|(bot.) lupul (-iera)|
 HOP|v.|saltear, saltillar|
 HOPE|n.|espera, esperantie|
 HOPE|v.|esperar|
-HOPEFUL|XXX|incorageant|
-HOPELESS|XXX|sin espera(ntie), íncurabil, sin perspectives|
-HORDE|XXX|horde|
-HORIZON|XXX|horizonte (-al)|
-HORMON|XXX|hormon|
-HORN|XXX|corn; (horns of stag etc.) cornatura; (ent.) antenne|
-HORNBEAM|XXX|carpine|
-HORNET|XXX|calabron|
-HORNY|XXX|callosi|
-HOROSCOPE|XXX|horoscop|
-HORRIBLE|XXX|horribil|
-HORRID|XXX|horrid|
+HOPEFUL|adj.|incorageant|
+HOPELESS|adj.|sin espera(ntie), íncurabil, sin perspectives|
+HORDE|n.|horde|
+HORIZON|n.|horizonte (-al)|
+HORMON|n.|hormon|
+HORN|n.|corn; (horns of stag etc.) cornatura; (ent.) antenne|
+HORNBEAM|n.|carpine|
+HORNET|n.|calabron|
+HORNY|adj.|callosi|
+HOROSCOPE|n.|horoscop|
+HORRIBLE|adj.|horribil|
+HORRID|adj.|horrid|
 HORRIFY|v.|aterrer|
-HORROR|XXX|horrore|
-HORROR STRUCK|XXX|terret|
-HORSE|XXX|cavalle; (wooden frame) stative|
-HORSE-CHESTNUT|XXX|hippocastanie|
-HORSE-COMB|XXX|strigul|
-HORSEMAN|XXX|cavalcator|
-HORSEPLAY|XXX|violent conduida|
-HORSERADISH|XXX|armoracia|
-HORSESHOE|XXX|huf-ferre|
-HORTICULTURE|XXX|horticultura (-al, -alist)|
-HOSANNA|XXX|hosanna|
+HORROR|n.|horrore|
+HORROR STRUCK|adj.|terret|
+HORSE|n.|cavalle; (wooden frame) stative|
+HORSE-CHESTNUT|n.|hippocastanie|
+HORSE-COMB|n.|strigul|
+HORSEMAN|n.|cavalcator|
+HORSEPLAY|n.|violent conduida|
+HORSERADISH|n.|armoracia|
+HORSESHOE|n.|huf-ferre|
+HORTICULTURE|n.|horticultura (-al, -alist)|
+HOSANNA|n.|hosanna|
 HOSE|n.|(pipe) tube; (stocking) strump (-eríe)|
-HOSPICE|XXX|hospicie, asil|
-HOSPITABLE|XXX|hospedal (-itá)|
-HOSPITAL|XXX|hospitale|
-HOST|XXX|hósped; (large company) turbe, armé, grand númere; (eccl.) hostie|
-HOSTAGE|XXX|ostage, garantiario|
-HOSTEL|XXX|albergo, gastería|
-HOSTILE|XXX|ínamical, hostil (-itá)|
-HOT|XXX|calid|
-HOTBED|XXX|bed calid; (fig.) covería|
-HOTEL|XXX|hotel|
-HOTHEAD|XXX|colerico, impulsivon|
-HOTHOUSE|XXX|tepidarium, plantedom|
+HOSPICE|n.|hospicie, asil|
+HOSPITABLE|adj.|hospedal (-itá)|
+HOSPITAL|n.|hospitale|
+HOST|n.|hósped; (large company) turbe, armé, grand númere; (eccl.) hostie|
+HOSTAGE|n.|ostage, garantiario|
+HOSTEL|n.|albergo, gastería|
+HOSTILE|adj.|ínamical, hostil (-itá)|
+HOT|adj.|calid|
+HOTBED|n.|bed calid; (fig.) covería|
+HOTEL|n.|hotel|
+HOTHEAD|n.|colerico, impulsivon|
+HOTHOUSE|n.|tepidarium, plantedom|
 HOUND|n.|chass-cane|
 HOUND|v.|chassar|
-HOUR|XXX|hor (-al, -ari)|
-HOURGLASS|XXX|sand-horloge|
+HOUR|n.|hor (-al, -ari)|
+HOURGLASS|n.|sand-horloge|
 HOUSE|n.|dom; (comm.) firma; (performance) presentation|
 HOUSE|v.|albergar, inlogiar|
 HOUSE-BREAKER|n.|(thief) rupte-furtard|
-HOUSEHOLD|XXX|menage|
-HOUSEHOLDER|XXX|dómino, capo de familie|
-HOUSEKEEPER|XXX|menagera; dom-intendante|
-HOUSEMAID|XXX|domestica, servitora|
-HOUSEWIFE|XXX|dómina|
-HOVEL|XXX|cabanach, domach|
+HOUSEHOLD|n.|menage|
+HOUSEHOLDER|n.|dómino, capo de familie|
+HOUSEKEEPER|n.|menagera; dom-intendante|
+HOUSEMAID|n.|domestica, servitora|
+HOUSEWIFE|n.|dómina|
+HOVEL|n.|cabanach, domach|
 HOVER|v.|planear|
 HOW|adv.|qualmen|
-HOW DO YOU DO?|XXX|qualmen vu standa?|
-HOW DO YOU FEEL?|XXX|qualmen vu standa?|
-HOW HEAVY IS THE BASKET?|XXX|quant pesa li corbe?|
-HOW MANY|XXX|quant|
-HOW MUCH|XXX|quant|
-HOW MUCH IS THE FARE?|XXX|quant custa li viage?|
-HOW MUCH?|XXX|quant?|
-HOW OLD ARE YOU?|XXX|quel etá vu have?, quant annus vu have?|
-HOWEVER|XXX|támen, totvez; (in whatever way) quamcunc|
-HOWEVER FAR IT IS|XXX|quantcunc lontan it es|
-HOWITZER|XXX|haube|
+HOW DO YOU DO?|expr.|qualmen vu standa?|
+HOW DO YOU FEEL?|expr.|qualmen vu standa?|
+HOW HEAVY IS THE BASKET?|expr.|quant pesa li corbe?|
+HOW MANY|adv.|quant|
+HOW MUCH|adv.|quant|
+HOW MUCH IS THE FARE?|expr.|quant custa li viage?|
+HOW MUCH?|adv.|quant?|
+HOW OLD ARE YOU?|expr.|quel etá vu have?, quant annus vu have?|
+HOWEVER|conj.|támen, totvez|
+HOWEVER|adv.|(in whatever way) quamcunc|
+HOWEVER FAR IT IS|adv.|quantcunc lontan it es|
+HOWITZER|n.|haube|
 HOWL|v.|ulular, criachar; (weep) plorachar|
-HUB|XXX|nabe|
-HUBBUB|XXX|tumultu, pandemonie|
-HUCKSTER|XXX|colportero, mercachon|
+HUB|n.|nabe|
+HUBBUB|n.|tumultu, pandemonie|
+HUCKSTER|n.|colportero, mercachon|
 HUDDLE|v.|compressor se, ahoccar se densi men, esser compact|
-HUE|XXX|color, nuancie|
-HUE AND CRY|XXX|clamore|
+HUE|n.|color, nuancie|
+HUE AND CRY|n.|clamore|
 HUFF|n.|subit colere|
 HUFF|v.|ofender; (at draughts) pun-capter|
 HUG|v.|inbrassar, circumbrassar, caressar|
-HUGE|XXX|grand(issim), colossal|
-HULK|XXX|hulc, carcasse (de nave)|
+HUGE|adj.|grand(issim), colossal|
+HULK|n.|hulc, carcasse (de nave)|
 HULL|n.|(husk) shell, velop; (skin) pelle|
 HUM|v.|murmurar, cantillar, susurrar; (bee) burdonar|
-HUMAN|XXX|human (-ist, -itá, -itari, -itarian, -isar)|
-HUMAN BEING|XXX|hom (-an)|
+HUMAN|adj.|human (-ist, -itá, -itari, -itarian, -isar)|
+HUMAN BEING|n.|hom (-an)|
 HUMANITY|n.|(feeling) humanitá; (race) homanité|
 HUMBLE|adj.|humil (-itá, -ar)|
-HUMBLE-BEE|XXX|burdon|
+HUMBLE-BEE|n.|burdon|
 HUMBUG|n.|(person) charlatan (-ar, -eríe); bluff, nonsense|
-HUMDRUM|XXX|banal, monoton|
+HUMDRUM|adj.|banal, monoton|
 HUMERUS|v.|humer (-al)|
-HUMID|XXX|humid (-itá)|
+HUMID|adj.|humid (-itá)|
 HUMILIATE|v.|humiliar (-ation)|
-HUMMING-BIRD|XXX|colibrí|
+HUMMING-BIRD|n.|colibrí|
 HUMOUR|v.|compleser, indulger|
 HUMOUR|n.|humor (-ist, -istic), esprite|
-HUMP|XXX|bossé|
-HUMP-BACKED|XXX|bossut|
-HUMPY|XXX|bossosi|
-HUMUS|XXX|humo|
+HUMP|n.|bossé|
+HUMP-BACKED|adj.|bossut|
+HUMPY|adj.|bossosi|
+HUMUS|n.|humo|
 HUNCH|v.|bossar, curvar|
-HUNCHBACK|XXX|bosson, bossato|
+HUNCHBACK|n.|bosson, bossato|
 HUNDRED|n.|centene|
 HUNDRED|adj.|cent|
-HUNDREDFOLD|XXX|centiplic|
-HUNDREDTH|XXX|centesim|
-HUNDREDWEIGHT|XXX|quintale|
+HUNDREDFOLD|adv., n.|centiplic|
+HUNDREDTH|adj., n.|centesim|
+HUNDREDWEIGHT|n.|quintale|
 HUNGER|v.|suffrer fame|
 HUNGER|n.|fame|
-HUNGRY|XXX|afamat|
-HUNK|XXX|gross pezze|
+HUNGRY|adj.|afamat|
+HUNK|n.|gross pezze|
 HUNT|v.|chassar|
 HUNT FOR|v.|serchar|
-HUNTER|XXX|chassator, chassero; chass-cavalle|
-HURDLE|XXX|grate, agne-trellie|
+HUNTER|n.|chassator, chassero; chass-cavalle|
+HURDLE|n.|grate, agne-trellie|
 HURL|v.|jettar (violentmen) , lansar|
-HURRAH|XXX|hurrá|
-HURRICANE|XXX|uragane|
+HURRAH|interj.|hurrá|
+HURRICANE|n.|uragane|
 HURRY|n.|hasta, urgentie|
 HURRY|v.a.|accelerar|
 HURRY|v.n.|hastar|
 HURT|v.|doler, dolorar; (damage) damagear, leDer; (feelings) ofender; (harm) nocer; (injure) vulnerar, injuriar|
 HUSBAND|v.|economisar|
 HUSBAND|n.|marito|
-HUSBANDRY|XXX|agricultura, cultivation|
+HUSBANDRY|n.|agricultura, cultivation|
 HUSH|n.|calmesse, silentie|
 HUSH|v.|far tacer, quietar|
 HUSH UP|v.|ocultar; celar; (interj.) sst!|
-HUSK|XXX|invelope, cortice, shell|
-HUSKY|XXX|rauc, aspri|
+HUSK|n.|invelope, cortice, shell|
+HUSKY|adj.|rauc, aspri|
 HUSSAR|v.|hussar|
-HUSSY|XXX|feminach|
+HUSSY|n.|feminach|
 HUSTLE|v.|presser (se), hastar; pussar|
-HUT|XXX|cabane, baracca|
-HUTCH|XXX|domette (por cunicul)|
-HYACINTH|XXX|hiacinte|
-HYBRID|XXX|hibride (-isar)|
-HYDRA|XXX|hidre|
-HYDRANGEA|XXX|hortensia|
-HYDRANT|XXX|hidrante|
-HYDRATE|XXX|hidrate|
-HYDRAULIC|XXX|hidraulic (-ica)|
+HUT|n.|cabane, baracca|
+HUTCH|n.|domette (por cunicul)|
+HYACINTH|n.|hiacinte|
+HYBRID|n.|hibride (-isar)|
+HYDRA|n.|hidre|
+HYDRANGEA|n.|hortensia|
+HYDRANT|n.|hidrante|
+HYDRATE|n.|hidrate|
+HYDRAULIC|adj.|hidraulic (-ica)|
 HYDRO|prefix|as in English: hidro-fobie, -terapie, -termal etc.|
-HYENA|XXX|hien|
-HYGIENE|XXX|higiene (-ic)|
-HYMENEAL|XXX|nuptial|
-HYMN|XXX|himne (-arium)|
-HYPERBOLE|XXX|hipérbol (-ic)|
-HYPERCRITICAL|XXX|hipercritic|
-HYPHEN|XXX|tiré|
-HYPNOSIS|XXX|hipnoSe (-tic, -tisar, -tisme)|
-HYPOCHONDRIA|XXX|melancolie|
-HYPOCRITE|XXX|hipocrit (-ic)|
-HYPOTENUSE|XXX|hipotenuse|
-HYPOTHESIS|XXX|hipoteSe (-tic)|
-HYSTERIA|XXX|histerie (-ic)|
-I|XXX|yo|
-I AM AGREEABLE|XXX|yo consenti, yo concorda|
-I AM COLD|XXX|yo frige|
-I AM GLAD|XXX|yo joya|
-I AM RUNNING SHORT OF PAPER|XXX|mi provision de paper es presc exhaustet|
-I AM SORRY THAT|XXX|it dole me que, yo regreta que|
-I AM WARM|XXX|yo cale|
-I DON'T CARE|XXX|to ne importa me, to es me índiferent|
-I FEEL IT INCUMBENT ON ME|XXX|yo egarda it quam mi deve, yo senti que it es me obligatori|
-I LEARN THAT ...|XXX|on di me que...|
-I MAY DO IT|XXX|yo fórsan va far to|
-I MIGHT HAVE DONE SO|XXX|yo vell har posset far to, yo fórsan vell har fat it|
-I TAKE THE LIBERTY|XXX|yo permisse me|
-I WILL NOT STAY ANY LONGER|XXX|yo ne va restar plu long|
-I WOULD AS LIEF|XXX|yo vell preferer|
-I WOULD RATHER|XXX|yo vell preferer|
+HYENA|n.|hien|
+HYGIENE|n.|higiene (-ic)|
+HYMENEAL|adj.|nuptial|
+HYMN|n.|himne (-arium)|
+HYPERBOLE|n.|hipérbol (-ic)|
+HYPERCRITICAL|adj.|hipercritic|
+HYPHEN|n.|tiré|
+HYPNOSIS|n.|hipnoSe (-tic, -tisar, -tisme)|
+HYPOCHONDRIA|n.|melancolie|
+HYPOCRITE|n.|hipocrit (-ic)|
+HYPOTENUSE|n.|hipotenuse|
+HYPOTHESIS|n.|hipoteSe (-tic)|
+HYSTERIA|n.|histerie (-ic)|
+I|pron.|yo|
+I AM AGREEABLE|expr.|yo consenti, yo concorda|
+I AM COLD|expr.|yo frige|
+I AM GLAD|expr.|yo joya|
+I AM RUNNING SHORT OF PAPER|expr.|mi provision de paper es presc exhaustet|
+I AM SORRY THAT|expr.|it dole me que, yo regreta que|
+I AM WARM|expr.|yo cale|
+I DON'T CARE|expr.|to ne importa me, to es me índiferent|
+I FEEL IT INCUMBENT ON ME|expr.|yo egarda it quam mi deve, yo senti que it es me obligatori|
+I LEARN THAT ...|expr.|on di me que...|
+I MAY DO IT|expr.|yo fórsan va far to|
+I MIGHT HAVE DONE SO|expr.|yo vell har posset far to, yo fórsan vell har fat it|
+I TAKE THE LIBERTY|expr.|yo permisse me|
+I WILL NOT STAY ANY LONGER|expr.|yo ne va restar plu long|
+I WOULD AS LIEF|expr.|yo vell preferer|
+I WOULD RATHER|expr.|yo vell preferer|
 IAMBIC|adj.|iambic|
 IAMBIC|n.|iamb|
 IBIS|XXX|ibis|
