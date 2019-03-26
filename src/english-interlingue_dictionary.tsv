@@ -432,7 +432,7 @@ AMBULANCE|n.|ambulantie|
 AMBUSH|v.|inboscar|
 AMBUSH|n.|inboscada|
 AMELIORATE|v.|ameliorar (-ation)|
-AMEN|interj. adv.|amen|
+AMEN|adv., interj.|amen|
 AMENABLE|adj.|ductibil, influentiabil, docil, complesent|
 AMEND|v.|corecter, emendar|
 AMENITY|n.|agreabilitá|
@@ -527,7 +527,7 @@ ANOINT|v.|unguentar, uncter|
 ANOMALY|n.|anomalie|
 ANON|adv.|strax; (later) bentost; depoy|
 ANONYMOUS|adj.|anonim (-itá)|
-ANOTHER|adj. pron.|altri, ancor un|
+ANOTHER|adj., pron.|altri, ancor un|
 ANSERINE|adj.|gansin; stult|
 ANSWER|v.|responder|
 ANSWER|n.|replica, response|
@@ -565,7 +565,7 @@ ANUS|n.|ánus|
 ANVIL|n.|incude|
 ANXIETY|n.|anxietá|
 ANXIOUS|adj.|íntranquil, anxiosi; tre desirosi|
-ANY|adj. pron.|alquel, quelcunc; (any kind of) alqual, qualcunc. Often omitted|
+ANY|adj., pron.|alquel, quelcunc; (any kind of) alqual, qualcunc. Often omitted|
 ANYBODY|n.|(interr.) alcun, alquí, alquem; (no matter who(m)) quicunc, quemcunc|
 ANYHOW|adv.|alquam; (no matter how) quamcunc|
 ANYTHING|n.|(interr.) alquó; (no matter what) quocunc|
@@ -733,7 +733,7 @@ ARTIFICIAL SILK|n.|rayonne|
 ARTILLERY|n.|artillerie|
 ARTISAN|n.|artisian (-al, -atu)|
 ARTLESS|adj.|naiv, inafectat, simplic, ingenui (-tá)|
-AS|adv. conj.|(because) proque; (manner) quam|
+AS|adv., conj.|(because) proque; (manner) quam|
 AS A MATTER OF FACT|n.|advere|
 AS A RULE|adv.|generalmen, in general|
 AS FAR AS|prep.|til|
@@ -839,7 +839,7 @@ AT THE END OF ONE'S TETHER|adv.|al fine de su corde|
 AT THE OUTSET|adv.|in prim linea|
 AT THREE O'CLOCK|adv.|ye tri horas|
 AT TIMES|adv.|a vezes|
-AT VARIANCE|adj. adv.|discordant, in dissension|
+AT VARIANCE|adj., adv.|discordant, in dissension|
 AT WILL|adv.|secun arbitrie|
 ATHEISM|n.|ateisme|
 ATHEIST|n.|ateo|
@@ -3378,7 +3378,7 @@ CREOLE|n.|creol|
 CREOSOTE|n.|creosot|
 CREPE|n.|crepon|
 CREPUSCULAR|adj.|crepusculari|
-CRESCENDO|adj. adv.|crescendo|
+CRESCENDO|adj., adv.|crescendo|
 CRESCENT|n.|crescente; (of moon) falcette|
 CRESS|n.|cresson (-iera)|
 CREST|n.|creste, toff|
@@ -4553,7 +4553,7 @@ EAR|n.|orel; (of corn) spica; (for music) audie musical|
 EAR-ACHE|n.|orel-dolore|
 EAR-SPLITTING|adj.|assurdant|
 EARL|n.|comto (-atu)|
-EARLY|adj. adv.|tost, temporan|
+EARLY|adj., adv.|tost, temporan|
 EARN|v.|ganiar; meriter|
 EARNEST|n.|garantie|
 EARNEST|adj.|sinceri, fervid, zelosi|
@@ -4636,11 +4636,11 @@ EGO|n.|ego (-ist, -istic, -isme)|
 EGREGIOUS|adj.|monstruosi, extraordinari, colossal|
 EGRESS|n.|exeada, surtida|
 EIDERDOWN|n.|eiderdon|
-EIGHT|adj. n.|ott|
-EIGHTEEN|adj. n.|deci-ott|
-EIGHTH|adj. n.|ottesim|
+EIGHT|adj., n.|ott|
+EIGHTEEN|adj., n.|deci-ott|
+EIGHTH|adj., n.|ottesim|
 EIGHTY|adj.|ottanti|
-EITHER|adj. pron.|alcun; (each) chascun; (both) ambi|
+EITHER|adj., pron.|alcun; (each) chascun; (both) ambi|
 EITHER ... OR ...|conj.|sive ... sive ..., o ... o ...|
 EJACULATE|v.|exclamar, ejacular|
 EJECT|v.|ejecter (-ion, -or), expulser|
@@ -4677,7 +4677,7 @@ ELEMENT|n.|element (-al, -ari), parte, ingrediente|
 ELEPHANT|n.|elefant (-in)|
 ELEVATE|v.|elevar (-ation, -ator), edificar|
 ELEVATION|n.|altore|
-ELEVEN|adj. n.|deci-un|
+ELEVEN|adj., n.|deci-un|
 ELF|n.|elf, silf|
 ELICIT|v.|educter, extraer|
 ELIDE|v.|ediDer (-sion, -sibil)|
@@ -4932,7 +4932,7 @@ ERASE|v.|efaciar, exscrapar, eraser (-ura)|
 ERE|prep.|ante|
 ERE LONG|adv.|bentost, pos ne long (témpor)|
 ERECT|v.|erecter (-ion, -iv, -ibil); (mech.) monter|
-ERGO|adv. conj.|ergo|
+ERGO|adv., conj.|ergo|
 ERMINE|n.|hermeline; (fur) hermelin-pelisse|
 ERODE|v.|eroDer (-sion, -siv)|
 EROTIC|adj.|erotic|
@@ -5131,7 +5131,7 @@ EXPURGATE|v.|expurgar (-ation)|
 EXQUISITE|adj.|exquisit, rafinat|
 EXTANT|adj.|existent|
 EXTASY|n.|extase (-tic)|XXX FIXME -- "-tic" -> "-ic"?
-EXTEMPORE|adj.,adv.|exprompte, improvisat|XXX FIXME -- "exprompte"?
+EXTEMPORE|adj., adv.|exprompte, improvisat|XXX FIXME -- "exprompte"?
 EXTEND|v.|extenDer (-sion, -siv, -sibil); (the fife of) prorogar|
 EXTENT|n.|gradu, dimension|
 EXTENUATE|v.|extenuar (-ation), palliar, mitigar, eufemiar|
@@ -6791,7 +6791,8 @@ HENCEFORTH|XXX|desde nu|
 HENCHMAN|XXX|servero|
 HEPATIC|XXX|hepatic|
 HEPTAGON|XXX|heptagon (-al)|
-HER|poss. adj.|su; (obj. case) la; (following a prep.) ella|
+HER|adj.poss.|su|
+HER|pron.|(obj. case) la; (following a prep.) ella|XXX FIXME -- ella, la
 HERALD|v.|anunciar|
 HERALD|n.|heralde (-ic, -ica)|
 HERB|n.|(grass) herbe (-osi, -ari, -age, -al, -arisar, -arium, -iera, -ivori); plante|
@@ -8299,7 +8300,7 @@ LASSO|XXX|lasso|
 LAST|adj.|ultim, passat, final; precedent|
 LAST|n.|(boot last) listell|
 LAST|v.|durar|
-LAST NIGHT|n. adv.|yer vesper|
+LAST NIGHT|adv., n.|yer vesper|
 LASTING|XXX|durabil, permanent|
 LASTLY|XXX|in fine, finalmen, ultimmen|
 LATCH|XXX|cline (-ar)|
@@ -10319,7 +10320,7 @@ OUST|v.|expulser|
 OUT|XXX|ex; extra, extern; (not at home) for, ne in hem, absent; (outside) extern|
 OUT OF|prep.|ex, préter; (by reason of) pro|
 OUT OF DATE|adj.|anacronistic|
-OUT OF GUNSHOT|adj. adv.|preter tir-distantie, ínatingibil|
+OUT OF GUNSHOT|adj., adv.|preter tir-distantie, ínatingibil|
 OUT OF ONE'S WITS|adj.|frenetic, dement|
 OUT OF ORDER|adj.|contra li regulament; ne functionant|
 OUT OF PLACE|XXX|ínoportun, ne pertinent|
@@ -11224,7 +11225,7 @@ POKE|n.|pussa|
 POKE|v.|pussar; (fire) agitar, inbrasar; (fun) mocar|
 POKER|XXX|foy-ferre; (cards) póker|
 POKY|adj.|strett, constrictet, restrictet|
-POLE|astr. elect.|pol (-ari, -aritá, -arisar)|
+POLE|n.|(astr., elect.) pol (-ari, -aritá, -arisar)|
 POLE|n.|pal, palisse; (of vehicle) timon|
 POLE-AXE|XXX|buch-hacca|
 POLECAT|XXX|pútor|
@@ -13737,7 +13738,7 @@ SNUB-NOSED|adj.|stumpnasat|
 SNUFF|XXX|sniffle-tabac|
 SNUG|XXX|comod, comfortabil|
 SO|adv.|talmen|
-SO|conj. adv.|(therefore) dunc, ergo|
+SO|adv., conj.|(therefore) dunc, ergo|
 SO FAR|XXX|til nu, til ti punctu|
 SO MUCH|XXX|tant|
 SO MUCH THE BETTER|XXX|tant plu bon|
@@ -15061,7 +15062,7 @@ THIS|pron.|to, to ci|
 THIS IS DUE TO CARELESSNESS|XXX|to es debit a ínatention|
 THIS WAY|adv.|a ci|
 THISTLE|n.|carde|
-THITHER|adj. adv.|ta|
+THITHER|adj., adv.|ta|
 THONG|n.|bande cutin, strap|
 THORAX|n.|tórax (-ic. -al)|
 THORN|n.|spine (-osi); (tree) blancospine|
@@ -16569,7 +16570,7 @@ YOKEL|XXX|rustico|
 YOLK|XXX|vitelle, yelb-ovine|
 YONDER|adj.|ti-ta|
 YONDER|adv.|ta, a ta|
-YOU|XXX|vu; (dat. ace.) vos|
+YOU|XXX|vu; (dat. ace.) vos|XXX FIXME -- "ace."?
 YOU NEEDN'T STAY|XXX|vu ne besona restar|
 YOUNG|XXX|yun; (of animals) -ello|
 YOUNGSTER|XXX|júveno, yuno|
@@ -16586,7 +16587,7 @@ ZENANA|XXX|zenana|
 ZENITH|n.|zenite, cúlmine|
 ZEPHYR|n.|zefire|
 ZEPPELIN|n.|zeppelin|
-ZERO|adj. n.|null, zero|
+ZERO|adj., n.|null, zero|
 ZEST|n.|juition, fervore, sapore|
 ZIGZAG|n.|zigzag (-ar)|
 ZINC|n.|zinc (-ografie)|
