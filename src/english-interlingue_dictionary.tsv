@@ -2754,7 +2754,7 @@ COGWHEEL|n.|rote dentat|
 COHABIT|v.|cohabitar|
 COHERE|v.|coherer (-ent)|
 COHESION|n.|cohesion|
-CONFIGURATION|n.|cohfiguration|
+CONFIGURATION|n.|configuration|
 CONTEMPORARY|n.|contemporane|
 COIFFURE|n.|cofie|
 COIL|v.|voluer, spular, invelopar|
@@ -8846,71 +8846,72 @@ LYNX|n.|linx|
 LYRE|n.|lire|
 LYRIC|adj.|liric|
 LYRIC|n.|lirica|
-MACABRE|XXX|macabre|
-MACADAM|XXX|macadam (-isar)|
-MACARONI|XXX|macaroni|
-MACAROON|XXX|macron|
-MACE|XXX|mazza|
+MACABRE|adj.|macabri|
+MACADAM|n.|macadam (-isar)|
+MACARONI|n.|macaroni|
+MACAROON|n.|macron|
+MACE|n.|mazza|
 MACERATE|v.|macerar (-ation)|
-MACHINATIONS|XXX|intrigas|
-MACHINE|XXX|machine (-al, -ero, -eríe, -ist)|
-MACKEREL|XXX|macrel|
-MACKINTOSH|XXX|ínpermeabile, mantó de pluvie|
-MAD|XXX|alienat, dement, frenetic; (animals) rabiosi, rabiat|
-MADAM|XXX|seniora|
+MACHINATION|n.|intriga|
+MACHINATIONS|n.pl.|intrigas|XXX TODO -- Why plural? This is the original entry, from which the singular has been copied.
+MACHINE|n.|machine (-al, -ero, -eríe, -ist)|
+MACKEREL|n.|macrel|
+MACKINTOSH|n.|ínpermeabile, mantó de pluvie|
+MAD|adj.|alienat, dement, frenetic; (animals) rabiosi, rabiat|
+MADAM|n.|seniora|
 MADDEN|v.|far furiosi, infuriar|
-MADHOUSE|XXX|dom por alienates, asil|
-MADONNA|XXX|madonna|
-MADREPORE|XXX|madrepore, coralle|
-MADRIGAL|XXX|madrigal|
-MAELSTROM|XXX|virl|
+MADHOUSE|n.|dom por alienates, asil|
+MADONNA|n.|madonna|
+MADREPORE|n.|madrepore, coralle|
+MADRIGAL|n.|madrigal|
+MAELSTROM|n.|virl|
 MAGAZINE|n.|(store) magasin; (periodical) gazette, revúe; (powder) pulveriere|
-MAGENTA|XXX|magenta|
-MAGGOT|XXX|larve, verme|
-MAGI|XXX|magos|
+MAGENTA|n.|magenta|
+MAGGOT|n.|larve, verme|
+MAGI|n.pl.|magos|
 MAGIC|n.|magie|
-MAGIC LANTERN|XXX|optic lanterne|
-MAGIC-LANTERN|XXX|lanterne magic|
-MAGICAL|XXX|magic|
-MAGICIAN|XXX|magico|
-MAGISTERIAL|XXX|magistral|
-MAGISTRACY|XXX|magistratura|
-MAGISTRATE|XXX|magistrate, justiciario|
-MAGNANIMOUS|XXX|magnanim (-itá)|
-MAGNATE|XXX|magnate|
-MAGNESIA|XXX|magnesie|
-MAGNESIUM|XXX|magnesium|
-MAGNET|XXX|magnete (-ic, -isme, -isar)|
-MAGNIFICENT|XXX|magnific (-entie), grandiosi, splendid|
+MAGIC LANTERN|n.|optic lanterne, lanterne magic|XXX TODO -- In the original data this entry was part of "lanterne"
+MAGIC-LANTERN|n.|lanterne magic, optic lanterne|XXX TODO --
+MAGICAL|adj.|magic|
+MAGICIAN|n.|magico|
+MAGISTERIAL|adj.|magistral|
+MAGISTRACY|n.|magistratura|
+MAGISTRATE|n.|magistrate, justiciario|
+MAGNANIMOUS|adj.|magnanim (-itá)|
+MAGNATE|n.|magnate|
+MAGNESIA|n.|magnesie|
+MAGNESIUM|n.|magnesium|
+MAGNET|n.|magnete (-ic, -isme, -isar)|
+MAGNIFICENT|adj.|magnific (-entie), grandiosi, splendid|
 MAGNIFY|v.|agrandar, amplifacar, elargar; laudar, exaltar|
-MAGNIFYING-GLASS|XXX|lupe|
-MAGNILOQUENT|XXX|pomposi|
-MAGNITUDE|XXX|grandesse, grandore|
-MAGNOLIA|XXX|magnolia|
-MAGPIE|XXX|piga|
-MAHOGANY|XXX|mahagon|
-MAID|XXX|puella, yuna; virgina; (servant) servitora|
+MAGNIFYING-GLASS|n.|lupe|
+MAGNILOQUENT|adj.|pomposi|
+MAGNITUDE|n.|grandesse, grandore|
+MAGNOLIA|n.|magnolia|
+MAGPIE|n.|piga|
+MAHOGANY|n.|mahagon|
+MAID|n.|puella, yuna; virgina; (servant) servitora|
 MAIDEN|adj.|de puella; virginal; (speech) debutant|
-MAIDENHEAD|XXX|virginitá|
-MAIDENLY|XXX|virginal, chast, pur|
+MAIDENHEAD|n.|virginitá|
+MAIDENLY|adj.|virginal, chast, pur|
 MAIL|n.|(armour) curasse; (letters) postage|
 MAIL|v.|inviar per li post, inpostar|
-MAIL BAG|XXX|lettre-sac|
+MAIL BAG|n.|lettre-sac|
 MAIM|v.|mutilar, paralisar|
 MAIN|adj.|chef, principal, cardinal|
 MAIN|n.|ocean, mare apert; (water main) tub; (electr.) rete del lucement|
-MAINLAND|XXX|continente, chef terra|
-MAINLY|XXX|precipue|
-MAINMAST|XXX|grand mast|
+MAINLAND|n.|continente, chef terra|
+MAINLY|adv.|precipue|
+MAINMAST|n.|grand mast|
 MAINTAIN|v.|mantener, subtener, conservar; afirmar|
-MAIZE|XXX|máis|
-MAJESTIC|XXX|majestic|
-MAJESTY|XXX|majestie; (title) majestá|
-MAJOLICA|XXX|majolica|
+MAIZE|n.|máis|
+MAJESTIC|adj.|majestic|
+MAJESTY|n.|majestie; (title) majestá|
+MAJOLICA|n.|majolica|
 MAJOR|adj.|plu grand, majori, plenetosi|
 MAJOR|n.|(rank) major|
-MAJORITY|XXX|majorité, pluparte; (age) majoritá|
-MAJUSCULE|XXX|majuscul|
+MAJORITY|n.|majorité, pluparte; (age) majoritá|
+MAJUSCULE|adj.|majuscul|
 MAKE|n.|(kind) fabrica; (of clothes) fasson|
 MAKE|v.|far, fabricar, formar, crear; (compel) obligar, fortiar; (earn) ganiar|
 MAKE A FACE|v.|grimassar|
@@ -8938,388 +8939,389 @@ MAKE UP FOR|v.|compensar|
 MAKE UP ONE'S MIND|v.|prender un decision, decider se, resoluer|
 MAKESHIFT|adj.|provisori, surogat|
 MAKESHIFT|n.|medie provisori, compromisse|
-MALADROIT|XXX|ínhabil|
-MALADY|XXX|maladie, morbe|
-MALAPROPOS|XXX|ínconvenent|
-MALARIA|XXX|malaria|
-MALCONTENT|XXX|malcontent|
-MALE|XXX|mascul (-in), mann|
-MALEDICTION|XXX|maledition|
-MALEFACTOR|XXX|malefator, malard|
-MALEVOLENT|XXX|malevolent (-ie)|
-MALFORMATION|XXX|malformation, deformitá|
-MALICE|XXX|malicie (-osi), malevolentie|
+MALADROIT|adj.|ínhabil|
+MALADY|n.|maladie, morbe|
+MALAPROPOS|adj.|ínconvenent|
+MALARIA|n.|malaria|
+MALCONTENT|adj.|malcontent|
+MALE|n.|mascul (-in), mann|
+MALEDICTION|n.|maledition|
+MALEFACTOR|n.|malefator, malard|
+MALEVOLENT|adj.|malevolent (-ie)|
+MALFORMATION|n.|malformation, deformitá|
+MALICE|n.|malicie (-osi), malevolentie|
 MALIGN|adj.|malin, nociv|
 MALIGN|v.|calumniar, defamar|
-MALIGNANT|XXX|malefic|
+MALIGNANT|adj.|malefic|
 MALINGER|v.|simular maladie|
-MALINGERER|XXX|simulante|
-MALLEABLE|XXX|malleabil (-itá)|
-MALLET|XXX|martelle lignin|
-MALLOW|XXX|malve|
-MALPRACTICE|XXX|conduida illicit, action ínlicet|
-MALT|XXX|malt|
-MALT-KILN|XXX|malt-forn|
+MALINGERER|n.|simulante|
+MALLEABLE|adj.|malleabil (-itá)|
+MALLET|n.|martelle lignin|
+MALLOW|n.|malve|
+MALPRACTICE|n.|conduida illicit, action ínlicet|
+MALT|n.|malt|
+MALT-KILN|n.|malt-forn|
 MALTREAT|v.|maltractar (-ation)|
-MALVERSATION|XXX|corruption, defraudation|
-MAMMA|XXX|mamá|
+MALVERSATION|n.|corruption, defraudation|
+MAMMA|n.|mamá|
 MAMMAL|n.|mammifere, mammale|
 MAMMALIAN|n.|mammifere, mammale|
-MAMMARY|XXX|mammari|
-MAMMON|XXX|mammon|
-MAMMOTH|XXX|mámmut|
+MAMMARY|adj.|mammari|
+MAMMON|n.|mammon|
+MAMMOTH|n.|mámmut|
 MAN|v.|equipar, mannar|
 MAN|n.|hom; (male) mann; (at draughts) pion|
-MAN-OF-WAR|XXX|nave de guerre|
-MANACLE|XXX|manu-catene, manacle|
+MAN-OF-WAR|n.|nave de guerre|
+MANACLE|n.|manu-catene, manacle|
 MANAGE|v.|administrar, gerer, directer, guvernar; successar, far; (a household) menagear|
-MANAGEMENT|XXX|administration, gerentie|
-MANDARIN|XXX|mandarino; (fruit) mandarine|
-MANDATE|XXX|mandate (-ario), comission|
-MANDIBLE|XXX|machuore|
-MANDOLINE|XXX|mandoline (-ist)|
-MANDRAKE|XXX|mandragore|
-MANDRILL|XXX|mandrill|
-MANE|XXX|crine|
-MANEGE|XXX|manege|
-MANES|myth.|mane|
-MANFUL|XXX|viril, mannic; valorosi|
-MANGANESE|XXX|mangane (-ic)|
-MANGE|XXX|scabie (-osi)|
-MANGEL-WURZEL|XXX|bet-rap|
-MANGER|XXX|manjuore, crippe|
+MANAGEMENT|n.|administration, gerentie|
+MANDARIN|n.|mandarino; (fruit) mandarine|
+MANDATE|n.|mandate (-ario), comission|
+MANDIBLE|n.|machuore|
+MANDOLINE|n.|mandoline (-ist)|
+MANDRAKE|n.|mandragore|
+MANDRILL|n.|mandrill|
+MANE|n.|crine|
+MANEGE|n.|manege|
+MANES|n.pl.|(myth.) mane|
+MANFUL|adj.|viril, mannic; valorosi|
+MANGANESE|n.|mangane (-ic)|
+MANGE|n.|scabie (-osi)|
+MANGEL-WURZEL|n.|bet-rap|
+MANGER|n.|manjuore, crippe|
 MANGLE|n.|mangle (-ar)|
 MANGLE|v.|mutilar, lacerar|
-MANGO|XXX|mangue|
-MANHOLE|XXX|fore de intrada|
-MANHOOD|XXX|virilitá, natura homan|
-MANIA|XXX|manie, passion, furie|
-MANIAC|XXX|maniac (-al)|
-MANICURE|XXX|manicura (-ist)|
+MANGO|n.|mangue|
+MANHOLE|n.|fore de intrada|
+MANHOOD|n.|virilitá, natura homan|
+MANIA|n.|manie, passion, furie|
+MANIAC|n.|maniac (-al)|
+MANICURE|n.|manicura (-ist)|
 MANIFEST|adj.|evident|
 MANIFEST|n.|manifeste (-ar)|
-MANIFOLD|XXX|multiplic|
-MANIFOLD|XXX|varie, diversi, numerosi, multiplic|
+MANIFOLD|adj.|varie, diversi, numerosi, multiplic|
 MANIPULATE|v.|manipular (-ation)|
-MANKIND|XXX|homanité, génere homan|
-MANLY|XXX|mannesc, viril (-itá)|
-MANNA|XXX|manna|
-MANNEQUIN|XXX|mannequin|
-MANNER|XXX|maniere|
-MANNERISM|XXX|afectation, manierisme|
-MANNERLY|XXX|polit, cortesi, bon educat|
-MANNERS|XXX|mores; manieres|
-MANNISH|XXX|mannatri|
+MANKIND|n.|homanité, génere homan|
+MANLY|adj.|mannesc, viril (-itá)|
+MANNA|n.|manna|
+MANNEQUIN|n.|mannequin|
+MANNER|n.|maniere|
+MANNERISM|n.|afectation, manierisme|
+MANNERLY|adj.|polit, cortesi, bon educat|
+MANNERS|n.|mores; manieres|
+MANNISH|adj.|mannatri|
 MANOEUVRE|n.|manovre (-ar, -ada)|
 MANOR|n.|(estate) domene senioral|
-MANSION|XXX|grand dom, palace|
-MANSLAUGHTER|XXX|homicidie|
-MANTELPIECE|XXX|corniche del camine|
-MANTELSHELF|XXX|plate de camine|
-MANTILLA|XXX|mantille|
+MANSION|n.|grand dom, palace|
+MANSLAUGHTER|n.|homicidie|
+MANTELPIECE|n.|corniche del camine|
+MANTELSHELF|n.|plate de camine|
+MANTILLA|n.|mantille|
 MANTLE|n.|mantel, mantó|
 MANTLE|v.|invelopar, covrir|
 MANUAL|adj.|manual|
 MANUAL|n.|manuale|
-MANUFACTORY|XXX|fabrica|
+MANUFACTORY|n.|fabrica|
 MANUFACTURE|n.|fabrication; (thing made) fabricate|
 MANUFACTURE|v.|fabricar|
 MANURE|v.|stercar|
 MANURE|n.|sterco|
 MANUSCRIPT|n.|manuscrite|
-MANUSCRIPT BOOK|XXX|caderne|
-MANY|XXX|mult; (prefix) multi-, pluri-, poli-|
-MANY A ...|XXX|mani|
-MAP|XXX|carte geografic, land-carte|
-MAPLE|XXX|ácere|
+MANUSCRIPT BOOK|n.|caderne|
+MANY|adj.|mult|
+MANY|prefix|multi-, pluri-, poli-|
+MANY A|adj.|mani|
+MAP|n.|carte geografic, land-carte|
+MAPLE|n.|ácere|
 MAR|v.|defecter, nocer; trublar|
 MARAUD|v.|niarodar (-ero)|
 MARBLE|n.|marmor (-ar, -in, -osi, -ifer); (toy) bulette, globul|
 MARCH|n.|marcha (-ar); (month) marte|
 MARCHES|n.|(borders) bornes, límites|
-MARCHIONESS|XXX|marquesa|
-MARE|XXX|cavalla|
-MARE'S NEST|XXX|fiasco|
-MARGARINE|XXX|margarine|
-MARGIN|XXX|márgine (-al, -ar)|
-MARGRAVE|XXX|margravio (-a)|
-MARGUERITE|XXX|margarita|
-MARIGOLD|XXX|calendul|
+MARCHIONESS|n.|marquesa|
+MARE|n.|cavalla|
+MARE'S NEST|n.|fiasco|
+MARGARINE|n.|margarine|
+MARGIN|n.|márgine (-al, -ar)|
+MARGRAVE|n.|margravio (-a)|
+MARGUERITE|n.|margarita|
+MARIGOLD|n.|calendul|
 MARINE|adj.|marin|
 MARINE|n.|marine; soldate marin; (fleet) flotte|
-MARINER|XXX|marinero, navigator|
-MARIONETTE|XXX|marionette|
-MARITAL|XXX|marital|
-MARITIME|XXX|maritim, marin|
+MARINER|n.|marinero, navigator|
+MARIONETTE|n.|marionette|
+MARITAL|n.|marital|
+MARITIME|adj.|maritim, marin|
 MARJORAM|n.|(bot.) origan|
 MARK|n.|marca, signe, indicie; (aim) scope; (target) cible; (coin) mark; (exam.) punctu; (trace) vestigie, tracie|
 MARK|v.|marcar, notar|
-MARKED|XXX|marcat; distint, sentibil|
+MARKED|adj.|marcat; distint, sentibil|
 MARKET|v.|vendir (-ition)|
 MARKET|n.|mercate; bazar|
-MARKET PLACE|XXX|piazza del mercate|
-MARKET-TOWN|XXX|borgo|
-MARKETABLE|XXX|vendibil|
-MARKSMAN|XXX|tirator|
-MARL|XXX|marne|
-MARMALADE|XXX|marmalade|
-MARMOT|XXX|marmotte|
+MARKET PLACE|n.|plazza del mercate|
+MARKET-TOWN|n.|borgo|
+MARKETABLE|adj.|vendibil|
+MARKSMAN|n.|tirator|
+MARL|n.|marne|
+MARMALADE|n.|marmalade|
+MARMOT|n.|marmotte|
 MAROON|adj.|maroncolori|
 MAROON|v.|abandonar|
-MARQUEE|XXX|grand tenda|
-MARQUIS|XXX|marquese, marqueso (-atu)|
-MARRIAGE|XXX|maritage, matrimonie (-al), nuptie|
-MARRIAGE PORTION|XXX|dot|
-MARRIAGEABLE|XXX|maritabil|
+MARQUEE|n.|grand tenda|
+MARQUIS|n.|marquese, marqueso (-atu)|
+MARRIAGE|n.|maritage, matrimonie (-al), nuptie|
+MARRIAGE PORTION|n.|dot|
+MARRIAGEABLE|adj.|maritabil|
 MARROW|n.|(of bones) medulle; (vegetable) cucurbite|
 MARRY|v.|maritar (se)|
-MARSH|XXX|palude (-osi), morasse|
-MARSH-MALLOW|XXX|altéa|
+MARSH|n.|palude (-osi), morasse|
+MARSH-MALLOW|n.|altéa|
 MARSHAL|v.|ordinar, arangear|
 MARSHAL|n.|marchale|
-MARSUPIAL|XXX|marsupiale|
-MART|XXX|mercate|
-MARTEN|XXX|martre|
-MARTIAL|XXX|martial, guerresc|
-MARTINET|XXX|disciplinario|
-MARTYR|XXX|martiro (-ie, -isar)|
+MARSUPIAL|n.|marsupiale|
+MART|n.|mercate|
+MARTEN|n.|martre|
+MARTIAL|adj.|martial, guerresc|
+MARTINET|n.|disciplinario|
+MARTYR|n.|martiro (-ie, -isar)|
 MARVEL|v.|astonar se|
 MARVEL|n.|marvel (-osi), miracul|
-MARZIPAN|XXX|marcipane|
-MASCOT|XXX|talisman|
+MARZIPAN|n.|marcipane|
+MASCOT|n.|talisman|
 MASCULINE|adj.|masculin|
 MASCULINE|n.|masculine|
 MASH|n.|mixti-forrage|
 MASH|v.|pistar, mixter|
 MASK|v.|camuflar|
 MASK|n.|masca (-ar)|
-MASON|XXX|murero, murator; (Freemason) francmasson (-eríe)|
-MASONRY|XXX|mureríe; massoneríe; (fallen) murallia|
-MASQUERADE|XXX|mascarade|
+MASON|n.|murero, murator; (Freemason) francmasson (-eríe)|XXX TODO -- Freemason/freemason
+MASONRY|n.|mureríe; massoneríe; (fallen) murallia|
+MASQUERADE|n.|mascarade|
 MASS|n.|masse; (eccl.) messe|
 MASS|v.|amassar|
-MASSACRE|XXX|massacre (-ar)|
+MASSACRE|n.|massacre (-ar)|
 MASSAGE|v.|massar (-age, -ero)|
 MASSES|n.|(people) plebeyos|
-MASSIVE|XXX|massiv (-itá)|
-MAST|XXX|mast|
-MASTER|XXX|(academical degree) magistro|
+MASSIVE|adj.|massiv (-itá)|
+MAST|n.|mast|
+MASTER|n.|(academical degree) magistro|
 MASTER|v.|mastrisar; domitar; dominar; victer, superar|
 MASTER|n.|mastre, mastro, chef, director, principale; experte; instructor|
-MASTERFUL|XXX|despotic, imperiosi, dominatri|
-MASTERLY|XXX|expert, superiori|
-MASTERPIECE|XXX|mastre-ovre|
+MASTERFUL|adj.|despotic, imperiosi, dominatri|
+MASTERLY|adj.|expert, superiori|
+MASTERPIECE|n.|mastre-ovre|
 MASTERSHIP|n.|(of a school) mastratu|
-MASTERY|XXX|mastrie, domination|
-MASTHEAD|XXX|maste-cap|
-MASTIC|XXX|mastic|
+MASTERY|n.|mastrie, domination|
+MASTHEAD|n.|maste-cap|
+MASTIC|n.|mastic|
 MASTICATE|v.|masticar (-ation), machar|
-MASTIFF|XXX|mastino|
-MASTODON|XXX|mastodonte|
+MASTIFF|n.|mastino|
+MASTODON|n.|mastodonte|
 MAT|n.|matte, tapissette|
 MAT|v.|interplecter|
 MATCH|n.|(lucifer) inflammette; (equal) egale; (contest) concurse, match; (marriage) alliantie|
 MATCH|v.|(to be or to make similar) egalar (se), acordar, harmonisar; esser pari|
-MATCHLESS|XXX|íncomparabil, unic, ínegalabil|
+MATCHLESS|adj.|íncomparabil, unic, ínegalabil|
 MATE|n.|camarado, companion; (chess) chac-matt; (naut.) submastro, sub oficero|
 MATE|v.|acuplar, assortir|
 MATERIAL|adj.|material, essential, important|
 MATERIAL|n.|materiale (-isme, -ist, -istic), stoff|
-MATERNAL|XXX|maternal, matrin (-itá)|
-MATHEMATICAL|XXX|matematic (-al)|
-MATHEMATICIAN|XXX|matematico|
-MATHEMATICS|XXX|matematica|
-MATINS|XXX|matutines|
-MATRICIDE|XXX|matricide (-ie)|
+MATERNAL|adj.|maternal, matrin (-itá)|
+MATHEMATICAL|adj.|matematic (-al)|
+MATHEMATICIAN|n.|matematico|
+MATHEMATICS|n.|matematica|
+MATINS|n.|matutines|
+MATRICIDE|n.|matricide (-ie)|
 MATRICULATE|v.|inmatricular|
-MATRIMONY|XXX|matrimonie (-al)|
-MATRIX|XXX|matricie|
-MATRON|XXX|matrona|
-MATT|XXX|pallid; matt|
-MATTER|XXX|materie, substantie; afere; (pus) supur (-ar), pus|
+MATRIMONY|n.|matrimonie (-al)|
+MATRIX|n.|matricie|
+MATRON|n.|matrona|
+MATT|adj.|pallid; matt|
+MATTER|n.|materie, substantie; afere; (pus) supur (-ar), pus|
 MATTER-OF-FACT|adj.|prosaic, practic|
-MATTING|XXX|stoff por mattes; mattes|
-MATTOCK|XXX|pioche|
-MATTRESS|XXX|matrasse|
-MATURE|XXX|matur (-ar, itá); (of bills) payand|
-MATUTINAL|XXX|matinal|
-MAUDLIN|XXX|tro sentimental; demí-ebriat, sentimentalach|
+MATTING|n.|stoff por mattes; mattes|
+MATTOCK|n.|pioche|
+MATTRESS|n.|matrasse|
+MATURE|adj.|matur (-ar, itá); (of bills) payand|
+MATUTINAL|adj.|matinal|
+MAUDLIN|adj.|tro sentimental; demí-ebriat, sentimentalach|
 MAUL|v.|lacerar, defecter; (of animals) patter|
-MAUSOLEUM|XXX|mausoléo|
-MAUVE|XXX|malvi, malv-colori|
-MAW|XXX|panse, ventre; (birds) cropp|
-MAWKISH|XXX|fad, ínsipid; nauseativ|
-MAXILLARY|XXX|maxillari|
-MAXIM|XXX|maxime; principie|
+MAUSOLEUM|n.|mausoléo|
+MAUVE|adj.|malvi, malv-colori|
+MAW|n.|panse, ventre; (birds) cropp|
+MAWKISH|adj.|fad, ínsipid; nauseativ|
+MAXILLARY|adj.|maxillari|
+MAXIM|n.|maxime; principie|
 MAXIMUM|adj.|max, maxim|
 MAXIMUM|n.|maximum|
 MAY|n.|(month) may; (hawthorn) may-flor, blancospine; (possibly) fórsan (with verb)|
 MAY|v.aux.|posser, esser líber, haver li jure|
-MAYBUG|XXX|melodonte|
-MAYONNAISE|XXX|mayonese|
-MAYOR|XXX|borgomastro (-atu), podest|
-MAYORESS|XXX|(lady mayor) borgomastra|
-MAZE|XXX|labirinte (-in), confusion, perplexitá|
-MAZURKA|XXX|mazurka|
-MEAD|XXX|hidromel, miel-bir|
-MEADOW|XXX|prate, herbiera|
-MEADOW SAFFRON|XXX|colchica|
-MEADOWSWEET|XXX|spiréa|
-MEAGRE|XXX|magri, povri|
-MEAL|XXX|repaste, manja; (flour) farine|
-MEALY-MOUTHED|XXX|plausibil, mielatri|
+MAYBUG|n.|melodonte|
+MAYONNAISE|n.|mayonese|
+MAYOR|n.|borgomastro (-atu), podest|
+MAYORESS|n.|(lady mayor) borgomastra|
+MAZE|n.|labirinte (-in), confusion, perplexitá|
+MAZURKA|n.|mazurka|
+MEAD|n.|hidromel, miel-bir|
+MEADOW|n.|prate, herbiera|
+MEADOW SAFFRON|n.|colchica|
+MEADOWSWEET|n.|spiréa|
+MEAGRE|adj.|magri, povri|
+MEAL|n.|repaste, manja; (flour) farine|
+MEALY-MOUTHED|adj.|plausibil, mielatri|
 MEAN|adj.|mesquin, avari, mediocri; (average) medial|
 MEAN|n.|medie, valore medial|
 MEAN|v.|significar, voler dir, intenter|
 MEANDER|v.|serpentear|
 MEANS|n.|medie, remedie; (money) pecunie|
-MEANS OF SUPPORT|XXX|victuales; revenú|
-MEANWHILE|XXX|ínterim|
-MEASLES|XXX|morbille|
+MEANS OF SUPPORT|n.|victuales; revenú|
+MEANWHILE|adv.|ínterim|
+MEASLES|n.|morbille|
 MEASURE|n.|mesura (-ar, -abil, -ation), dimension, gradu. scala; (instrument) mesurette; (mus.) ritme, mesura|
-MEASUREMENT|XXX|dimension|
-MEAT|XXX|carne (-ivori); (food) nutriment|
-MECHANIC|XXX|mecanico, machinero|
-MECHANICS|XXX|mecanica|
-MECHANISM|XXX|mecanisme|
-MEDAL|XXX|medallie (-ion)|
+MEASUREMENT|n.|dimension|
+MEAT|n.|carne (-ivori); (food) nutriment|
+MECHANIC|n.|mecanico, machinero|
+MECHANICS|n.|mecanica|
+MECHANISM|n.|mecanisme|
+MEDAL|n.|medallie (-ion)|
 MEDDLE|v.|interferer (-entie), ingerer, inmixter se|
-MEDDLESOME|XXX|interferent, interferaci|
-MEDIAEVAL|XXX|medieval, del mediepoca|
-MEDIAN|XXX|median|
+MEDDLESOME|adj.|interferent, interferaci|
+MEDIAEVAL|adj.|medieval, del mediepoca|
+MEDIAN|adj.|median|
 MEDIATE|adj.|medial|
 MEDIATE|v.|mediar (-ation, -ator), intervenir|
-MEDICAL|XXX|medical; (of medicine) medicinal|
+MEDICAL|adj.|medical; (of medicine) medicinal|
 MEDICATE|v.|medicar, medicinar|
-MEDICINE|XXX|medicament; (science) medicina|
-MEDIOCRE|XXX|mediocri (-itá)|
+MEDICINE|n.|medicament; (science) medicina|
+MEDIOCRE|adj.|mediocri (-itá)|
 MEDITATE|v.|meditar (-ation, -ativ), ponderar|
 MEDIUM|adj.|medial|
 MEDIUM|n.|(means) medie, experiente; (scientific) medio; (spir.) medium|
-MEDLAR|XXX|mespil|
-MEDLEY|XXX|mixtura, conglomerate, potpourri|
-MEDULLA|XXX|medulle|
-MEED|XXX|recompense|
-MEEK|XXX|humil, mild; modest|
+MEDLAR|n.|mespil|
+MEDLEY|n.|mixtura, conglomerate, potpourri|
+MEDULLA|n.|medulle|
+MEED|n.|recompense|
+MEEK|adj.|humil, mild; modest|
 MEERSCHAUM|n.|mar-scum|
 MEET|adj.|apt, convenent|
 MEET|n.|(of hunt) rendevú|
 MEET|v.|incontrar (se), assemblar, convenir; (of roads) junter; (fulfil) satisfar; payar; (to meet with) experir, incontrar|
-MEETING|XXX|incontra; reunion, interassemblé, convenida; view, juntion|
-MEGAPHONE|XXX|megafon, porta-voce|
+MEETING|n.|incontra; reunion, interassemblé, convenida; view, juntion|
+MEGAPHONE|n.|megafon, porta-voce|
 MELANCHOLY|n.|melancolie (-ic)|
-MELEE|XXX|melé|
-MELLIFLUOUS|XXX|mielatri, dulcissim|
+MELEE|n.|melé|
+MELLIFLUOUS|adj.|mielatri, dulcissim|
 MELLOW|adj.|matur; moll, dulci|
-MELODRAMA|XXX|melodrama (-tic)|
-MELODY|XXX|melodie (-osi)|
-MELON|XXX|melone|
+MELODRAMA|n.|melodrama (-tic)|
+MELODY|n.|melodie (-osi)|
+MELON|n.|melone|
 MELT|v.|fonder, fuser; liquificar se, fluidijar|
-MELTING-POT|XXX|fusuore|
-MEMBER|XXX|membre (-itá, -ité), socio; deputate|
-MEMBRANE|XXX|membrane, pellicul|
-MEMENTO|XXX|memorette|
-MEMOIRS|XXX|memories, reminiscenties|
-MEMORABLE|XXX|memorabil|
-MEMORANDUM|XXX|memorandum|
+MELTING-POT|n.|fusuore|
+MEMBER|n.|membre (-itá, -ité), socio; deputate|
+MEMBRANE|n.|membrane, pellicul|
+MEMENTO|n.|memorette|
+MEMOIR|n.|memorie, reminiscentie|
+MEMOIRS|n.pl.|memories, reminiscenties|XXX REMARK -- The original entry was plural. It has been copied as singular.
+MEMORABLE|adj.|memorabil|
+MEMORANDUM|n.|memorandum|
 MEMORIAL|adj.|comemorativ|
 MEMORIAL|n.|memoriale, monument; petition|
-MEMORY|XXX|memorie (-isar)|
-MENACE|XXX|menacie (-ar)|
-MENAGE|XXX|menage (-ero, -era)|
-MENAGERIE|XXX|bestiarium; menagerie|
+MEMORY|n.|memorie (-isar)|
+MENACE|n.|menacie (-ar)|
+MENAGE|n.|menage (-ero, -era)|
+MENAGERIE|n.|bestiarium; menagerie|XXX TODO -- Check.
 MEND|v.|reparar, repezzar; (improve) amelio rar (sé); (patch) lappar|
-MENDACIOUS|XXX|mentaci (-itá), mentosi|
+MENDACIOUS|adj.|mentaci (-itá), mentosi|
 MENDICANT|adj.|mendicant (-ie)|
 MENDICANT|n.|mendico, mendicard|
 MENIAL|adj.|servil, domestic, mesquin|
-MENINGITIS|XXX|meningite|
+MENINGITIS|n.|meningite|
 MENSTRUATE|v.|menstruar (-ation)|
-MENSURATION|XXX|mesuration|
-MENTAL|XXX|mental (-itá)|
-MENTION|XXX|mention (-ar)|
-MENTOR|XXX|mentor|
-MENU|XXX|menú|
-MEPHITIC|XXX|mefitic|
-MERCANTILE|XXX|mercantil, comercial|
+MENSURATION|n.|mesuration|
+MENTAL|adj.|mental (-itá)|
+MENTION|n.|mention (-ar)|
+MENTOR|n.|mentor|
+MENU|n.|menú|
+MEPHITIC|adj.|mefitic|
+MERCANTILE|adj.|mercantil, comercial|
 MERCENARY|adj.|mercenari|
 MERCENARY|n.|mercenario|
-MERCHANDISE|XXX|merces|
-MERCHANT|XXX|mercante, mercator, negociante|
-MERCHANTMAN|XXX|nave mercatori, mercator|
-MERCIFUL|XXX|clement, misericordiosi|
-MERCILESS|XXX|cruel, inexorabil, dur|
-MERCURY|XXX|mercurie (-al)|
-MERCY|XXX|clementie, misericordie, compassion|
+MERCHANDISE|n.|merces|
+MERCHANT|n.|mercante, mercator, negociante|
+MERCHANTMAN|n.|nave mercatori, mercator|
+MERCIFUL|adj.|clement, misericordiosi|
+MERCILESS|adj.|cruel, ínexorabil, dur|
+MERCURY|n.|mercurie (-al)|
+MERCY|n.|clementie, misericordie, compassion|
 MERE|adj.|sol, pur, simplic; nequó altri quam|
 MERE|n.|lago|
-MERETRICIOUS|XXX|curtisanesc; misductent|
+MERETRICIOUS|adj.|curtisanesc; misductent|
 MERGE|v.|inmerser se, coalescer, perdir se, fuser se|
-MERIDIAN|XXX|meridian (-al)|
-MERINGUE|XXX|meringue|
-MERINO|XXX|merino|
-MERIT|XXX|merite (-er, -osi, -ori)|
-MERMAID|XXX|nixa, sirena|
-MERMAN|XXX|nix|
-MERRY|XXX|gay (-itá, -esse), joyosi|
-MERRY-GO-ROUND|XXX|carruselle|
-MERRYMAKING|XXX|festada|
-MESALLIANCE|XXX|misalliantie|
+MERIDIAN|n.|meridian (-al)|
+MERINGUE|n.|meringue|
+MERINO|n.|merino|
+MERIT|n.|merite (-er, -osi, -ori)|
+MERMAID|n.|nixa, sirena|
+MERMAN|n.|nix|
+MERRY|adj.|gay (-itá, -esse), joyosi|
+MERRY-GO-ROUND|n.|carruselle|
+MERRYMAKING|n.|festada|
+MESALLIANCE|n.|misalliantie|
 MESH|v.|(mech.) ingagear|
 MESH|n.|lace, rete|
 MESMERISE|v.|mesmerisar|
 MESS|n.|confusion; sordidage; (mil.) mess|
 MESS|v.|(bungle) bosillar; (to soil) sordidar|
-MESS-MATE|XXX|camarado de mess|
-MESSAGE|XXX|missage (-ero), comunication|
-MESSENGER|XXX|missagero, curriero|
-MESSIAH|XXX|messía|
-MESTIZO|XXX|mestisse|
-METAL|XXX|metalle (-io, -in, -isar, -iferi)|
-METAL WEIGHT|XXX|póndere|
-METALLURGIST|XXX|metallurgo (-ie, -ic)|
-METAMORPHOSIS|XXX|metamorfose, transformation|
-METAPHOR|XXX|metáfor (-ic)|
-METAPHYSICS|XXX|metafisica (-al)|
+MESS-MATE|n.|camarado de mess|
+MESSAGE|n.|missage (-ero), comunication|
+MESSENGER|n.|missagero, curriero|
+MESSIAH|n.|messía|
+MESTIZO|n.|mestisse|
+METAL|n.|metalle (-io, -in, -isar, -iferi)|
+METAL WEIGHT|n.|póndere|
+METALLURGIST|n.|metallurgo (-ie, -ic)|
+METAMORPHOSIS|n.|metamorfose, transformation|
+METAPHOR|n.|metáfor (-ic)|
+METAPHYSICS|n.|metafisica (-al)|
 METE OUT|v.|aportionar; rendir|
-METEOR|XXX|meteor (-ic, -ologie)|
-METEORITE|XXX|aerolite|
-METER|XXX|metre; (instrument) mesurette|
-METHINKS|XXX|me sembla que|
-METHOD|XXX|metode (-ic, -ist, -isme)|
-METHYLATED SPIRIT|XXX|sprite metilat|
-METRE|XXX|(unit of length) metre; (mus., poetry) metrica|
-METRONOME|XXX|metronom|
-METROPOLIS|XXX|capitale, metropole|
-METTLE|XXX|spíritu|
-METTLESOME|XXX|vervosi|
+METEOR|n.|meteor (-ic, -ologie)|
+METEORITE|n.|aerolite|
+METER|n.|metre; (instrument) mesurette|
+METHINKS||me sembla que|XXX TODO v./adv./conj.?
+METHOD|n.|metode (-ic, -ist, -isme)|
+METHYLATED SPIRIT|n.|sprite metilat|
+METRE|n.|(unit of length) metre; (mus., poetry) metrica|
+METRONOME|n.|metronom|
+METROPOLIS|n.|capitale, metropole|
+METTLE|n.|spíritu|
+METTLESOME|adj.|vervosi|
 MEW|n.|(sea-mew) movette|
 MEW|v.|faucar, miaular|
-MEWS|XXX|stalles|
-MIASMA|XXX|miasma (-tic)|
-MICA|XXX|mica|
+MEWS|n.|stalles|
+MIASMA|n.|miasma (-tic)|
+MICA|n.|mica|
 MICRO|n.|(prefix) micro-cosme, -metre, -fon, -scop (-ic)|
-MICROBE|XXX|microbio (-bic, -icide)|
-MICTURITION|XXX|urination|
-MIDDAY|XXX|midíe, medidíe|
-MIDDEN|XXX|escombre-cumul, sterc-cunml|
+MICROBE|n.|microbio (-bic, -icide)|
+MICTURITION|n.|urination|
+MIDDAY|n.|midíe, medidíe|
+MIDDEN|n.|escombre-cumul, sterc-cunml|
 MIDDLE|adj.|medial|
 MIDDLE|n.|medie, centre|
-MIDDLE AGES|XXX|medievie (-al)|
-MIDDLING|XXX|mediocri, passabil|
-MIDGET|XXX|pigméo|
-MIDLAND|XXX|inlandan, mediterran|
-MIDNIGHT|XXX|minocte|
-MIDRIB|XXX|medi-coste|
-MIDRIFF|XXX|diafragma|
+MIDDLE AGES|n.|medievie (-al)|
+MIDDLING|adj.|mediocri, passabil|
+MIDGET|n.|pigméo|
+MIDLAND|adj.|inlandan, mediterran|
+MIDNIGHT|n.|minocte|
+MIDRIB|n.|medi-coste|
+MIDRIFF|n.|diafragma|
 MIDSHIPMAN|n.|(oficero-)aspirante (de marine)|
 MIDST|n.|(middle) medie|
 MIDWAY|adv.|ye demi-via|
-MIDWIFE|XXX|acuchera (-ie)|
-MIEN|XXX|mime, aspecte|
+MIDWIFE|n.|acuchera (-ie)|
+MIEN|n.|mime, aspecte|
 MIGHT|n.|fortie, potentie|
 MIGHTY|adj.|potent, fort|
-MIGNONETTE|XXX|reseda|
+MIGNONETTE|n.|reseda|
 MIGRAINE|n.|migren|
 MIGRATE|v.|migrar (-ante, -ation, -ator), emigrar|
 MILCH-COW|n.|vacca lactant|
@@ -9386,7 +9388,7 @@ MINSTREL|n.|menestrel (-ie)|
 MINT|n.|(bot.) minte; (coin-factory) monetaría|
 MINT|v.|monetar, stampar|
 MINUET|n.|menuette|
-MINUS|XXX|minus|
+MINUS|adj., adv.|mínus|XXX FIXED -- minus->mínus; actually in English it's adj./n.
 MINUTE|adj.|minuciosi; detalliat|
 MINUTE|n.|minute; (note) note, (pl.) protocol|
 MINUTIAE|n.|minucies|
@@ -9490,253 +9492,253 @@ MOIST|adj.|humid (-ar, -itá)|
 MOLAR|n.|(tooth) molare|
 MOLASSES|n.|melasse|
 MOLE|n.|(zool.) talpe (-ero); (breakwater) molo; (on skin) marca, tuberette|
-MOLECULE|XXX|molecul (-ari)|
-MOLEHILL|XXX|talp-tumul|
-MOLESKINE|XXX|(twilled cloth) moleskine|
+MOLECULE|n.|molecul (-ari)|
+MOLEHILL|n.|talp-tumul|
+MOLESKINE|n.|(twilled cloth) moleskine|
 MOLEST|v.|genar, molestar (-ation)|
 MOLLIFY|v.|lenir, calmar, amollar, mollificar|
-MOLLUSC|XXX|mollusco|
-MOLTEN|XXX|fondet; fluid|
-MOLYBDENUM|XXX|molybdenum|
-MOMENT|XXX|moment (-an, -ari); importantie|
-MOMENTOUS|XXX|important, gravissim|
-MOMENTUM|XXX|momente|
-MONAD|XXX|monade|
-MONARCH|XXX|monarch (-ic, -ie, -ist, -isme)|
-MONASTERY|XXX|monastere, monaciera|
-MONASTIC|XXX|monacal|
-MONDAY|XXX|lunedí|
-MONETARY|XXX|monetari, pecuniari|
-MONEY|XXX|moné, pecunie|
-MONEY ORDER|XXX|mandate postal|
-MONEY-CHANGER|XXX|moné-cambiator|
-MONEYLENDER|XXX|prestator|
-MONGOOSE|XXX|manguste|
+MOLLUSC|n.|mollusco|
+MOLTEN|adj.|fondet; fluid|
+MOLYBDENUM|n.|molybdenum|
+MOMENT|n.|moment (-an, -ari); importantie|
+MOMENTOUS|adj.|important, gravissim|
+MOMENTUM|n.|momente|
+MONAD|n.|monade|
+MONARCH|n.|monarch (-ic, -ie, -ist, -isme)|
+MONASTERY|n.|monastere, monaciera|
+MONASTIC|adj.|monacal|
+MONDAY|n.|lunedí|
+MONETARY|adj.|monetari, pecuniari|
+MONEY|n.|moné, pecunie|
+MONEY ORDER|n.|mandate postal|
+MONEY-CHANGER|n.|moné-cambiator|
+MONEYLENDER|n.|prestator|
+MONGOOSE|n.|manguste|
 MONGREL|adj.|hibrid(ach), de rasse mixtet|
-MONITOR|XXX|sub-instructor; (naut.) monitor|
-MONITORY|XXX|monitiv, monitori|
-MONK|XXX|monaco (-al, -allia, -atu)|
-MONKEY|XXX|simie (-atri, -esc), macaco|
-MONKSHOOD|XXX|aconite|
+MONITOR|n.|sub-instructor; (naut.) monitor|
+MONITORY|adj.|monitiv, monitori|
+MONK|n.|monaco (-al, -allia, -atu)|
+MONKEY|n.|simie (-atri, -esc), macaco|
+MONKSHOOD|n.|aconite|
 MONO|prefix|mono-crom, -garnie, -grafie, -gramme, -lite, -log, -manie etc.|
-MONOCLE|XXX|monocul|
+MONOCLE|n.|monocul|
 MONOPOLIZE|v.|monopolisar; acaparar|
-MONOPOLY|XXX|monopol (-ist, -isar)|
-MONOSYLLABLE|XXX|monosíllabe (-ic)|
+MONOPOLY|n.|monopol (-ist, -isar)|
+MONOSYLLABLE|n.|monosíllabe (-ic)|
 MONOTONE|n.|monotone|
-MONOTONOUS|XXX|monoton (-ie)|
-MONSIGNOR|XXX|monsenior|
-MONSOON|XXX|monsun|
-MONSTER|XXX|monstru (-osi, -ositá), gigante|
-MONTH|XXX|mensu (-al)|
+MONOTONOUS|adj.|monoton (-ie)|
+MONSIGNOR|n.|monsenior|
+MONSOON|n.|monsun|
+MONSTER|n.|monstru (-osi, -ositá), gigante|
+MONTH|n.|mensu (-al)|
 MONTHLY|n.|gazette mensual, mensuale|
-MONUMENT|XXX|monument (-al)|
+MONUMENT|n.|monument (-al)|
 MOO|v.|muir (-ida)|
-MOOD|XXX|humor, disposition; (gramm.) mode; (mus.) modo|
-MOODY|XXX|melancolic, trist, morni|
-MOON|XXX|lune (-ari)|
-MOONBEAM|XXX|radie del lune|
-MOONLIGHT|XXX|luce lunari|
+MOOD|n.|humor, disposition; (gramm.) mode; (mus.) modo|
+MOODY|adj.|melancolic, trist, morni|
+MOON|n.|lune (-ari)|
+MOONBEAM|n.|radie del lune|
+MOONLIGHT|n.|luce lunari|
 MOOR|v.|amarrar (-age)|
 MOOR|n.|torfiera|
 MOOT|adj.|discussibil|
 MOOT|v.|proposir|
 MOP|n.|balay (moll) a lavar, moppe (-ar)|
 MOPE|v.|esser morosi, esser trist; enoyar se|
-MORAINE|XXX|moren|
+MORAINE|n.|moren|
 MORAL|adj.|moral (-itá, -ist, -isar), etic|
-MORALE|XXX|morale|
-MORALS|XXX|mores, customes; etica|
-MORASS|XXX|palude, morasse|
-MORBID|XXX|morbid, maladiv|
-MORDANT|XXX|mordent, mordaci, acri, caustic|
-MORE|XXX|plu, plu mult|
-MORE OR LESS|XXX|plu-minu|
-MOREOVER|XXX|adplu, adultra|
-MORGANATIC|XXX|morganatic|
-MORGUE|XXX|cadavriere|
-MORIBUND|XXX|morient|
-MORMON|XXX|mormon (-ic, -isme)|
-MORN|XXX|matine (-al)|
-MORNING|XXX|matine (-al)|
+MORALE|n.|morale|
+MORALS|n.|mores, customes; etica|
+MORASS|n.|palude, morasse|
+MORBID|adj.|morbid, maladiv|
+MORDANT|adj.|mordent, mordaci, acri, caustic|
+MORE|adj., adv.|plu, plu mult|
+MORE OR LESS|adj, adv.|plu-minu|
+MOREOVER|adv.|adplu, adultra|
+MORGANATIC|adj.|morganatic|
+MORGUE|n.|cadavriere|
+MORIBUND|adj.|morient|
+MORMON|n.|mormon (-ic, -isme)|
+MORN|n.|matine (-al)|
+MORNING|n.|matine (-al)|
 MOROCCO|n.|(leather) safian|
-MOROSE|XXX|morosi|
-MORPHIA|XXX|morfine (-ist)|
-MORPHINE|XXX|morfine (-ist)|
-MORROW|XXX|deman; die sequent|
-MORSE|XXX|morsa, code telegrafic|
-MORSEL|XXX|pezzette|
+MOROSE|adj.|morosi|
+MORPHIA|n.|morfine (-ist)|
+MORPHINE|n.|morfine (-ist)|
+MORROW|n.|deman; die sequent|
+MORSE|n.|morsa, code telegrafic|
+MORSEL|n.|pezzette|
 MORTAL|adj.|mortal (-itá), homan, fatal|
 MORTAR|n.|(cement) mortre, cement; (vessel) pistuore; (artill.) mortiere|
-MORTGAGE|XXX|hipoteca (-ar, -ario)|
-MORTGAGER|XXX|debitor hipotecari|
+MORTGAGE|n.|hipoteca (-ar, -ario)|
+MORTGAGER|n.|debitor hipotecari|
 MORTIFY|v.|mortificar (-ation); chagrinar; (med.) ingangrenar|
-MORTISE|XXX|mortese|
-MORTUARY|XXX|depó de mortos, cadavriere|
-MOSAIC|XXX|mosaica|
-MOSQUE|XXX|moské|
-MOSQUITO|XXX|mosquite|
-MOSQUITO NET|XXX|para-mosquite|
-MOSS|XXX|mosse (-i, -atri, -osi, -ut)|
-MOST|XXX|max; lu max; max mult|
-MOSTLY|XXX|precipue; generalmen, max sovente|
+MORTISE|n.|mortese|
+MORTUARY|n.|depó de mortos, cadavriere|
+MOSAIC|n.|mosaica|
+MOSQUE|n.|moské|
+MOSQUITO|n.|mosquite|
+MOSQUITO NET|n.|para-mosquite|
+MOSS|n.|mosse (-i, -atri, -osi, -ut)|
+MOST|adj., adv.|max; lu max; max mult|
+MOSTLY|adv.|precipue; generalmen, max sovente|
 MOTE|n.|(of dust) polvun, pallie|
-MOTH|XXX|tinea|
-MOTHEATEN|XXX|rodet de tineas|
-MOTHER|XXX|matre|
-MOTHER WIT|XXX|esprite natural|
-MOTHER-IN-LAW|XXX|bel-matre|
-MOTHER-OF-PEARL|XXX|perlematre, nacre|
-MOTHER-OF-PEARL|XXX|perlematre, nacre (-in)|
-MOTHERHOOD|XXX|matrinitá|
-MOTHERLY|XXX|maternal, matrin|
-MOTHERWIT|XXX|sagiesse natural|
-MOTION|XXX|motion; movida; proposition|
-MOTIONLESS|XXX|ínmobil, inmo(v)ent|
+MOTH|n.|tinea|
+MOTHEATEN|adj.|rodet de tineas|
+MOTHER|n.|matre|
+MOTHER WIT|n.|esprite natural|
+MOTHER-IN-LAW|n.|bel-matre|
+MOTHER-OF-PEARL|n.|perlematre, nacre (-in)|
+MOTHERHOOD|n.|matrinitá|
+MOTHERLY|adj.|maternal, matrin|
+MOTHERWIT|n.|sagiesse natural|
+MOTION|n.|motion; movida; proposition|
+MOTIONLESS|adj.|ínmobil, ínmo(v)ent|
 MOTIVATE|v.|motivar|
 MOTIVE|adj.|motiv; motori|
 MOTIVE|n.|motive, rason|
 MOTLEY|adj.|heterogen, diversachi, pluricolori; color-maculat|
-MOTOR|XXX|motor|
-MOTOR-CYCLE|XXX|motorcicle|
-MOTORCAR|XXX|automobile (-isme)|
-MOTTLED|XXX|de varie colores, color-maculat|
-MOTTO|XXX|motto, devise|
+MOTOR|n.|motor|
+MOTOR-CYCLE|n.|motorcicle|
+MOTORCAR|n.|automobile (-isme)|
+MOTTLED|adj.|de varie colores, color-maculat|
+MOTTO|n.|motto, devise|
 MOULD|n.|(soil) humo; (fungus) mofa, mofatura; (for casting) forme, modelle, matricie|
 MOULD|v.|formar, modellar, fassonar|
 MOULDER|n.|(person) formator, modellator|
 MOULDER|v.|putrir|
 MOULDING|n.|(arch.) corniche|
-MOULDY|XXX|mofosi (-tá)|
+MOULDY|adj.|mofosi (-tá)|
 MOULT|v.|mutar plumes, mutar li pelle|
-MOUND|XXX|tumul; colinette; vall|
+MOUND|n.|tumul; colinette; vall|
 MOUNT|n.|monte; (in frame) montura|
 MOUNT|v.|ascender, montar; (to assemble) monter|
 MOUNT UP|v.|acumular se; (clamber) climbar|
-MOUNTAIN|XXX|monte|
-MOUNTAIN RANGE|XXX|montania|
-MOUNTAIN SPINACH|XXX|atriplex|
-MOUNTAIN-ASH|XXX|sorbe|
-MOUNTAINEER|XXX|alpinist|
-MOUNTEBANK|XXX|charlatan, saltimbanco|
+MOUNTAIN|n.|monte|
+MOUNTAIN RANGE|n.|montania|
+MOUNTAIN SPINACH|n.|atriplex|
+MOUNTAIN-ASH|n.|sorbe|
+MOUNTAINEER|n.|alpinist|
+MOUNTEBANK|n.|charlatan, saltimbanco|
 MOURN|v.|luctuar, esser in luctu, lamentar|
-MOURNFUL|XXX|luctuosi. funebri, lugubri|
+MOURNFUL|adj.|luctuosi. funebri, lugubri|
 MOURNING|n.|(clothes) vestiment funebri|
-MOUSE|XXX|mus (-iere, -trappe)|
-MOUSTACHE|XXX|mustache (-ut)|
-MOUTH|XXX|bocca (-ade); (of river) inboccatura, estuarie; (of animal) fauc|
-MOUTH-ORGAN|XXX|bocc-harmonica|
-MOUTHPIECE|XXX|bee; (spokesman) portavoce, parlator|
+MOUSE|n.|mus (-iere, -trappe)|
+MOUSTACHE|n.|mustache (-ut)|
+MOUTH|n.|bocca (-ade); (of river) inboccatura, estuarie; (of animal) fauc|
+MOUTH-ORGAN|n.|bocc-harmonica|
+MOUTHPIECE|n.|bee; (spokesman) portavoce, parlator|
 MOVE|n.|move|
 MOVE|v.|moer, mover (se); (of the feelings) emoer, atendrir; (change residence) translocar; (propose) proposir|
-MOVEMENT|XXX|movement|
+MOVEMENT|n.|movement|
 MOW|v.|falcear; (with lawn mower) machin-tonder|
-MR.|XXX|senior|
-MRS N. IS AT HOME ON TUESDAY|XXX|Sra. N. accepte chascun mardi|
+MR.|n.|senior|
+MRS N. IS AT HOME ON TUESDAY|expr.|Sra. N. accepte chascun mardi|
 MUCH|n.|multcós|
 MUCH|adj.|mult|
-MUCH TO BE OBLIGED TO YOU|XXX|grand mersí|
-MUCILAGE|XXX|mucilágine, colle, glutine|
-MUCK|XXX|inpuritá, fec; (manure) sterco|
-MUCUS|XXX|muc (-osi, -ositá)|
-MUD|XXX|mudde (-osi), fango, slamm|
+MUCH TO BE OBLIGED TO YOU|expr.|grand mersí|
+MUCILAGE|n.|mucilágine, colle, glutine|
+MUCK|n.|inpuritá, fec; (manure) sterco|
+MUCUS|n.|muc (-osi, -ositá)|
+MUD|n.|mudde (-osi), fango, slamm|
 MUDDLE|n.|desórdine, confusion|
 MUDDLE|v.|confuser, desordinar|
-MUDGUARD|XXX|para-mudde, para-fango|
-MUDSCRAPER|XXX|demuddator|
-MUFF|XXX|muff|
-MUFFLE|XXX|(wrap up) invelopar; (of sound) obtuser (-ion)|
-MUFFLED|XXX|obtus|
-MUFFLER|XXX|col-charpe|
-MUFTI|XXX|vestiment civil; (title) mufti|
-MUG|XXX|cruche, cop(ette); (tankard) chop; (fig.) stulton|
-MUGGY|XXX|humid, opressiv|
-MUGWORT|XXX|artemisia|
-MULATTO|XXX|mulatte|
-MULBERRY|XXX|morbere (-iero)|
+MUDGUARD|n.|para-mudde, para-fango|
+MUDSCRAPER|n.|demuddator|
+MUFF|n.|muff|
+MUFFLE|v.|(wrap up) invelopar; (of sound) obtuser (-ion)|
+MUFFLED|adj.|obtus|XXX FIXME -- obtus?
+MUFFLER|n.|col-charpe|
+MUFTI|n.|vestiment civil; (title) mufti|
+MUG|n.|cruche, cop(ette); (tankard) chop; (fig.) stulton|
+MUGGY|adj.|humid, opressiv|
+MUGWORT|n.|artemisia|
+MULATTO|n.|mulatte|
+MULBERRY|n.|morbere (-iero)|
 MULCT|n.|multa|
 MULCT|v.|imposir un pecuniari punition|
-MULE|XXX|mul (-atri, -ero)|
+MULE|n.|mul (-atri, -ero)|
 MULL|v.|atepidar e spicear vine|
-MULLION|XXX|fenestre-barre|
-MULTIFARIOUS|XXX|varie, divers|
+MULLION|n.|fenestre-barre|
+MULTIFARIOUS|adj.|varie, divers|
 MULTIPLE|adj.|multiplic|
 MULTIPLE|n.|multiplica|
 MULTIPLY|v.|multiplicar (-ation, -and, -ator); (increase) multiplicar (se), augmentar (se)|
-MULTITUDE|XXX|multitá; (crowd) turbe, populache|
+MULTITUDE|n.|multitá; (crowd) turbe, populache|
 MUM|adj.|silent|
 MUMBLE|v.|murmurar|
-MUMMERY|XXX|mascarade|
-MUMMY|XXX|mumie (-ificar)|
-MUMPS|XXX|parotite, orelion|
+MUMMERY|n.|mascarade|
+MUMMY|n.|mumie (-ificar)|
+MUMPS|n.|parotite, orelion|
 MUNCH|v.|machar|
-MUNDANE|XXX|mundan|
-MUNICIPAL|XXX|municipal|
-MUNICIPALITY|XXX|municipie|
-MUNIFICENT|XXX|munificent (-ie), generosi|
-MUNITION|XXX|munition|
+MUNDANE|adj.|mundan|
+MUNICIPAL|adj.|municipal|
+MUNICIPALITY|n.|municipie|
+MUNIFICENT|adj.|munificent (-ie), generosi|
+MUNITION|n.|munition|
 MURAL|n.|murale|
 MURAL|adj.|mural|
 MURDER|v.|mortar (-ation. -ator, -ard), assassinar; (a language) balbutiar, parlachar|
-MURDEROUS|XXX|mortatori|
-MURKY|XXX|tenebrosi, obscur|
+MURDEROUS|adj.|mortatori|
+MURKY|adj.|tenebrosi, obscur|
 MURMUR|n.|murmura (-ar, -ada)|
-MURRAIN|XXX|epizootie|
+MURRAIN|n.|epizootie|
 MUSCATEL|n.|(grape) muscate; (vine) vin muscatin|
-MUSCLE|XXX|muscul (-ari, -osi)|
+MUSCLE|n.|muscul (-ari, -osi)|
 MUSE|n.|musal|
 MUSE|v.|revar, meditar, ruminar|
-MUSEUM|XXX|muséo|
-MUSHROOM|XXX|fungo, champinion|
-MUSIC|XXX|musica (-al, -ar), harmonie|
-MUSIC AFFORDS ME PLEASURE|XXX|li musica aporta me piesura|
-MUSIC STOOL|XXX|taburette|
-MUSIC-HALL|XXX|teatre de varietá|
-MUSICIAN|XXX|musico, musicante|
-MUSK|XXX|musco|
-MUSKET|XXX|musquete (-ero), fusil|
-MUSLIN|XXX|musseline|
-MUSSEL|XXX|musle, mitil|
+MUSEUM|n.|muséo|
+MUSHROOM|n.|fungo, champinion|
+MUSIC|n.|musica (-al, -ar), harmonie|
+MUSIC AFFORDS ME PLEASURE|expr.|li musica aporta me piesura|
+MUSIC STOOL|n.|taburette|
+MUSIC-HALL|n.|teatre de varietá|
+MUSICIAN|n.|musico, musicante|
+MUSK|n.|musco|
+MUSKET|n.|musquete (-ero), fusil|
+MUSLIN|n.|musseline|
+MUSSEL|n.|musle, mitil|
 MUST|n.|most|
 MUST|v.|deve (followed by infinitive)|
-MUSTARD|XXX|mostarde; (plant) sinap|
-MUSTARDPLASTER|XXX|sinapisme|
+MUSTARD|n.|mostarde; (plant) sinap|
+MUSTARDPLASTER|n.|sinapisme|
 MUSTER|n.|assemblé, reunion|
 MUSTER|v.|assemblar|
-MUSTY|XXX|mofat, fungatri; desfrisc|
-MUTABLE|XXX|mutabil (-itá)|
+MUSTY|adj.|mofat, fungatri; desfrisc|
+MUTABLE|adj.|mutabil (-itá)|
 MUTATE|v.|mutar (-ation)|
-MUTE|XXX|mut (-o); (for instrument) surdine|
+MUTE|adj.|mut (-o)|
+MUTE|n.|(for instrument) surdine|
 MUTILATE|v.|mutilar (-ation)|
 MUTINY|n.|revolte|
 MUTINY|v.|insurecter (-ion), rebeller, revoltar|
 MUTTER|v.|murmurar, grunir|
-MUTTON|XXX|carne agnin, agnine|
-MUTUAL|XXX|mutual (-itá, -isme), reciproc, comun|
+MUTTON|n.|carne agnin, agnine|
+MUTUAL|adj.|mutual (-itá, -isme), reciproc, comun|
 MUZZLE|n.|(snout) musel; (for dog) museliere; (of gun) bocca|
-MY|XXX|mi|
-MY HEAD SWIMS|XXX|yo have vertígine|
-MYOPIA|XXX|miopie, curt vision|
-MYOSOTIS|XXX|miosótis|
-MYRIAD|XXX|miriade; deci mill|
-MYRRH|XXX|mirra|
-MYRTLE|XXX|mirte|
-MYSTERY|XXX|misterie (-osi)|
+MY|adj.poss.|mi|
+MY HEAD SWIMS|expr.|yo have vertígine|
+MYOPIA|n.|miopie, curt vision|
+MYOSOTIS|n.|miosótis|
+MYRIAD|n.|miriade; deci mill|XXX TODO -- separate n./adj.
+MYRRH|n.|mirra|
+MYRTLE|n.|mirte|
+MYSTERY|n.|misterie (-osi)|
 MYSTIC|adj.|mistic (-o, -isme)|
 MYSTIFY|v.|mistificar (-ation)|
-MYTH|XXX|mite (-ologie, -ologic), saga, legende|
-MYTHICAL|XXX|mitic, fabulosi|
-NABOB|XXX|nabob, richard|
-NACRE|XXX|nacre (-in)|
+MYTH|n.|mite (-ologie, -ologic), saga, legende|
+MYTHICAL|adj.|mitic, fabulosi|
+NABOB|n.|nabob, richard|
+NACRE|n.|nacre (-in)|
 NADIR|v.|nadir|
 NAG|n.|cavall(ach)|
 NAG|v.|criticachar, insultar|
-NAIAD|XXX|nayade|
+NAIAD|n.|nayade|
 NAIL|v.|clovar|
 NAIL|n.|clove; (of finger, toe) ungul|
 NAIL UP|v.|adclovar|
-NAIVE|XXX|naiv (-itá), ingenui|
-NAKED|XXX|nud (-itá); simplic|
+NAIVE|adj.|naiv (-itá), ingenui|
+NAKED|adj.|nud (-itá); simplic|
 NAMBY-PAMBY|XXX|afectat|
 NAME|n.|nómine (-ar); (renown) renomé; (fig.) fama, reputation|
 NAMELESS|XXX|sin nómine, ínnominat, anonim|
@@ -12028,7 +12030,7 @@ RADIO|XXX|radio. (prefix) radio-|
 RADIOGRAPH|XXX|radiograf (-ie)|
 RADISH|XXX|radise|
 RADIUM|XXX|radium|
-RADIUS|Geom.|rádius; (of action) rayon|
+RADIUS|n.|(geom.) rádius; (of action) rayon|
 RAFFLE|v.|far un loteríe|
 RAFFLE|n.|loteríe|
 RAFT|XXX|flottuore|
@@ -14681,7 +14683,7 @@ SYNTAX|XXX|sintaxe (-actic)|
 SYNTHESIS|XXX|sinteSe (-tic)|
 SYPHILIS|XXX|sifilise|
 SYPHON|XXX|sifon (-ar)|
-SYREN|myth.|sirena|
+SYREN|n.|(myth.) sirena|
 SYRINGA|XXX|lila|
 SYRINGE|v.|spruzzar (-uore), injecter|
 SYRUP|XXX|sirop (-osi), melasse|
