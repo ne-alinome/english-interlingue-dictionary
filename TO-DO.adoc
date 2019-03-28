@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-26
+:revdate: 2019-03-28
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -70,6 +70,8 @@
   police". "political" -> "politica".
 - "YODEL (sons) yodle (-ero, -ar)" -> songs
 - Change "prefix." -> "prefix"/"pref.".
+- Fix: "STILL ancor" is missing. "ancor" is mentioned only in "YET".
+- Add adv. usages to "NEVERTHELESS" and "HOWEVER".
 
 == Doubts
 
