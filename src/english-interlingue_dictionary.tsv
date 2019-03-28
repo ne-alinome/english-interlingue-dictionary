@@ -10043,378 +10043,383 @@ NUTRIMENT|n.|nutriment, aliment|
 NUTRITION|n.|nutrition (-al)|
 NUTSHELL|n.|cortice de nuce|
 NYMPH|n.|nimfa|
-OAF|XXX|grossiero|
-OAK|XXX|querco (-in)|
-OAK-APPLE|XXX|gall|
-OAKUM|XXX|stupp|
-OAR|XXX|rem|
-OASIS|XXX|oase|
-OATH|XXX|jurament; (curse) maledition, blasfema|
-OATMEAL|XXX|aven-farine|
-OATS|XXX|aven|
-OBDURATE|XXX|ínflexibil, obstinat, ínpenitent|
-OBEDIENT|XXX|obedient (-ie)|
-OBEISANCE|XXX|reverentie|
-OBELISK|XXX|obelisco|
-OBESE|XXX|obesi (-tá), corpulent|
+OAF|n.|grossiero|
+OAK|n.|querco (-in)|
+OAK-APPLE|n.|gall|
+OAKUM|n.|stupp|
+OAR|n.|rem|
+OASIS|n.|oase|
+OATH|n.|jurament; (curse) maledition, blasfema|
+OATMEAL|n.|aven-farine|
+OATS|n.|aven|
+OBDURATE|adj.|ínflexibil, obstinat, ínpenitent|
+OBEDIENT|adj.|obedient (-ie)|
+OBEISANCE|n.|reverentie|
+OBELISK|n.|obelisco|
+OBESE|adj.|obesi (-tá), corpulent|
 OBEY|v.|obedir|
 OBFUSCATE|v.|confuser, inbrolliar|
 OBITUARY|adj.|necrologic|
 OBITUARY|n.|necrolog|
 OBJECT|n.|objecte, cose; (aim) scope; (gramm.) complement|
 OBJECT|v.|objecter (-ion), oposir; (legal) recusar|
-OBJECTIONABLE|XXX|ínadmissibil, desagreabil, índesirabil|
+OBJECTIONABLE|adj.|ínadmissibil, desagreabil, índesirabil|
 OBJECTIVE|adj.|objectiv (-itá)|
 OBJECTIVE|n.|objective; (gramm.) acusative|
-OBLATION|XXX|sacrificie, oblation|
+OBLATION|n.|sacrificie, oblation|
 OBLIGE|v.|(compel) obligar (-ation, -atori, -ativ), fortiar; (do a favour) compleser (-ent)|
-OBLIQUE|XXX|obliqui (-ta), clini, inclinat|
+OBLIQUE|adj.|obliqui (-ta), clini, inclinat|
 OBLITERATE|v.|obliterar (-ation), efaciar|
-OBLIVION|XXX|oblivie (-osi)|
+OBLIVION|n.|oblivie (-osi)|
 OBLONG|adj.|oblong|
 OBLONG|n.|rectangul|
-OBLOQUY|XXX|calumnie, reproch(ad)a, honte|
-OBNOXIOUS|XXX|nociv, ofensiv|
-OBOE|XXX|hobóe|
-OBOLUS|XXX|obol|
-OBSCENE|XXX|obscen (-itá), lasciv|
+OBLOQUY|n.|calumnie, reproch(ad)a, honte|
+OBNOXIOUS|adj.|nociv, ofensiv|
+OBOE|n.|hobóe|
+OBOLUS|n.|obol|
+OBSCENE|adj.|obscen (-itá), lasciv|
 OBSCURE|adj.|obscur (-ar, -ant, -antisme, -itá), ínconosset|
-OBSEQUIES|XXX|ceremonie funeral|
-OBSEQUIOUS|XXX|servil, reptiv|
+OBSEQUIES|n.|ceremonie funeral|
+OBSEQUIOUS|adj.|servil, reptiv|
 OBSERVE|v.|observar (-ation, -abil, -ant, -antie, -ator, -atoria), remarcar; (celebrate) festar|
 OBSESS|v.|obseDer (-ssion)|
-OBSIDIAN|XXX|obsidian|
-OBSOLESCENT|v.|devenir obsolet, inoldat o desusat|
-OBSOLETE|XXX|obsolet|
-OBSTACLE|XXX|obstacul, impediment|
-OBSTETRIC|XXX|obstetric|
-OBSTINATE|XXX|obstinat (-ion), obstinaci|
-OBSTREPEROUS|XXX|turbulant, tumultuant|
+OBSIDIAN|n.|obsidian|
+OBSOLESCENT|adj.|quel devenit obsolet, inoldat o desusat|XXX FIXED -- "devenir" -> "quel devenit"
+OBSOLETE|adj.|obsolet|
+OBSTACLE|n.|obstacul, impediment|
+OBSTETRIC|adj.|obstetric|
+OBSTINATE|adj.|obstinat (-ion), obstinaci|
+OBSTREPEROUS|adj.|turbulant, tumultuant|
 OBSTRUCT|v.|obstructer (-iv, -ion), impedir, barrar; (a view) incombrar, obturar|
 OBTAIN|v.|obtener (-ibil), procurar, ganiar, aquisir; prevaler|
 OBTRUDE|v.|obtruDer (-sion, -siv)|
-OBTUSE|XXX|obtus, desacut; stupid|
-OBVERSE|XXX|averse, facie|
+OBTUSE|adj.|obtus, desacut; stupid|
+OBVERSE|n.|averse, facie|
 OBVIATE|v.|preventer (-ion)|
-OBVIOUS|XXX|evident, clar|
-OCCASION|XXX|ocasion (-ar, -al), casu; causa|
-OCCIDENT|XXX|occident (al)|
-OCCULT|XXX|ocult, celat, secret, arcan|
+OBVIOUS|adj.|evident, clar|
+OCCASION|n.|ocasion (-ar, -al), casu; causa|
+OCCIDENT|n.|occident (al)|
+OCCULT|adj.|ocult, celat, secret, arcan|
 OCCUPY|v.|ocupar (-ant, -ation)|
 OCCUR|v.|ocurrer (-entie), evenir (-iment); (to the mind) venir in mente; exister|
-OCEAN|XXX|ocean (-ic)|
-OCHRE|XXX|ocre|
-OCTAGON|XXX|octagon, ottangul|
-OCTANT|XXX|octant|
-OCTAVE|XXX|octave|
-OCTAVO|XXX|octavo|
-OCTOBER|XXX|octobre|
-OCTOGENARIAN|XXX|ottantario|
-OCTOPUS|XXX|octopus|
-OCULAR|XXX|oculari|
-OCULIST|XXX|oculist|
-ODD|XXX|strangi, curiosi, ínusual, singulari; (extra) restant; (not even) ínpari; (miscellaneous) divers|
-ODDITY|XXX|trate singulari; person o cose bizarri|
-ODDMENTS|XXX|restallia|
-ODDS|XXX|chances, probabilitá|
-ODE|XXX|ode|
-ODIOUS|XXX|detestabil, abominabil, odiosi|
-ODIUM|XXX|blama, reproche|
-ODOUR|XXX|odore (-iferi, -osi)|
-OESOPHAGUS|XXX|esofag|
-OF|XXX|de; (about) pri, concernent; (out of) ex|
-OF AGE|XXX|plen-etosi, adult, majori|
+OCEAN|n.|ocean (-ic)|
+OCHRE|n.|ocre|
+OCTAGON|n.|octagon, ottangul|
+OCTANT|n.|octant|
+OCTAVE|n.|octave|
+OCTAVO|n.|octavo|
+OCTOBER|n.|octobre|
+OCTOGENARIAN|n.|ottantario|
+OCTOPUS|n.|octopus|
+OCULAR|adj.|oculari|
+OCULIST|n.|oculist|
+ODD|adj.|strangi, curiosi, ínusual, singulari; (extra) restant; (not even) ínpari; (miscellaneous) divers|
+ODDITY|n.|trate singulari; person o cose bizarri|
+ODDMENTS|n.|restallia|
+ODDS|n.|chances, probabilitá|
+ODE|n.|ode|
+ODIOUS|adj.|detestabil, abominabil, odiosi|
+ODIUM|n.|blama, reproche|
+ODOUR|n.|odore (-iferi, -osi)|
+OESOPHAGUS|n.|esofag|
+OF|prep.|de; (about) pri, concernent; (out of) ex|
+OF AGE|adj.|plen-etosi, adult, majori|
 OF COURSE|adv.|naturalmen, self-comprensibil|
-OF NOTE|XXX|eminent|
-OF ONE'S OWN ACCORD|XXX|de propri volentie|
-OF YORE|XXX|antey, in anteyan témpor; antiqui|
+OF NOTE|adj.|eminent|
+OF ONE'S OWN ACCORD|adj.|de propri volentie|
+OF YORE|adj.|antiqui|
+OF YORE|adv.|antey, in anteyan témpor|
 OFF|prep.|for. Also as prefix: forcurrer, forportar = to run, carry off|
 OFF AND ON|adv.|ocasionalmen, a vezes|
-OFF THE COAST|XXX|avan li rive, avan li costa|
-OFFAL|XXX|carnallia|
-OFFENCE|XXX|ofense, culpa, delicte, contra-vention, infraction|
+OFF THE COAST|adv.|avan li rive, avan li costa|
+OFFAL|n.|carnallia|
+OFFENCE|n.|ofense, culpa, delicte, contra-vention, infraction|
 OFFEND|v.|ofenDer, incolerar, transgresser|
 OFFENSIVE|adj.|ofensiv, desagreabil|
 OFFENSIVE|n.|(mil.) ofensive|
 OFFER|n.|oferta, proposition|
 OFFER|v.|presentar, ofertar; proposir; (offer up) dedicar|
-OFFERING|XXX|sacrificie; oferta; (eccl.) oblation|
-OFFERTORY|XXX|colection pecuniari|
-OFFHAND|XXX|extémpore, exprompte, strax; (in manner) sin gena, brusqui, insuciant|
-OFFHOOT|XXX|crescon|
-OFFICE|XXX|oficie, servicie, function; (place of business) buró, oficia, contor; (private room) cabinet|
-OFFICER|XXX|oficero; (civilian) oficiario, functionario|
+OFFERING|n.|sacrificie; oferta; (eccl.) oblation|
+OFFERTORY|n.|colection pecuniari|
+OFFHAND|adj.|(in manner) sin gena, brusqui, insuciant|XXX TODO -- complete
+OFFHAND|adv.|extémpore, exprompte, strax|
+OFFHOOT|n.|crescon|XXX TODO -- confirm
+OFFICE|n.|oficie, servicie, function; (place of business) buró, oficia, contor; (private room) cabinet|
+OFFICER|n.|oficero; (civilian) oficiario, functionario|
 OFFICIAL|n.|oficiario|
 OFFICIAL|adj.|oficial|
 OFFICIATE|v.|oficiar, dejorar|
-OFFICIOUS|XXX|interferaci, intrusiv|
+OFFICIOUS|adj.|interferaci, intrusiv|
 OFFSET|n.|(print.) offset; (hort.) crescon|
 OFFSET|v.|compensar (-ation)|
-OFFSIDE|XXX|offside|
-OFFSPRING|XXX|genitura, infante, descendentes|
-OFT|XXX|sovente, frequentmen|
-OFTEN|XXX|sovente, frequentmen|
-OGEE|XXX|ogive (-al)|
+OFFSIDE|n.|(sport) offside|XXX FIXED -- "sport"
+OFFSPRING|n.|genitura, infante, descendentes|
+OFT|adv.|sovente, frequentmen|
+OFTEN|adv.|sovente, frequentmen|
+OGEE|n.|ogive (-al)|
 OGLE|v.|ocular (-ada)|
-OGRE|XXX|ogre (essa)|
-OH DEAR|XXX|o ve!|
-OHM|XXX|ohm|
-OIL|XXX|oleo (-ar, -ari, -osi, -iere, -iferi, -iera)|
-OIL-PAINTING|XXX|oleo-pictura|
-OILCLOTH|XXX|linoleum|
-OILSTONE|XXX|slif-petre|
-OINTMENT|XXX|unguente|
-OLD|XXX|old (-esse, -on), etosi; (former) ancian; antiqui|
-OLD-FASHIONED|XXX|old-modic|
-OLDAGE|XXX|oldesse|
-OLDMAID|XXX|celib(atari)a|
-OLEAGINOUS|XXX|oleatri, oleosi|
-OLEANDER|XXX|oleandre|
+OGRE|n.|ogre (-essa)|
+OH DEAR|expr.|o ve!|
+OHM|n.|ohm|
+OIL|n.|oleo (-ar, -ari, -osi, -iere, -iferi, -iera)|
+OIL-PAINTING|n.|oleo-pictura|
+OILCLOTH|n.|linoleum|
+OILSTONE|n.|slif-petre|
+OINTMENT|n.|unguente|
+OLD|adj.|old (-esse, -on), etosi; (former) ancian; antiqui|
+OLD-FASHIONED|adj.|old-modic|
+OLDAGE|n.|oldesse|
+OLDMAID|n.|celib(atari)a|
+OLEAGINOUS|adj.|oleatri, oleosi|
+OLEANDER|n.|oleandre|
 OLFACTORY|adj.|flaratori|
-OLIGARCH|XXX|oligarch (-ie)|
-OLIVE|XXX|olive (-atri, -iero, -iera)|
-OLYMPIAD|XXX|olimpiade|
-OMELET|XXX|omelette|
-OMEN|XXX|ómine (-osi), augurie, antesigne|
+OLIGARCH|n.|oligarch (-ie)|
+OLIVE|n.|olive (-atri, -iero, -iera)|
+OLYMPIAD|n.|olimpiade|
+OMELET|n.|omelette|
+OMEN|n.|ómine (-osi), augurie, antesigne|
 OMIT|v.|omisser (-ion)|
-OMIVOROUS|XXX|omnivori|
-OMNIBUS|XXX|omnibus|
-OMNIPOTENT|XXX|omnipotent (-ie)|
-OMNIPRESENT|XXX|omnipresent (-ie), ubiqui|
-OMNISCIENT|XXX|omnisavent (-ie)|
+OMIVOROUS|adj.|omnivori|
+OMNIBUS|n.|omnibus|
+OMNIPOTENT|adj.|omnipotent (-ie)|
+OMNIPRESENT|adj.|omnipresent (-ie), ubiqui|
+OMNISCIENT|adj.|omnisavent (-ie)|
 ON|adv.|(onwards) adavan|
 ON|prep.|sur; (on to) (ad)sur|
-ON ACCOUNT OF|XXX|pro, per cause de|
-ON ARRIVING|XXX|arivante, pos har arivat|
-ON BEHALF OF|XXX|in nómine de, por|
-ON FOOT|XXX|a pedes|
-ON NO ACCOUNT|XXX|pro nequel (null) cause, certmen ne|
-ON PAIN OF DEATH|XXX|sub pena de morte|
-ON THAT SCORE|XXX|pro ti motive|
+ON ACCOUNT OF|prep.|pro, per cause de|
+ON ARRIVING|adv.|arivante, pos har arivat|XXX TODE -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
+ON BEHALF OF|prep.|in nómine de, por|
+ON FOOT|adv.|a pedes|
+ON NO ACCOUNT|adv.|pro nequel (null) cause, certmen ne|
+ON PAIN OF DEATH|adv.|sub pena de morte|
+ON THAT SCORE|adv.|pro ti motive|
 ON THE AVERAGE|adv.|medialmen|
-ON THE CONTRARY|XXX|in contrari|
-ON THE LEFT|XXX|a levul|
-ON THE ONE HAND|XXX|ye un látere|
-ON THE POINT OF|XXX|sur li punctu de|
-ON THE RIGHT|XXX|a dextre|
-ON THE STRENGTH OF|XXX|fidente a|
-ON THE WHOLE|XXX|in general, generalmen|
-ON TIME|XXX|in just témpor, punctualmen; (before a participle)|
-ONCE|XXX|un vez; (formerly) antey|
-ONCE AGAIN|XXX|ancor un vez|
-ONCE IN A WAY|XXX|ne tro sovente, ye vezes, de témpor a témpore|
-ONCE UPON A TIME|XXX|unquande|
+ON THE CONTRARY|adv.|in contrari|
+ON THE LEFT|adv.|a levul|
+ON THE ONE HAND|adv.|ye un látere|
+ON THE POINT OF|prep.|sur li punctu de|
+ON THE RIGHT|adv.|a dextre|
+ON THE STRENGTH OF|prep.|fidente a|
+ON THE WHOLE|adv.|in general, generalmen|
+ON TIME|adv.|in just témpor, punctualmen|
+ONCE|adv.|un vez; (formerly) antey|
+ONCE AGAIN|adv.|ancor un vez|
+ONCE IN A WAY|adv.|ne tro sovente, ye vezes, de témpor a témpore|
+ONCE UPON A TIME|adv.|unquande|
 ONE|pron.|on|
-ONE|XXX|un|
-ONE ANOTHER|XXX|unaltru|
-ONE BY ONES|XXX|un pos li altri|
-ONE LIKE THAT|XXX|un tal|
-ONEROUS|XXX|pesant; fatigant|
-ONESELF|XXX|se|
-ONESIDED|XXX|unilateral, partial, ínegal|
-ONION|XXX|cebul|
-ONLOOKER|XXX|spectator, assistente|
+ONE|adj.|un|
+ONE ANOTHER|pron.|unaltru|
+ONE BY ONES|adv.|un pos li altri|
+ONE LIKE THAT|adj.|un tal|
+ONEROUS|adj.|pesant; fatigant|
+ONESELF|pron.|se|
+ONESIDED|adj.|unilateral, partial, ínegal|
+ONION|n.|cebul|
+ONLOOKER|n.|spectator, assistente|
 ONLY|adj.|sol, unic|
 ONLY|adv.|solmen|
 ONLY|conj.|(but) ma|
-ONLY TODAY|XXX|ancor hodie|
-ONSET|XXX|comense, debut; atacca|
-ONSLAUGHT|XXX|assalte, atacca|
-ONUS|XXX|charge, obligation, pesa, responsabilitá|
+ONLY TODAY|adv.|ancor hodie|
+ONSET|n.|comense, debut; atacca|
+ONSLAUGHT|n.|assalte, atacca|
+ONUS|n.|charge, obligation, pesa, responsabilitá|
 ONWARD|adv.|adavan|
-ONYX|XXX|onix|
+ONYX|n.|onix|
 OOZE|n.|slamm, mudde|
 OOZE|v.|exsudar, exflutar; (leak) liccar|
-OPACITY|XXX|opacitá|
+OPACITY|n.|opacitá|
 OPAL|n.|opale (-esc, -escentie)|
-OPAQUE|XXX|opac, íntransparent|
+OPAQUE|adj.|opac, íntransparent|
 OPEN|adj.|apert; franc, candid; public; vacant, líber|
 OPEN|v.|aperter; comensar; inaugurar|
-OPEN-AIR|XXX|sub líber ciel|
+OPEN-AIR|adj.|sub líber ciel|
 OPENING|adj.|inaugural; unesim; laxativ|
 OPENING|n.|apertion, apertura; breche; comensa, inauguration|
 OPENLY|adv.|publicmen, íncelatmen, francmen|
-OPERA|XXX|ópera (-ette)|
-OPERA-GLASS|XXX|bi-lorniette|
+OPERA|n.|ópera (-ette)|
+OPERA-GLASS|n.|bi-lorniette|
 OPERATE|v.|operar (-ation, -ator, -ativ), efecter; functionar|
-OPHTHALMIA|XXX|oftalmie (-ic)|
-OPIATE|XXX|dormitive, opiate, narcotica|
+OPHTHALMIA|n.|oftalmie (-ic)|
+OPIATE|n.|dormitive, opiate, narcotica|
 OPINE|v.|opiner (-ion)|
-OPINIONATED|XXX|obstinat, opinionatri|
-OPIUM|XXX|opium|
-OPOSSUM|XXX|opossum|
-OPPONENT|XXX|adversario, oponente, antagonist|
-OPPORTUNE|XXX|oportun (-itá)|
+OPINIONATED|adj.|obstinat, opinionatri|
+OPIUM|n.|opium|
+OPOSSUM|n.|opossum|
+OPPONENT|n.|adversario, oponente, antagonist|
+OPPORTUNE|adj.|oportun (-itá)|
 OPPOSE|v.|oposir (-ition), oponer, resister|
 OPPOSITE|adj.|contrari|
 OPPOSITE|n.|lu contrari, lu oposit|
 OPPOSITE|prep.|contra, vis-a-vis|
 OPPRESS|v.|opresser (-ion, -or, -iv)|
-OPPROBRIOUS|XXX|injuriesi, insultant|
-OPPROBRIUM|XXX|ignominie, honte, infamie|
+OPPROBRIOUS|adj.|injuriesi, insultant|
+OPPROBRIUM|n.|ignominie, honte, infamie|
 OPTATIVE|gramm.|optative|
-OPTIC|XXX|optic (-a, -o)|
-OPTIMISM|XXX|optimisme|
-OPTIMIST|XXX|optimist (-ic)|
-OPTION|XXX|alternative, option|
-OPTIONAL|XXX|facultativ|
-OPULENT|XXX|opulent (-ie), rich|
-OR|XXX|o; (o therwise) altrimen|
-ORACLE|XXX|oracul (-ari)|
-ORAL|XXX|oral, boccal|
-ORANG-OUTANG|XXX|orangutan|
-ORANGE|XXX|orange (-iero, -ería)|
-ORATION|XXX|oration, discurse|
-ORATOR|XXX|orator (-ic, -io)|
-ORATORY|XXX|retorica|
-ORB|XXX|sfere, glob|
-ORBIT|XXX|órbite|
-ORCHARD|XXX|fructiera, fruct-jardin|
-ORCHESTRA|XXX|orchestre (-al)|
-ORCHID|XXX|orchidé|
+OPTIC|adj.|optic (-a, -o)|
+OPTIMISM|n.|optimisme|
+OPTIMIST|n.|optimist (-ic)|
+OPTION|n.|alternative, option|
+OPTIONAL|adj.|facultativ|
+OPULENT|adj.|opulent (-ie), rich|
+OR|conj.|o|
+OR|adv.|(otherwise) altrimen|
+ORACLE|n.|oracul (-ari)|
+ORAL|adj.|oral, boccal|
+ORANG-OUTANG|n.|orangutan|
+ORANGE|n.|orange (-iero, -ería)|
+ORATION|n.|oration, discurse|
+ORATOR|n.|orator (-ic, -io)|
+ORATORY|n.|retorica|
+ORB|n.|sfere, glob|
+ORBIT|n.|órbite|
+ORCHARD|n.|fructiera, fruct-jardin|
+ORCHESTRA|n.|orchestre (-al)|
+ORCHID|n.|orchidé|
 ORDAIN|v.|(decree) decreter; (eccl.) ordinar, consacrar|
-ORDEAL|XXX|ordalie|
+ORDEAL|n.|ordalie|
 ORDER|v.|comandar; (comm.) comendar; (set in order) ordinar|
 ORDER|n.|órdine, arangeament, regulament; condition, statu; (command) comande, decrete; (class) rang, classe; (comm.) comende; (money order) mandate; (decoration & eccl.) órden|
 ORDERLY|adj.|metodic, in bon órdine|
 ORDERLY|n.|oficero de ordonantie|
 ORDINAL|n.|ordinale|
-ORDINANCE|XXX|ordon, decrete ritu|
-ORDINARY|XXX|ordinari, usual|
-ORDINATION|XXX|ordination, consacration|
-ORDNANCE|XXX|artillerie|
-ORDURE|XXX|excrement|
-ORE|XXX|minerale (metalliferi)|
-ORGAN|XXX|organ (-ist)|
-ORGANIC|XXX|organic|
-ORGANISM|XXX|organisme|
+ORDINANCE|n.|ordon, decrete ritu|
+ORDINARY|adj.|ordinari, usual|
+ORDINATION|n.|ordination, consacration|
+ORDNANCE|n.|artillerie|
+ORDURE|n.|excrement|
+ORE|n.|minerale (metalliferi)|
+ORGAN|n.|organ (-ist)|
+ORGANIC|adj.|organic|
+ORGANISM|n.|organisme|
 ORGANIZE|v.|organisar (-ation, -ator, -atori)|
-ORGY|XXX|orgie (-astic)|
-ORIENT|XXX|oriente (-ar, -al, -alist), ost|
-ORIFICE|XXX|apertura, bocca|
-ORIGIN|XXX|orígine (-ar, -al, -ale, -alitá)|
+ORGY|n.|orgie (-astic)|
+ORIENT|n.|oriente (-ar, -al, -alist), ost|
+ORIFICE|n.|apertura, bocca|
+ORIGIN|n.|orígine (-ar, -al, -ale, -alitá)|
 ORIGINATE|v.|initiar, originar; crear; (arise) provenir, nascer|
-ORISON|XXX|prega, suplication|
-ORNAMENT|XXX|ornament (-al, -ar)|
-ORNATE|XXX|ornat, decorat|
-ORNITHOLOGIST|XXX|ornitolog (-ic, -ie)|
-ORPHAN|XXX|orfan (-i) |
-ORPHANAGE|XXX|asil por orfanes|
-ORRERY|XXX|planetarium|
-ORTHODOX|XXX|ortodox (-ie)|
-ORTHOGRAPHY|XXX|ortografie|
-ORTHOPAEDIA|XXX|ortopedie|
+ORISON|n.|prega, suplication|
+ORNAMENT|n.|ornament (-al, -ar)|
+ORNATE|adj.|ornat, decorat|
+ORNITHOLOGIST|n.|ornitolog (-ic, -ie)|
+ORPHAN|n.|orfan (-i) |
+ORPHANAGE|n.|asil por orfanes|
+ORRERY|n.|planetarium|
+ORTHODOX|adj.|ortodox (-ie)|
+ORTHOGRAPHY|n.|ortografie|
+ORTHOPAEDIA|n.|ortopedie|
 OSCILLATE|v.|oscillar (-ation, -ator, -atori)|
 OSCULATION|Geom.|osculation|
-OSIER|XXX|vimine, corb-salice|
-OSSEOUS|XXX|ossin, ossosi|
+OSIER|n.|vimine, corb-salice|
+OSSEOUS|adj.|ossin, ossosi|
 OSSIFY|v.|ossificar (se)|
-OSSUARY|XXX|ossarium|
-OSTENSIBLE|XXX|pretextat; aparent, visibil|
-OSTENTATIOUS|XXX|pomposi, ostentativ|
-OSTEOPATH|XXX|osteopat|
-OSTLER|XXX|stall-garson|
+OSSUARY|n.|ossarium|
+OSTENSIBLE|adj.|pretextat; aparent, visibil|
+OSTENTATIOUS|adj.|pomposi, ostentativ|
+OSTEOPATH|n.|osteopat|
+OSTLER|n.|stall-garson|
 OSTRACIZE|v.|bannir|
-OSTRICH|XXX|struce|
-OTHER|XXX|altri|
+OSTRICH|n.|struce|
+OTHER|adj.|altri|
 OTHERWISE|adv.|altrimen|
-OTTER|XXX|lutre|
-OTTOMAN|XXX|divan, ottomane|
+OTTER|n.|lutre|
+OTTOMAN|n.|divan, ottomane|
 OUGHT|v.aux.|veil dever; esser necessi, esser obligat|
-OUNCE|XXX|uncie|
-OUR|XXX|nor, nostri|
+OUNCE|n.|uncie|
+OUR|adj.|nor, nostri|
 OUST|v.|expulser|
-OUT|XXX|ex; extra, extern; (not at home) for, ne in hem, absent; (outside) extern|
+OUT|adj., adv.|ex; extra, extern; (not at home) for, ne in hem, absent; (outside) extern|
 OUT OF|prep.|ex, préter; (by reason of) pro|
 OUT OF DATE|adj.|anacronistic|
 OUT OF GUNSHOT|adj., adv.|preter tir-distantie, ínatingibil|
 OUT OF ONE'S WITS|adj.|frenetic, dement|
 OUT OF ORDER|adj.|contra li regulament; ne functionant|
-OUT OF PLACE|XXX|ínoportun, ne pertinent|
+OUT OF PLACE|adj.|ínoportun, ne pertinent|
 OUT OF PRINT|adj.|exhaustet|
-OUT OF REACH|XXX|ínatingibil|
+OUT OF REACH|adj.|ínatingibil|
 OUTBALANCE|v.|superponderar|
 OUTBID|v.|superofertar|
-OUTBREAK|XXX|eruption; insurection|
-OUTBUILDING|XXX|anexe|
-OUTBURST|XXX|explosion, eruption|
-OUTCAST|XXX|proscrito; paria|
-OUTCOME|XXX|resultate, fine|
-OUTCRY|XXX|clamada, plendida|
+OUTBREAK|n.|eruption; insurection|
+OUTBUILDING|n.|anexe|
+OUTBURST|n.|explosion, eruption|
+OUTCAST|n.|proscrito; paria|
+OUTCOME|n.|resultate, fine|
+OUTCRY|n.|clamada, plendida|
 OUTDO|v.|superar, preterpassar|
-OUTER|XXX|exteriori, extern|
-OUTFIT|XXX|equipament|
-OUTFITTER|XXX|vestimentero|
+OUTER|adj.|exteriori, extern|
+OUTFIT|n.|equipament|
+OUTFITTER|n.|vestimentero|
 OUTFLANK|v.|circumear, circumflancar|
-OUTFLOW|XXX|exfluida|
-OUTGOINGS|XXX|surtida, exeada; expenses, deborsament|
-OUTHOUSE|XXX|baracca, anexe|
-OUTING|XXX|excursion, promenada|
-OUTLANDISH|XXX|strangi, extran|
+OUTFLOW|n.|exfluida|
+OUTGOINGS|n.|surtida, exeada; expenses, deborsament|
+OUTHOUSE|n.|baracca, anexe|
+OUTING|n.|excursion, promenada|
+OUTLANDISH|adj.|strangi, extran|
 OUTLAW|v.|proscrir (-ito, -ition), bannir|
-OUTLAY|XXX|custa, deborsament, expenses|
-OUTLET|XXX|exeada, surtida, efluentie|
+OUTLAY|n.|custa, deborsament, expenses|
+OUTLET|n.|exeada, surtida, efluentie|
 OUTLINE|v.|esquissar, dessinar li contura|
 OUTLINE|n.|contura; esquisse|
-OUTLINE OF A SPEECH|XXX|concept-discurse, cladde|
+OUTLINE OF A SPEECH|n.|concept-discurse, cladde|
 OUTLIVE|v.|superviver|
-OUTLOOK|XXX|perspective, prospect|
-OUTLYING|XXX|distant, lontan, extern, periferic|
+OUTLOOK|n.|perspective, prospect|
+OUTLYING|adj.|distant, lontan, extern, periferic|
 OUTNUMBER|v.|esser plu numerosi, superar ye númere|
-OUTPOST|XXX|avanposto|
-OUTPOURING|XXX|e(x)versation|
-OUTPUT|XXX|production|
-OUTRAGE|XXX|violation, violentie, excesse, rapte, atentate|
-OUTRAGEOUS|XXX|atroci; monstruosi, atentatori|
-OUTRIDER|XXX|avan-cavalcanto|
-OUTRIGGER|v.|outrigger|
-OUTRIGHT|XXX|strax; (completely) totmen|
-OUTSET|XXX|comense|
+OUTPOST|n.|avanposto|
+OUTPOURING|n.|e(x)versation|
+OUTPUT|n.|production|
+OUTRAGE|n.|violation, violentie, excesse, rapte, atentate|
+OUTRAGEOUS|adj.|atroci; monstruosi, atentatori|
+OUTRIDER|n.|avan-cavalcanto|
+OUTRIGGER|n.|outrigger|
+OUTRIGHT|adv.|strax; (completely) totmen|
+OUTSET|n.|comense|
 OUTSHINE|v.|exceller, eclipsar|
 OUTSIDE|adj.|exteriori|
 OUTSIDE|n.|exteriore|
 OUTSIDE|prep.|éxter; ad éxter, extern, a externe|
-OUTSIDE ON THE VERANDA|XXX|al exteriore sur li veranda|
-OUTSIDER|XXX|profano, externo, non-iniciate|
-OUTSKIRTS|XXX|circumité, vicinité, periferie|
-OUTSPOKEN|XXX|franc, brusqui|
-OUTSTANDING|XXX|prominent, eminent; índecidet; payand|
-OUTSTRETCHED|XXX|extendet|
+OUTSIDE ON THE VERANDA|expr.|al exteriore sur li veranda|
+OUTSIDER|n.|profano, externo, non-iniciate|
+OUTSKIRTS|n.|circumité, vicinité, periferie|
+OUTSPOKEN|adj.|franc, brusqui|
+OUTSTANDING|adj.|prominent, eminent; índecidet; payand|
+OUTSTRETCHED|adj.|extendet|
 OUTSTRIP|v.|preterpassar|
 OUTWARD|adj.|extern, exteriori, visibil|
 OUTWARD|adv.|ad-éxter, ad-extran|
-OUTWARDLY|XXX|secun aparentie|
+OUTWARDLY|adv.|secun aparentie|
 OUTWIT|v.|dupar|
-OUTWORKS|XXX|avan-vall, bastion|
-OUTWORN|XXX|perusat, ancian|
-OVAL|XXX|oval|
-OVARY|XXX|ovarium|
-OVATION|XXX|ovation|
-OVEN|XXX|forn|
-OVER|XXX|súper; (across) trans; (beyond) préter, ultra; (ended) finit, passat; (excessive) excessiv; superflú, restant; (more than; plu quam; (too much) tro|
-OVER AGAIN|XXX|ancor un vez, denov|
-OVERALLS|XXX|surtut|
+OUTWORKS|n.|avan-vall, bastion|
+OUTWORN|adj.|perusat, ancian|
+OVAL|adj.|oval|
+OVARY|n.|ovarium|
+OVATION|n.|ovation|
+OVEN|n.|forn|
+OVER|prep.|súper; (across) trans; (beyond) préter, ultra|
+OVER|adj.|(ended) finit, passat; (excessive) excessiv; superflú, restant|
+OVER|adv.|(more than) plu quam; (too much) tro|
+OVER AGAIN|adv.|ancor un vez, denov|
+OVERALLS|n.|surtut|
 OVERAWE|v.|intimidar|
 OVERBALANCE|v.|perdir equilibrie|
-OVERBEARING|XXX|arogant|
-OVERBOARD|XXX|trans bord|
-OVERCAST|XXX|nubosi, nube-covrit|
-OVERCOAT|XXX|paletó|
+OVERBEARING|adj.|arogant|
+OVERBOARD|adv.|trans bord|
+OVERCAST|adj.|nubosi, nube-covrit|
+OVERCOAT|n.|paletó|
 OVERCOME|v.|superar, victer; subjugar|
 OVERDO|v.|superfar, exagerar, tro usar; fatigar; (cul.) tro cocinar|
-OVERDOSE|XXX|dosa excessiv|
+OVERDOSE|n.|dosa excessiv|
 OVERDRAW|v.|(an account) superpassar li active, exhauster|
-OVERDUE|XXX|retardat, in retard; expirat|
+OVERDUE|adj.|retardat, in retard; expirat|
 OVERFLOW|v.|superabundar; (river) debordar, inundar, superfluer|
-OVERGROWN|XXX|tro crescet; covrit de|
+OVERGROWN|adj.|tro crescet; covrit de|
 OVERHANG|v.|superpender; projecter|
 OVERHAUL|v.|(overtake) rejunter se con, atinger; (examine) examinar, reparar|
-OVERHEAD|XXX|supra, in supra|
+OVERHEAD|adv.|supra, in supra|
 OVERHEAR|v.|audir per hasarde|
 OVERLAP|v.|supercovrir, in parte coincider|
 OVERLAY|v.|superposir|
 OVERLOOK|v.|indulger, pardonar, ignorar; (fail to notice) ne remarcar; (supervise) survigilar, controlar, inspector; (look over) super-regardar|
-OVERNIGHT|XXX|durante li nocte; yer-vésper, li vésper anteyan|
+OVERNIGHT|adv.|durante li nocte; yer-vésper, li vésper anteyan|
 OVERPOWER|v.|subjugar, victer, dominar|
 OVERRATE|v.|taxar tro alt|
 OVERREACH|v.|perdir equilibrie, super-rusar, dupar|
@@ -10422,42 +10427,43 @@ OVERRULE|v.|imposir un veto, anullar; dominar|
 OVERRUN|v.|desolar; inundar, debordar|
 OVERSEAS|adj.|transmarin|
 OVERSEAS|adv.|trans li mare|
-OVERSEER|XXX|inspector, supervisor, controlero|
+OVERSEER|n.|inspector, supervisor, controlero|
 OVERSHADOW|v.|superombrar, obscurar|
-OVERSHOES|XXX|galoches|
-OVERSIGHT|XXX|omission, ínatention, erra|
+OVERSHOE|n.|galoche|
+OVERSHOES|n.pl.|galoches|XXX TODO -- This plural is the original. Remove?
+OVERSIGHT|n.|omission, ínatention, erra|
 OVERSTATE|v.|exagerar (-ation)|
 OVERSTEP|v.|exceDer, violar, preterpassuar|
-OVERT|XXX|apert, public|
+OVERT|adj.|apert, public|
 OVERTAKE|v.|rejunter se con, atinger|
 OVERTHROW|v.|subverTer (-sion), renversar, destructer|
-OVERTIME|XXX|labor ultra-horal, extra hores|
-OVERTURE|XXX|overtura, prelude; proposition|
+OVERTIME|n.|labor ultra-horal, extra hores|
+OVERTURE|n.|overtura, prelude; proposition|
 OVERTURN|v.|renversar (se); subverter|
-OVERWEENING|XXX|pretensiosi, arogant|
-OVERWEIGHT|XXX|tro pesant|
+OVERWEENING|adj.|pretensiosi, arogant|
+OVERWEIGHT|adj.|tro pesant|
 OVERWHELM|v.|aplastar, anihilar; submerser, supresser|
-OVERWHELMING|XXX|preponderant|
-OVERWROUGHT|XXX|enervat|
-OVIPAROUS|XXX|ovipari|
-OVUM|XXX|ove|
+OVERWHELMING|adj.|preponderant|
+OVERWROUGHT|adj.|enervat|
+OVIPAROUS|adj.|ovipari|
+OVUM|n.|ove|
 OWE|v.|debir|
-OWING TO|XXX|pro; mersí a; caus, per cause de|
-OWL|XXX|ul; (horned) guf|
+OWING TO|prep.|pro; mersí a; caus, per cause de|
+OWL|n.|ul; (horned) guf|
 OWN|adj.|propri|
 OWN|v.|posseder, haver; (avow) confesser, aconosser|
-OWNER|XXX|proprietario, possessor|
-OX|XXX|bove (-allia)|
-OXFLY|XXX|tabane|
-OXIDE|XXX|oxide (-ar, -ation)|
-OXY-ACETILENE|XXX|oxi-acetilen|
-OXYGEN|XXX|oxigen|
-OXYTONE|XXX|oxitone|
-OYSTER|XXX|ostre|
-OZONE|XXX|ozon|
+OWNER|n.|proprietario, possessor|
+OX|n.|bove (-allia)|
+OXFLY|n.|tabane|
+OXIDE|n.|oxide (-ar, -ation)|
+OXY-ACETILENE|n.|oxi-acetilen|
+OXYGEN|n.|oxigen|
+OXYTONE|n.|oxitone|
+OYSTER|n.|ostre|
+OZONE|n.|ozon|
 PACE|n.|(step) passu (-ar); (speed) rapidore|
 PACIFIC|adj.|pacific (-ar, -ation)|
-PACIFISM|XXX|pacifisms (-ist)|
+PACIFISM|n.|pacifisme (-ist)|
 PACIFY|v.|pacificar|
 PACK|n.|pacca; (of animals) bande, trupp, horde; (of hounds) meute|
 PACK|v.|paccar, inballar|

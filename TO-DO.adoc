@@ -72,6 +72,7 @@
 - Change "prefix." -> "prefix"/"pref.".
 - Fix: "STILL ancor" is missing. "ancor" is mentioned only in "YET".
 - Add adv. usages to "NEVERTHELESS" and "HOWEVER".
+- "YORE" is missing.
 
 == Doubts
 
