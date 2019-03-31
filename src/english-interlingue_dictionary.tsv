@@ -11,7 +11,6 @@ A ONE|n.|unen|
 A PIECE OF NEWS|n.|un nova|
 A SMATTERER IN PHILOSOPHY|n.|un filosofastro|
 A WORK OF SUPEREROGATION|n.|superflú bonitá|
-TAKEN ABACK|adj.|consternat, perplex, surprisat|
 ABAFT|adj.|vers li sterne|
 ABANDON|n.|licentie|
 ABANDON|v.|abandonar, ceder|
@@ -50,8 +49,8 @@ ABORIGINES|n.|primitives, aborigines|
 ABORT|v.|aborter (-ion)|
 ABORTION|n.|aborte, misparturition|
 ABOUND|v.|abundar (-ant, -antie), pulular|
-ABOUT|prep.|concernent, pri; (around) circum|
 ABOUT|adv.|(approx.) circa|
+ABOUT|prep.|concernent, pri; (around) circum|
 ABOVE|adv.|supra, ad-supra; (more than) plu quam|
 ABOVE|prep.|súper|
 ABOVE ALL|adv.|precipue, ante omnicos|
@@ -94,9 +93,9 @@ ACCENT|n.|accentu (-al, -ar, -ation); (of speech) parla-maniere|
 ACCEPT|v.|acceptar (-ation)|
 ACCEPTABLE|adj.|acceptabil, agreabil|
 ACCESS|n.|accesse (-ibil, -ion)|
+ACCESSORIES|n.pl.|accessories|
 ACCESSORY|adj.|accessori|
 ACCESSORY|n.|accessorie|
-ACCESSORIES|n.pl.|accessories|
 ACCIDENCE|n.|flexion, morfologie|
 ACCIDENT|n.|accidente (-al), chance, hasarde|
 ACCLAIM|v.|aclamar (-ation, -atori)|
@@ -177,12 +176,12 @@ ADDICT|n.|sclave|
 ADDICT ONESELF TO|v.|habituar se a|
 ADDLE|v.|confuser, putrir|
 ADDLEBRAINED|adj.|stult, stupid|
-ADDRESS|v.|(letters) directer, adressar; (a person) adparlar|
 ADDRESS|n.|adresse (-ate, -arium); (speech) discurse, parlation|
+ADDRESS|v.|(letters) directer, adressar; (a person) adparlar|
 ADDRESSEE|n.|destinatario|
 ADDUCE|v.|citar, alegar|
-ADEPT|n.|adepte|
 ADEPT|adj.|adept, habil|
+ADEPT|n.|adepte|
 ADEQUATE|adj.|adequat, suficent|
 ADHERE|v.|adherer (-ente, -Sion, -Siv)|
 ADHESIVE|n.|adhesive, colle|
@@ -213,8 +212,8 @@ ADORE|v.|adorar (-abil, -ation, -ator)|
 ADORN|v.|ornar (-ament), decorar|
 ADROIT|adj.|habil, astut, capabil|
 ADULATE|v.|adular (-ation, -ator), flattar|
-ADULT|n.|adulte|
 ADULT|adj.|adult, plen-crescet|
+ADULT|n.|adulte|
 ADULTERATE|v.|falsar, corupter|
 ADULTERY|n.|adultérie|
 ADUMBRATE|v.|esquissar|
@@ -276,8 +275,8 @@ AFTERWARDS|adv.|poy, plu tard, pos to|
 AGAIN|adv.|denov|
 AGAINST|prep.|contra; (towards) vers; (close to) apu|
 AGATE|n.|agate|
-AGE|v.|far old, devenir old|
 AGE|n.|etá; (period) era, epoca, témpor|
+AGE|v.|far old, devenir old|
 AGENCY|n.|agentie, agentura; (place) agentia|
 AGENDA|n.|labor-órdine, agende|
 AGENT|n.|agente, comissionario|
@@ -293,8 +292,8 @@ AGHAST|adj.|consternat, horret|
 AGILE|adj.|agil (-itá), alert|
 AGITATE|v.|agitar (-ation, -ator)|
 AGLOW|adj.|ardent, fervent|
-AGNOSTIC|n.|agnostico|
 AGNOSTIC|adj.|agnostic|
+AGNOSTIC|n.|agnostico|
 AGO|n.|ante|
 AGONIZE|v.|tormentar, agonisar|
 AGONY|n.|torment(es), agonie|
@@ -311,8 +310,8 @@ AIDE-DE-CAMP|n.|adjutante|
 AIL|v.|haver maladie, esser malad|
 AIM|n.|scope, intention|
 AIM|v.|visar; (gun) apuntar|
-AIR|v.|aerar, ventilar|
 AIR|n.|aere; (mus.) arie, melodie; (appearance) aspecte, aparentie; (manner) geste, maniere|
+AIR|v.|aerar, ventilar|
 AIRTIGHT|adj.|hermetic, ínpenetrabil|
 AIRY|adj.|bon ventilat; spaciosi|
 AISLE|n.|ale|
@@ -351,8 +350,8 @@ ALIMENT|n.|aliment (-ari, -ation), nutriment|
 ALIMONY|n.|aliment-moné|
 ALIVE|adj.|vivent; vivid, alert, vivaci|
 ALKALI|n.|alcali (-in)|
-ALL|n.|(everything) omnicos; (the whole) li totalité, lu tot|
 ALL|adj.|(all the) omni|
+ALL|n.|(everything) omnicos; (the whole) li totalité, lu tot|
 ALL BUT|adv.|presc|
 ALL OVER EUROPE|adv.|tra tot Europa|
 ALL THE YEAR ROUND|adv.|li tot annu|
@@ -398,8 +397,8 @@ ALP|n.|alpe (-in)|
 ALPACA|n.|alpaca|
 ALPHABET|n.|alfabete (-ic)|
 ALREADY|adv.|ja|
-ALSO|conj.|anc|
 ALSO|adv.|(moreover) adplu|
+ALSO|conj.|anc|
 ALTAR|n.|altare|
 ALTER|v.|alterar (-ation), changear, mutar, modificar|
 ALTERNATE|adj.|alternant|
@@ -464,8 +463,8 @@ AN|art.|un|
 ANACHRONISM|n.|anacronisme|
 ANAEMIA|n.|anemie (-ic)|
 ANAESTHESIA|n.|anestesie|
-ANAESTHETIC|n.|anestetico|
 ANAESTHETIC|adj.|anestetic (-a)|
+ANAESTHETIC|n.|anestetico|
 ANAGRAM|n.|anagramma|
 ANALOGY|n.|analog (-ie)|XXX FIXME -- analog/ie
 ANALYSE|v.|analisar|
@@ -516,8 +515,8 @@ ANNOTATE|v.|anotar (-ation)|
 ANNOUNCE|v.|anunciar, notificar, proclamar|
 ANNOUNCEMENT|n.|anuncie, proclamation|
 ANNOY|v.|vexar, molestar, trublar, genar|
-ANNUAL|n.|(book) annuarium; (plant) annuale|
 ANNUAL|adj.|annual|
+ANNUAL|n.|(book) annuarium; (plant) annuale|
 ANNUITY|n.|annuitá|
 ANNUL|v.|anullar, abolir, abrogar|
 ANNUNCIATION|n.|Anunciation|
@@ -635,11 +634,11 @@ APPRENTICE|n.|aprentiso (-age)|
 APPRISE|v.|avisar, informar, notificar|
 APPROACH|v.|aproximar se, avicinar se, ear al incontra de|
 APPROBATION|n.|aprobation|
-APPROPRIATE|v.|apropriar (-ation)|
 APPROPRIATE|adj.|convenent, scope-conform, apt|
+APPROPRIATE|v.|apropriar (-ation)|
 APPROVE|v.|aprobar|
-APPROXIMATE|v.|aproximar (se)|
 APPROXIMATE|adj.|aproximativ|
+APPROXIMATE|v.|aproximar (se)|
 APPROXIMATELY|adv.|circa|
 APPURTENANCES|n.|accessories, garnitura, requisites|
 APRICOT|n.|abricot|
@@ -698,8 +697,8 @@ ARMOURY|n.|arsenale; armería|
 ARMPIT|n.|axille|
 ARMY|n.|armé|
 AROMA|n.|aroma (-tic), odore, parfum|
-AROUND|prep.|circum|
 AROUND|adv.|(approx.) circa, pluminu|
+AROUND|prep.|circum|
 AROUSE|v.|alarmar, avigilar; (stir up) excitar, iritar|
 ARQUEBUS|n.|arcabuse (-ero)|
 ARRACK|n.|aracc|
@@ -819,6 +818,7 @@ AT ANY RATE|adv.|in omni casu|
 AT EASE|adv.|sin gena|
 AT FIRST|adv.|in prim|
 AT FIRST SIGHT|adv.|ye prim vise|
+AT HALFMAST|adv.|ye demí-mast|
 AT HAND|adv.|che manu, proxim|
 AT HOME|adv.|in hem|
 AT ISSUE|adv.|in dispute, in question|
@@ -1055,8 +1055,8 @@ BARBARIAN|n.|barbaro (-ic, -ie, -isar)|
 BARBER|n.|barbero, rasator|
 BARBICAN|n.|garda-turre, watch-turre, barbacan|
 BARD|n.|bardo (-ic)|
-BARE|v.|nudar; decoltar|
 BARE|adj.|nud, simplic; (empty) vacui; (mean) mesquin, miserabil|
+BARE|v.|nudar; decoltar|
 BAREFACED|adj.|ínpudent, audaci, arogant|
 BAREFOOTED|adj.|nudipedi, nudipedat|
 BAREHEADED|adj.|nudicapat|
@@ -1331,8 +1331,8 @@ BELLOWS|n.|sufflette, suffluore|
 BELLY|n.|ventre, abdómine|
 BELONG|v.|apartener|
 BELONGINGS|n.|possedage, proprieté|
-BELOVED|n.|cara, caro|
 BELOVED|adj.|car, amat, carissim|
+BELOVED|n.|cara, caro|
 BELOW|adv.|infra, in infra|
 BELOW|prep.|sub|
 BELOW PAR|adv.|infra pari|
@@ -1394,8 +1394,8 @@ BETIMES|adv.|tost, in bon témpor|
 BETOKEN|v.|signar, indicar; (mean) significar|
 BETRAY|v.|trahir; (show) monstrar, revelar; (seduce) seducter|
 BETROTH|v.|sponder|
-BETTER|v.|ameliorar|
 BETTER|adj.|melior, plu bon; (health) plu san|
+BETTER|v.|ameliorar|
 BETWEEN|prep.|ínter|
 BETWEENDECKS|n.|interponte|
 BEVEL|v.|biselar (-at)|
@@ -1583,8 +1583,8 @@ BLUFF|n.|cliff; (bluffing) bluff|
 BLUFF|v.|decepter, dupar, bluffar|
 BLUNDER|v.|errar; ear inhabilmen; (stumble) mispassuar|
 BLUNDER|n.|erra, defecte, fals passu|
-BLUNT|v.|blasar|
 BLUNT|adj.|obtusi, desacut; abrupt|
+BLUNT|v.|blasar|
 BLUR|v.|nebular|
 BLURT OUT|v.|parlar íncautmen, revelar|
 BLUSH|v.|rubijar|
@@ -1627,7 +1627,6 @@ BOMBARD|v.|bombardar (-ament)|
 BOMBAST|n.|bombast (-ic)|
 BOMBER|n.|bombavion, porta-bombes|
 BON-MOT|n.|esprite, "bon-mot"|
-BONMOT|n.|esprite, "bon-mot"|
 BONA FIDE|adj.|genuin; in bon fide|
 BOND|n.|(tie) bande; (legal) contracte; (money) obligation|
 BONDAGE|n.|captivitá, sclaveríe, servitude|
@@ -1636,6 +1635,7 @@ BONE|v.|desossar|
 BONE|n.|osse (-in, -osi, -ament, -age, -ificar)|
 BONE OF CONTENTION|n.|pom de discordie|
 BONFIRE|n.|foy, festa-foy|
+BONMOT|n.|esprite, "bon-mot"|
 BONNET|n.|cofie|
 BONNY|adj.|jolli, pretti|
 BONUS|n.|premie, extra dividende|
@@ -1687,8 +1687,8 @@ BOUGH|n.|branche, rame|
 BOULDER|n.|rocca, rul-petre|
 BOULEVARD|n.|bulevard|
 BOUNCE|v.|retrosaltar, ricochettar|
-BOUND|n.|(a leap) salta|
 BOUND|adj.|(obliged) obligat|
+BOUND|n.|(a leap) salta|
 BOUND|v.|saltar; (limit); bornar|
 BOUND FOR|prep.|destinat a|
 BOUNDARY|n.|frontiere, límite|
@@ -1747,8 +1747,8 @@ BRANDY|n.|brandie, aquavite|
 BRASS|n.|latune|
 BRAT|n.|infantache|
 BRAVADO|n.|fanfaronada, defiation|
-BRAVE|v.|bravar|
 BRAVE|adj.|corageosi, brav|
+BRAVE|v.|bravar|
 BRAWL|v.|querellar vocosimen, rixar|
 BRAWN|n.|puré de carne; fortie musculari|
 BRAY|v.|criachar (quam ásino)|
@@ -1881,8 +1881,8 @@ BUCOLIC|adj.|bucolic, pastoral|
 BUD|n.|burgeon (-ar)|
 BUDGE|v.|moer|
 BUDGET|n.|budgete|
-BUFF|n.|buffle-cute|
 BUFF|adj.|yelbatri|
+BUFF|n.|buffle-cute|
 BUFFALO|n.|buffle|
 BUFFER|n.|para-choc, buffre|
 BUFFET|n.|bufete; (blow) colpe|
@@ -2039,7 +2039,6 @@ CAFE|n.|restorería, cafeería, café|
 CAFFEIN|n.|cafeine|
 CAGE|v.|incagear|
 CAGE|n.|cage|
-COGNATE|adj.|parent, afini|
 CAIRN|n.|cairn, tumul|
 CAISSON|n.|munition-vagone; casson|
 CAJOLE|v.|persuader, flattar, adular|
@@ -2071,11 +2070,11 @@ CALL TO MIND|v.|rememorar|
 CALLING|n.|profession, mestiere, artise|
 CALLIPERS|n.|calibre-compasse|
 CALLOSITY|n.|calle|
-CALLOUS|n.|calle|
 CALLOUS|adj.|ínsensibil, ínsusceptibil|
+CALLOUS|n.|calle|
 CALLOW|adj.|ínmatur|
-CALM|v.|calmar, tranquilisar|
 CALM|adj.|calm, tranquil, quiet|
+CALM|v.|calmar, tranquilisar|
 CALOMEL|n.|calomel|
 CALORY|n.|calorie (-ific)|
 CALUMNY|n.|calumnie (-ar, -osi)|
@@ -2331,8 +2330,8 @@ CENSER|n.|incensuore|
 CENSOR|n.|censor|
 CENSURE|n.|blama (-ar), censura (-ar), reprimande (-ar)|
 CENT|n.|centime|
-CENTENARY|n.|centenarie|
 CENTENARY|adj.|centenari|
+CENTENARY|n.|centenarie|
 CENTI|prefix) (in comp.|centi-litre, -metre, -pede|
 CENTRE|n.|centre (-al, -ale, -alisar)|
 CENTRE OF GRAVITY|n.|centre de gravitation, bari centre|
@@ -2624,11 +2623,11 @@ CLATTER|v.|raslar (-ada), babillar|
 CLAUSE|n.|stipulation, condition; (gramm.) cláusul|
 CLAW|n.|griffe, ungul|
 CLAY|n.|argil (-iera, -osi)|
-CLEAN|v.|nettar, demuddar|
 CLEAN|adj.|pur, nett, chast|
+CLEAN|v.|nettar, demuddar|
 CLEANSE|v.|apurar, purificar, nettar|
-CLEAR|v.|(of guilt) exculpar; (to empty) vacuar; (to clear up) aclarar, explicar; (get rid of) desembarassar se de; (throat) tussettar|
 CLEAR|adj.|clar, evident, lucid, limpid; (clear of) líber de|
+CLEAR|v.|(of guilt) exculpar; (to empty) vacuar; (to clear up) aclarar, explicar; (get rid of) desembarassar se de; (throat) tussettar|
 CLEARING|n.|(in forest) clariera|
 CLEAT|n.|clamp|
 CLEAVE|v.|fender; (to stick) adherer, aglutinar se|
@@ -2749,13 +2748,12 @@ COG|n.|dente|
 COGENT|adj.|convictiv|
 COGITATE|v.|meditar, reflecter|
 COGNAC|n.|cognac|
+COGNATE|adj.|parent, afini|
 COGNOMEN|n.|co-nómine|
 COGWHEEL|n.|rote dentat|
 COHABIT|v.|cohabitar|
 COHERE|v.|coherer (-ent)|
 COHESION|n.|cohesion|
-CONFIGURATION|n.|configuration|
-CONTEMPORARY|n.|contemporane|
 COIFFURE|n.|cofie|
 COIL|v.|voluer, spular, invelopar|
 COIL|n.|spul, rul|
@@ -2855,8 +2853,8 @@ COMMODE|n.|comode|
 COMMODIOUS|adj.|comod, spaciosi, vast, ampli|
 COMMODITY|n.|merce|
 COMMODORE|n.|comodore|
-COMMON|n.|comun pastura;|
 COMMON|adj.|comun, ordinari, banal, trivial, vulgari, frequent|
+COMMON|n.|comun pastura;|
 COMMONALTY|n.|comunitá, populache|
 COMMONER|n.|cive|
 COMMONPLACE|adj.|banal (-itá), ordinari|
@@ -2979,6 +2977,7 @@ CONFER|v.|conferer (-entie. -entiero); (bestow) dar; (consult) consultar|
 CONFESS|v.|declarar, confesser (-ion, -or, -ionale)|
 CONFIDE|v.|confider (-ent, -entie, -ential)|
 CONFIDENT|adj.|cert|
+CONFIGURATION|n.|configuration|
 CONFINE|n.|confine|
 CONFINE|v.|limitar, restricter, incarcerar, confinar; (childbirth) acuchar|
 CONFIRM|v.|confirmar (-ation), constatar|
@@ -3082,6 +3081,7 @@ CONTAMINATE|v.|contaminar (-ation), polluer, infecter (-ion)|
 CONTEMN|v.|despecter, despreciar|
 CONTEMPLATE|v.|contemplar (-ation, -ativ)|
 CONTEMPORANEOUS|adj.|contemporan (-ie)|
+CONTEMPORARY|n.|contemporane|
 CONTEMPT|n.|despection|
 CONTEMPTIBLE|adj.|abject, depreciabil|
 CONTEMPTUOUS|adj.|orgolliosi, depreciant, sarcastic|
@@ -3097,8 +3097,8 @@ CONTEXT|n.|contextu (-al)|
 CONTIGUOUS|adj.|contigui (-tá)|
 CONTINENT|adj.|chast, abstenent|
 CONTINENT|n.|continente (-al)|
-CONTINGENT|n.|contingente|
 CONTINGENT|adj.|dependent de|
+CONTINGENT|n.|contingente|
 CONTINUAL|adj.|continui (-tá), íncessant|
 CONTINUE|v.|continuar (-ation), extenDer|
 CONTORT|v.|torDer (-sion)|
@@ -3159,8 +3159,8 @@ CONVULSE|v.|convulser (-ion, -iv)|
 COO|v.|rucular (-ada)|
 COOK|v.|cocinar (-ero, -era, -ería)|
 COOKERY|n.|cocine, arte culinari|
-COOL|v.|(re)frigidar|
 COOL|adj.|frigid, frisc; (fig.) calm, índiferent, flegmatic, ínturbat|
+COOL|v.|(re)frigidar|
 COOLIE|n.|culi|
 COOLING|n.|(mech.) refrigidation|
 COOLNESS|n.|aplombe|
@@ -3182,8 +3182,8 @@ COQUETTISH|adj.|coquet (-ar, -eríe)|
 CORAL|n.|coralle (-in)|
 CORAL ISLAND|n.|atoll|
 CORD|n.|corde (-age)|
-CORDIAL|n.|cordiale|
 CORDIAL|adj.|cordial (-itá)|
+CORDIAL|n.|cordiale|
 CORDITE|n.|cordite|
 CORDON|mil.|cordon|
 CORE|n.|nucleo, cordie; quintessentie|
@@ -3348,8 +3348,8 @@ CRATE|n.|chest, pacca-corbe|
 CRATER|n.|crátere|
 CRAVAT|n.|cravatte|
 CRAVE|v.|implorar, suplicar; (crave for) avidar|
-CRAVEN|n.|poltron|
 CRAVEN|adj.|caudari|
+CRAVEN|n.|poltron|
 CRAWFISH|n.|crev|
 CRAWL|v.|repter|
 CRAYON|n.|pastelle|
@@ -3590,8 +3590,8 @@ DAGGER|n.|puniale|
 DAHLIA|n.|dalia|
 DAILY|adj.|dial, diari|
 DAILY|n.|diale|
-DAINTY|n.|gurmandage|
 DAINTY|adj.|delicat (-esse), fin, pretti|
+DAINTY|n.|gurmandage|
 DAIRY|n.|lacteria|
 DAIRY MAID|n.|lactera|
 DAIS|n.|estrade, tribune|
@@ -3663,13 +3663,13 @@ DEADLOCK|n.|stagnation, cessation|
 DEADLY|adj.|mortal, fatal|
 DEADLY NIGHTSHADE|n.|belladonna|
 DEAF|adj.|surd (-ar)|
+DEAF-MUTE|adj.|surdimut|
+DEAF-MUTE|n.|surdimuto|
 DEAL|v.|(cards) distribuer, dar; (trade) mercar, negociar; (trade with) comprar che; (a blow) far, inflicter; (deal with) liquidar, executer|
 DEAL|n.|parte, portion; (timber) planca|
 DEALER|n.|comerciante, mercator, mercero, negociant|
 DEALINGS|n.|interrelationes, tráfic, negociationes|
 DEAN|n.|decan (-atu)|
-DEAF-MUTE|n.|surdimuto|
-DEAF-MUTE|adj.|surdimut|
 DEAR|adj.|car, amat; (costly) custosi, car, expensiv|
 DEARTH|n.|manca, indigentie, scarsitá|
 DEATH|n.|morte (-al, -alitá)|
@@ -4033,8 +4033,8 @@ DILL|n.|anete|
 DILLY-DALLY|v.|procrastinar|
 DILUTE|v.|diluer (-tion)|
 DILUVIAL|adj.|diluvial|
-DIM|v.|obscurar|
 DIM|adj.|obscur, ínclar, pallid, debil|
+DIM|v.|obscurar|
 DIMENSION|n.|dimension (-al), mesura|
 DIMINISH|v.|(di)minuer (-tion, -tiv), decrescer|
 DIMPLE|n.|cavette|
@@ -4066,8 +4066,8 @@ DIRGE|n.|himne funeral, elegie|
 DIRIGIBLE|n.|ballon directibil|
 DIRK|n.|puniale|
 DIRT|n.|crasse, sordidallia, sordidage; (mud) fango, mudde|
-DIRTY|v.|incrassar|
 DIRTY|adj.|sordid, ínpur|
+DIRTY|v.|incrassar|
 DISABLE|v.|far íncapabil, debilisar, desvalidar; (cripple) mutilar|
 DISABUSE|v.|desilusionar|
 DISADVANTAGE|n.|desavantage, detriment, damage|
@@ -4392,8 +4392,8 @@ DOXOLOGY|n.|doxologie|
 DOZE|n.|somniacie|
 DOZE|v.|dormiettar, somnoler|
 DOZEN|n.|dozene, deciduene|
-DRAB|n.|salopa|
 DRAB|adj.|monoton, brun-grisi; ínatrativ|
+DRAB|n.|salopa|
 DRAFT|n.|(money) tratte; (mil.) section; (lit.) esquisse, plan, concepte, cladde|
 DRAFT|v.|(draw up) redacter; (mil.) misser, selecter, expedir|
 DRAG|n.|dragg; impediment|
@@ -4477,8 +4477,8 @@ DRUNK|adj.|ebri, ebriat (in-ar)|
 DRUNKARD|n.|trincard, trincon|
 DRUNKEN|adj.|ebri, ebriat (in-ar)|
 DRUNKENNESS|n.|ebrietá, trinc-manie|
-DRY|v.|assiccar|
 DRY|adj.|sicc, arid; (fig.) laconic, íninteressant, enoyant|
+DRY|v.|assiccar|
 DRY-ROT|n.|planc-fungo|
 DUAL|adj.|dual (-isme)|
 DUB|v.|nominar, titular|
@@ -4510,8 +4510,8 @@ DUMP|n.|cumul de jettallia, amasse|
 DUMP|v.|(comm.) dumpar; jettar, deposir, bascular|
 DUMPS|n.|melanoolie, mal humor|
 DUMPY|adj.|stumpi; curt e spess|
-DUN|v.|importunar; postular payament|
 DUN|adj.|gris-brun|
+DUN|v.|importunar; postular payament|
 DUNCE|n.|stulton|
 DUNE|n.|dune|
 DUNG|n.|sterco (-ar), excrement|
@@ -4555,8 +4555,8 @@ EAR-SPLITTING|adj.|assurdant|
 EARL|n.|comto (-atu)|
 EARLY|adj., adv.|tost, temporan|
 EARN|v.|ganiar; meriter|
-EARNEST|n.|garantie|
 EARNEST|adj.|sinceri, fervid, zelosi|
+EARNEST|n.|garantie|
 EARNINGS|n.|ganie|
 EARTH|n.|terre, suol; (the earth) terra (-an, -estri)|
 EARTHENWARE|n.|potteríe, fayance|
@@ -4581,8 +4581,8 @@ EBB|n.|bass marea, reflut|
 EBB AND FLOW|n.|flut e reflut|
 EBONY|n.|eben|
 EBULLIENT|adj.|bolllent|
-ECCENTRIC|n.|originale, particulard|
 ECCENTRIC|adj.|excentric (-itá)|
+ECCENTRIC|n.|originale, particulard|
 ECCLESIASTIC|adj.|eclesiastic (-o), eclesial|
 ECHO|n.|ecó (-ar)|
 ECHO|v.|ecoar, repercusser (se)|XXX FIXME -- ecoar/ecóar (this entry was extracted from the noun)
@@ -4754,8 +4754,8 @@ EMPLOY|v.|employar (-ament, -ate); ocupar; usar, utilisar, aplicar; prender in s
 EMPORIUM|n.|magasine, bazar|
 EMPOWER|v.|autorisar|
 EMPRESS|n.|imperatressa|
-EMPTY|v.|(e)vacuar|
 EMPTY|adj.|vacui (-tá)|
+EMPTY|v.|(e)vacuar|
 EMU|n.|emu|
 EMULATE|v.|emular (-ation)|
 EMULSION|n.|emulsion|
@@ -4907,7 +4907,6 @@ EPITOME|n.|epitomé, compendie|
 EPOCH|n.|epoca|
 EPOPEE|n.|epopé|
 EPOS|n.|epos|
-EQUINE|adj.|cavallatri|
 EQUABLE|adj.|placid, uniform, ínvariabil|
 EQUAL|adj.|egal (-isar, -itá, -itari)|
 EQUANIMITY|n.|calmesse, tranquilanimitá|
@@ -4918,6 +4917,7 @@ EQUERRY|n.|stall-mastro, oficero del reyal menage|
 EQUESTRIAN|adj.|cavalcatori|
 EQUESTRIAN|n.|cavalcator|
 EQUI|prefix|as in English: equiangulari, -distant, -librie, -lateral, -noctie|
+EQUINE|adj.|cavallatri|
 EQUIP|v.|equipar, provider (per), munir|
 EQUIPAGE|n.|equipage, suita|
 EQUIPMENT|n.|equipament, tacle|
@@ -4953,9 +4953,9 @@ ESCHEW|v.|evitar|
 ESCORT|n.|escorte|
 ESCORT|v.|escortar, acompaniar, convoyar|
 ESCUTCHEON|n.|insigne, scud|
-ESOTERIC|adj.|esoteric|
 ESKIMO|n.|eskimó|
 ESOPHAGUS|n.|esofag|
+ESOTERIC|adj.|esoteric|
 ESPALIER|n.|spaliere|
 ESPECIAL|adj.|apart|
 ESPECIALLY|adv.|precipue|
@@ -5001,8 +5001,8 @@ EVANESCENT|adj.|desaparient, efemeri|
 EVANGEL|n.|evangelie (-ic)|
 EVAPORATE|v.|evaporar (-ation)|
 EVE|n.|véspere|
-EVEN|adv.|mem|
 EVEN|adj.|(flat) plan, plat; (smooth) glatt; (equal) egal, quitt; (not odd) pari|
+EVEN|adv.|mem|
 EVEN SO|adv.|e ancor|
 EVENING|n.|véspere|
 EVENING-DRESS|n.|costume de societé|
@@ -5019,8 +5019,8 @@ EVERYWHERE|adv.|partú, in omni loc|
 EVICT|v.|evicter (-ion), expulser|
 EVIDENCE|n.|testimonie, atestation, indicationes|
 EVIDENT|adj.|evident|
-EVIL|n.|male, lu mal|
 EVIL|adj.|mal, malevolent, maliciosi|
+EVIL|n.|male, lu mal|
 EVINCE|v.|indicar, manifestar, monstrar|
 EVISCERATE|v.|eviscerar|
 EVOKE|v.|evocar (-ation)|
@@ -5030,8 +5030,8 @@ EWE|n.|agna|
 EWER|n.|aquiere, aqua-cruche|
 EX|prefix|as in English: ex-oficero, -presidente|
 EXACERBATE|v.|exacerbar (-ation), agravar,|
-EXACT|v.|exiger, extorDer, postular|
 EXACT|adj.|exact (-itá), precisi|
+EXACT|v.|exiger, extorDer, postular|
 EXAGGERATE|v.|exagerar (-ation)|
 EXALT|v.|exaltar (-ation), laudar|
 EXALTED|adj.|eminent, altissim, exaltat|
@@ -5198,8 +5198,8 @@ FAILURE|n.|bancrotte, dessuccesse, defecte; cessation, falliment|
 FAINT|adj.|debil, pallid|
 FAINT|v.|evanescer (-ement)|
 FAINT-HEARTED|adj.|pusilanim, timid, decorageosi|
-FAIR|n.|ferie|
 FAIR|adj.|bell, pretti; blond; honest, ínpartial, just, "fair"; seren|
+FAIR|n.|ferie|
 FAIR-COPY|n.|nettage|
 FAIRLY|adv.|honestmen, justmen; (enough) sat, passabilmen, alquant|
 FAIRY|adj.|feeric|
@@ -5265,8 +5265,8 @@ FASCINATE|v.|fascinar (-ation), charmar|
 FASHION|v.|fassonar|
 FASHION|n.|moda; maniere, custom; (cut of garment) fasson|
 FASHIONABLE|adj.|secun li moda|
-FAST|n.|carema (-ar), abstinentie|
 FAST|adj.|rapid, veloci; fix, stabil, firm; (of clock) avansat, tro rapid|
+FAST|n.|carema (-ar), abstinentie|
 FASTEN|v.|fixar, ligar, serrar; (a dress) agraffar|
 FASTIDIOUS|adv.|desfacilmen satisfat|
 FAT|adj.|grassi, corpulent|
@@ -5470,9 +5470,9 @@ FISSION|n.|fission|
 FISSURE|n.|fissura, fensura|
 FIST|n.|punie|
 FISTULA|n.|fistul|
+FIT|adj.|apt, bon, util; decent; in bon statu; san|
 FIT|n.|humor, capricie; (med.) accesse, convulsion, paroxisme|
 FIT|v.|adaptar, ajustar, acomodar; (fit up, fit out) equipar, provider, installar, monter; (a suit) ad-mesurar|
-FIT|adj.|apt, bon, util; decent; in bon statu; san|
 FITTER|n.|montero|
 FITTING|adj.|convenent|
 FITTINGS|n.|accessories|
@@ -5583,8 +5583,8 @@ FLUCTUATE|v.|fluctuar (-ation), variar|
 FLUE|n.|fum-tube|
 FLUENT|adj.|fluent (-ie)|
 FLUFF|n.|lanuge, flocc|
-FLUID|n.|fluide, liquide|
 FLUID|adj.|fluid, liquid (-itá)|
+FLUID|n.|fluide, liquide|
 FLUKE|n.|hasarde; (fish) pleuronecte|
 FLUNKEY|n.|lacayo, leccard, adulator; servitor in livré|
 FLUORESCENT|adj.|fluorescent|
@@ -5731,8 +5731,8 @@ FORSOOTH|adv.|vermen, advere|
 FORSWEAR|v.|abjurar, renegar; (oneself) jurar falsmen, perjurar se|
 FORT|n.|forteresse|
 FORTE|n.|fort látere (de un person)|
-FORTH|prep.|ex, fro|
 FORTH|adv., prep.|for|
+FORTH|prep.|ex, fro|
 FORTHWITH|adv.|strax|
 FORTIFY|v.|fortificar (-ation), infortiar, consolidar|
 FORTNIGHT|n.|du semanes, deciquar dies|
@@ -5749,8 +5749,8 @@ FORWARD|v.|promoer, accelerar, expedir, inviar, transmisser|
 FOSSE|n.|fosse, tranché|
 FOSSIL|adj.|fossil (-e, -isar, -iferi)|
 FOSSILIZE|v.|petrificar (se), fossilisar|
-FOSTER|v.|nutrir; cuidar, elevar|
 FOSTER|adj.|adoptiv|
+FOSTER|v.|nutrir; cuidar, elevar|
 FOUL|adj.|sordid, inpur, fetid, abominabil, desbell, mal|
 FOUL|v.|sordidar; (become entangled) implicar se|
 FOUL PLAY|n.|perfidie|
@@ -5799,8 +5799,8 @@ FRAY|v.|fricter, forfricter|
 FRAY|n.|conflicte, combatte|
 FREAK|n.|singularitá, monstruositá; (whim) marotte|
 FRECKLE|n.|lentige|
-FREE|v.|liberar|
 FREE|adj.|líber; gratuit; franc|
+FREE|v.|liberar|
 FREE FROM BIAS|adj.|ínpartial|
 FREE OF TAX|adj.|exempt de tribute|
 FREEBOOTER|n.|marodero|
@@ -5879,8 +5879,8 @@ FUGITIVE|n.|fugitor, fugiard|
 FUGUE|n.|fuga|
 FULCRUM|n.|pivot, punta de apoy|
 FULFIL|v.|far, plenar, compleer, realisar|
-FULL|v.|(cloth) fullar|
 FULL|adj.|plen, complet, tot, integri; ampli; (of food) sat|
+FULL|v.|(cloth) fullar|
 FULL-FACED|adj.|guanciut|
 FULL-GROWN|adj.|plen-crescet, adult|
 FULL-LENGTH|adj.|prosternat|
@@ -6370,8 +6370,8 @@ GREATCOAT|n.|surtute, paletó|
 GREATEST|adj.|max grand, optimal|
 GREATLY|adv.|mult, fortmen|
 GREEDY|adj.|avari (-tá). voraci; (eager) avid|
-GREEN|n.|herbiera, prate; (colour) lu verdi, verde|
 GREEN|adj.|verdi (-atri; (unripe) ínmatur; ínexpert|
+GREEN|n.|herbiera, prate; (colour) lu verdi, verde|
 GREENFLY|n.|afise|
 GREENGAGE|n.|verdi prun|
 GREENGROCER|n.|legumero, venditor de legumes|
@@ -6536,17 +6536,16 @@ HALCYON|adj.|calm, seren|
 HALCYON|n.|(bird) alcion|
 HALE|adj.|frisc, san|
 HALE|v.|trenar|
-HALF|adv.|demímen|
 HALF|adj.|demí|
+HALF|adv.|demímen|
 HALF BROTHER|n.|mi-fratre|
+HALFMAST|n.|(at) ye demí-mast|
 HALL|n.|hall, sala, salon|
 HALL-MARK|n.|stamps (sur juveles); marca de qualitá|
 HALLOW|v.|santificar, consacrar|
 HALLUCINATION|n.|halucination, ilusion|
 HALO|n.|aureol; (of moon) halo, nimbe|
 HALPBREED|n.|mestisse|
-AT HALFMAST|adv.|ye demí-mast|
-HALFMAST|n.|(at) ye demí-mast|
 HALT|adj.|(lame) claudicant|
 HALT|v.|haltar, stoppar; (of speech) hesitar|
 HALTER|n.|col-strap, cap-strap|
@@ -6604,8 +6603,8 @@ HARASS|v.|molestar, íncomodar, genar, tormentar|
 HARBINGER|n.|precursor|
 HARBOUR|n.|portu; (fig.) asil|
 HARBOUR|v.|(persons) albergar|
-HARD|adv.|fortmen|
 HARD|adj.|dur, firm, desfacil, fort, penosi, solid; (unfeeling) ínsensibil|
+HARD|adv.|fortmen|
 HARD A PORT|adv.|strett a babord|
 HARD A STARBOARD|adv.|strett a stir bord|
 HARD BY|adj.|proximissim|
@@ -6643,8 +6642,8 @@ HARROW|v.|(feelings) tormentar|
 HARRY|v.|spoliar, pilliar; tormentar, molestar|
 HARSH|adj.|aspri, brusqui, severi; (voice) rauc (-itá)|
 HART|n.|cervo|
-HARUM-SCARUM|n.|garsonacho, bube|
 HARUM-SCARUM|adj.|frivolosi, savagi|
+HARUM-SCARUM|n.|garsonacho, bube|
 HARVEST|n.|recolte (-ar, -ator)|
 HARVESTER|n.|recolte-machine|
 HAS HE COME YET?|expr.|esque il ha ja venit?|
@@ -6747,8 +6746,8 @@ HEAVEN|n.|ciel|
 HEAVENLY|adj.|cielal, cielari, celest|
 HEAVY|adj.|pesant, ponderosi|
 HEBDOMADAL|adj.|semanal|
-HEBREW|n.|hebréo|
 HEBREW|adj.|hebreic|
+HEBREW|n.|hebréo|
 HECKLE|v.|interpellar (-ator, -ard)|
 HECTIC|adj.|excitant; (med.) hectic|
 HEDGE|v.|(in)hagar; (betting) pariar bilateralmen, contra-pariar; (speech) vacillar, pariar evasivmen|
@@ -6840,8 +6839,8 @@ HIE|v.|hastar|
 HIERARCH|n.|hierarch (-ie)|
 HIEROGLYPH|n.|hieroglif (-ic)|
 HIGGLEDY-PIGGLEDY|adv., adj.|confuset, pelmel|XXX FIXME -- "pelmel" is n.
-HIGH|prep.|apu|
 HIGH|adj.|alt; (meat) desfrisc, infectet; (sea) apert|
+HIGH|prep.|apu|
 HIGH WATER|n.|alt marea|
 HIGH-CLASS|adj.|de alt classe|
 HIGH-HANDED|adj.|arbitrari, despotic|
@@ -6922,9 +6921,9 @@ HOLDER|n.|(person) tenente; (receptacle) vase, receptuore, centenente. By affixe
 HOLDING|n.|(land) parcelle; (small) hube|
 HOLE|n.|fore, apertura; (in ground) cava, antre, fosse|
 HOLIDAY|n.|vacanties; (public) die festal|
+HOLLOW|adj.|cavi (-tá); (vain) van, vacui; (of sound) obtusi, cavernal|
 HOLLOW|n.|cavitá, incavatura|
 HOLLOW|v.|(ex)cavar|
-HOLLOW|adj.|cavi (-tá); (vain) van, vacui; (of sound) obtusi, cavernal|
 HOLLY|n.|ilex|
 HOLLYHOCK|n.|malva-rose|
 HOLOCAUST|n.|holocaust|
@@ -7023,8 +7022,8 @@ HOW MUCH|adv.|quant|
 HOW MUCH IS THE FARE?|expr.|quant custa li viage?|
 HOW MUCH?|adv.|quant?|
 HOW OLD ARE YOU?|expr.|quel etá vu have?, quant annus vu have?|
-HOWEVER|conj.|támen, totvez|
 HOWEVER|adv.|(in whatever way) quamcunc|
+HOWEVER|conj.|támen, totvez|
 HOWEVER FAR IT IS|adv.|quantcunc lontan it es|
 HOWITZER|n.|haube|
 HOWL|v.|ulular, criachar; (weep) plorachar|
@@ -7060,8 +7059,8 @@ HUMPY|adj.|bossosi|
 HUMUS|n.|humo|
 HUNCH|v.|bossar, curvar|
 HUNCHBACK|n.|bosson, bossato|
-HUNDRED|n.|centene|
 HUNDRED|adj.|cent|
+HUNDRED|n.|centene|
 HUNDREDFOLD|adv., n.|centiplic|
 HUNDREDTH|adj., n.|centesim|
 HUNDREDWEIGHT|n.|quintale|
@@ -7192,8 +7191,8 @@ ILLUSTRIOUS|adj.|famosi, celebri|
 IMAGE|n.|image; icone, statue; figura, portrete|
 IMAGERY|n.|images (retoric)|
 IMAGINE|v.|imaginar (-ari, -ation), suposir|
-IMBECILE|n.|imbecile|
 IMBECILE|adj.|imbecil (-itá)|
+IMBECILE|n.|imbecile|
 IMBIBE|v.|trincar, insucar; (knowledge) absorpter|
 IMBROGLIO|n.|inbrolliada|
 IMBUE|v.|impregnar, plenar|
@@ -8068,8 +8067,8 @@ JURIST|n.|jurist (-ie)|
 JUROR|n.|jurato, membre del jurie|
 JURY|n.|jurie|
 JURY-MAST|n.|fala mast|XXX FIXME -- "fala"?
-JUST|adv.|precismen|
 JUST|adj.|just, honest, equi; (barely) apen|
+JUST|adv.|precismen|
 JUST ABOUT TO|prep.|sur li punctu de|
 JUST AS|adv.|sammen quam|
 JUSTICE|n.|justicie, equitá|
@@ -8077,8 +8076,8 @@ JUSTIFY|v.|justificar (-ation, -abil)|
 JUSTNESS|n.|justesse|
 JUT OUT|v.|prominer, projecter|
 JUTE|n.|jute|
-JUVENILE|n.|yuno, júven (-a, -o)|
 JUVENILE|adj.|juvenil, yunatri|
+JUVENILE|n.|yuno, júven (-a, -o)|
 JUXTAPOSITION|n.|juxtaposition|
 KALE|n.|caul crispat|
 KALEIDOSCOPE|n.|caleidoscop (-ic)|
@@ -8503,9 +8502,9 @@ LIAISON|n.|intriga de amore, relation amorosi; conexion, cooperation|
 LIANA|n.|liane|
 LIAR|n.|mentitor, mentiard|
 LIBATION|n.|libation|
-LIBERAL|adj.|liberal (-isme), generosi (-itá)|
 LIBEL|n.|calumnie, defamation|
 LIBEL|v.|defamar, calumniar|
+LIBERAL|adj.|liberal (-isme), generosi (-itá)|
 LIBERATE|v.|liberar (-ation, -ator)|
 LIBERTINE|adj.|libertin (-o, -isme)|
 LIBERTY|n.|libertá; privilegie|
@@ -8570,8 +8569,8 @@ LIKE|v.|amar, apreciar; (to wish) voler|
 LIKELY|adj.|versimil (-itá), probabil; (believable) credibil|
 LIKEN|v.|comparar con|
 LIKENESS|n.|similitá; portrete, image|
-LIKEWISE|conj.|anc|
 LIKEWISE|adv.|(similarly) similmen|
+LIKEWISE|conj.|anc|
 LIKING|n.|gust, inclination, preferentie, predilection|
 LILAC|n.|lila|
 LILT|n.|ritme, melodie, cadentie|
@@ -8816,8 +8815,8 @@ LUMPISH|adj.|ponderosi, pesant, gross|
 LUMPY|adj.|bulbosi|
 LUNACY|n.|dementie, alienitá, frenesie|
 LUNAR|adj.|lunari|
-LUNATIC|n.|alienato, lunatico|
 LUNATIC|adj.|lunatic|
+LUNATIC|n.|alienato, lunatico|
 LUNCH|n.|lunch (-ar)|
 LUNG|n.|pulmon (-ari)|
 LUNGE|n.|pussa, colpe|
@@ -9634,8 +9633,8 @@ MOVEMENT|n.|movement|
 MOW|v.|falcear; (with lawn mower) machin-tonder|
 MR.|n.|senior|
 MRS N. IS AT HOME ON TUESDAY|expr.|Sra. N. accepte chascun mardi|
-MUCH|n.|multcós|
 MUCH|adj.|mult|
+MUCH|n.|multcós|
 MUCH TO BE OBLIGED TO YOU|expr.|grand mersí|
 MUCILAGE|n.|mucilágine, colle, glutine|
 MUCK|n.|inpuritá, fec; (manure) sterco|
@@ -9676,8 +9675,8 @@ MUNICIPAL|adj.|municipal|
 MUNICIPALITY|n.|municipie|
 MUNIFICENT|adj.|munificent (-ie), generosi|
 MUNITION|n.|munition|
-MURAL|n.|murale|
 MURAL|adj.|mural|
+MURAL|n.|murale|
 MURDER|v.|mortar (-ation. -ator, -ard), assassinar; (a language) balbutiar, parlachar|
 MURDEROUS|adj.|mortatori|
 MURKY|adj.|tenebrosi, obscur|
@@ -9751,8 +9750,8 @@ NAPHTHALENE|n.|naftaline|
 NAPKIN|n.|serviette; toale de manu|
 NARCISSUS|n.|narcisse|
 NARCOSIS|n.|narcose|
-NARCOTIC|n.|narcotico|
 NARCOTIC|adj.|narcotic|
+NARCOTIC|n.|narcotico|
 NARD|n.|narde|
 NARRATE|v.|narrar (-ation, -ator), racontar|
 NARRATIVE|n.|raconta|
@@ -9896,8 +9895,8 @@ NIGHTLY|adv.|omni-nocte|
 NIGHTMARE|n.|cochemare|
 NIGHTWALKER|n.|somnambulist|
 NIHILISM|n.|nihilisme|
-NIL|n.|nequó|
 NIL|adv.|nequant|
+NIL|n.|nequó|
 NIMBLE|adj.|agil (-itá), activ|
 NIMBUS|n.|nimbe, aureol|
 NINCOMPOOP|n.|ínepton|
@@ -9984,9 +9983,9 @@ NOTICE|v.|remarcar, observer|
 NOTIFY|v.|notificar (-ation), avisar|
 NOTION|n.|notion, conception, idé|
 NOTORIOUS|adj.|notori (-tá)|
-NOTWITHSTANDING|prep.|malgré; con|
 NOTWITHSTANDING|adv.|malgré to|
 NOTWITHSTANDING|conj.|(although) benque|
+NOTWITHSTANDING|prep.|malgré; con|
 NOUGAT|n.|nugate|
 NOUGHT|n.|nequó; (cipher) null, zero|
 NOUN|n.|substantive, nómine|
@@ -10015,8 +10014,8 @@ NUISANCE|n.|molestation, enoya, gena|
 NULL|n.|de null efecte|
 NULLIFY|v.|anullar, nullificar|
 NULLITY|n.|nullitá|
-NUMB|v.|far ínsentient|
 NUMB|adj.|ínsentient, ínsensibil, apatic|
+NUMB|v.|far ínsentient|
 NUMBER|n.|(quantity) númere (-ar); (of periodical) numeró; (figure) ciffre|
 NUMERAL|adj.|numeral|
 NUMERAL|n.|numerale|
@@ -10146,8 +10145,8 @@ OFFHAND|adv.|extémpore, exprompte, strax|
 OFFHOOT|n.|crescon|XXX TODO -- confirm
 OFFICE|n.|oficie, servicie, function; (place of business) buró, oficia, contor; (private room) cabinet|
 OFFICER|n.|oficero; (civilian) oficiario, functionario|
-OFFICIAL|n.|oficiario|
 OFFICIAL|adj.|oficial|
+OFFICIAL|n.|oficiario|
 OFFICIATE|v.|oficiar, dejorar|
 OFFICIOUS|adj.|interferaci, intrusiv|
 OFFSET|n.|(print.) offset; (hort.) crescon|
@@ -10206,8 +10205,8 @@ ONCE|adv.|un vez; (formerly) antey|
 ONCE AGAIN|adv.|ancor un vez|
 ONCE IN A WAY|adv.|ne tro sovente, ye vezes, de témpor a témpore|
 ONCE UPON A TIME|adv.|unquande|
-ONE|pron.|on|
 ONE|adj.|un|
+ONE|pron.|on|
 ONE ANOTHER|pron.|unaltru|
 ONE BY ONES|adv.|un pos li altri|
 ONE LIKE THAT|adj.|un tal|
@@ -10261,8 +10260,8 @@ OPTIMIST|n.|optimist (-ic)|
 OPTION|n.|alternative, option|
 OPTIONAL|adj.|facultativ|
 OPULENT|adj.|opulent (-ie), rich|
-OR|conj.|o|
 OR|adv.|(otherwise) altrimen|
+OR|conj.|o|
 ORACLE|n.|oracul (-ari)|
 ORAL|adj.|oral, boccal|
 ORANG-OUTANG|n.|orangutan|
@@ -10394,9 +10393,9 @@ OVAL|adj.|oval|
 OVARY|n.|ovarium|
 OVATION|n.|ovation|
 OVEN|n.|forn|
-OVER|prep.|súper; (across) trans; (beyond) préter, ultra|
 OVER|adj.|(ended) finit, passat; (excessive) excessiv; superflú, restant|
 OVER|adv.|(more than) plu quam; (too much) tro|
+OVER|prep.|súper; (across) trans; (beyond) préter, ultra|
 OVER AGAIN|adv.|ancor un vez, denov|
 OVERALLS|n.|surtut|
 OVERAWE|v.|intimidar|
@@ -10539,8 +10538,8 @@ PANE|n.|quadre (de vitre), panel|
 PANEGYRIC|n.|panegirica, eulogie|
 PANEL|n.|panel (-ar, -age); registre|
 PANG|n.|acut dolore, angustie, tormente|
-PANIC|n.|panica|
 PANIC|adj.|panic|
+PANIC|n.|panica|
 PANICLE|n.|(bot.) panicul|
 PANNIER|n.|(flanc)corbe|
 PANOPLY|n.|panoplie|
@@ -10567,8 +10566,8 @@ PAPIER-MACHE|n.|paper-maché|
 PAPIST|n.|papist|
 PAPRIKA|n.|paprica|
 PAPYRUS|n.|papyre|
-PAR|n.|norme, egalitá|
 PAR|adj.|pari (-tá)|
+PAR|n.|norme, egalitá|
 PARABLE|n.|parábol|
 PARABOLA|n.|parabola (-ic)|
 PARACHUTE|n.|paracade|
@@ -11168,8 +11167,8 @@ PLENIPOTENTIARY|adj.|plenipotentiari (-o)|
 PLENITUDE|n.|plenitá; abundantie|
 PLENTEOUS|adj.|abundant|
 PLENTIFUL|adj.|abundant|
-PLENTY|n.|abundantie|
 PLENTY|adj.|suficent, sat mult de|
+PLENTY|n.|abundantie|
 PLEONASM|n.|pleonasme|
 PLEONASTIC|adj.|pleonastic|
 PLETHORA|n.|superabundantie, pletore|
@@ -11647,8 +11646,8 @@ PROMISING|adj.|bon-augurant|
 PROMISSORY-NOTE|n.|billet promessori|
 PROMONTORY|n.|promontorie, cap|
 PROMOTE|v.|promoer (-tion, -tor, -tiv), avansar; iniciar|
-PROMPT|v.|suggester, instigar; (theatre) sufflar (-ator)|
 PROMPT|adj.|prompt (-itá)|
+PROMPT|v.|suggester, instigar; (theatre) sufflar (-ator)|
 PROMULGATE|v.|promulgar (-ation), proclamar|
 PRONE|adj.|inclinat; prostrat, jacent|
 PRONG|n.|punta|
@@ -11993,8 +11992,8 @@ QUINTUPLE|adj.|quintiplic|XXX TODO -- Also n.
 QUIP|n.|mordacitá, riposte|
 QUIRE|n.|caderne de 25 folies|
 QUIRK|n.|capricie|
-QUIT OF|prep.|líber de|
 QUIT|v.|quittar, abandonar, departer de|
+QUIT OF|prep.|líber de|
 QUITE|adv.|tot(men), total(men)|
 QUITTANCE|n.|quittantie|
 QUIVER|n.|tremore; (of arrows) flechiere|
@@ -12222,9 +12221,9 @@ RECONDITE|adj.|abstrus, ocult|
 RECONNAISSANCE|n.|recognoscida|
 RECONNOITRE|v.|recognoscer, explorar|
 RECORD|n.|registre; (sport) record; (gramophone) disco; (Hist.) cronica|
-RECORDS|n.pl.|archive|
 RECORD|v.|inscrir, registrar; (events) cronicar|
 RECORDER|n.|chef judiciario|
+RECORDS|n.pl.|archive|
 RECOUNT|n.|(check) reconta, control|
 RECOUNT|v.|racontar, narrar|
 RECOUP|v.|indemnisar|
@@ -12248,8 +12247,8 @@ RECUR|v.|repetir se, re-evenir|
 RECURRENCE|n.|reeveniment, retorn|
 RECURRING DECIMAL|n.|decimale periodic|
 RECUSANT|adj.|recusant, dissident|
-RED|n.|rubore, rubie|
 RED|adj.|rubi|
+RED|n.|rubore, rubie|
 RED PEPPER|n.|paprica, rubi pipre|
 RED TAPE|n.|rutine, burocratie|
 RED-HOT|adj.|ardent|
@@ -12288,8 +12287,8 @@ REFLEXIVE|n.|reflexive|
 REFLUX|n.|reflute|
 REFORM|n.|reforme (-ar, -ativ, -ator, -atoria, -ation)|
 REFRACT|v.|refracter (-iv, -ion, -or, -ibil)|
-REFRACTORY|n.|infusibile|
 REFRACTORY|adj.|obstinat, recalcitrant; ínfusibil|
+REFRACTORY|n.|infusibile|
 REFRAIN|n.|refrane|
 REFRAIN|v.|abstener se de, frenar se|
 REFRANGIBLE|adj.|refractibil|
@@ -13004,10 +13003,10 @@ SCAMP|n.|rascale, vale-necós|
 SCAMPER|v.|hastar|
 SCAN|v.|scanDer (-sion); examinar|
 SCANDAL|n.|scandale (-isar, -osi)|
-SCANT|v.|usar mesquinmen|
 SCANT|adj.|scarsi, insuficent, rar|
-SCANTY|v.|usar mesquinmen|
+SCANT|v.|usar mesquinmen|
 SCANTY|adj.|scarsi, insuficent, rar|
+SCANTY|v.|usar mesquinmen|
 SCAPEGOAT|n.|expiator, peccon|
 SCAPULA|n.|scapul (-arie)|
 SCAR|n.|cicatre (-isar)|
@@ -13321,8 +13320,8 @@ SHAKE HANDS|v.|presser li manus|
 SHAKY|adj.|ínstabil, labil, chancelant; tremorosi, tremid|
 SHALE|n.|(husk) cortice; (Geol.) schist; (gravel) gravie|
 SHALLOT|n.|cebulette|
-SHALLOW|n.|bass-funde|
 SHALLOW|adj.|superficial; ínprofund|
+SHALLOW|n.|bass-funde|
 SHAM|adj.|fals, ne genuin, fictet|
 SHAM|v.|ficter, simular, pretexter|
 SHAME|v.|pudentar, deshonorar, hontar|
@@ -13536,8 +13535,8 @@ SING|v.|cantar (-ator)|
 SINGE|v.|ustular|
 SINGLE|adj.|sol, singul, unic; (unmarried) celib (-o)|
 SINGLE|v.|(single out) selecter|
-SINGULAR|n.|(gramm.) singulare|
 SINGULAR|adj.|singulari (-tá), ínusual, apart; bizarri|
+SINGULAR|n.|(gramm.) singulare|
 SINISTER|adj.|sinistri|
 SINK|n.|(domestic) rinsuore, eversuore, lav-petre|
 SINK|v.|submerser, descenDer, plongear; diminuer; (sink a shaft) excavar|
@@ -13612,8 +13611,8 @@ SLATE|n.|ardese|
 SLATEPENCIL|n.|ardes-crayon|
 SLATTERN|n.|salopona|
 SLAUGHTER|v.|buchar (-ada, -ería)|
-SLAV|n.|slavo (-a)|
 SLAV|adj.|slav, slavic|
+SLAV|n.|slavo (-a)|
 SLAVE|n.|sclavo, servo|
 SLAVER|v.|bavar|
 SLAVERY|n.|servitude, sclavitá, sclaveríe|
@@ -13771,8 +13770,8 @@ SOB|n.|singlute (-ar)|
 SOBER|adj.|sobri (-etá); grav; moderat; calm|
 SOBER|v.|far sobri|
 SOCIABLE|adj.|sociabil, afabil (-itá)|
-SOCIAL|n.|soaré|
 SOCIAL|adj.|social (-isme, -ist, -istic), societan|
+SOCIAL|n.|soaré|
 SOCIETY|n.|societé; (the community) societá|
 SOCIOLOGIST|n.|sociologo (-ie, -ic)|
 SOCK|n.|demí-strumpe, strumpette; (inner sole) solea intern|
@@ -13815,8 +13814,8 @@ SOLSTICE|n.|solsticie (-al)|
 SOLUBLE|adj.|soluibil (-itá)|
 SOLUTION|n.|solution|
 SOLVE|v.|(dis)soluer|
-SOLVENT|n.|solutive|
 SOLVENT|adj.|solvabil|
+SOLVENT|n.|solutive|
 SOMBRE|adj.|tenebrosi; melancolic, sombri|
 SOME|adj.|alcun; (a few) quelc|
 SOME QUANTITY|n.|alquant|
@@ -14175,8 +14174,8 @@ STATURE|n.|statura|
 STATUS|n.|rang|
 STATUS QUO|n.|statu-quo|
 STATUTE|n.|statute (-ari), lege|
-STAUNCH|v.|desanguar, far haltar|
 STAUNCH|adj.|fidibil, loyal, firm|
+STAUNCH|v.|desanguar, far haltar|
 STAVE|n.|baston; (of barrel) doga|
 STAVE IN|v.|brechar|
 STAY|n.|apoy; (naut.) stag; sejorne, restada|
@@ -14242,10 +14241,10 @@ STIFLE|v.|sufocar, represser|
 STIGMA|n.|stigma (-tic, -tisar)|
 STILE|n.|passuore, pontette|
 STILETTO|n.|stilette|
+STILL|adj.|calm, quiet, seren, silent; ínmobil, tranquil|
 STILL|adv.|(however) támen|
 STILL|n.|distill-aparate, alambic|
 STILL|v.|calmar, quietar, contentar|
-STILL|adj.|calm, quiet, seren, silent; ínmobil, tranquil|
 STILL MORE|adv.|ancor plu|
 STILL-BORN|adj.|mort-nascet|
 STILT|n.|stelte, marchette|
@@ -14616,8 +14615,8 @@ SWAB|n.|vatte a essuyar|
 SWAB|v.|vattar, nettar, scurar|
 SWADDLE|v.|circumvoluer|
 SWAGGER|v.|strucear, fanfaronar|
-SWAGGERING|n.|bravade|
 SWAGGERING|adj.|bravach|
+SWAGGERING|n.|bravade|
 SWAIN|n.|rustico; (lover) amante|
 SWALLOW|n.|hirunde|
 SWALLOW|v.|(in)glotir|
@@ -14638,8 +14637,8 @@ SWEDE|n.|(turnip) svedesi nap|
 SWEEP|v.|balayar; (as wind) chassar|
 SWEEPINGS|n.|balayallia|
 SWEEPSTAKES|n.|cavall-currida u li premie consists in li recivage|
-SWEET|n.|bonbon; (dish) sucrage|
 SWEET|adj.|dulci, sucrosi|
+SWEET|n.|bonbon; (dish) sucrage|
 SWEETEN|v.|adulciar; sucrar|
 SWEETHEART|n.|amata, inamorato|
 SWELL|n.|undeada|
@@ -14741,8 +14740,8 @@ TAKE AMISS|v.|esser ofendet per, prender in male|
 TAKE AN OATH|v.|jurar|
 TAKE BEARINGS|v.|orientar se|
 TAKE CARE|v.|atenter|
-TAKE CARE!|interj.|atention!, garda vos!|
 TAKE CARE OF|v.|cuidar|
+TAKE CARE!|interj.|atention!, garda vos!|
 TAKE COLD|v.|refrigidar se, inreumar se|
 TAKE EFFECT|v.|efecter, operar|
 TAKE IN|v.|dupar, (as guest) albergar|
@@ -14774,6 +14773,7 @@ TAKE TO HEART|v.|chagrinar se|
 TAKE TO PIECES|v.|demonter|
 TAKE TO TASK|v.|admonir|
 TAKE UMBRAGE|v.|ofender se (pri)|
+TAKEN ABACK|adj.|consternat, perplex, surprisat|
 TAKING|adj.|atrativ, charmant|
 TAKINGS|n.|recivement, recivage|
 TALC|n.|talc (-ar)|
@@ -14976,8 +14976,8 @@ TETRARCH|n.|tetrarch|
 TEUTONIC|adj.|teutonic|
 TEXT|n.|textu (-al)|
 TEXT-BOOK|n.|manuale|
-TEXTILE|n.|textile|
 TEXTILE|adj.|textil|
+TEXTILE|n.|textile|
 TEXTURE|n.|textura|
 THAN|conj.|quam|
 THANK|v.|mersiar|
@@ -15048,13 +15048,13 @@ THERE IS||vi, hay|XXX TODO --
 THERE'S A RING AT THE DOOR|expr.|on sona|
 THEREABOUTS|adv.|circa tam mult; in li vicinitá|
 THEREBY|adv.|per to|
-THEREFORE|conj.|ergo, dunc|
 THEREFORE|adv.|pro to|
+THEREFORE|conj.|ergo, dunc|
 THEREUPON|adv.|poy|
 THERMO|n.|termometre, -scop etc.|
 THESAURUS|n.|tresor|
-THESE|pron.|tis|
 THESE|adj.|ti|
+THESE|pron.|tis|
 THESIS|n.|tese, dissertation|
 THEY|pron.|ili|
 THEY CAN|expr.|ili posse|
@@ -15285,8 +15285,8 @@ TOTALLY|adv.|tot(men), totalmen|
 TOTTER|v.|chancelar; vacillar; (collapse) crular|
 TOUCH|n.|tracie, spasma, levi atacca|
 TOUCH|v.|tuchar; palpar; (reach) atinger; (of feelings) emoer|
-TOUCHING|prep.|concernent, pri|
 TOUCHING|adj.|emotiv; patetic|
+TOUCHING|prep.|concernent, pri|
 TOUCHY|adj.|iritabil|
 TOUGH|adj.|tenaci; dur; resistent; desfacil|
 TOUR|n.|tur (-ist, -isme), excursion|
@@ -15397,8 +15397,8 @@ TREAT|n.|regale; plesura, festine|
 TREATISE|n.|tractate; tese, dissertation|
 TREATMENT|n.|tractament; (med.) terapie|
 TREATY|n.|tractate; negociation, pacte, tratte|
-TREBLE|n.|soprano|
 TREBLE|adj.|triplic (-ar)|
+TREBLE|n.|soprano|
 TREE|n.|árbor; (boot-tree) listel|
 TREFOIL|n.|trifolie|
 TRELLIS|n.|trellie|
@@ -15749,8 +15749,8 @@ UPLIFT|v.|elevar, exaltar, anoblar|
 UPON|prep.|sur; concernent(e), pri|
 UPPER|adj.|plu alt, supra; superiori|
 UPPERMOST|adj.|max alt|
-UPRIGHT|n.|verticale|
 UPRIGHT|adj.|vertical, erect; honest|
+UPRIGHT|n.|verticale|
 UPRISING|n.|insurection|
 UPROAR|n.|tumultu|
 UPSET|v.|renversar; (grieve) vexar, chagrinar, índisposir|
@@ -16111,8 +16111,8 @@ WANE|v.|decrescer, diminuer|
 WANT|n.|(lack) manca(ntie); (need) beson (-ar), desire (-ar), indigentie|
 WANT|v.|(be short of) indiger, carir|
 WANTING|adj.|deficient, mancant|
-WANTON|n.|voluptona|
 WANTON|adj.|(sportive) petulant; (purposeless) ínmotivat; (voluptuous) voluptosi|
+WANTON|n.|voluptona|
 WAR|v.|guerrear|
 WAR|n.|guerre, hostilitá|
 WAR-CRY|n.|cri de guerre|
@@ -16253,8 +16253,8 @@ WEST|n.|occidente, west|
 WESTERN|adj.|occidental, westal|
 WESTERNER|n.|occidentale|
 WESTWARD|adv.|vers li occidente|
-WET|v.|humidar, inhumidar|
 WET|adj.|humid; (weather) pluviosi|
+WET|v.|humidar, inhumidar|
 WET-NURSE|n.|nutressa|
 WHACK|n.|brui-batte|
 WHACK|v.|batter|
@@ -16267,8 +16267,8 @@ WHAT A PROSPECT!|expr.|qual expectative!|
 WHAT IS THE MATTER?|expr.|pri quo it acte se?|
 WHAT TIME IS IT?|expr.|quel hora es?|
 WHAT'S AFOOT|expr.|quo eveni|
-WHATEVER|pron.|quocunc|
 WHATEVER|adj.|(sort of) qualcunc|
+WHATEVER|pron.|quocunc|
 WHATNOT|n.|etagiere|
 WHEAT|n.|frument, grane|
 WHEEDLE|v.|persuader per flattosi paroles o caresses|
@@ -16295,8 +16295,8 @@ WHEY|n.|buttre-serum|
 WHICH|pron.|quel|
 WHICHEVER|adj., pron.|quelcunc|
 WHIFF|n.|soffle|
-WHILE|v.|passar|
 WHILE|adv.|durante que|
+WHILE|v.|passar|
 WHILST|adv.|durante que|
 WHIM|n.|capricie, marotte|
 WHIMPER|v.|plorettar|
@@ -16320,8 +16320,8 @@ WHISPER|v.|chuchotar (-ada)|
 WHIST|n.|wist (-lude)|XXX TODO -- adj. wist, n. wist-lude?
 WHISTLE|n.|siffla; (instrument) sifflette|
 WHISTLE|v.|sifflar|
-WHITE|n.|(egg) albúmine, blanc ovine; (person) blanco|
 WHITE|adj.|blanc; pallid|
+WHITE|n.|(egg) albúmine, blanc ovine; (person) blanco|
 WHITE ANT|n.|termite|
 WHITE OF EGG|n.|albúmine|
 WHITEN|v.|blancar, ablanoar; devenir blanc|
@@ -16507,8 +16507,8 @@ WORSE|adj., adv.|plu mal, pejor|
 WORSEN|v.|(a)pejorar, demeliorar, far plu mal, agravar|
 WORSHIP|n.|cultu, adoration; servicie divin|
 WORSHIP|v.|adorar|
-WORST|v.|victer, superar|
 WORST|adj.|max mal, pessim|
+WORST|v.|victer, superar|
 WORSTED|n.|fil de lane|
 WORTH|adj.|digni de|
 WORTH|n.|valore, merite; precie|
