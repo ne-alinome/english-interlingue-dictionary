@@ -9904,7 +9904,7 @@ NINCOMPOOP|n.|ínepton|
 NINE|adj., n.|nin|
 NINEPINS|n.|kegle|
 NINETEEN|adj., n.|deci-nin, nindeci|XXX FIXME -- "nindeci" is old
-NINETY|adj.|ninanti|XXX FIXME -- ->ninant, +n.
+NINETY|adj.|ninanti|XXX FIXME -- ->ninant, +n. (and others)
 NINNY|n.|naivon, stulton|
 NINTH|adj.|ninesim|
 NINTH|n.|ninesim|
@@ -12690,7 +12690,7 @@ ROCK|v.|balansar; lullar|
 ROCK|n.|rocca (-osi), petre|
 ROCKET|n.|rakete, roquette|
 ROCKOIL|n.|petroleo|
-ROCOCO|n.|rococo|
+ROCOCO|n.|rococo|XXX FIXME -- rococo/rococó, n./adj.
 ROD|n.|verge; (fishing) canne a piscar; (mech.) bielle|
 RODENT|n.|rodente, rosor|
 ROE|n.|(female deer) cerva; (of fish) pisc-oves|
@@ -14699,35 +14699,35 @@ SYRINGA|n.|lila|
 SYRINGE|v.|spruzzar (-uore), injecter|
 SYRUP|n.|sirop (-osi), melasse|
 SYSTEM|n.|sistema (-tic, -tisar)|
-T-SQUARE|XXX|quadrette|
+T-SQUARE|n.|quadrette|
 TAB|n.|(of shoelace) lace-punta, puntale|
-TABBY|XXX|striat|
-TABERNACLE|XXX|tabernacle|
-TABLE|XXX|table; (list) tabelle, índex, sinoptica|
-TABLE FORK|XXX|furcette|
-TABLE-CLOTH|XXX|table-toale|
-TABLE-LAND|XXX|plató|
-TABLEAU|XXX|tabló, scene|
-TABLET|XXX|plaquette; (med.) tabulette|
-TABOO|XXX|tabú|
-TABULAR|XXX|tabellari|
+TABBY|adj.|striat|
+TABERNACLE|n.|tabernacle|
+TABLE|n.|table; (list) tabelle, índex, sinoptica|
+TABLE FORK|n.|furcette|
+TABLE-CLOTH|n.|table-toale|
+TABLE-LAND|n.|plató|
+TABLEAU|n.|tabló, scene|
+TABLET|n.|plaquette; (med.) tabulette|
+TABOO|n.|tabú|
+TABULAR|adj.|tabellari|
 TABULATE|v.|tabellar (-ator)|
-TACIT|XXX|implicit, silent|
-TACITURN|XXX|taciturn (-itá), silentiosi|
+TACIT|adj.|implicit, silent|
+TACITURN|adj.|taciturn (-itá), silentiosi|
 TACK|n.|clovette|
 TACK|v.|clovettar; (naut.) virar, luvear|
 TACKLE|n.|tacle, taclage; cosallia|
 TACKLE|v.|agresser, luctar; (a job) interprender|
-TACT|XXX|(all meanings) tacte (-osi)|
-TACTICIAN|XXX|tactico|
-TACTICS|XXX|tactica (-al)|
-TACTILE|XXX|tactil (-itá)|
-TACTLESS|XXX|sin tacte|
-TADPOLE|XXX|ranelle|
-TAFFETA|XXX|tafte|
-TAG|XXX|puntale|
-TAIL|XXX|caude (-al, -at)|
-TAILOR|XXX|talliero|
+TACT|n.|(all meanings) tacte (-osi)|
+TACTICIAN|n.|tactico|
+TACTICS|n.|tactica (-al)|
+TACTILE|adj.|tactil (-itá)|
+TACTLESS|adj.|sin tacte|
+TADPOLE|n.|ranelle|
+TAFFETA|n.|tafte|
+TAG|n.|puntale|
+TAIL|n.|caude (-al, -at)|
+TAILOR|n.|talliero|
 TAINT|v.|corupter; infecter; (poison) invenenar|
 TAINT|n.|tintura; infection|
 TAKE|v.|prender; capter; ocupar; (require) postular, exiger; (understand) comprender|
@@ -14774,264 +14774,265 @@ TAKE TO HEART|v.|chagrinar se|
 TAKE TO PIECES|v.|demonter|
 TAKE TO TASK|v.|admonir|
 TAKE UMBRAGE|v.|ofender se (pri)|
-TAKING|XXX|atrativ, charmant|
-TAKINGS|XXX|recivement, recivage|
-TALC|XXX|talc (-ar)|
-TALE|XXX|raconta, narration; fabul|
-TALEBEARING|XXX|denunciation|
-TALENT|XXX|talent (-at, -osi)|
-TALISMAN|XXX|talismane|
+TAKING|adj.|atrativ, charmant|
+TAKINGS|n.|recivement, recivage|
+TALC|n.|talc (-ar)|
+TALE|n.|raconta, narration; fabul|
+TALEBEARING|n.|denunciation|
+TALENT|n.|talent (-at, -osi)|
+TALISMAN|n.|talismane|
 TALK|n.|discurse; (rumour) fama, rumore|
 TALK|v.|parlar (-aci, -ator, -ation), conversar|
 TALK WILDLY|v.|divagar|
-TALL|XXX|alt, grand|
-TALLOW|XXX|sebe (-al, -ic)|
+TALL|adj.|alt, grand|
+TALLOW|n.|sebe (-al, -ic)|
 TALLY|n.|númer-disco|
 TALLY|v.|acordar|
-TALON|XXX|griffe|
-TAMBOUR|XXX|tambur (-ar)|
-TAMBOURINE|XXX|tamburine|
+TALON|n.|griffe|
+TAMBOUR|n.|tambur (-ar)|
+TAMBOURINE|n.|tamburine|
 TAME|adj.|mansi, amansat, ne savagi, domestic|
 TAME|v.|amansar, domitar|
 TAMPER|v.|inmixter se; implicar se; (touch) tuchar|
 TAN|n.|tanne (-ic)|
 TAN|v.|batter; (leather) tannar (-ero, -ería, -ine); (by weather) brunar, brunijar|
-TANDEM|XXX|tandem|
-TANG|XXX|sapore|
-TANGENT|XXX|tangente (-ie, -ial)|
-TANGIBLE|XXX|palpabil, tuchabil|
+TANDEM|n.|tandem|
+TANG|n.|sapore|
+TANGENT|n.|tangente (-ie, -ial)|
+TANGIBLE|adj.|palpabil, tuchabil|
 TANGLE|n.|node, brollie|
 TANGLE|v.|inbrolliar|
-TANGO|XXX|tango|
-TANK|XXX|cisterne; reservuore; (mil.) tank|
-TANKARD|XXX|cruche, chop, boccale|
+TANGO|n.|tango|
+TANK|n.|cisterne; reservuore; (mil.) tank|
+TANKARD|n.|cruche, chop, boccale|
 TANTALISE|v.|tormentar|
-TANTAMOUNT|XXX|equivalent|
+TANTAMOUNT|n.|equivalent|
 TAP|v.|tappettar, tappar; (barrel) forar|
 TAP|n.|(water) robinete; (blow) un levi colpe; tappa|
 TAPE|n.|bande; sonbande|
-TAPE RECORDER|XXX|son-registrator|
-TAPE-WORM|XXX|tenia|
+TAPE RECORDER|n.|son-registrator|
+TAPE-WORM|n.|tenia|XXX TODO -- tapeworm/tape-worm
 TAPER|n.|candel de cire|
 TAPER|v.|atenuar (se), terminar se in punta|
-TAPERING|XXX|conic|
-TAPESTRY|XXX|tapisseríe, textage|
-TAPEWORM|XXX|tenia; (intestinal worm) ascaride|
-TAPIOCA|XXX|tapioca|
+TAPERING|adj.|conic|
+TAPESTRY|n.|tapisseríe, textage|
+TAPEWORM|n.|tenia; (intestinal worm) ascaride|XXX TODO -- tapeworm/tape-worm
+TAPIOCA|n.|tapioca|
 TAR|n.|gudron (-ar), (sailor) marinero|
-TARANTELLA|XXX|tarantella|
-TARANTULA|XXX|tarantul|
-TARDY|XXX|tardi (-tá), lent|
-TARE|XXX|malherbe; (weight) tara|
-TARGET|XXX|cible|
-TARIFF|XXX|tarif|
+TARANTELLA|n.|tarantella|
+TARANTULA|n.|tarantul|
+TARDY|adj.|tardi (-tá), lent|
+TARE|n.|malherbe; (weight) tara|
+TARGET|n.|cible|
+TARIFF|n.|tarif|
 TARNISH|v.|delustrar (se), perdir su brilliantie|
-TARPAULIN|XXX|toale gudronat|
+TARPAULIN|n.|toale gudronat|
 TARRY|adj.|gudronosi|
 TARRY|v.|sejornar, tardar|
 TART|adj.|acerb, acri, aspri|
 TART|n.|torte|
-TARTAR|XXX|tartre (-ic); (person) tartaro|
-TASK|XXX|tache|
-TASSEL|XXX|quaste|
+TARTAR|n.|tartre (-ic); (person) tartaro|
+TASK|n.|tache|
+TASSEL|n.|quaste|
 TASTE|n.|gust, sapore; preferentie, predilection|
 TASTE|v.|gustar; (with tongue) savurar|
-TASTELESS|XXX|fad, sin gust, insipid|
-TASTY|XXX|gustosi, saporosi, de bon guste|
-TATTERDEMALION|XXX|chifonoso|
+TASTELESS|adj.|fad, sin gust, insipid|
+TASTY|adj.|gustosi, saporosi, de bon guste|
+TATTERDEMALION|n.|chifonoso|
 TATTLE|n.|babillache|
-TATTOO|XXX|revúe; (of drums) tamburada; v, tatuar (-age)|
+TATTOO|n.|revúe; (of drums) tamburada|XXX TODO -- Add "tatuage"
+TATTOO|v.|tatuar (-age)|
 TAUNT|v.|mocar (-ada)|
 TAUNT|n.|acri reprocha, insulte, moca|
-TAUT|XXX|tendet, rigid|
-TAUTOLOGY|XXX|tautologie (-ic)|
-TAVERN|XXX|taverne (-ero), gastería|
-TAWDRY|XXX|ostentachi; rococó|
-TAWDRY FINERY|XXX|flittre|
-TAWNY|XXX|falvi|
+TAUT|adj.|tendet, rigid|
+TAUTOLOGY|n.|tautologie (-ic)|
+TAVERN|n.|taverne (-ero), gastería|
+TAWDRY|adj.|ostentachi; rococó|
+TAWDRY FINERY|n.|flittre|
+TAWNY|adj.|falvi|
 TAX|n.|imposte (-ar, -abil), tribute|
 TAX|v.|(accuse) accusar; (assess) taxar; (test) provar|
-TAXICAB|XXX|taxl(auto) |
-TAXIMETER|XXX|taxametre, contator|
-TEA|XXX|té; té-repaste; té-plante|
-TEA-CADDY|XXX|té-buxe|
-TEA-URN|XXX|té-urne|
+TAXICAB|n.|taxi(auto) |
+TAXIMETER|n.|taxametre, contator|
+TEA|n.|té; té-repaste; té-plante|
+TEA-CADDY|n.|té-buxe|
+TEA-URN|n.|té-urne|
 TEACH|v.|docer (-ente), instructor (-or, -ion)|
-TEAK|XXX|tec|
+TEAK|n.|tec|
 TEAM|n.|(sport) truppe; (horses) atelage; (of workers) equip|
-TEAPOT|XXX|teiere, té-cruche|
+TEAPOT|n.|teiere, té-cruche|
 TEAR|n.|(from eyes) lácrime; (rent) lácere|
 TEAR|v.|lacerar; (rush) precipitar se, currer|
-TEARFUL|XXX|lacrimosi|
+TEARFUL|adj.|lacrimosi|
 TEASE|v.|vexar, tormentar; (wool) cardar, raffar|
-TEASPOON|XXX|micri coclare|
-TEAT|XXX|tette, buton de mamme|
-TECHNICAL|XXX|tecnic(al)|
-TECHNICIAN|XXX|tecnico|
-TECHNICS|XXX|tecnica|
-TECHNIQUE|XXX|tecnica, artistic execution|
-TECHNOLOGY|XXX|tecnologie (-ic)|
-TEDIOUS|XXX|tedant, enoyant, tedosi|
+TEASPOON|n.|micri coclare|
+TEAT|n.|tette, buton de mamme|
+TECHNICAL|adj.|tecnic(al)|
+TECHNICIAN|n.|tecnico|
+TECHNICS|n.|tecnica|
+TECHNIQUE|n.|tecnica, artistic execution|
+TECHNOLOGY|n.|tecnologie (-ic)|
+TEDIOUS|adj.|tedant, enoyant, tedosi|
 TEEM|v.|abundar; luxuriar, formicar, pullular; (rain) torentar|
 TEETHE|v.|dentir (-ition)|
-TEETOTAL|XXX|abstinent (-e, -ie)|
-TEGUMENT|XXX|tegument|
-TELEGRAM|XXX|telegramma|
-TELEGRAPH|XXX|telegraf (-ic, -ie, -ist)|
-TELEOLOGY|XXX|teleologie|
-TELEPATHY|XXX|telepatíe (-ic)|
-TELEPHONE|XXX|telefon (-ar, -ic, -ie, -ist)|
-TELESCOPE|XXX|telescop (-ar, -ic)|
-TELEVISION|XXX|television|
+TEETOTAL|adj.|abstinent (-e, -ie)|
+TEGUMENT|n.|tegument|
+TELEGRAM|n.|telegramma|
+TELEGRAPH|n.|telegraf (-ic, -ie, -ist)|
+TELEOLOGY|n.|teleologie|
+TELEPATHY|n.|telepatíe (-ic)|
+TELEPHONE|n.|telefon (-ar, -ic, -ie, -ist)|
+TELESCOPE|n.|telescop (-ar, -ic)|
+TELEVISION|n.|television|
 TELL|v.|dir; racontar, narrar; (discern) distinter|
 TELL FORTUNES|v.|predir li futur|
 TELL OFF|v.|definir; reprimandar|
 TELL ON|v.|haver su efecte|
-TELL-TALE|XXX|denunciator (-i)|
-TELLING|XXX|efectiv|
-TELLURIUM|XXX|tellur|
-TEMERARIOUS|XXX|temerari (-tá)|
+TELL-TALE|n.|denunciator (-i)|
+TELLING|adj.|efectiv|
+TELLURIUM|n.|tellur|
+TEMERARIOUS|adj.|temerari (-tá)|
 TEMPER|n.|(anger) colere; (metal) tempre (-ar)|
 TEMPER|v.|temperar, moderar|
-TEMPERAMENT|XXX|temperament (-al, -osi)|
-TEMPERANCE|XXX|temperantie, sobrietá|
-TEMPERATE|XXX|sobri, abstenent, moderat|
-TEMPERATURE|XXX|temperatura|
-TEMPEST|XXX|tempeste (-osi), storm, burasca|
-TEMPLE|XXX|temple; (anat.) tempie|
-TEMPO|XXX|tempo|
-TEMPORAL|XXX|temporal, mundan|
-TEMPORARY|XXX|temporari, provisori|
+TEMPERAMENT|n.|temperament (-al, -osi)|
+TEMPERANCE|n.|temperantie, sobrietá|
+TEMPERATE|adj.|sobri, abstenent, moderat|
+TEMPERATURE|n.|temperatura|
+TEMPEST|n.|tempeste (-osi), storm, burasca|
+TEMPLE|n.|temple; (anat.) tempie|
+TEMPO|n.|tempo|
+TEMPORAL|adj.|temporal, mundan|
+TEMPORARY|adj.|temporari, provisori|
 TEMPORISE|v.|vacillar, procrastinar|
 TEMPT|v.|tentar (-ation)|
-TEMPTER|XXX|tentator, diábol|
-TEMPTING|XXX|atrativ, seductiv|
-TEN|XXX|deci|
-TENABLE|XXX|tenibil; mantenibil|
-TENACIOUS|XXX|tenaci (-tá)|
-TENANCY|XXX|ocupantie, ocupation, luation|
-TENANT|XXX|luator|
-TENCH|XXX|tanche|
+TEMPTER|n.|tentator, diábol|
+TEMPTING|adj.|atrativ, seductiv|
+TEN|adj., n.|deci|
+TENABLE|adj.|tenibil; mantenibil|
+TENACIOUS|adj.|tenaci (-tá)|
+TENANCY|n.|ocupantie, ocupation, luation|
+TENANT|n.|luator|
+TENCH|n.|tanche|
 TEND|v.|cuidar, gardar; servir; (incline) tender, inclinar|
-TENDENCY|XXX|tendentie (-iosi)|
+TENDENCY|n.|tendentie (-iosi)|
 TENDER|adj.|tendri (-ease), moll, dulci, sensibil|
 TENDER|n.|(veh.) tender; (comm.) oferta|
 TENDER|v.|dar, presentar; ofertar|
-TENDON|XXX|tendon (-osi)|
-TENDRIL|XXX|sarment|
-TENEBROUS|XXX|tenebrosi, obscur|
-TENEMENT|XXX|logí|
-TENET|XXX|doctrine, dogma|
-TENFOLD|XXX|deci vez, deciplic|
-TENNIS|XXX|ténnis|
+TENDON|n.|tendon (-osi)|
+TENDRIL|n.|sarment|
+TENEBROUS|adj.|tenebrosi, obscur|
+TENEMENT|n.|logí|
+TENET|n.|doctrine, dogma|
+TENFOLD|adj., adv.|deci vez, deciplic|XXX TODO -- adj./adv.
+TENNIS|n.|ténnis|
 TENOR|mus.|tenor; (purport) tenore|
 TENSE|adj.|rigid, tendet|
 TENSE|n.|témpore|
-TENSILE|XXX|tensil|
-TENSION|XXX|tension|
-TENT|XXX|tenda|
-TENTACLE|XXX|tentacul|
+TENSILE|adj.|tensil|
+TENSION|n.|tension|
+TENT|n.|tenda|
+TENTACLE|n.|tentacul|
 TENTATIVE|adj.|experimental|
 TENTATIVE|n.|tentative|
-TENTH|XXX|decesim|
-TENUOUS|XXX|tenui (-tá)|
-TENURE|XXX|possession; lu-conditiones|
-TEPID|XXX|tepid (-itá)|
-TEREBINTH|XXX|terebintiero|
+TENTH|adj., n.|decesim|
+TENUOUS|adj.|tenui (-tá)|
+TENURE|n.|possession; lu-conditiones|
+TEPID|adj.|tepid (-itá)|
+TEREBINTH|n.|terebintiero|
 TERM|n.|(academical) semestre; (name) término; (legal) termine|
 TERM|v.|nominar|
-TERMAGANT|XXX|megera|
+TERMAGANT|n.|megera|
 TERMINAL|n.|borne|
 TERMINATE|v.|terminar (se), finir|
 TERMINATION|n.|(gramm.) desinentie|
-TERMINOLOGY|XXX|terminologie (-ic)|
-TERMINUS|XXX|terminus, station terminal|
-TERMITE|XXX|termite|
-TERMS|XXX|precie, condition|
-TERRA-COTTA|XXX|terracotta|
-TERRACE|XXX|terasse; rampe|
-TERRAIN|XXX|terren|
-TERRESTRIAL|XXX|terrestri, terral|
-TERRIBLE|XXX|terribil|
-TERRIER|XXX|bassete|
+TERMINOLOGY|n.|terminologie (-ic)|
+TERMINUS|n.|terminus, station terminal|
+TERMITE|n.|termite|
+TERMS|n.|precie, condition|
+TERRA-COTTA|n.|terracotta|
+TERRACE|n.|terasse; rampe|
+TERRAIN|n.|terren|
+TERRESTRIAL|adj.|terrestri, terral|
+TERRIBLE|adj.|terribil|
+TERRIER|n.|bassete|
 TERRIFY|v.|terrer|
-TERRITORY|XXX|territoria (-al)|
-TERROR|XXX|terrore (-isar, -isme, -ist)|
-TERSE|XXX|concis; laconic|
-TERTIARY|XXX|tertiari|
-TESSELLATED|XXX|mosaic (-at)|
+TERRITORY|n.|territoria (-al)|
+TERROR|n.|terrore (-isar, -isme, -ist)|
+TERSE|adj.|concis; laconic|
+TERTIARY|adj.|tertiari|
+TESSELLATED|n.|mosaic (-at)|
 TEST|n.|prova (-ar)|
-TESTAMENT|XXX|testament (-ari, -al)|
-TESTATOR|XXX|testator|
-TESTICLE|XXX|testicul|
+TESTAMENT|n.|testament (-ari, -al)|
+TESTATOR|adj.|testator|
+TESTICLE|n.|testicul|
 TESTIFY|v.|atestar, testimoniar, teatificar|
-TESTIMONY|XXX|testimonie|
-TESTY|XXX|coleric|
-TETANUS|XXX|tétano (-ic)|
+TESTIMONY|n.|testimonie|
+TESTY|adj.|coleric|
+TETANUS|n.|tétano (-ic)|
 TETHER|n.|liga-corde|
 TETHER|v.|ligar|
-TETRAGON|XXX|tetragon (-al)|
-TETRARCH|XXX|tetrarch|
-TEUTONIC|XXX|teutonic|
-TEXT|XXX|textu (-al)|
-TEXT-BOOK|XXX|manuale|
+TETRAGON|n.|tetragon (-al)|
+TETRARCH|n.|tetrarch|
+TEUTONIC|adj.|teutonic|
+TEXT|n.|textu (-al)|
+TEXT-BOOK|n.|manuale|
 TEXTILE|n.|textile|
 TEXTILE|adj.|textil|
-TEXTURE|XXX|textura|
-THAN|XXX|quam|
+TEXTURE|n.|textura|
+THAN|conj.|quam|
 THANK|v.|mersiar|
-THANK YOU|XXX|mersí|
-THANKFUL|XXX|grat (-itá), mersiosi|
-THANKLESS|XXX|íngrat|
-THANKS|XXX|mersí|
+THANK YOU|expr.|mersí|
+THANKFUL|adj.|grat (-itá), mersiosi|
+THANKLESS|adj.|íngrat|
+THANKS|expr.|mersí|
 THAT|adj.|ti|
 THAT|conj.|que; (the one which) quel; (the thing which) quo|
 THAT|pron.|to|
-THAT CAN'T BE HELPED|XXX|to ne posse esser remediat|
-THAT DOESN'T MATTER|XXX|to ne fa nequo|
-THAT IS TO SAY|XXX|a saver|
-THAT WAS YOUR DOING|XXX|ta vu es culpabil, pri to vu es responsabil|
+THAT CAN'T BE HELPED|expr.|to ne posse esser remediat|
+THAT DOESN'T MATTER|expr.|to ne fa nequo|XXX FIXME -- duplic negation
+THAT IS TO SAY|conj.|a saver|
+THAT WAS YOUR DOING|expr.|ta vu es culpabil, pri to vu es responsabil|
 THATCH|v.|tegmentar per pallie, inpalliar|
 THATCH|n.|pallie|
 THAW|n.|degel (-ar)|
 THE|art.|li; (abstract) lu|
-THE ACCUSED GOT OFF|XXX|on absoluet li acusato|
+THE ACCUSED GOT OFF|expr.|on absoluet li acusato|
 THE ANTARCTIC|n.|Antarctica|
 THE ARCTIC|n.|Arctica|
-THE BROWNS AND THE SMITHS|XXX|lis Brown e lis Smith|
-THE CHIEF THING|XXX|li cose cardinal, lu essential|
-THE DEAD|XXX|li mortes|
+THE BROWNS AND THE SMITHS|n.|lis Brown e lis Smith|
+THE CHIEF THING|n.|li cose cardinal, lu essential|
+THE DEAD|n.|li mortes|
 THE FORE|v.|in avan|
-THE FOREGOING|XXX|lu precedent|
-THE GENERAL PUBLIC|XXX|li grand publica|
-THE HOUSE OVERLOOKS A PARK|XXX|li dom es situat contra un pare, da vista sur un parc|
-THE LEAST BEAUTIFUL|XXX|li minim bell|
-THE LESS THE BETTER|XXX|plu poc plu bon|
-THE MORE HE HAS, THE MORE HE WANTS|XXX|plu il have, plu il desira|
-THE MORE THE BETTER|XXX|plu mult, plu bon|
-THE ONE THING|XXX|li sol afere|
-THE ONWARD MARCH|XXX|li marcha adavan|
+THE FOREGOING|n.|lu precedent|
+THE GENERAL PUBLIC|n.|li grand publica|
+THE HOUSE OVERLOOKS A PARK|expr.|li dom es situat contra un pare, da vista sur un parc|
+THE LEAST BEAUTIFUL|n.|li minim bell|
+THE LESS THE BETTER|adv.|plu poc plu bon|
+THE MORE HE HAS, THE MORE HE WANTS|expr.|plu il have, plu il desira|
+THE MORE THE BETTER|adv.|plu mult, plu bon|
+THE ONE THING|n.|li sol afere|
+THE ONWARD MARCH|n.|li marcha adavan|
 THE OTHER DAY|adv.|recentmen, ante quelc dies|
-THE POOR|XXX|li povres|
-THE PROGRAMME IS ON|XXX|li programma es in action, ha comensat|
-THE RUN OF A PLACE|XXX|ínimpedit accesse|
-THE SUPERNATURAL|XXX|lu supernatural|
-THE TEN COMMANDMENTS|XXX|decalog|
-THE TENS|XXX|li decenes|
-THE TROPICS|XXX|li tropic landes|
-THE WHOLE FRY|XXX|li tot parentité|
-THE YOUNG|XXX|li yunité|
-THEATRE|XXX|teatre (-al, -ic)|
-THEE|XXX|te|
-THEFT|XXX|furte|
-THEIR|XXX|lor|
-THEISM|XXX|teisme|
-THEM|XXX|les|
-THEME|XXX|tema|
-THEMSELVES|XXX|self; (used reflexively) se|
+THE POOR|n.|li povres|
+THE PROGRAMME IS ON|expr.|li programma es in action, ha comensat|
+THE RUN OF A PLACE|n.|ínimpedit accesse|
+THE SUPERNATURAL|n.|lu supernatural|
+THE TEN COMMANDMENTS|n.|decalog|
+THE TENS|n.|li decenes|
+THE TROPICS|n.|li tropic landes|
+THE WHOLE FRY|n.|li tot parentité|
+THE YOUNG|n.|li yunité|
+THEATRE|n.|teatre (-al, -ic)|
+THEE|pron.|te|
+THEFT|n.|furte|
+THEIR|adj.poss.|lor|
+THEISM|n.|teisme|
+THEM|pron.|les|
+THEME|n.|tema|
+THEMSELVES|pron.|self; (used reflexively) se|
 THEN|adv.|tande; (next) poy|
 THEN|conj.|alor, in ti casu; (therefore) dunc|
-THENCE|XXX|de ta; (from that) de to|
+THENCE|adv.|de ta; (from that) de to|
 THEOCRACY|n.|teocratie (-ic)|
 THEODOLITE|n.|teodolit|
 THEOLOGIAN|n.|teologo (-ic, -ie)|
@@ -15042,12 +15043,13 @@ THEOSOPHY|n.|teosofie (-ic)|
 THERAPEUTIC|adj.|terapeutic (-a)|
 THERAPY|n.|terapie|
 THERE|adv.|ta|
-THERE ARE|XXX|vi, hay|
-THERE IS|XXX|vi, hay|
-THERE'S A RING AT THE DOOR|XXX|on sona|
-THEREABOUTS|XXX|circa tam mult; in li vicinitá|
-THEREBY|XXX|per to|
-THEREFORE|XXX|ergo, dunc; pro to|
+THERE ARE||vi, hay|XXX TODO --
+THERE IS||vi, hay|XXX TODO --
+THERE'S A RING AT THE DOOR|expr.|on sona|
+THEREABOUTS|adv.|circa tam mult; in li vicinitá|
+THEREBY|adv.|per to|
+THEREFORE|conj.|ergo, dunc|
+THEREFORE|adv.|pro to|
 THEREUPON|adv.|poy|
 THERMO|n.|termometre, -scop etc.|
 THESAURUS|n.|tresor|
@@ -15055,8 +15057,8 @@ THESE|pron.|tis|
 THESE|adj.|ti|
 THESIS|n.|tese, dissertation|
 THEY|pron.|ili|
-THEY CAN|XXX|ili posse|
-THEY PAID EVEN MORE THAN WE|XXX|ili payat mem plu quam noi|
+THEY CAN|expr.|ili posse|
+THEY PAID EVEN MORE THAN WE|expr.|ili payat mem plu quam noi|
 THICK|adj.|spess (-ore), densi (-tá); ínclar; compact|
 THICKEN|v.|aspessar, far spess, condensar|
 THICKET|n.|densallia, boscage|
@@ -15074,11 +15076,11 @@ THIRD|adj.|triesim; (fraction) ters|
 THIRST|n.|sete|
 THIRST|v.|haver sete|
 THIRSTY|adj.|setosi; arid|
-THIRTEEN|XXX|deci-tri|
-THIRTY|XXX|trianti|
+THIRTEEN|adj., n.|deci-tri|
+THIRTY|adj., n.|trianti|
 THIS|adj.|ti, ti ci|
 THIS|pron.|to, to ci|
-THIS IS DUE TO CARELESSNESS|XXX|to es debit a ínatention|
+THIS IS DUE TO CARELESSNESS|expr.|to es debit a ínatention|
 THIS WAY|adv.|a ci|
 THISTLE|n.|carde|
 THITHER|adj., adv.|ta|
@@ -15104,14 +15106,14 @@ THREAD|n.|fil|
 THREAD|v.|infilar|
 THREADBARE|adj.|perusat, chifonosi|
 THREAT|n.|menacie (-iar)|
-THREE|XXX|tri|
-THREE DAYS RUNNING|XXX|tri dies successivmen|
+THREE|adj., n.|tri|
+THREE DAYS RUNNING|adv.|tri dies successivmen|
 THREE-CORNERED|adj.|triangulari|
 THREE-LEGGED|adj.|tripedat|
-THREEFOLD|XXX|triplic|
+THREEFOLD|adj.|triplic|
 THRESH|v.|drachar (-ator)|
-THRESHOLD|XXX|sill|
-THRICE|XXX|trivez|
+THRESHOLD|n.|sill|
+THRICE|adv.|trivez|
 THRIFT|n.|economie, frugalitá|
 THRIFTY|adj.|frugal, economic, sparniaci|
 THRILL|v.|excitar; far tremer|
@@ -15140,654 +15142,655 @@ THUS|adv.|talmen, in ti maniere; (so) dunc|
 THWART|v.|oposir, impedir, frustrar, contrariar|
 THY|adj.|tui|
 THY|pron.|tu|
-THYME|XXX|tim; (wild thyme) serpol|
-THYROID|XXX|tiroide (-al)|
-TIARA|XXX|tiara, diadem|
-TIBIA|XXX|tibia|
+THYME|n.|tim; (wild thyme) serpol|
+THYROID|n.|tiroide (-al)|
+TIARA|n.|tiara, diadem|
+TIBIA|n.|tibia|
 TICK|n.|(insect) ácare; (of clock) tic-tac (-ar)|
-TICKET|XXX|billete; (label) afiche, etiquette|
-TICKET OFFICE|XXX|billetería|
+TICKET|n.|billete; (label) afiche, etiquette|
+TICKET OFFICE|n.|billetería|
 TICKLE|v.|titillar (-ation)|
-TICKLISH|XXX|subject a ticlada, delicat|
-TIDE|XXX|flute, marea|
-TIDINGS|XXX|novas|
+TICKLISH|adj.|subject a ticlada, delicat|
+TIDE|n.|flute, marea|
+TIDINGS|n.|novas|
 TIDY|adj.|nett (-ar), de bon órdine|
 TIE|n.|cravatte; (bond) bande; (sport) tira|
 TIE|v.|ligar, junter; (knot) nodar|
-TIER|XXX|etage; range|
-TIGER|XXX|tigre (-a, -o, -atri)|
-TIGHT|XXX|angust; firm, tendet, astrict|
+TIER|n.|etage; range|
+TIGER|n.|tigre (-a, -o, -atri)|
+TIGHT|adj.|angust; firm, tendet, astrict|
 TIGHTEN|v.|firmar, serrar|
 TILE|n.|(for roof) tegul (-ar, -ero); (glazed tile) carrel (-ar)|
 TILL|n.|cassa; (until) til, til que|
 TILL|v.|cultivar|
-TILLER|XXX|cultivator; (naut.) timon|
+TILLER|n.|cultivator; (naut.) timon|
 TILT|v.|renversar, bascular, inclinar|
-TIMBER|XXX|ligne (-ero, -mercante)|
-TIMBRE|XXX|timbre|
+TIMBER|n.|ligne (-ero, -mercante)|
+TIMBRE|n.|timbre|
 TIME|n.|témpor; epoca, era; (age) etá|
-TIMELY|XXX|oportun, in just témpor|
-TIMETABLE|XXX|horarium, hor-tabelle|
-TIMID|XXX|timid (-itá)|
-TIMOROUS|XXX|timorosi, timid|
+TIMELY|adj.|oportun, in just témpor|
+TIMETABLE|n.|horarium, hor-tabelle|
+TIMID|adj.|timid (-itá)|
+TIMOROUS|adj.|timorosi, timid|
 TIN|n.|(metal) stanno (-ar)|
 TIN|v.|(pack in tins) inladar|
 TINCTURE|v.|tinter (-ura)|
-TINDER|XXX|tindre|
-TINFOIL|XXX|stanniol|
+TINDER|n.|tindre|
+TINFOIL|n.|stanniol|
 TINGE|n.|nuancie|
 TINGE|v.|tinter, colorar|
 TINGLE|v.|ticlar|
 TINKER|n.|suldero|
 TINKER|v.|(botch) bosillar|
 TINKLE|v.|tintinar|
-TINPLATE|XXX|lade; (receptacle) lad-scatulle|
-TINSEL|XXX|flittre, auripelle|
-TINSMITH|XXX|stannero|
+TINPLATE|n.|lade; (receptacle) lad-scatulle|
+TINSEL|n.|flittre, auripelle|
+TINSMITH|n.|stannero|
 TINT|n.|color-nuancie (-ar)|
-TINY|XXX|micrissim, diminutiv|
+TINY|adj.|micrissim, diminutiv|
 TIP|n.|(end) punta, extremitá; (gratuity) gratiment, trinc-moné, backshish|
 TIP|v.|dar backshish, dar trinca-moné; (tilt) bascular, inclinar|
 TIPPLE|v.|trincar alcohol|
-TIPSY|XXX|ebri|
-TIRADE|XXX|tirade|
+TIPSY|adj.|ebri|
+TIRADE|n.|tirade|
 TIRE|n.|bandage (pneumatic)|
 TIRE|v.|fatigar, exhauster se, strapaciar|
-TIRED|XXX|fatigat; lassi|
-TIRESOME|XXX|enoyant, tedosi|
-TISSUE|XXX|fin textura; (anat.) histe|
-TISSUEPAPER|XXX|silk-papere|
-TITAN|XXX|titane (-ic)|
-TITBIT|XXX|delicatesse, gurmandage|
+TIRED|adj.|fatigat; lassi|
+TIRESOME|adj.|enoyant, tedosi|
+TISSUE|n.|fin textura; (anat.) histe|
+TISSUEPAPER|n.|silk-papere|
+TITAN|n.|titane (-ic)|
+TITBIT|n.|delicatesse, gurmandage|
 TITHE|n.|decesim|
 TITILLATE|v.|titillar|
-TITLE|XXX|titul (-ar, -ari), nómine; (right) jure|
-TITMOUSE|XXX|parú|
+TITLE|n.|titul (-ar, -ari), nómine; (right) jure|
+TITMOUSE|n.|parú|
 TITTER|v.|hihicar|
-TO|XXX|a(d); vers; (as far as) til; (in order to) por|
+TO|prep.|a(d); vers; (as far as) til; (in order to) por|
 TO ALL INTENTS|adv.|virtualmen|
-TO AND FRO|XXX|a ci e ta|
+TO AND FRO|adv.|a ci e ta|
 TO BE AT ONE|v.|concordar|
-TO SAY THE LEAST|XXX|por ne exagerar|
-TO THE POINT|XXX|pertinent|
-TO THE PURPOSE|XXX|scope-conform|
-TO WIT|XXX|a saver|
-TO-NIGHT|XXX|ho-véspere, ho-nocte|
-TOAD|XXX|rospe|
-TOADSTOOL|XXX|fungo|
-TOADY|XXX|leccard, adulator|
-TOAST|XXX|pane rostat; (health) toste (-ar)|
-TOBACCO|XXX|tabac (-venditor, -iere)|
-TOBOGGAN|XXX|slitt (-ar)|
-TODAY|XXX|hodie|
+TO SAY THE LEAST|adv.|por ne exagerar|
+TO THE POINT|adj.|pertinent|
+TO THE PURPOSE|adj.|scope-conform|
+TO WIT|adv.|a saver|
+TO-NIGHT|adv.|ho-véspere, ho-nocte|
+TOAD|n.|rospe|
+TOADSTOOL|n.|fungo|
+TOADY|n.|leccard, adulator|
+TOAST|n.|pane rostat; (health) toste (-ar)|
+TOBACCO|n.|tabac (-venditor, -iere)|
+TOBOGGAN|n.|slitt (-ar)|
+TODAY|adv.|hodie|
 TODDLE|v.|passuettar|
 TOE|n.|ped-fingre|
-TOFFEE|XXX|taffe; (a sweet) bonbon|
-TOGETHER|XXX|junt; in tot|
+TOFFEE|n.|taffe; (a sweet) bonbon|
+TOGETHER|adv.|junt; in tot|
 TOIL|n.|pena, strapacie (-osi); v, penar, strapaciar|
-TOILET|XXX|toilette; (w.c.) closete|
-TOILSOME|XXX|penosi, fatigant|
-TOKEN|XXX|signe; simbol; (pledge) gage|
+TOILET|n.|toilette; (w.c.) closete|
+TOILSOME|adj.|penosi, fatigant|
+TOKEN|n.|signe; simbol; (pledge) gage|
 TOLERATE|v.|tolerar (-abil, -ant, -antie, -ation)|
 TOLL|v.|sonar; clochear|
 TOLL|n.|imposte (de via)|
-TOM-CAT|XXX|cato|
-TOMATO|XXX|tomate|
-TOMB|XXX|tombe, sepultura|
-TOME|XXX|tom|
-TOMFOOLERY|XXX|non-sense; arlequinade|
-TOMORROW|XXX|deman|
-TOMTIT|XXX|parú|
-TON|XXX|tonne (-age)|
+TOM-CAT|n.|cato|
+TOMATO|n.|tomate|
+TOMB|n.|tombe, sepultura|
+TOME|n.|tom|
+TOMFOOLERY|n.|non-sense; arlequinade|
+TOMORROW|adv.|deman|
+TOMTIT|n.|parú|
+TON|n.|tonne (-age)|
 TONE|n.|ton (-al, -alitá, -ic); accentu; (med.) tónus|
 TONE|v.|harmonisar; (shade) nuanciar|
-TONGS|XXX|pince|
-TONGUE|XXX|lingue, idioma; (of bell) battente|
+TONGS|n.|pince|
+TONGUE|n.|lingue, idioma; (of bell) battente|
 TONIC|adj.|tonic|
 TONIC|n.|invigorative|
-TONSIL|XXX|tonsille (-ite)|
-TONSURE|XXX|tonsura (-ar)|
-TOO|XXX|tro; (also) anc|
-TOOL|XXX|instrument, utensile|
-TOOTH|XXX|dente (-brosse, -dolore)|
-TOOTHACHE|XXX|mal de dentes, dent-dolore|
-TOOTHPICK|XXX|dent-lignette|
-TOOTHSOME|XXX|saporosi, de bon guste|
+TONSIL|n.|tonsille (-ite)|
+TONSURE|n.|tonsura (-ar)|
+TOO|adv.|tro; (also) anc|
+TOOL|n.|instrument, utensile|
+TOOTH|n.|dente (-brosse, -dolore)|
+TOOTHACHE|n.|mal de dentes, dent-dolore|
+TOOTHPICK|n.|dent-lignette|
+TOOTHSOME|adj.|saporosi, de bon guste|
 TOP|adj.|prim; superiori; (naut.) topp-|
 TOP|n.|sómmite, cime; superficie; (toy) girette|
 TOP|v.|esser ye li cap de|
-TOPAZ|XXX|topaze|
-TOPER|XXX|trincard|
-TOPHAT|XXX|cilindre|
-TOPIC|XXX|tema, subjecte|
-TOPICAL|XXX|actual|
-TOPOGRAPHY|XXX|topografie (-ic)|
+TOPAZ|n.|topaze|
+TOPER|n.|trincard|
+TOPHAT|n.|cilindre|
+TOPIC|n.|tema, subjecte|
+TOPICAL|adj.|actual|XXX TODO -- Confirm.
+TOPOGRAPHY|n.|topografie (-ic)|
 TOPPLE|v.|cader, crular|
-TOPSY-TURVY|XXX|renversat, confuset|
-TORCH|XXX|tasca-lampe; torche; brandon|
-TOREADOR|XXX|taureator, toreador|
-TORMENT|XXX|torment (-ar, -ero)|
-TORNADO|XXX|uragane|
-TORPEDO|XXX|torpedo|
-TORPEDO TUBE|XXX|lansa-torpedo|
-TORPID|XXX|inert, letargic|
-TORRENT|XXX|torrent (-ar. -osi)|
-TORRID|XXX|torrid (-itá)|
-TORSO|XXX|torso|
-TORTOISE|XXX|tortug|
-TORTUOUS|XXX|serpentatri, torsiv|
+TOPSY-TURVY|adj.|renversat, confuset|
+TORCH|n.|tasca-lampe; torche; brandon|
+TOREADOR|n.|taureator, toreador|
+TORMENT|n.|torment (-ar, -ero)|
+TORNADO|n.|uragane|
+TORPEDO|n.|torpedo|
+TORPEDO TUBE|n.|lansa-torpedo|
+TORPID|adj.|inert, letargic|
+TORRENT|n.|torrent (-ar. -osi)|
+TORRID|adj.|torrid (-itá)|
+TORSO|n.|torso|
+TORTOISE|n.|tortug|
+TORTUOUS|adj.|serpentatri, torsiv|
 TORTURE|n.|tortura (-ar, -ator)|
 TOSS|v.|jettar; (shake) sucusser|
-TOTAL|XXX|tot(al) (-itá, -itari, -isar, -isator), plen|
-TOTALLY|XXX|tot(men), totalmen|
+TOTAL|adj.|tot(al) (-itá, -itari, -isar, -isator), plen|
+TOTALLY|adv.|tot(men), totalmen|
 TOTTER|v.|chancelar; vacillar; (collapse) crular|
 TOUCH|n.|tracie, spasma, levi atacca|
 TOUCH|v.|tuchar; palpar; (reach) atinger; (of feelings) emoer|
 TOUCHING|prep.|concernent, pri|
 TOUCHING|adj.|emotiv; patetic|
-TOUCHY|XXX|iritabil|
-TOUGH|XXX|tenaci; dur; resistent; desfacil|
+TOUCHY|adj.|iritabil|
+TOUGH|adj.|tenaci; dur; resistent; desfacil|
 TOUR|n.|tur (-ist, -isme), excursion|
-TOURNAMENT|XXX|torney|
+TOURNAMENT|n.|torney|
 TOW|n.|stuppe|
 TOW|v.|remorcar (-ator)|
-TOWARD|XXX|vers; contra|
-TOWARDS|XXX|vers; contra|
-TOWEL|XXX|manu-toale|
+TOWARD|prep.|vers; contra|
+TOWARDS|prep.|vers; contra|
+TOWEL|n.|manu-toale|
 TOWER|n.|turre|
 TOWER|v.|turrear, altear|
-TOWN|XXX|cité, borgo|
-TOWN-HALL|XXX|dom municipal|
-TOWNSMAN|XXX|borgese, citeano|
-TOXIC|XXX|toxic, venenosi|
+TOWN|n.|cité, borgo|
+TOWN-HALL|n.|dom municipal|
+TOWNSMAN|n.|borgese, citeano|
+TOXIC|adj.|toxic, venenosi|
 TOY|n.|ludette; auripelle; talmi|
 TOY|v.|luder con|
 TRACE|n.|tracie, vestigie; marca|
 TRACE|v.|traciar; delinear; (sketch) esquissar|
-TRACERY|XXX|dentelleríe|
-TRACHEA|XXX|traché (-al)|
+TRACERY|n.|dentelleríe|
+TRACHEA|n.|traché (-al)|
 TRACK|n.|tracie; (rail.) relage, relvia; (beaten track) trantran; (racecourse) drome|
-TRACT|XXX|region, districte; país; (rel.) brochura|
-TRACTABLE|XXX|docil, tractabil|
-TRACTION|XXX|tration|
-TRACTION ENGINE|XXX|locomotor|
-TRACTOR|XXX|tractor|
+TRACT|n.|region, districte; país; (rel.) brochura|
+TRACTABLE|adj.|docil, tractabil|
+TRACTION|n.|tration|
+TRACTION ENGINE|n.|locomotor|
+TRACTOR|n.|tractor|
 TRADE|n.|comercie, negocie|
 TRADE|v.|mercar (-ator, -ero), comerciar|
-TRADE-MARK|XXX|marca de fabrica|
-TRADES-UNION|XXX|sindicate|
-TRADEWIND|XXX|alisé|
-TRADITION|XXX|tradition (-al)|
+TRADE-MARK|n.|marca de fabrica|
+TRADES-UNION|n.|sindicate|
+TRADEWIND|n.|alisé|
+TRADITION|n.|tradition (-al)|
 TRADUCE|v.|calumniar|
-TRAFFIC|XXX|trafic (-ar)|
-TRAGEDIAN|XXX|tragico|
-TRAGEDY|XXX|tragedie|
-TRAGIC|XXX|tragic|
+TRAFFIC|n.|trafic (-ar)|
+TRAGEDIAN|n.|tragico|
+TRAGEDY|n.|tragedie|
+TRAGIC|adj.|tragic|
 TRAIL|n.|tracie|
 TRAIL|v.|trenar pos se|
 TRAIN|n.|(of robe, rail.) tren; (retinue) suita; procession; serie|
 TRAIN|v.|exercir; (animals) dresser; (a gun) apuntar, directer|
 TRAIN UP|v.|educar|
-TRAIT|XXX|trate|
-TRAITOR|XXX|trahitor|
-TRAITOROUS|XXX|trahitiv, perfid|
+TRAIT|n.|trate|
+TRAITOR|n.|trahitor|
+TRAITOROUS|adj.|trahitiv, perfid|
 TRAJECTORY|n.|trajectorie|
-TRAM|XXX|tram (-via)|
+TRAM|n.|tram (-via)|
 TRAMMEL|n.|catenes, impediment|
 TRAMMEL|v.|catenar, impedir|
 TRAMP|v.|migrar; ped-ear|
 TRAMP|n.|vagabunde, vagard, tramp|
 TRAMPLE|v.|tramplar (-ada), ped-presser|
-TRANCE|XXX|extaSe; cataleptie, transe|
-TRANQUIL|XXX|tranquil (-itá, -isar), calm|
+TRANCE|n.|extaSe; cataleptie, transe|
+TRANQUIL|adj.|tranquil (-itá, -isar), calm|
 TRANS|prefix.|trans|
 TRANS|prep.|trans|
 TRANSACT|v.|transacter (-ion); tractar, negociar|
 TRANSCEND|v.|superar, superpassar|
-TRANSCENDENT|XXX|transcendent (-al, -ie)|
+TRANSCENDENT|n.|transcendent (-al, -ie)|XXX TODO -- n./adj., but "-al"
 TRANSCRIBE|v.|transscrir (-ite, -ition), copiar|
-TRANSEPT|XXX|transepte|
+TRANSEPT|n.|transepte|
 TRANSFER|n.|transferte (-er)|
 TRANSFIGURE|v.|transfigurar (-ation)|
 TRANSFIX|v.|traborar; transforar|
 TRANSFORM|v.|transformar (-ator, -ation)|
 TRANSFUSE|v.|transfuser (-ion)|
 TRANSGRESS|v.|transgresser (-ion, -or); infracter; (sin)peccar|
-TRANSIENT|XXX|fugient; transitori, efemeri|
-TRANSIT|XXX|transite (-ion, -iv, -ori)|
+TRANSIENT|adj.|fugient; transitori, efemeri|
+TRANSIT|n.|transite (-ion, -iv, -ori)|
 TRANSLATE|v.|traducter (-or, -ion), translater; interpretar|
-TRANSLATOR|XXX|traductor, interprete|
-TRANSLUCENT|XXX|tralucent (-ie)|
+TRANSLATOR|n.|traductor, interprete|
+TRANSLUCENT|adj.|tralucent (-ie)|
 TRANSMIT|v.|transmisser (-ion)|
 TRANSMITTER|n.|(instrument) emissor|
 TRANSMUTE|v.|transmutar (-ation)|
-TRANSPARENT|XXX|transparent (-ie); evident|
+TRANSPARENT|adj.|transparent (-ie); evident|
 TRANSPIRE|v.|devenir conosset; sudar|
 TRANSPLANT|v.|transplantar (-ation); transponer|
 TRANSPORT|n.|transporte|
 TRANSPORT|v.|transportar; (delight) ravisser (-ement)|
 TRANSPOSE|v.|transposir (-ition)|
-TRANSUBSTANTIATION|XXX|transsubstantiation|
-TRANSVERSE|XXX|transversal|
+TRANSUBSTANTIATION|n.|transsubstantiation|
+TRANSVERSE|adj.|transversal|
 TRAP|n.|trappe (-ar, -ero); (veh.) carre; (ambush) inboscada|
-TRAPEZE|XXX|trapeze|
-TRAPPINGS|XXX|ornamentes; livré; harnesse|
-TRASH|XXX|mercache, sinvalorage|
-TRAVAIL|XXX|dolore de parturition; acuchation|
+TRAPEZE|n.|trapeze|
+TRAPPINGS|n.|ornamentes; livré; harnesse|
+TRASH|n.|mercache, sinvalorage|
+TRAVAIL|n.|dolore de parturition; acuchation|
 TRAVEL|v.|viagear (-ator, -ation); turisme|
 TRAVERSE|v.|trayersar|
 TRAVESTY|n.|travestie, parodie|
 TRAVESTY|v.|travestir|
-TRAY|XXX|porta-plate; trog|
-TREACHEROUS|XXX|perfid; ínloyal, trahitiv|
-TREACHERY|XXX|perfidie, trahition|
-TREACLE|XXX|melasse|
+TRAY|n.|porta-plate; trog|
+TREACHEROUS|adj.|perfid; ínloyal, trahitiv|
+TREACHERY|n.|perfidie, trahition|
+TREACLE|n.|melasse|
 TREAD|n.|passuada|
 TREAD|v.|passuar|
 TREAD DOWN|v.|tramplar, ped-presser|
-TREADLE|XXX|pedale|
-TREASON|XXX|perfidie, trahition|
-TREASURER|XXX|cassero, tresorero|
+TREADLE|n.|pedale|
+TREASON|n.|perfidie, trahition|
+TREASURER|n.|cassero, tresorero|
 TREASURES|n.|tresor|
-TREASURY|XXX|fisco|
+TREASURY|n.|fisco|
 TREAT|deal with) tractar; negociar; (entertain) regalar; (med.|curar, medicar|
 TREAT|n.|regale; plesura, festine|
-TREATISE|XXX|tractate; tese, dissertation|
-TREATMENT|XXX|tractament; (med.) terapie|
-TREATY|XXX|tractate; negociation, pacte, tratte|
+TREATISE|n.|tractate; tese, dissertation|
+TREATMENT|n.|tractament; (med.) terapie|
+TREATY|n.|tractate; negociation, pacte, tratte|
 TREBLE|n.|soprano|
 TREBLE|adj.|triplic (-ar)|
-TREE|XXX|árbor; (boot-tree) listel|
-TREFOIL|XXX|trifolie|
-TRELLIS|XXX|trellie|
-TRELLISWORK|XXX|trelliage|
+TREE|n.|árbor; (boot-tree) listel|
+TREFOIL|n.|trifolie|
+TRELLIS|n.|trellie|
+TRELLISWORK|n.|trelliage|
 TREMBLE|v.|tremer (-ent, -id)|
-TREMBLING WITH COLD|XXX|trement pro frigore|
-TREMENDOUS|XXX|colossal, grandissim|
-TREMOLO|XXX|trémolo|
-TREMOR|XXX|tremore|
+TREMBLING WITH COLD|adj.|trement pro frigore|
+TREMENDOUS|adj.|colossal, grandissim|
+TREMOLO|n.|trémolo|
+TREMOR|n.|tremore|
 TRENCH|n.|fosse; (mil.) sappe, tranché|
 TRENCH|v.|fossar; sulcar|
-TRENCHANT|XXX|acri, tranchant|
+TRENCHANT|adj.|acri, tranchant|
 TREND|n.|tendentie|
 TREPAN|n.|trepan (-ar)|
-TREPIDATION|XXX|trepidation|
+TREPIDATION|n.|trepidation|
 TRESPASS|v.|transgresser, infracter, ofender; (sin)peccar|
 TRESPASS ON|v.|transpassar; invader|
-TRESS|XXX|tresse|
-TRESTLE|XXX|trestale, cavallette|
+TRESS|n.|tresse|
+TRESTLE|n.|trestale, cavallette|
 TRIAL|n.|essaye, prova; experiment; (legal) processu; judicie|
 TRIAL NUMBER|n.|specimen-exemplare|
-TRIANGLE|XXX|triangul (-ari)|
-TRIBE|XXX|tribe (-al, -alisme)|
-TRIBULATION|XXX|tribulation, suffrentie, afliction|
-TRIBUNAL|XXX|tribunale|
-TRIBUNE|XXX|tribune; (Roman) tribune|
+TRIANGLE|n.|triangul (-ari)|
+TRIBE|n.|tribe (-al, -alisme)|
+TRIBULATION|n.|tribulation, suffrentie, afliction|
+TRIBUNAL|n.|tribunale|
+TRIBUNE|n.|tribune; (Roman) tribune|
 TRIBUTARY|adj.|tributari|
 TRIBUTARY|n.|confluente; (payer of tribute) tributario|
-TRIBUTE|XXX|tribute|
+TRIBUTE|n.|tribute|
 TRICK|v.|dupar, decepter|
 TRICK|n.|tric (-ar), artificie; (in conjuring) jongleríe; (of manner) hábitu, custom|
 TRICK OUT|v.|ornar|
 TRICKLE|v.|fluettar; guttear|
-TRICYCLE|XXX|tricicle|
-TRIDENT|XXX|tridente|
+TRICYCLE|n.|tricicle|
+TRIDENT|n.|tridente|
 TRIFLE|n.|un poc; bagatelle, auripelle, talmi; (cul.) trifle|
 TRIFLE|v.|divertisser se|
-TRIGGER|XXX|clave, detendette|
-TRIGONOMETRY|XXX|trigonometrie|
-TRILL|XXX|trill (-ar)|
+TRIGGER|n.|clave, detendette|
+TRIGONOMETRY|n.|trigonometrie|
+TRILL|n.|trill (-ar)|
 TRIM|adj.|nett, ornat|
 TRIM|v.|(decorate) garnir|
 TRIM WITH LACE|v.|pasmentar; (a beard) tender; (vessels) equilibrar; fassonar|
-TRIMMINGS|XXX|garniment, accessories|
-TRINITY|XXX|trinitá; trinité|
-TRINKET|XXX|breloc, ornament, juvelette|
-TRIO|XXX|trio|
+TRIMMINGS|n.|garniment, accessories|
+TRINITY|n.|trinitá; trinité|
+TRINKET|n.|breloc, ornament, juvelette|
+TRIO|n.|trio|
 TRIP|n.|excursion, curt viage|
 TRIP|v.|passuar levimen, trottillar; (stumble) mispassuar; far cader|
-TRIPARTITE|XXX|tripartit|
-TRIPE|XXX|tripes|
+TRIPARTITE|n.|tripartit|
+TRIPE|n.|tripes|
 TRIPLE|adj.|triplic (-ar)|
-TRIPLETS|XXX|trigemelle|
+TRIPLETS|n.|trigemelle|
 TRIPLING|adj.|trivial, bagatellic; sin valore|
-TRIPOD|XXX|tripede|
-TRIREME|XXX|trireme|
-TRITE|XXX|banal (-itá)|
-TRITON|XXX|triton|
+TRIPOD|n.|tripede|
+TRIREME|n.|trireme|
+TRITE|adj.|banal (-itá)|
+TRITON|n.|triton|
 TRITURATE|v.|triturar (-ation)|
-TRIUMPH|XXX|triumf (-ar, -ant)|
-TRIVET|XXX|tripede, stativette|
-TRIVIAL|XXX|trivial (-itá)|
-TROGLODYTE|XXX|troglodite (-ic)|
-TROLLEY|XXX|trolley|
-TROLLOP|XXX|salopona|
-TROMBONE|XXX|trombon|
+TRIUMPH|n.|triumf (-ar, -ant)|
+TRIVET|n.|tripede, stativette|
+TRIVIAL|adj.|trivial (-itá)|
+TROGLODYTE|n.|troglodite (-ic)|
+TROLLEY|n.|trolley|
+TROLLOP|n.|salopona|
+TROMBONE|n.|trombon|
 TROOP|n.|(mil., theatre) truppe, peloton; (gang) bande|
 TROOP|v.|marchar|
-TROOPER|XXX|soldate de cavalleríe, cavallerist|
-TROOPS|XXX|soldatesca, milicie, armé|
-TROPHY|XXX|trofé|
-TROPIC|XXX|tropic|
+TROOPER|n.|soldate de cavalleríe, cavallerist|
+TROOPS|n.|soldatesca, milicie, armé|
+TROPHY|n.|trofé|
+TROPIC|n.|tropic|XXX FIXME -- n./adj.
 TROT|n.|trotta (-ar)|
-TROUBADOUR|XXX|trubadur|
+TROUBADOUR|n.|trubadur|
 TROUBLE|n.|truble; grive; pena|
 TROUBLE|v.|trublar; genar|
-TROUBLESOME|XXX|trublant; penosi|
-TROUGH|XXX|trog; cava|
+TROUBLESOME|adj.|trublant; penosi|
+TROUGH|n.|trog; cava|
 TROUNCE|v.|defetar (severmen), victer decisivmen; castigar, bastonar|
-TROUSERS|XXX|pantalon|
-TROUSSEAU|XXX|trusó|
-TROUT|XXX|trute (-iera)|
-TROWEL|XXX|truelie (-ade)|
-TRUANT|XXX|absento|
-TRUCE|XXX|suspension de hostilitá, armisticie|
-TRUCK|XXX|camion, carrette; (rail.) vagon, true; (dealings) negocie|
-TRUCULENT|XXX|feroci|
+TROUSERS|n.|pantalon|
+TROUSSEAU|n.|trusó|
+TROUT|n.|trute (-iera)|
+TROWEL|n.|truelie (-ade)|
+TRUANT|n.|absento|
+TRUCE|n.|suspension de hostilitá, armisticie|
+TRUCK|n.|camion, carrette; (rail.) vagon, true; (dealings) negocie|
+TRUCULENT|adj.|feroci|
 TRUDGE|v.|trenar se, marchar|
 TRUE|adj.|ver (-men); exact; (faithful) fidel|
-TRUFFLE|XXX|truffle|
-TRUISM|XXX|truisme|
+TRUFFLE|n.|truffle|
+TRUISM|n.|truisme|
 TRUMP|n.|(cards) trump|
 TRUMP UP|v.|fabricar|
-TRUMPERY|XXX|mercache; auripelle|
-TRUMPET|XXX|trumpete (-ar, -ero, -ist)|
-TRUNCHEON|XXX|baston|
+TRUMPERY|n.|mercache; auripelle|
+TRUMPET|n.|trumpete (-ar, -ero, -ist)|
+TRUNCHEON|n.|baston|
 TRUNK|n.|(tree) trunc; (case) coffre; (probosci) probocide, trompe; (tel.) chef linea|
-TRUSS|XXX|cintura herniari; (hay) fasce|
+TRUSS|n.|cintura herniari; (hay) fasce|
 TRUST|n.|fide, confidentie; eredite; (fin.) truste|
 TRUST|v.|fider; (hope) esperar|
-TRUSTEE|XXX|curator; tutor|
-TRUSTWORTHY|XXX|fidibil, loyal|
-TRUSTY|XXX|fidibil|
-TRUTH|XXX|veritá|
-TRUTHFUL|XXX|veraci (-tá)|
+TRUSTEE|n.|curator; tutor|
+TRUSTWORTHY|adj.|fidibil, loyal|
+TRUSTY|adj.|fidibil|
+TRUTH|n.|veritá|
+TRUTHFUL|adj.|veraci (-tá)|
 TRY|v.|(test) provar; (endeavour) penar; (judge) judicar; (weary) genar|
-TRYST|XXX|rendevú|
-TUB|XXX|tine, cuve|
-TUBE|XXX|tube; cilindre; rel-via subterran|
-TUBER|XXX|túbere (-osi)|
-TUBERCLE|XXX|tubercul (-osi, -ose)|
-TUBULAR|XXX|tubiform|
+TRYST|n.|rendevú|
+TUB|n.|tine, cuve|
+TUBE|n.|tube; cilindre; rel-via subterran|
+TUBER|n.|túbere (-osi)|
+TUBERCLE|n.|tubercul (-osi, -ose)|
+TUBULAR|adj.|tubiform|
 TUCK|n.|plica|
-TUESDAY|XXX|mardí|
-TUFT|XXX|toffe|
+TUESDAY|n.|mardí|
+TUFT|n.|toffe|
 TUG|n.|(naut.) remorcator|
 TUG|v.|trenar; remorcar|
-TUITION|XXX|instruction|
-TULIP|XXX|tulip|
-TULLE|XXX|tulle|
+TUITION|n.|instruction|
+TULIP|n.|tulip|
+TULLE|n.|tulle|
 TUMBLE|v.|cader; acrobatar, voltiger|
-TUMBLE-DOWN|XXX|caduc|
-TUMBLER|XXX|glass|
-TUMOUR|XXX|tumore (-osi)|
-TUMULT|XXX|tumultu (-osi)|
-TUMULUS|XXX|tumul|
-TUN|XXX|tonnel|
+TUMBLE-DOWN|adj.|caduc|
+TUMBLER|n.|glass|
+TUMOUR|n.|tumore (-osi)|
+TUMULT|n.|tumultu (-osi)|
+TUMULUS|n.|tumul|
+TUN|n.|tonnel|
 TUNE|n.|melodie (-osi), arie|
 TUNE|v.|acordar|
-TUNEFUL|XXX|harmoniosi|
-TUNGSTEN|XXX|túngsten|
-TUNIC|XXX|tunica|
-TUNNEL|XXX|tunnel|
-TURBAN|XXX|turbane|
-TURBINE|XXX|turbine|
-TURBOT|XXX|turbot|
-TURBULENT|XXX|turbulant (-ie), tumultuosi|
-TUREEN|XXX|supiere, terrine|
-TURF|XXX|torfe; (lawn) gazon; (racecourse) turf|
-TURKEY|XXX|indie gallino; meleagre|
-TURMOIL|XXX|tumultu|
+TUNEFUL|adj.|harmoniosi|
+TUNGSTEN|n.|túngsten|
+TUNIC|n.|tunica|
+TUNNEL|n.|tunnel|
+TURBAN|n.|turbane|
+TURBINE|n.|turbine|
+TURBOT|n.|turbot|
+TURBULENT|adj.|turbulant (-ie), tumultuosi|
+TUREEN|n.|supiere, terrine|
+TURF|n.|torfe; (lawn) gazon; (racecourse) turf|
+TURKEY|n.|indie gallino; meleagre|XXX FIXME -- indie!?
+TURMOIL|n.|tumultu|
 TURN|n.|torne; curve; choc|
 TURN|v.|tornar (se); rotar; converter; (become) devenir; -ijar; (make) far|
 TURN HEAD OVER HEELS|v.|culbutar|
 TURN PALE|v.|devenir pallid|
 TURN TURTLE|v.|cap-virar|
 TURN UPSIDE DOWN|v.|renversar|
-TURNER|XXX|tornero (-ía)|
-TURNIP|XXX|nap|
-TURNSPIT|XXX|torna-pica|
-TURNSTILE|XXX|torn-harriere|
-TURNTABLE|XXX|platte tornant|
-TURPENTINE|XXX|terebintine|
-TURPITUDE|XXX|infamie|
-TURQUOISE|XXX|turkise|
-TURRET|XXX|turrette|
-TURTLE|XXX|tortug; (turtledove) turtur|
-TUSH|XXX|tush|
-TUSK|XXX|croc|
-TUSSLE|XXX|lucta (-ar)|
-TUTELAGE|XXX|tutela (-ari), protection|
-TUTOR|XXX|instructor, docente|
-TWADDLE|XXX|galimatias, non-sense|
+TURNER|n.|tornero (-ía)|
+TURNIP|n.|nap|
+TURNSPIT|n.|torna-pica|
+TURNSTILE|n.|torn-harriere|
+TURNTABLE|n.|platte tornant|
+TURPENTINE|n.|terebintine|
+TURPITUDE|n.|infamie|
+TURQUOISE|n.|turkise|
+TURRET|n.|turrette|
+TURTLE|n.|tortug; (turtledove) turtur|
+TUSH|n.|tush|
+TUSK|n.|croc|
+TUSSLE|n.|lucta (-ar)|
+TUTELAGE|n.|tutela (-ari), protection|
+TUTOR|n.|instructor, docente|
+TWADDLE|n.|galimatias, non-sense|
 TWANG|n.|son vibratori; pronunciation nasal|
 TWANG|v.|pluccar|
-TWEEZERS|XXX|pincette|
-TWELVE|XXX|decidu (-esim)|
-TWENTY|XXX|duanti|
-TWICE|XXX|duplic; du vezes|
-TWICE AS MANY|XXX|du vezes plu mult|
-TWIG|XXX|ramette|
-TWILIGHT|XXX|crepuscul (-ari)|
+TWEEZERS|n.|pincette|
+TWELVE|adj., n.|decidu (-esim)|
+TWENTY|adj.|duanti|
+TWICE|adv.|duplic; du vezes|
+TWICE AS MANY|adv.|du vezes plu mult|
+TWIG|n.|ramette|
+TWILIGHT|n.|crepuscul (-ari)|
 TWIN|adj.|duplic|
 TWIN|n.|gemelle|
 TWINE|n.|corde, fil|
 TWINE|v.|plecter|
-TWINGE|XXX|spasma|
-TWINGE OF CONSCIENCE|XXX|remorse|
+TWINGE|n.|spasma|
+TWINGE OF CONSCIENCE|n.|remorse|
 TWINKLE|v.|scintillar (-ation); (of eyes) palpebrar; oculettar|
 TWIRL|v.|girar, far girar|
 TWIST|n.|torsura|
 TWIST|v.|torDer; (hair) tressar; (wind in and out) serpentear|
 TWITCH|n.|spasmette|
 TWITTER|v.|pipiar (-ada)|
-TWO|XXX|du|
-TWO MONTHS AGO|XXX|ante du mensus|
+TWO|adj., n.|du|
+TWO MONTHS AGO|adv.|ante du mensus|
 TWO YEARS SINCE|adv.|ante du annus|
-TWOFOLD|XXX|duplic|
-TYMPANUM|XXX|timpane|
+TWOFOLD|adj., n.|duplic|
+TYMPANUM|n.|timpane|
 TYPE|n.|tip (-ic); specie; (print.) líttere(s), tip|
 TYPE|v.|tippar, machinscrir|
-TYPEWRITER|XXX|scri-machine (-ist(a)|
-TYPHOID|XXX|tifoid|
-TYPHOON|XXX|uragane, tifon|
-TYPHUS|XXX|tif|
-TYPIST|XXX|tippist(a), scri-machinist(a)|
-TYPOGRAPHER|XXX|tipograf (-ic, -ie)|
-TYPOGRAPHY|XXX|tipografie (-ic)|
-TYRANT|XXX|tiranno (-ic, -ie, -isar)|
-TYRE|XXX|bandage (pneumatic)|
-TYRO|XXX|novicio|
-UBIQUITOUS|XXX|ubiqui (-tá), omnipresent|
-UDDER|XXX|ubre|
-UGLY|XXX|hideosi, ínbell, desbell; mal|
-UKASE|XXX|ukase|
-ULCER|XXX|úlcere (-ar, -osi)|
-ULTERIOR|XXX|ulteriori|
+TYPEWRITER|n.|scri-machine (-ist(a)|
+TYPHOID|adj.|tifoid|
+TYPHOON|n.|uragane, tifon|
+TYPHUS|n.|tif|
+TYPIST|n.|tippist(a), scri-machinist(a)|
+TYPOGRAPHER|n.|tipograf (-ic, -ie)|
+TYPOGRAPHY|n.|tipografie (-ic)|
+TYRANT|n.|tiranno (-ic, -ie, -isar)|
+TYRE|n.|bandage (pneumatic)|
+TYRO|n.|novicio|
+UBIQUITOUS|adj.|ubiqui (-tá), omnipresent|
+UDDER|n.|ubre|
+UGLY|adj.|hideosi, ínbell, desbell; mal|
+UKASE|n.|ukase|
+ULCER|n.|úlcere (-ar, -osi)|
+ULTERIOR|adj.|ulteriori|
 ULTIMATE|adj.|ultim, final|
-ULTIMATUM|XXX|ultimatum|
+ULTIMATUM|n.|ultimatum|
 ULTRA|prefix|ultra- (-marin, -montan)|
-ULULATION|XXX|ululation|
-UMBER|XXX|umbra|
-UMBILICUS|XXX|umbilico (-al)|
-UMBRELLA|XXX|parapluvie. ombrel|
-UMPIRE|XXX|arbitro (-ar)|
+ULULATION|n.|ululation|
+UMBER|n.|umbra|
+UMBILICUS|n.|umbilico (-al)|
+UMBRELLA|n.|parapluvie. ombrel|
+UMPIRE|n.|arbitro (-ar)|
 UN|prefix|(with adjectives) ín-; (with verbs) ín-, de(s)-|
-UNACCOUNTABLE|XXX|ínexplicabil|
-UNANIMOUS|XXX|unanim (-itá)|
-UNANSWERABLE|XXX|ínrefutabil|
-UNAPFECTED|XXX|ingenui, naiv, natural|
-UNASHAMED|XXX|sin honte|
-UNASSUMING|XXX|modest|
-UNAVAILING|XXX|van|
-UNAWARES|XXX|sin advertiment, ínexpectatmen|
-UNBELIEF|XXX|scepticisme, íncredulitá, defide, íncredentie|
+UNACCOUNTABLE|adj.|ínexplicabil|
+UNANIMOUS|adj.|unanim (-itá)|
+UNANSWERABLE|adj.|ínrefutabil|
+UNAPFECTED|adj.|ingenui, naiv, natural|
+UNASHAMED|adj.|sin honte|
+UNASSUMING|adj.|modest|
+UNAVAILING|adj.|van|
+UNAWARES|adj.|sin advertiment, ínexpectatmen|
+UNBELIEF|n.|scepticisme, íncredulitá, defide, íncredentie|
 UNBEND|v.|erecter; condesecnder, relaxar|
-UNBIASSED|XXX|ínpartial|
-UNCANNY|XXX|anormal, misteriosi|
-UNCERTAIN|XXX|íncert, vag, precari|
-UNCLE|XXX|oncle|
-UNCOMFORTABLE|XXX|íncomfortosi|
-UNCONCERN|XXX|índiferentie|
-UNCONSCIONABLE|XXX|ínrasonabil|
-UNCOUTH|XXX|íncult, crud, agrest|
-UNCTION|XXX|unction; fervore|
-UNCTUOUS|XXX|oleatri|
-UNDAUNTED|XXX|íntrepid, ne intimidat|
+UNBIASSED|adj.|ínpartial|
+UNCANNY|adj.|anormal, misteriosi|
+UNCERTAIN|adj.|íncert, vag, precari|
+UNCLE|n.|oncle|
+UNCOMFORTABLE|adj.|íncomfortosi|
+UNCONCERN|n.|índiferentie|
+UNCONSCIONABLE|adj.|ínrasonabil|
+UNCOUTH|adj.|íncult, crud, agrest|
+UNCTION|n.|unction; fervore|
+UNCTUOUS|adj.|oleatri|
+UNDAUNTED|adj.|íntrepid, ne intimidat|
 UNDER|adv.|ínsuficentmen|
 UNDER|prep., prefix|sub, sub-; minu quam|
-UNDER THE CHARGE OF|XXX|sub duction de|
-UNDER THE GUISE OF RELIGION|XXX|sub li masca de religion|
-UNDERCLOTHES|XXX|subvestimentes|
+UNDER THE CHARGE OF|prep.|sub duction de|
+UNDER THE GUISE OF RELIGION|adv.|sub li masca de religion|
+UNDERCLOTHES|n.|subvestimentes|
 UNDERGO|v.|subiseer; suffrer|
 UNDERGO TREATMENT|v.|esser in curation|
-UNDERGRADUATE|XXX|studente|
-UNDERGROUND|XXX|subterran|
-UNDERGROWTH|XXX|boscallia|
-UNDERHAND|XXX|deshonest, celat, furtiv|
-UNDERLING|XXX|inferiore, subordinate|
-UNDERLYING|XXX|fundamental|
-UNDERNEATH|XXX|infra, in infra|
+UNDERGRADUATE|n.|studente|
+UNDERGROUND|adj.|subterran|
+UNDERGROWTH|n.|boscallia|
+UNDERHAND|adj.|deshonest, celat, furtiv|
+UNDERLING|n.|inferiore, subordinate|
+UNDERLYING|adj.|fundamental|
+UNDERNEATH|adv.|infra, in infra|
 UNDERRATE|v.|taxar tro bass|
 UNDERSELL|v.|vendir plu modicmen quam, vendir sub li valore de|
 UNDERSTAND|v.|comprenDer; percepter|
-UNDERSTANDING|XXX|comprension; interconsenti ment; intelectu, inteligentie|
+UNDERSTANDING|n.|comprension; interconsenti ment; intelectu, inteligentie|
 UNDERSTATE|v.|desexagerar|
 UNDERTAKE|v.|interprender|
 UNDERTAKE TO DO SOMETHING|v.|ingagear|
-UNDERTAKER|XXX|interprensor; functionario funebri|
+UNDERTAKER|n.|interprensor; functionario funebri|
 UNDERWRITE|v.|assecurar; subgarantir|
-UNDIGNIFIED|XXX|poc digni, poc elevat|
+UNDIGNIFIED|adj.|poc digni, poc elevat|
 UNDO|v.|anullar; (undo something done) reparar; defar, deligar, debutonar etc.|
-UNDOING|XXX|ruine, perition|
+UNDOING|n.|ruine, perition|
 UNDRESS|v.|devestir (se)|
-UNDUE|XXX|excessiv; exagerat|
+UNDUE|adj.|excessiv; exagerat|
 UNDULATE|v.|undear, undular (-ation)|
-UNDYING|XXX|ínmortal|
+UNDYING|adj.|ínmortal|
 UNEARTH|v.|exhumar; revelar|
-UNEARTHLY|XXX|superterral, superhoman|
-UNEASY|XXX|íntranquil|
-UNENDING|XXX|ínfinit|
-UNEQUAL|XXX|disparat, ínegal|
-UNEVEN|XXX|ínegal, desplat|
-UNEVENTFUL|XXX|sin evenimentes, calm|
-UNEXAMPLED|XXX|sin precedentie, sin exemple|
-UNEXCEPTIONABLE|XXX|ínreprochabil, ínblamabil|
-UNFAILING|XXX|constant, ínfallibil|
-UNFEELING|XXX|ínsensibil|
-UNFLAGGING|XXX|ínfatigabil, índiminuet|
-UNFLINCHING|XXX|resoluet, ínvacillant|
-UNGAINLY|XXX|grossieri, desgraciosi, plump|
-UNGROUNDED|XXX|ínfundat|
-UNGUENT|XXX|unguente|
+UNEARTHLY|adj.|superterral, superhoman|
+UNEASY|adj.|íntranquil|
+UNENDING|adj.|ínfinit|
+UNEQUAL|adj.|disparat, ínegal|
+UNEVEN|adj.|ínegal, desplat|
+UNEVENTFUL|adj.|sin evenimentes, calm|
+UNEXAMPLED|adj.|sin precedentie, sin exemple|
+UNEXCEPTIONABLE|adj.|ínreprochabil, ínblamabil|
+UNFAILING|adj.|constant, ínfallibil|
+UNFEELING|adj.|ínsensibil|
+UNFLAGGING|adj.|ínfatigabil, índiminuet|
+UNFLINCHING|adj.|resoluet, ínvacillant|
+UNGAINLY|adj.|grossieri, desgraciosi, plump|
+UNGROUNDED|adj.|ínfundat|
+UNGUENT|n.|unguente|
 UNHINGE|v.|(mentally) desordinar, alienar|
 UNHORSE|v.|desedlar|
 UNI|prefix|uni- (-formi, -corne, -lateral, -son)|
-UNION|XXX|union; (trade union) sindicatu; (work-house) institute por povres|
-UNIQUE|XXX|unic, ínegalabil|
-UNIT|XXX|unité|
+UNION|n.|union; (trade union) sindicatu; (work-house) institute por povres|
+UNIQUE|adj.|unic, ínegalabil|
+UNIT|n.|unité|
 UNITE|v.|unir (-ition)|
-UNITY|XXX|unitá|
-UNIVERSE|XXX|universe (-al, -alitá)|
-UNIVERSITY|XXX|universitá|
-UNLESS|XXX|si...ne|
-UNLOCKED FOR|XXX|ínexpectat, ínprevidet|
-UNLUCKY|XXX|ínfortunosi, ínfelici|
+UNITY|n.|unitá|
+UNIVERSE|n.|universe (-al, -alitá)|
+UNIVERSITY|n.|universitá|
+UNLESS|conj.|si...ne|XXX TODO -- Improve translation.
+UNLOCKED FOR|adj.|ínexpectat, ínprevidet|XXX TODO -- Confirm usage (prep.?) and translation.
+UNLUCKY|adj.|ínfortunosi, ínfelici|
 UNMAN|v.|afeminar|
-UNMARRIED|XXX|celib|
-UNMISTAKABLE|XXX|cert, manifest, evident|
-UNMITIGATED|XXX|ínmitigat, absolut|
+UNMARRIED|adj.|celib|
+UNMISTAKABLE|adj.|cert, manifest, evident|
+UNMITIGATED|adj.|ínmitigat, absolut|
 UNNERVE|v.|debilisar, enervar|
-UNPARALLELED|XXX|sin paralele, sin egale, unic|
-UNPRETENDING|XXX|modest, ínpretentiosi|
-UNPRINCIPLED|XXX|sin principles; ínmoral|
-UNQUESTIONED|XXX|índisputat|
+UNPARALLELED|adj.|sin paralele, sin egale, unic|
+UNPRETENDING|adj.|modest, ínpretentiosi|
+UNPRINCIPLED|adj.|sin principles; ínmoral|
+UNQUESTIONED|adj.|índisputat|
 UNRAVEL|v.|debrolliar, desintricar|
-UNREMITTING|XXX|íncessant|
-UNRIVALLED|XXX|ínegalabil|
-UNRUFFLED|XXX|seren, calm|
-UNRULY|XXX|turbulant, índisciplinat|
-UNSCATHED|XXX|ínvulnerat|
-UNSETTLE|XXX|ínquietar|
-UNSIGHTLY|XXX|ínbell, hideosi|
-UNSOPHISTICATED|XXX|naiv|
-UNTHINKABLE|XXX|ínimaginabil|
+UNREMITTING|adj.|íncessant|
+UNRIVALLED|adj.|ínegalabil|
+UNRUFFLED|adj.|seren, calm|
+UNRULY|adj.|turbulant, índisciplinat|
+UNSCATHED|adj.|ínvulnerat|
+UNSETTLE|v.|ínquietar|
+UNSIGHTLY|adj.|ínbell, hideosi|
+UNSOPHISTICATED|adj.|naiv|
+UNTHINKABLE|adj.|ínimaginabil|
 UNTIE|v.|deligar|
-UNTIL|XXX|til|
-UNTIRING|XXX|ínfatigabil, índiminuet|
-UNTO|XXX|a; (up to) til|
-UNTOLD|XXX|íntaxabil, ínnarrat|
-UNTOWARD|XXX|ínfelici|
-UNTRUTH|XXX|mentie|
-UNTRUTHFUL|XXX|mentaci|
-UNVARNISHED|XXX|simplic, sincer; ínvernissat|
+UNTIL|conj., prep.|til|
+UNTIRING|adj.|ínfatigabil, índiminuet|
+UNTO|conj., prep.|a; (up to) til|
+UNTOLD|adj.|íntaxabil, ínnarrat|
+UNTOWARD|adj.|ínfelici|
+UNTRUTH|n.|mentie|
+UNTRUTHFUL|adj.|mentaci|
+UNVARNISHED|adj.|simplic, sincer; ínvernissat|
 UNVEIL|v.|develar, decelar|
-UNWARRANTABLE|XXX|ínjustificabil|
-UNWAVERING|XXX|constant, ínhesitant|
-UNWELCOME|XXX|ínoportun, desagreabil|
-UNWIELDY|XXX|pesant, ínmanipulabil|
+UNWARRANTABLE|adj.|ínjustificabil|
+UNWAVERING|adj.|constant, ínhesitant|
+UNWELCOME|adj.|ínoportun, desagreabil|
+UNWIELDY|adj.|pesant, ínmanipulabil|
 UNWILLINGLY|adv.|ne-volentmen, contra volentie|
-UP|XXX|ad-supra|
-UP AND DOWN|XXX|a ci e ta, ad supra e infra|
-UP STREAM|XXX|a monte|
-UP TO|XXX|til|
+UP|adv.|ad-supra|
+UP AND DOWN|adv.|a ci e ta, ad supra e infra|
+UP STREAM|adv.|a monte|
+UP TO|conj., prep.|til|
 UP TO DATE|adj.|modern, hodial, til hodie|
 UP TO DATE|adv.|til hodíe|
 UP-TO-DATE|adj.|modern, hodial, til hodie|
 UPBRAID|v.|reprochar|
-UPBRINGING|XXX|education|
-UPHEAVAL|XXX|eruption, tumultu|
-UPHILL|XXX|desfacil; ad alt, a monte|
+UPBRINGING|n.|education|
+UPHEAVAL|n.|eruption, tumultu|
+UPHILL|adj.|desfacil|
+UPHILL|adv.|ad alt, a monte|
 UPHOLD|v.|subtener, suportar|
 UPHOLSTER|v.|moblar; stuffar|
-UPHOLSTERER|XXX|moblero, tapissero|
-UPKEEP|XXX|mantention, subtention, suporte|
+UPHOLSTERER|n.|moblero, tapissero|
+UPKEEP|n.|mantention, subtention, suporte|
 UPLIFT|v.|elevar, exaltar, anoblar|
-UPON|XXX|sur; concernent(e), pri|
-UPPER|XXX|plu alt, supra; superiori|
-UPPERMOST|XXX|max alt|
+UPON|prep.|sur; concernent(e), pri|
+UPPER|adj.|plu alt, supra; superiori|
+UPPERMOST|adj.|max alt|
 UPRIGHT|n.|verticale|
 UPRIGHT|adj.|vertical, erect; honest|
-UPRISING|XXX|insurection|
-UPROAR|XXX|tumultu|
+UPRISING|n.|insurection|
+UPROAR|n.|tumultu|
 UPSET|v.|renversar; (grieve) vexar, chagrinar, índisposir|
-UPSHOT|XXX|resultate, fine|
-UPSTAIRS|XXX|supra, in supra|
-UPSTART|XXX|parvenú|
-UPWARDS|XXX|ad supra|
-UPWARDS OF|XXX|plu quam|
-URBAN|XXX|citean, urban|
-URBANE|XXX|polit, cortesi|
-URCHIN|XXX|gamino, pueracho, garsonacho|
+UPSHOT|n.|resultate, fine|
+UPSTAIRS|adv.|supra, in supra|
+UPSTART|n.|parvenú|
+UPWARDS|adv.|ad supra|
+UPWARDS OF|prep.|plu quam|
+URBAN|adj.|citean, urban|
+URBANE|adj.|polit, cortesi|
+URCHIN|n.|gamino, pueracho, garsonacho|
 URGE|n.|impulse|
 URGE|v.a.|presser; (be urgent) urger (-ent, -entie)|
-URINAL|XXX|urinuore, pissuore|
-URINE|XXX|urine (-ari)|
-URN|XXX|urne|
-URSINE|XXX|ursin|
-US|XXX|nos|
+URINAL|n.|urinuore, pissuore|
+URINE|n.|urine (-ari)|
+URN|n.|urne|
+URSINE|adj.|ursin|
+US|pron.|nos|
 USE|n.|usu (-al); utilitá|
 USE|v.|usar (-abil, -ada, -antie. -age)|
-USED TO|XXX|acustomat|
-USEFUL|XXX|util (-itá, -isar)|
-USELESS|XXX|ínutil|
+USED TO|adj.|acustomat|XXX FIXME -- adj./prep., acustomat ye
+USEFUL|adj.|util (-itá, -isar)|
+USELESS|adj.|ínutil|
 USHER IN|v.|preluder, introducter|
-USUAL|XXX|usual, ordinari|
+USUAL|adj.|usual, ordinari|
 USURP|v.|usurpar (-ation, -ator)|
-USURY|XXX|usure (-ari, -ero)|
-UTENSIL|XXX|utensile|
-UTERINE|XXX|uterin|
-UTERUS|XXX|útere|
+USURY|n.|usure (-ari, -ero)|
+UTENSIL|n.|utensile|
+UTERINE|adj.|uterin|
+UTERUS|n.|útere|
 UTILITARIAN|adj.|utilitari|
-UTILITY|XXX|utilitá|
+UTILITY|n.|utilitá|
 UTILIZE|v.|utilisar (-ation)|
 UTMOST|adj.|extrem, maxim(al)|
 UTMOST|n.|lu max possibil, omno possibil, maximum|
-UTOPIAN|XXX|utopic|
+UTOPIAN|adj.|utopic|
 UTTER|adj.|absolut, total|
 UTTER|v.|enunciar, expresser, far audir|
-UTTERANCE|XXX|enunciation; declaration|
-UVULA|XXX|uvul|
+UTTERANCE|n.|enunciation; declaration|
+UVULA|n.|uvul|
 VACANCY|XXX|vacantie; lacune|
 VACANT|XXX|vacant; ínocupat|
 VACATE|v.|forlassar; (an office) demiseionar|
