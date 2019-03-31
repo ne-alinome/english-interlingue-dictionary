@@ -73,6 +73,8 @@
 - Fix: "STILL ancor" is missing. "ancor" is mentioned only in "YET".
 - Add adv. usages to "NEVERTHELESS" and "HOWEVER".
 - "YORE" is missing.
+- Fix: "PASS AWAY|v.|morir; evanescer|" -> "PASS AWAY|v.|morir|",
+  "PASS OUT|v.|evanescer|"
 
 == Doubts
 

@@ -1800,7 +1800,7 @@ BRIG|n.|brigg|
 BRIGADE|n.|brigade (-ero)|
 BRIGAND|n.|brigante, bandite|
 BRIGANTINE|n.|scune-brigg|
-BRIGHT|adj.|clar, lucid, limpid; (of spirit) gay alegri, inteligent|
+BRIGHT|adj.|clar, lucid, limpid; (of spirit) gay, alegri, inteligent|
 BRIGHTEN|v.|asserenar, clarificar, animar|
 BRILLIANT|adj.|brilliant, splendid, lucent, eclatant|
 BRIM|n.|borde, margine|
@@ -2896,7 +2896,7 @@ COMPLAISENT|adj.|complesent (-ie), gentil|
 COMPLEMENT|n.|complement (-ari), suplement|
 COMPLETE|adj.|complet|
 COMPLETE|v.|compleer, completar, finir, perfectionar|
-COMPLEX|adj.|complex (-itá), complicat; (noion) complexe|
+COMPLEX|adj.|complex (-itá), complicat; (noion) complexe|XXX FIXME -- "noion"
 COMPLEXION|n.|facie-color, carnation|
 COMPLICATE|v.|complicar (-ation)|
 COMPLICITY|n.|complicitá, complicie|
@@ -12839,243 +12839,243 @@ RUSTLE|v.|frufrutar|
 RUT|n.|rot-sulca, carril|
 RUTHLESS|adj.|ínhuman, sin campatiment|
 RYE|n.|secale|
-SABBATH|XXX|sábbat; (Sunday) soledí|
+SABBATH|n.|sábbat; (Sunday) soledí|
 SABLE|adj.|nigri|
 SABLE|n.|zóbol|
-SABOT|XXX|lignin sapate|
+SABOT|n.|lignin sapate|
 SABOTAGE|v.|sabotar (-age)|
-SABRE|XXX|sabre (-ar)|
-SACCHARINE|XXX|sacarine|
-SACERDOTAL|XXX|sacerdotal (-isme)|
+SABRE|n.|sabre (-ar)|
+SACCHARINE|n.|sacarine|
+SACERDOTAL|adj.|sacerdotal (-isme)|
 SACK|n.|sac (-ada)|
 SACK|v.|pilliar; (dismiss) desemployar, desingagear, demisser|
-SACK-CLOTH|XXX|sacco|
-SACKING|XXX|sac-linage|
-SACRAMENT|XXX|sacrament (-al)|
-SACRED|XXX|sacri, sant|
+SACK-CLOTH|n.|sacco|
+SACKING|n.|sac-linage|
+SACRAMENT|n.|sacrament (-al)|
+SACRED|adj.|sacri, sant|
 SACRIFICE|n.|sacrificie (-al)|
 SACRIFICE|v.|sacrificar (-ator), imolar|
-SACRILEGE|XXX|sacrilegie (-osi)|
-SACRISTAN|XXX|sacristan|
-SACRISTY|XXX|sacristia|
-SACROSANCT|XXX|sacro-sant|
-SAD|XXX|trist (-esse), morni; (grievous) grav|
+SACRILEGE|n.|sacrilegie (-osi)|
+SACRISTAN|n.|sacristan|
+SACRISTY|n.|sacristia|
+SACROSANCT|adj.|sacro-sant|
+SAD|adj.|trist (-esse), morni; (grievous) grav|
 SADDEN|v.|atristar|
 SADDLE|v.|(burden) chargear|
 SADDLE|n.|sedle (-ar, -ero, -ería)|
 SAFE|adj.|salv, secur, ínnocet, in bon statu, in bon standa|
 SAFE|n.|moné-scaf, garda-moné; (food) garda-manjage|
 SAFE-CONDUCT|n.|passa-permisse|
-SAFEGUARD|XXX|precaution|
-SAFFRON|XXX|safran|
+SAFEGUARD|n.|precaution|
+SAFFRON|n.|safran|
 SAG|v.|pender lax|
-SAGA|XXX|saga, legende|
-SAGACIOUS|XXX|sagaci (-tá)|
+SAGA|n.|saga, legende|
+SAGACIOUS|adj.|sagaci (-tá)|
 SAGE|adj.|sagi (-tá)|
 SAGE|n.|sagio; (bot.) salvia|
-SAGO|XXX|sago (-palme)|
+SAGO|n.|sago (-palme)|
 SAIL|n.|segle (-ar, -ero, -ation, -ator); (journey) passage|
 SAIL|v.|navigar|
-SAILOR|XXX|marinero|
-SAINFOIN|XXX|esparsette|
-SAINT|XXX|santo (-itá)|
-SAL-AMMONIAC|XXX|sal-amoniac|
-SALAD|XXX|salade (-iere)|
-SALAMANDER|XXX|salamandre|
-SALARY|XXX|salarie (-ar)|
-SALE|XXX|vende, rendition, vendida; realisation|
-SALESMAN|XXX|venditor|
-SALIENT|XXX|salient, prominent|
+SAILOR|n.|marinero|
+SAINFOIN|n.|esparsette|
+SAINT|n.|santo (-itá)|
+SAL-AMMONIAC|n.|sal-amoniac|
+SALAD|n.|salade (-iere)|
+SALAMANDER|n.|salamandre|
+SALARY|n.|salarie (-ar)|
+SALE|n.|vende, rendition, vendida; realisation|
+SALESMAN|n.|venditor|
+SALIENT|n.|salient, prominent|
 SALINE|adj.|salin|
-SALIVA|XXX|saliva (-ar)|
+SALIVA|n.|saliva (-ar)|
 SALLOW|adj.|pallid, yelb|
 SALLOW|n.|salice|
 SALLY|n.|curr-atacca; (of wit) espritositá|
 SALLY|v.|surtir|
-SALMON|XXX|salmon|
+SALMON|n.|salmon|
 SALOON|n.|(room) sala, salon|
 SALT|adj.|salosi, salat, salin|
 SALT|n.|sale (-ar, -iere, -iera)|
 SALT|v.|(in)salar, marinar|
-SALT CELLAR|XXX|saliere|
-SALTPETRE|XXX|salpetre, nitre|
-SALUBRIOUS|XXX|salubri (-tá)|
-SALUTARY|XXX|util, salutari|
-SALUTE|XXX|salute (-ar)|
+SALT CELLAR|n.|saliere|
+SALTPETRE|n.|salpetre, nitre|
+SALUBRIOUS|adj.|salubri (-tá)|
+SALUTARY|adj.|util, salutari|
+SALUTE|n.|salute (-ar)|
 SALVAGE|v.|salvagear|
 SALVAGE|n.|salvage|
-SALVATION|XXX|salvation (-ist)|
-SALVE|XXX|unguente (-ar), balsam|
-SALVO|XXX|salve|
-SAME|XXX|sam, identic|
+SALVATION|n.|salvation (-ist)|
+SALVE|n.|unguente (-ar), balsam|
+SALVO|n.|salve|
+SAME|adj.|sam, identic|
 SAMOVAR|n.|samovar|
 SAMPLE|v.|provar, mustrar|
 SAMPLE|n.|specimen, mustre, exemplare|
-SANATORIUM|XXX|sanatoria|
+SANATORIUM|n.|sanatoria|
 SANCTIFY|v.|santificar (-ation)|
-SANCTIMONIOUS|XXX|hipocritic, piachi|
-SANCTION|XXX|sanction (-ar)|
-SANCTITY|XXX|santitá|
-SANCTUARY|XXX|santuarium; (refuge) asil|
+SANCTIMONIOUS|adj.|hipocritic, piachi|
+SANCTION|n.|sanction (-ar)|
+SANCTITY|n.|santitá|
+SANCTUARY|n.|santuarium; (refuge) asil|
 SAND|n.|sable, sand (-i, -osi, -banca, -riff)|
-SANDAL|XXX|sandale; (tree) santale|
-SANDSTONE|XXX|sable-petre|
-SANDWICH|XXX|sandwich|
-SANDWICHMAN|XXX|porta-afiche|
-SANE|XXX|de san spíritu, de san mente|
-SANGFROID|XXX|aplombe, sangue frigid|
-SANGUINARY|XXX|sanguinari|
-SANGUINE|XXX|sanguin, optimistic|
-SANITARY|XXX|sanitari, salubri|
-SANITATION|XXX|higiene|
-SANITY|XXX|sanitá mental|
+SANDAL|n.|sandale; (tree) santale|
+SANDSTONE|n.|sable-petre|
+SANDWICH|n.|sandwich|
+SANDWICHMAN|n.|porta-afiche|
+SANE|adj.|de san spíritu, de san mente|
+SANGFROID|n.|aplombe, sangue frigid|
+SANGUINARY|adj.|sanguinari|
+SANGUINE|adj.|sanguin, optimistic|
+SANITARY|adj.|sanitari, salubri|
+SANITATION|n.|higiene|
+SANITY|n.|sanitá mental|
 SAP|n.|succ (-osi)|
 SAP|v.|subminar, sappar (-ero); exhauster|
-SAPIENT|XXX|sapient (-ie)|
-SAPLING|XXX|arborelle, yun árbor|
-SAPONACIOUS|XXX|saponatri|
-SAPPER|XXX|sappero|
-SAPPHIRE|XXX|safire|
-SARABAND|XXX|sarabande|
-SARACEN|XXX|saracen|
-SARCASM|XXX|sarcasme|
-SARCASTIC|XXX|sarcastic|
-SARCOPHAGUS|XXX|sarcofago|
-SARDINE|XXX|sardine|
-SARDONIC|XXX|sardonic|
-SARGASSO|XXX|sargasso|
-SARTORIAL|XXX|sartorial|
-SASH|XXX|charpe; (of window) cadre fenestral|
-SATAN|XXX|satano (-ic)|
-SATCHEL|XXX|porta-folie, paperiere|
+SAPIENT|adj.|sapient (-ie)|
+SAPLING|n.|arborelle, yun árbor|
+SAPONACIOUS|adj.|saponatri|
+SAPPER|n.|sappero|
+SAPPHIRE|n.|safire|
+SARABAND|n.|sarabande|
+SARACEN|n.|saracen|
+SARCASM|n.|sarcasme|
+SARCASTIC|adj.|sarcastic|
+SARCOPHAGUS|n.|sarcofago|
+SARDINE|n.|sardine|
+SARDONIC|adj.|sardonic|
+SARGASSO|n.|sargasso|
+SARTORIAL|adj.|sartorial|
+SASH|n.|charpe; (of window) cadre fenestral|
+SATAN|n.|satano (-ic)|
+SATCHEL|n.|porta-folie, paperiere|
 SATE|v.|satiar (-abil)|
-SATELLITE|XXX|satelite|
+SATELLITE|n.|satelite|
 SATIATE|v.|satiar (-abil)|
-SATIETY|XXX|satietá, satie|
-SATIN|XXX|satine|
-SATIRE|XXX|satire (-ic, -ist, -isar)|
-SATISFIED|XXX|content, satisfat; convictet; (of apetite) sat|
+SATIETY|n.|satietá, satie|
+SATIN|n.|satine|
+SATIRE|n.|satire (-ic, -ist, -isar)|
+SATISFIED|adj.|content, satisfat; convictet; (of apetite) sat|
 SATISFY|v.|satisfar (-ation, -ant, -atori), contentar|
 SATURATE|v.|saturar (-ation, -itá)|
-SATURATED|XXX|satur|
-SATURDAY|XXX|saturdí|
-SATYR|XXX|satiro|
-SAUCE|XXX|sauce (-iere); impertinentie|
-SAUCEPAN|XXX|casserol|
-SAUCER|XXX|subtasse|
-SAUCY|XXX|impertinent (-ie)|
-SAUERKRAUT|XXX|sauerkraut|
+SATURATED|adj.|satur|
+SATURDAY|n.|saturdí|
+SATYR|n.|satiro|
+SAUCE|n.|sauce (-iere); impertinentie|
+SAUCEPAN|n.|casserol|
+SAUCER|n.|subtasse|
+SAUCY|adj.|impertinent (-ie)|
+SAUERKRAUT|n.|sauerkraut|
 SAUNTER|v.|ear lentmen, vagar, flanar|
-SAUSAGE|XXX|salsice|
+SAUSAGE|n.|salsice|
 SAVAGE|adj.|íncult, savagi (-tá, -eríe), feroci, barbaric|
 SAVAGE|n.|savagio, barbaro|
 SAVE|conj.|except(et)|
 SAVE|prep.|except(et)|
 SAVE|v.|(rescue) salvar; (economise) sparniar, economisar; (keep) conservar; reservar; (protect) gardar; (prevent) preventer|
-SAVELOY|XXX|cervelate|
-SAVINGS|XXX|sparniage, sparniament|
-SAVIOUR|XXX|Salvator|
+SAVELOY|n.|cervelate|
+SAVINGS|n.|sparniage, sparniament|
+SAVIOUR|n.|Salvator|
 SAVOUR|n.|sapore (-osi)|
 SAVOUR|v.|savurar; (savour of) saper|
 SAVOURY|adj.|(spiced) spiceat|
 SAW|n.|sega (-ería); (saying) aforisme|
 SAW|v.|segar|
-SAWDUST|XXX|segallia|
-SAWING-TRESTLE|XXX|seguore|
-SAXIFRAGE|XXX|saxifraga|
-SAXOPHONE|XXX|saxofon|
+SAWDUST|n.|segallia|
+SAWING-TRESTLE|n.|seguore|
+SAXIFRAGE|n.|saxifraga|
+SAXOPHONE|n.|saxofon|
 SAY|v.|dir|
 SAY WHATEVER COMES UPPER|v.|dir to quo veni in mente|
-SAYING|XXX|sententie, aforisme|
-SCAB|XXX|cruste; (disease) scabie (-osi)|
-SCABBARD|XXX|espadiere, foderale, porta-espade|
-SCABIES|XXX|scabie (-osi)|
+SAYING|n.|sententie, aforisme|
+SCAB|n.|cruste; (disease) scabie (-osi)|
+SCABBARD|n.|espadiere, foderale, porta-espade|
+SCABIES|n.|scabie (-osi)|
 SCABIOUS|n.|(bot.) scabiose|
-SCAFFOLD|XXX|scafote (-age)|
-SCAFFOLDING|XXX|scafalde|
+SCAFFOLD|n.|scafote (-age)|
+SCAFFOLDING|n.|scafalde|
 SCALD|v.|scaldar|
 SCALE|n.|(grade) gradu; (graduated range) scale; (mus.) gamme; (of charges) tarif; (scalepan) platil de balancie; (of animals) squame (-osi)|
 SCALE|v.|climbar; (with ladders) scaladar; (peel off) desquamar|
-SCALES|XXX|balancie|
-SCALLOP|XXX|feston; (mollusc) péctine|
-SCALP|XXX|scalp (-ar, -el)|
+SCALES|n.|balancie|
+SCALLOP|n.|feston; (mollusc) péctine|
+SCALP|n.|scalp (-ar, -el)|
 SCAMP|v.|laborachar|
 SCAMP|n.|rascale, vale-necós|
 SCAMPER|v.|hastar|
 SCAN|v.|scanDer (-sion); examinar|
-SCANDAL|XXX|scandale (-isar, -osi)|
+SCANDAL|n.|scandale (-isar, -osi)|
 SCANT|v.|usar mesquinmen|
 SCANT|adj.|scarsi, insuficent, rar|
 SCANTY|v.|usar mesquinmen|
 SCANTY|adj.|scarsi, insuficent, rar|
-SCAPEGOAT|XXX|expiator, peccon|
-SCAPULA|XXX|scapul (-arie)|
-SCAR|XXX|cicatre (-isar)|
-SCARAB|XXX|scarabé|
-SCARCE|XXX|scarsi (-tá), rar|
-SCARCELY|XXX|apen|
+SCAPEGOAT|n.|expiator, peccon|
+SCAPULA|n.|scapul (-arie)|
+SCAR|n.|cicatre (-isar)|
+SCARAB|n.|scarabé|
+SCARCE|adj.|scarsi (-tá), rar|
+SCARCELY|adv.|apen|
 SCARE|n.|panica|
 SCARE|v.|terrer, far fugir|
-SCARECROW|XXX|para-avie|
-SCARF|XXX|charpe|
+SCARECROW|n.|para-avie|
+SCARF|n.|charpe|
 SCARIFY|v.|scarificar (-ation)|
-SCARLET|XXX|scarlat|
-SCARLET FEVER|XXX|febre scarlatin, scarlatine|
-SCARP|XXX|scarpe (-at)|
-SCATHING|XXX|anihilant, aplastant|
+SCARLET|adj.|scarlat|XXX TODO -- n./adj.
+SCARLET FEVER|n.|febre scarlatin, scarlatine|
+SCARP|n.|scarpe (-at)|
+SCATHING|adj.|anihilant, aplastant|
 SCATTER|v.|disperser, disjettar, dissemar|
-SCAVENGER|XXX|balayero, escombrero|
-SCENE|XXX|scene (-ic); (view) perspective|
+SCAVENGER|n.|balayero, escombrero|
+SCENE|n.|scene (-ic); (view) perspective|
 SCENERY|n.|(theatre) deoorationes; sceneríe; (landscape) paisage|
 SCENT|n.|odore (-ar), parfúm (-ar); (hunting) flare (-ar)|
-SCEPTIC|XXX|sceptico|
-SCEPTICAL|XXX|sceptic (-isme)|
-SCEPTRE|XXX|sceptre|
-SCHEDULE|XXX|liste, formulare, tabelle, cedul|
+SCEPTIC|n.|sceptico|
+SCEPTICAL|adj.|sceptic (-isme)|
+SCEPTRE|n.|sceptre|
+SCHEDULE|n.|liste, formulare, tabelle, cedul|
 SCHEME|v.|projector, conspirar, intrigar|
 SCHEME|n.|schema (-tic), plan, projecte|
-SCHISM|XXX|schisma (-tic)|
-SCHIST|XXX|schist|
-SCHOLAR|XXX|elev (-a, -o) , scolero; docte, erudito|
-SCHOLARLY|XXX|erudit|
-SCHOLARSHIP|XXX|stipendie; erudition|
-SCHOLASTIC|XXX|scholastic|
-SCHOOL|XXX|scole; (building) scola, educatoria|
-SCHOOLFELLOW|XXX|conscolero|
-SCHOOLMASTER|XXX|mastre, principale, pedagogo|
-SCHOONER|XXX|scune|
-SCIATICA|XXX|sciatica|
-SCIENCE|XXX|scientie (-al, -ic, -ist, -ific)|
-SCIMITAR|XXX|cimeterre|
+SCHISM|n.|schisma (-tic)|
+SCHIST|n.|schist|
+SCHOLAR|n.|elev (-a, -o) , scolero; docte, erudito|
+SCHOLARLY|adj.|erudit|
+SCHOLARSHIP|n.|stipendie; erudition|
+SCHOLASTIC|adj.|scholastic|
+SCHOOL|n.|scole; (building) scola, educatoria|
+SCHOOLFELLOW|n.|conscolero|
+SCHOOLMASTER|n.|mastre, principale, pedagogo|
+SCHOONER|n.|scune|
+SCIATICA|n.|sciatica|
+SCIENCE|n.|scientie (-al, -ic, -ist, -ific)|
+SCIMITAR|n.|cimeterre|
 SCINTILLATE|v.|scintillar (-ation)|
-SCISSORS|XXX|cisores, cisette, tondette|
+SCISSORS|n.|cisores, cisette, tondette|
 SCOFF|v.|deriDer, mocar|
 SCOLD|v.|insultar, injuriar, reprimandar|
 SCOOP|v.|hauster, excavar|
 SCOOP|n.|haustor, palla|
-SCOPE|XXX|oportunitá; cadre, camp de action; (aim) scope|
-SCORBUTIC|XXX|scorbutic|
+SCOPE|n.|oportunitá; cadre, camp de action; (aim) scope|
+SCORBUTIC|adj.|scorbutic|
 SCORCH|v.|ustular (-ation)|
 SCORE|n.|(notch) incision; cause, motive; (games) calcul, conte; (twenty) duantene; (mus.) partitura|
 SCORE|v.|inciser; (games) marcar; ganiar puntes|
-SCORIA|XXX|scorie (-atri, -ificar)|
+SCORIA|n.|scorie (-atri, -ificar)|
 SCORN|n.|despecte (-er), desestima (-ar)|
-SCORNFUL|XXX|despectent|
-SCORPION|XXX|scorpion|
-SCOUNDREL|XXX|rascale, fripon, furbe|
+SCORNFUL|adj.|despectent|
+SCORPION|n.|scorpion|
+SCOUNDREL|n.|rascale, fripon, furbe|
 SCOUR|v.|terger, scurar; (a district) tracurrer, traversar|
 SCOURGE|n.|knute (-ar), flagelle|
 SCOUT|n.|scout (-isme)|
 SCOUT|v.|deriDer, repulser|
 SCOWL|v.|menaciar per li regarde|
-SCRAGGY|XXX|magri|
+SCRAGGY|adj.|magri|
 SCRAMBLE|n.|lucte, confusion|
 SCRAMBLE|v.|(climb) grimpar|
 SCRAP|n.|pezze, fragment|
 SCRAPE|n.|embarasse, desfacilitá|
 SCRAPE|v.|scrappar (-allia)|
-SCRAPER|XXX|scrappuore, scrappette|
-SCRAPIRON|XXX|ferrallia|
+SCRAPER|n.|scrappuore, scrappette|
+SCRAPIRON|n.|ferrallia|
 SCRATCH|v.|grattar|
 SCRATCH OUT|v.|forstrecar|
 SCRAWL|v.|scriachar|
@@ -13084,191 +13084,191 @@ SCREEN|n.|ecran, scren|
 SCREEN|v.|(shield) protector|
 SCREW|n.|scruv (-ar); (of ship) helice|
 SCREW|v.|(twist) torDer|
-SCREW-DRIVER|XXX|tira-scruv, scruv-tornator|
-SCREW-JACK|XXX|cric|
+SCREW-DRIVER|n.|tira-scruv, scruv-tornator|
+SCREW-JACK|n.|cric|XXX TODO -- Same as "jackscrew", which is missing.
 SCRIBBLE|v.|scriachar|
-SCRIPT|XXX|scrite, scritura|
-SCRIPTURE|XXX|bible, sant scritura|
-SCROFULA|XXX|scroful (-osi)|
+SCRIPT|n.|scrite, scritura|
+SCRIPTURE|n.|bible, sant scritura|
+SCROFULA|n.|scroful (-osi)|
 SCROLL|n.|cartuche; paper-volute, rule|
 SCRUB|n.|(underwood) arbustallia|
 SCRUB|v.|lav-brossar, terger, scurar|
-SCRUPLE|XXX|scrupul (-osi, -ositá)|
+SCRUPLE|n.|scrupul (-osi, -ositá)|
 SCRUTINISE|v.|examinar (-ator)|
-SCRUTINY|XXX|scrutine|
+SCRUTINY|n.|scrutine|
 SCUFFLE|n.|melé, rixe|
 SCUFFLE|v.|rixar, interluctar; (feet) acrappar per li pedes|
 SCULL|n.|rem (-ar)|
-SCULLERY|XXX|lavatoria, rinsatoria; cocinatoria|
-SCULPTOR|XXX|sculptor|
+SCULLERY|n.|lavatoria, rinsatoria; cocinatoria|
+SCULPTOR|n.|sculptor|
 SCULPTURE|v.|sculpter (-ura)|
-SCULPTURE GALLERY|XXX|gliptoteca|
+SCULPTURE GALLERY|n.|gliptoteca|
 SCUM|adj.|vil|
 SCUM|n.|scum (-osi), sediment; canallia|
 SCURF|n.|squame (del scalpe); furfure|
-SCURRILOUS|XXX|vil, calumniosi, scuril|
+SCURRILOUS|adj.|vil, calumniosi, scuril|
 SCURVY|adj.|vil, bass|
 SCURVY|n.|scorbute|
 SCUTTLE|n.|(coalscuttle) carboniere|
 SCUTTLE|v.|sabordar, submerser; (run off) forcurrer|
 SCYTHE|n.|falce (-ear)|
-SEA|XXX|mare, ocean; multité|
-SEA GREEN|XXX|glaucom|
-SEA-GULL|XXX|movette|
-SEA-MEW|XXX|movette|
-SEA-URCHIN|XXX|ursine|
-SEA-WEED|XXX|alga|
+SEA|n.|mare, ocean; multité|
+SEA GREEN|n.|glaucom|
+SEA-GULL|n.|movette|
+SEA-MEW|n.|movette|
+SEA-URCHIN|n.|ursine|
+SEA-WEED|n.|alga|
 SEAL|n.|cane marin, foca; (impression) sigille (-ar)|
 SEAL|v.|(letters) cluder|
-SEALING-WAX|XXX|sigill-cire|
-SEAM|XXX|sutura; (of minerals) strate, vene|
-SEAMAN|XXX|marinero|
-SEANCE|XXX|session|
+SEALING-WAX|n.|sigill-cire|
+SEAM|n.|sutura; (of minerals) strate, vene|
+SEAMAN|n.|marinero|
+SEANCE|n.|session|
 SEAR|v.|cauterisar|
 SEARCH|v.|serchar, examinar; (leg.) perquisir|
-SEARCHING|XXX|penetrant|
-SEARCHLIGHT|XXX|projector|
-SEASICKNESS|XXX|male de mare|
-SEASIDE|XXX|marborde, plage|
+SEARCHING|adj.|penetrant|
+SEARCHLIGHT|n.|projector|
+SEASICKNESS|n.|male de mare|
+SEASIDE|n.|marborde, plage|
 SEASON|n.|seson|
 SEASON|v.|condimentar, spicear|
-SEASONABLE|XXX|oportun, secun seson|
-SEASONING|XXX|condiment|
+SEASONABLE|adj.|oportun, secun seson|
+SEASONING|n.|condiment|
 SEAT|n.|sede, stul, banca|
 SEAT|v.|sedentar|
-SEBACIOUS|XXX|sebosi, sebic|
+SEBACIOUS|adj.|sebosi, sebic|
 SECEDE|v.|retraer se; dissider (-ente)|
 SECLUDE|v.|secluDer (-sion)|
 SECOND|adj.|duesim, secund (-ari); inferiori|
 SECOND|n.|(of time) seconde; (duel) secundante|
 SECOND|v.|subtener, secundar|
-SECOND IN COMMAND|XXX|sub-comandante|
-SECOND-HAND|XXX|de secund manu|
-SECOND-HAND DEALER|XXX|antiquario|
-SECONDARY SCHOOL|XXX|licéo (-an, -ano)|
+SECOND IN COMMAND|n.|sub-comandante|
+SECOND-HAND|adj.|de secund manu|
+SECOND-HAND DEALER|n.|antiquario|
+SECONDARY SCHOOL|n.|licéo (-an, -ano)|
 SECRET|adj.|secret, ocult, arcan|
 SECRET|n.|secrete (-esse)|
-SECRETARY|XXX|secretario (-al)|
+SECRETARY|n.|secretario (-al)|
 SECRETE|v.|secreer (-tion, -tori)|
-SECT|XXX|secta (-ant, -ari, -ario, -ano)|
-SECTION|XXX|section, division, compartiment|
-SECTOR|XXX|sector|
-SECULAR|XXX|profan, seculari (-isar), mundan|
+SECT|n.|secta (-ant, -ari, -ario, -ano)|
+SECTION|n.|section, division, compartiment|
+SECTOR|n.|sector|
+SECULAR|adj.|profan, seculari (-isar), mundan|
 SECURE|adj.|salv, secur (-itá)|
 SECURE|v.|securar; obtener; fixar|
-SECURITY|XXX|securitá; (leg.) cautela, garantíe; (bond) obligation|
-SEDATE|XXX|calm, seren|
+SECURITY|n.|securitá; (leg.) cautela, garantíe; (bond) obligation|
+SEDATE|adj.|calm, seren|
 SEDATIVE|n.|sedative|
-SEDENTARY|XXX|sedentari|
-SEDGE|XXX|cárex|
-SEDIMENT|XXX|sediment|
-SEDITION|XXX|sedition (-iosi)|
+SEDENTARY|adj.|sedentari|
+SEDGE|n.|cárex|
+SEDIMENT|n.|sediment|
+SEDITION|n.|sedition (-iosi)|
 SEDUCE|v.|seducter (-ion, -or, -iv)|
-SEDULOUS|XXX|assidui, diligent|
+SEDULOUS|adj.|assidui, diligent|
 SEE|n.|episcopia|
 SEE|v.|vider|
 SEE TO|v.|cuidar|
-SEED|XXX|seme (-ar, -ero), gérmine|
-SEEDSMAN|XXX|sem-venditor|
+SEED|n.|seme (-ar, -ero), gérmine|
+SEEDSMAN|n.|sem-venditor|
 SEEK|v.|serchar; (try) penar, provar|
 SEEM|v.|semblar, aparer|
-SEEMLY|XXX|convenent, decent|
-SEER|XXX|profete, augur|
+SEEMLY|adj.|convenent, decent|
+SEER|n.|profete, augur|
 SEESAW|n.|balansuore, bascul|
 SEETHE|v.|brodular, bollir|
 SEGBEGATE|v.|isolar, separar|
-SEGMENT|XXX|segment|
-SEISMOLOGIST|XXX|sismologo (-ie)|
+SEGMENT|n.|segment|
+SEISMOLOGIST|n.|sismologo (-ie)|
 SEIZE|v.|capter, capir, inpuniar|
-SEIZURE|XXX|caption; (illness) atacca|
+SEIZURE|n.|caption; (illness) atacca|
 SELDOM|adv.|rarmen, ínfrequentmen|
 SELECT|adj.|selectet, exquisit|
 SELECT|v.|selecter (-ion, -iv, -ivitá, -or)|
-SELENIUM|XXX|selenium|
+SELENIUM|n.|selenium|
 SELF|adj.|self (-ic)|
 SELF|n.|ego, natura|
-SELFASSURANCE|XXX|aplombe|
-SELFCONCEITED|XXX|vanitosi|
-SELFCONFIDENCE|XXX|self-confidentie|
-SELFCONSCIOUS|XXX|self-conscient|
-SELFCONTROL|XXX|self, self-domination|
-SELFDENIAL|XXX|abnegation|
-SELFEVIDENT|XXX|self|
-SELFGOVERNING|XXX|autonom (-ie)|
-SELFHELP|XXX|self-auxilie|
-SELFINSTRUCTION|XXX|self, autodidactie|
-SELFISH|XXX|egoistic|
-SELFISHNESS|XXX|egoisme|
+SELFASSURANCE|n.|aplombe|
+SELFCONCEITED|adj.|vanitosi|
+SELFCONFIDENCE|n.|self-confidentie|
+SELFCONSCIOUS|adj.|self-conscient|
+SELFCONTROL|n.|self, self-domination|
+SELFDENIAL|n.|abnegation|
+SELFEVIDENT|adj.|self|XXX TODO -- Add translations.
+SELFGOVERNING|adj.|autonom (-ie)|
+SELFHELP|n.|self-auxilie|
+SELFINSTRUCTION|n.|self, autodidactie|
+SELFISH|adj.|egoistic|
+SELFISHNESS|n.|egoisme|
 SELL|v.|vendir (-itor, -ition)|
-SEMAPHORE|XXX|semafore|
-SEMBLANCE|XXX|semblantie, similitá|
+SEMAPHORE|n.|semafore|
+SEMBLANCE|n.|semblantie, similitá|
 SEMI|prefix|semi-circul, -cólon etc.|
-SEMINARY|XXX|seminarie|
-SEMIQUAVER|XXX|duplic croche|
-SEMITIC|XXX|semitic|
-SEMOLINA|XXX|semol|
-SEMPSTRESS|XXX|sutora|
-SENATE|XXX|senat (-or)|
+SEMINARY|n.|seminarie|
+SEMIQUAVER|n.|duplic croche|
+SEMITIC|adj.|semitic|
+SEMOLINA|n.|semol|
+SEMPSTRESS|n.|sutora|
+SENATE|n.|senat (-or)|
 SEND|v.|inviar, misser, expedir|
 SEND FOR|v.|far venir|
 SEND ON|v.|transmisser|
 SEND OUT|v.|emisser, dismisser|
 SEND WORD OF|v.|avisar|
-SENILE|XXX|senil (-itá)|
+SENILE|adj.|senil (-itá)|
 SENIOR|adj.|plu old, senior (-itá)|
-SENSATION|XXX|sensation (-al, -alisme), eclate, sentida|
+SENSATION|n.|sensation (-al, -alisme), eclate, sentida|
 SENSE|v.|sentir, percepter|
 SENSE|n.|sense, signification; prudentie; (faculty) sensu|
-SENSELESS|XXX|absurd; insensat; (unconscious) ínconscient, ínsensibil|
-SENSIBLE|XXX|prudent, inteligent; (able to feel) sensibil; (appreciable) sentibil, perceptibil|
-SENSITIVE|XXX|sensitiv (-itá), sensibil, impressibil|
-SENSUAL|XXX|sensual (-ist, -itá, -isme)|
-SENSUOUS|XXX|sensual|
+SENSELESS|adj.|absurd; insensat; (unconscious) ínconscient, ínsensibil|
+SENSIBLE|adj.|prudent, inteligent; (able to feel) sensibil; (appreciable) sentibil, perceptibil|
+SENSITIVE|adj.|sensitiv (-itá), sensibil, impressibil|
+SENSUAL|adj.|sensual (-ist, -itá, -isme)|
+SENSUOUS|adj.|sensual|
 SENTENCE|graram.|frase; (legal) judica ment, sententie|
 SENTENCE|v.|condamnar, sententiar|
-SENTIMENT|XXX|sentiment (-al, -alitá), opinion|
-SENTINEL|XXX|sentinelle, posto|
-SENTRY|XXX|sentinelle, posto|
-SENTRY-BOX|XXX|garite|
-SEPAL|XXX|sepal|
+SENTIMENT|n.|sentiment (-al, -alitá), opinion|
+SENTINEL|n.|sentinelle, posto|
+SENTRY|n.|sentinelle, posto|
+SENTRY-BOX|n.|garite|
+SEPAL|n.|sepal|
 SEPARATE|adj.|separat, apart, distint|
 SEPARATE|v.|separar (-ation, -ator, -ativ, -abil), desunir, alontanar|
-SEPIA|XXX|sepia|
-SEPTEMBER|XXX|septembre|
-SEPTENNIAL|XXX|settennial|
-SEPTIC|XXX|septic|
-SEPTUAGENARIAN|XXX|settantario|
-SEPULCHRAL|XXX|lugubri, sepultorial|
-SEPULCHRE|XXX|tombe, sepulte|
-SEQUEL|XXX|continuation, sequent parte|
-SEQUENCE|XXX|sequentie; serie; órdine|
+SEPIA|n.|sepia|
+SEPTEMBER|n.|septembre|
+SEPTENNIAL|adj.|settennial|
+SEPTIC|adj.|septic|
+SEPTUAGENARIAN|n.|settantario|
+SEPULCHRAL|adj.|lugubri, sepultorial|
+SEPULCHRE|n.|tombe, sepulte|
+SEQUEL|n.|continuation, sequent parte|
+SEQUENCE|n.|sequentie; serie; órdine|
 SEQUESTRATE|v.|sequestrar (-ation)|
-SEQUOIA|XXX|sequoia|
-SERAGLIO|XXX|serái|
-SERAPH|XXX|seraf|
-SERE|XXX|sicc, marcit, marcid|
-SERENADE|XXX|serenade|
-SERENE|XXX|seren (-itá), calm|
-SERF|XXX|servo, servitudario|
-SERFDOM|XXX|servitude, servage|
-SERGE|XXX|serge|
-SERGEANT|XXX|sergente|
+SEQUOIA|n.|sequoia|
+SERAGLIO|n.|serái|
+SERAPH|n.|seraf|
+SERE|adj.|sicc, marcit, marcid|
+SERENADE|n.|serenade|
+SERENE|adj.|seren (-itá), calm|
+SERF|n.|servo, servitudario|
+SERFDOM|n.|servitude, servage|
+SERGE|n.|serge|
+SERGEANT|n.|sergente|
 SERIAL|adj.|serial|
 SERIAL|n.|folieton|
-SERIES|XXX|serie; sequentie|
-SERIOUS|XXX|seriosi (-tá), grav|
-SERMON|XXX|sermon (-ar)|
-SERPENT|XXX|serpente (-in)|
-SERRATED|XXX|dentat|
-SERUM|XXX|serum; (in compounds) sero-|
-SERVANT|XXX|servitor; domestica (-o)|
+SERIES|n.|serie; sequentie|
+SERIOUS|adj.|seriosi (-tá), grav|
+SERMON|n.|sermon (-ar)|
+SERPENT|n.|serpente (-in)|
+SERRATED|adj.|dentat|
+SERUM|n.|serum; (in compounds) sero-|
+SERVANT|n.|servitor; domestica (-o)|
 SERVE|v.|servir; assister; (to be suitable) convener|
 SERVICE|n.|servicie; favore; (set of china) service|
-SERVICEABLE|XXX|util|
-SERVIETTE|XXX|serviette|
-SERVILE|XXX|servil (-itá), sclavic|
-SERVITUDE|XXX|servitude, solavitá|
-SESSION|XXX|session|
+SERVICEABLE|adj.|util|
+SERVIETTE|n.|serviette|
+SERVILE|adj.|servil (-itá), sclavic|
+SERVITUDE|n.|servitude, solavitá|
+SESSION|n.|session|
 SET|adj.|firm, fix, rigid; formal; regulari; obstinat|
 SET|n.|(collection) colection, complement; serie; (of people) clicca; circul, gruppe|
 SET|v.|arangear, adaptar, fixar, etablisser; assignar; (of liquids) solidijar; (a limb) remetter; (mount) monter; (with gems) garnir; (place) metter, posir, plazzar; (station) locar, postar; (of sun etc.) descenDer; (type) composter; (clock) ajustar|
@@ -13281,87 +13281,87 @@ SET ON|v.|incitar, ataccar|
 SET ON EDGE|v.|exasperar, iritar|
 SET ON FIRE|v.|incendiar; accender|
 SET OUT|v.|exposir; comensar; departer, demonstrar|
-SET TO|XXX|(apply oneself) devoer se, aplicar se|
+SET TO|v.|(apply oneself) devoer se, aplicar se|
 SET UP|v.|erecter, etablisser; (give rise to) nascentar, causar|
 SET UP TYPE|v.|composter|
-SETT|XXX|pave|
-SETTEE|XXX|sofa|
-SETTER|XXX|sétter|
-SETTING|XXX|colocation; scene, funde|
+SETT|n.|pave|
+SETTEE|n.|sofa|
+SETTER|n.|sétter|
+SETTING|n.|colocation; scene, funde|
 SETTLE|v.|fixar, arangear; payar; deciDer; (an account) saldar; (sink) afundar; reposar; (territory) colonisar|
-SETTLED|XXX|tranquil, constant; colonisat|
-SETTLEMENT|XXX|saldo; arangeament; assignatura; liquidation; (colony) colonia; (subsidence) subsedentie|
-SEVEN|XXX|sett (-anti, -esim)|
-SEVEN-SLEEPER|XXX|glire|
+SETTLED|adj.|tranquil, constant; colonisat|
+SETTLEMENT|n.|saldo; arangeament; assignatura; liquidation; (colony) colonia; (subsidence) subsedentie|
+SEVEN|adj. ,n.|sett (-anti, -esim)|
+SEVEN-SLEEPER|n.|glire|
 SEVER|v.|separar, dejunter, detranchar|
 SEVERAL|adj.|(in number) pluri, divers, diatint, separat; respectiv|
 SEVERALLY|adv.|individualmen|
-SEVERE|XXX|severi (-tá), violent|
+SEVERE|adj.|severi (-tá), violent|
 SEW|v.|suer (-tion, -tura, -tora)|
-SEWER|XXX|cloaca|
-SEWERAGE|XXX|cloacage|
-SEWING-MACHINE|XXX|su-machine|
-SEX|XXX|sexu (-al, -alitá, -alisme)|
-SEXAGENARIAN|XXX|sixantario|
-SEXTANT|XXX|sextante|
-SEXTON|XXX|sacristan|
-SHABBY|XXX|mesquin, povrachi, perusat|
+SEWER|n.|cloaca|
+SEWERAGE|n.|cloacage|
+SEWING-MACHINE|n.|su-machine|
+SEX|n.|sexu (-al, -alitá, -alisme)|
+SEXAGENARIAN|n.|sixantario|
+SEXTANT|n.|sextante|
+SEXTON|n.|sacristan|
+SHABBY|adj.|mesquin, povrachi, perusat|
 SHACKLE|n.|caten|
 SHACKLE|v.|(in)catenar|
 SHADE|n.|ombre (-ar, -osi, -age); (degree) nuancie (-ar)|
-SHADING|XXX|ombration|
+SHADING|n.|ombration|
 SHADOW|v.|observar|
 SHADOW|n.|ombre; semblantie|
-SHADY|XXX|ombrosi; deshonest, suspectibil|
+SHADY|adj.|ombrosi; deshonest, suspectibil|
 SHAFT|n.|(arrow) fleche; (of vehicle) timon; (of mine) puteo; (of gun) tube|
-SHAGGY|XXX|vellut, vellosi|
-SHAH|XXX|chah|
+SHAGGY|adj.|vellut, vellosi|
+SHAH|n.|chah|
 SHAKE|v.|sucusser; (tremble) tremer|
 SHAKE HANDS|v.|presser li manus|
-SHAKY|XXX|ínstabil, labil, chancelant; tremorosi, tremid|
+SHAKY|adj.|ínstabil, labil, chancelant; tremorosi, tremid|
 SHALE|n.|(husk) cortice; (Geol.) schist; (gravel) gravie|
-SHALLOT|XXX|cebulette|
+SHALLOT|n.|cebulette|
 SHALLOW|n.|bass-funde|
 SHALLOW|adj.|superficial; ínprofund|
 SHAM|adj.|fals, ne genuin, fictet|
 SHAM|v.|ficter, simular, pretexter|
 SHAME|v.|pudentar, deshonorar, hontar|
 SHAME|n.|pudore, honte; desgracie|
-SHAME-FACED|XXX|pudic, confuset, hontosi|
-SHAMEFUL|XXX|hontosi, infam|
-SHAMELESS|XXX|impudent, cinic|
+SHAME-FACED|adj.|pudic, confuset, hontosi|
+SHAMEFUL|adj.|hontosi, infam|
+SHAMELESS|adj.|impudent, cinic|
 SHAMPOO|n.|shampun (-ar)|
 SHAMPOO|v.|lavar li cap|
-SHANK|XXX|gambe, tibia; (stem) trunc|
-SHANTY|XXX|cabane|
+SHANK|n.|gambe, tibia; (stem) trunc|
+SHANTY|n.|cabane|
 SHAPE|n.|forme (-ar), figura, modelle (-ar)|
 SHAPED|suffix|-form|
 SHARE|n.|portion, parte; (fin.) action|
 SHARE|v.|partir, divider; distribuer; partiprender|
-SHAREHOLDER|XXX|actionario|
-SHARK|XXX|squale|
+SHAREHOLDER|n.|actionario|
+SHARK|n.|squale|
 SHARP|adj.|acut, acri; abrupt; astut; (words) acerb|
 SHARP|n.|(mus.) diese|
 SHARPEN|v.|far acri, acutar; puntar|
-SHARPSIGHTED|XXX|perspicaci|
+SHARPSIGHTED|adj.|perspicaci|
 SHATTER|v.|fracassar, dispezzar|
 SHAVE|v.|rasar|
-SHAVINGS|XXX|rabotallia|
-SHAWL|XXX|chale|
-SHE|XXX|ella|
-SHEAF|XXX|fasce; (of corn) garbe|
+SHAVINGS|n.|rabotallia|
+SHAWL|n.|chale|
+SHE|pron.|ella|
+SHEAF|n.|fasce; (of corn) garbe|
 SHEAR|v.|tonder|
-SHEARS|XXX|tondette|
+SHEARS|n.|tondette|
 SHEATH|n.|foderale, porta-espade|
 SHED|n.|cabane, remise|
 SHED|v.|versar; emisser; (tears) lacrimar|
-SHEEP|XXX|agne (-ello, -in)|
-SHEEPISH|XXX|embarassat|
-SHEER|XXX|perpendiculari; abrupt, scarp|
+SHEEP|n.|agne (-ello, -in)|
+SHEEPISH|adj.|embarassat|XXX TODO -- Add the other meaning: agnic, agnal.
+SHEER|adj.|perpendiculari; abrupt, scarp|
 SHEET|n.|folie; (bed sheet) lett-linage; (metal) lámine; (naut.) scote|
-SHEETIRON|XXX|lade|
-SHEIK|XXX|cheik|
-SHELF|XXX|tabul (de scaf); planca; (Geol.) shelf; riff|
+SHEETIRON|n.|lade|
+SHEIK|n.|cheik|
+SHELF|n.|tabul (de scaf); planca; (Geol.) shelf; riff|
 SHELL|n.|(of molluscs) conche; cruste, cortice, shell; (mil.) obus, bombe; (pea shell) silique|
 SHELL|v.|decorticar; bombardar; exsiliquar|
 SHELTER|n.|asil, fugitoria|
@@ -13369,87 +13369,87 @@ SHELTER|v.|protecter, gardar; fugir; dar asil a; albergar|
 SHELVE|v.|procrastinar, ajornar; (slope) scarpar|
 SHEPHERD|n.|pastero|
 SHEPHERD|v.|ducter|
-SHERBET|XXX|sorbete|
+SHERBET|n.|sorbete|
 SHERD|n.|(pottsherd) fragment|
-SHERIFF|XXX|sheriff|
-SHERRY|XXX|sherry|
+SHERIFF|n.|sheriff|
+SHERRY|n.|sherry|
 SHIELD|n.|scren, egide; (armour) scude|
 SHIELD|v.|defenDer, protecter|
 SHIFT|n.|remedie; pretexte; change; (of workman) relé, periode|
 SHIFT|v.|mover, changear; vagar|
-SHIFTING|XXX|variabil|
+SHIFTING|adj.|variabil|
 SHIMMER|v.|lucer tremorosimen, lucettear|
-SHIN|XXX|tibia|
+SHIN|n.|tibia|
 SHINE|v.|brilliar, splender, lucer; (polish) polir|
-SHINGLES|XXX|herpes|
+SHINGLES|n.|herpes|
 SHIP|n.|nave, barca|
 SHIP|v.|inbarcar, cargar; expedir (-ition)|
-SHIPMENT|XXX|consignament, consignation|
-SHIPWRECK|XXX|naufrage (-ear)|
-SHIRE|XXX|comtia, provincia|
+SHIPMENT|n.|consignament, consignation|
+SHIPWRECK|n.|naufrage (-ear)|
+SHIRE|n.|comtia, provincia|
 SHIRK|v.|evitar, negliger, decuidar|
-SHIRT|XXX|camise|
+SHIRT|n.|camise|
 SHIVER|n.|frisson (-ar), tremer|
 SHOAL|n.|multité; sable-banca, riff|
 SHOCK|n.|choc (-ar); (of sheaves) garbe|
-SHOCKING|XXX|desgustant, nauseativ, repugnant|
+SHOCKING|adj.|desgustant, nauseativ, repugnant|
 SHODDY|adj.|inferiori, mesquin|
 SHODDY|n.|stoffach|
 SHOE|n.|sapate (-ero)|
 SHOE|v.|(horses) ferrar|
 SHOOT|n.|(hort.) ramelle, sarment|
 SHOOT|v.|tirar, fusilar ; burgeonar; (fling violently) lansar (se)|
-SHOOTING STAR|XXX|stelle volant, meteor|
+SHOOTING STAR|n.|stelle volant, meteor|
 SHOP|n.|butíca, magasine; (workshop) ateliere|
 SHOP|v.|comprar, far li compras|
-SHOP-KEEPER|XXX|buticario|
+SHOP-KEEPER|n.|buticario|
 SHORE|v.|(shore up) subtener per traves, apoyar|
 SHORE|n.|borde (del mare), costa, rive, plage, litore|
-SHORN|XXX|tondet; (deprived) privat|
-SHORT|XXX|curt, brevi; mancant; abrupt|
-SHORT STORY|XXX|novelle|
-SHORTCOMING|XXX|manca|
+SHORN|adj.|tondet; (deprived) privat|
+SHORT|adj.|curt, brevi; mancant; abrupt|
+SHORT STORY|n.|novelle|
+SHORTCOMING|n.|manca|
 SHORTEN|v.|acurtar, abreviar|
-SHORTHAND|XXX|stenografie|
-SHORTLY|XXX|bentost|
-SHORTS|XXX|short|
-SHORTSIGHTED|XXX|ínprevident; de curt vision, miop|
+SHORTHAND|n.|stenografie|
+SHORTLY|adv.|bentost|
+SHORTS|n.|short|
+SHORTSIGHTED|adj.|ínprevident; de curt vision, miop|
 SHOT|n.|tira, colpe; (metal missile) balle|
 SHOULDER|n.|epol|
 SHOULDER|v.|metter o portar sur li epoles|
-SHOULDERBLADES|XXX|scapul|
-SHOULDERKNOT|XXX|epol-lace|
+SHOULDERBLADES|n.|scapul|
+SHOULDERKNOT|n.|epol-lace|
 SHOUT|n.|cri (-ar), clama|
-SHOUTING|XXX|criada, clamore; aclamation|
+SHOUTING|n.|criada, clamore; aclamation|
 SHOVE|v.|pussar|
-SHOVEL|XXX|palle (-ade, -ar), spade (-ar)|
+SHOVEL|n.|palle (-ade, -ar), spade (-ar)|
 SHOW|n.|presentation; parade, spectacul, performantie, exposition, exhibition|
 SHOW|v.|monstrar (se), far vider, exhibir, revelar, exposir|
-SHOW OFF|XXX|paradar, ostentar; far contrastar|
-SHOW UP|XXX|exposir, decovrir, decelar, aparir|
-SHOW-CASE|XXX|vitrine|
+SHOW OFF|v.|paradar, ostentar; far contrastar|
+SHOW UP|v.|exposir, decovrir, decelar, aparir|
+SHOW-CASE|n.|vitrine|
 SHOWER|n.|pluviette|
-SHOWER-BATH|XXX|duche; duchuore|
-SHOWERY|XXX|pluviosi|
-SHOWY|XXX|ostentativ, pomposi|
-SHRAPNEL|XXX|shrapnel|
+SHOWER-BATH|n.|duche; duchuore|
+SHOWERY|adj.|pluviosi|
+SHOWY|adj.|ostentativ, pomposi|
+SHRAPNEL|adj.|shrapnel|
 SHRED|n.|(long) pezze; lacerate|
 SHRED|v.|dispezzar|
-SHREW|XXX|megera|
-SHREWD|XXX|sagaci, astut|
-SHREWMOUSE|XXX|musaren|
-SHRIEK|XXX|yella (-ar), stride, cri|
-SHRIKE|XXX|lanie|
-SHRILL|XXX|acut; strident|
-SHRIMP|XXX|crevette|
-SHRINE|XXX|altare, reliquiere|
+SHREW|n.|megera|
+SHREWD|adj.|sagaci, astut|
+SHREWMOUSE|n.|musaren|
+SHRIEK|n.|yella (-ar), stride, cri|
+SHRIKE|n.|lanie|
+SHRILL|adj.|acut; strident|
+SHRIMP|n.|crevette|
+SHRINE|n.|altare, reliquiere|
 SHRINK|v.|contraer (se); retraer (se); (recoil) recular; (lessen) demeliorar, diminuer; hesitar avan|
 SHRIVE|v.|confesser, absoluer|
 SHRIVEL|v.|contraer se, marcir|
 SHROUD|v.|invelopar|
 SHROUD|n.|mort-linage; (naut.) vantes|
-SHROVE TUESDAY|XXX|grass mardí|
-SHRUB|XXX|arbuste, bosco (-age)|
+SHROVE TUESDAY|n.|grass mardí|
+SHRUB|n.|arbuste, bosco (-age)|
 SHRUG|v.|levar li epoles|
 SHUDDER|n.|frisson (-ar)|
 SHUFFLE|n.|evasion, artificie|
@@ -13458,241 +13458,242 @@ SHUN|v.|evitar, detornar se|
 SHUNT|v.|bifurcar, rangear, shuntar|
 SHUT|adj.|cludet|
 SHUT|v.|cluder|
-SHUTTER|XXX|para-vente; (phot.) obturator|
-SHUTTLE|XXX|navette, spuliere|
-SHUTTLECOCK|XXX|balls plumat|
+SHUTTER|n.|para-vente; (phot.) obturator|
+SHUTTLE|n.|navette, spuliere|
+SHUTTLECOCK|n.|balls plumat|
 SHY|adj.|timid; suspectiv|
 SHY|v.|cabrar se|
 SIBILANT|n.|sibilante|
 SIBILANT|n.|sibilant|
-SICK|XXX|malad|
+SICK|adj.|malad|
 SICKEN|v.|amaladar se, maladijar; revulser, nausear|
-SICKLE|XXX|falce|
-SICKLY|XXX|maladiv (-itá); nauseant|
-SICKNESS|XXX|maladie; nausea|
-SIDE|XXX|látere, flanca; (party) partise; afectation|
-SIDEBOARD|XXX|bufete, platiliere|
-SIDELIGHT|XXX|lampe lateral|
-SIDELONG|XXX|obliqui(men)|
-SIDEREAL|XXX|sideral|
-SIDEWAYS|XXX|ad látere|
-SIDING|XXX|via o linea lateral; bifurcation|
+SICKLE|n.|falce|
+SICKLY|adj.|maladiv (-itá); nauseant|
+SICKNESS|n.|maladie; nausea|
+SIDE|n.|látere, flanca; (party) partise; afectation|
+SIDEBOARD|n.|bufete, platiliere|
+SIDELIGHT|n.|lampe lateral|
+SIDELONG|adj.|obliqui|
+SIDELONG|adv.|obliquimen|
+SIDEREAL|adj.|sideral|
+SIDEWAYS|adv.|ad látere|
+SIDING|n.|via o linea lateral; bifurcation|
 SIEGE|n.|assedie|
-SIESTA|XXX|siesta, pause midial|
+SIESTA|n.|siesta, pause midial|
 SIEVE|n.|cribelle (-ar)|
 SIFT|v.|cribellar; examinar|
 SIGH|n.|sospire (-ar)|
 SIGHT|n.|vision, visivitá; (view) vista, spectacul, perspective; (of gun) mire, visette|
 SIGHT|v.|mirar|
-SIGHTLESS|XXX|ciec|
+SIGHTLESS|adj.|ciec|
 SIGN|n.|signe, marca, indicie|
 SIGN|v.|subscrir; signar|
 SIGNAL|n.|signale|
 SIGNAL|v.|signalar|
-SIGNATORY|XXX|signatario|
-SIGNATURE|XXX|signature; autografie|
-SIGNET|XXX|sigille|
+SIGNATORY|n.|signatario|
+SIGNATURE|n.|signature; autografie|
+SIGNET|n.|sigille|
 SIGNIFY|v.|significar (-ation, -ativ)|
-SIGNPOST|XXX|pale indicatori, monstra-via|
+SIGNPOST|n.|pale indicatori, monstra-via|
 SILENCE|n.|silentie|
 SILENCE|v.|silentiar, far tacer|
-SILENT|XXX|silent|
-SILHOUETTE|XXX|siluette|
-SILICA|XXX|silice (-ate, -osi)|
-SILK|XXX|seta (-in, -age, -eríe)|
-SILKWORM|XXX|bombixe|
-SILL|XXX|sill|
-SILLY|XXX|stult, stupid, folli, fatui, ínept, idiotic|
-SILO|XXX|silo|
+SILENT|adj.|silent|
+SILHOUETTE|n.|siluette|
+SILICA|n.|silice (-ate, -osi)|
+SILK|n.|seta (-in, -age, -eríe)|
+SILKWORM|n.|bombixe|
+SILL|n.|sill|
+SILLY|adj.|stult, stupid, folli, fatui, ínept, idiotic|
+SILO|n.|silo|
 SILT|v.|insablar se (-ament)|
 SILT|n.|slamme, depositura, sable|
 SILVER|n.|argente (-in)|
 SILVER|v.|inargentar|
-SILVER PLATE|XXX|service argentin|
-SILVERPLATE|XXX|argenteríe|
-SILVERSMITH|XXX|argentero|
-SIMIAN|XXX|simian, simiatri|
-SIMILAR|XXX|simil (-itá)|
-SIMILE|XXX|comparation|
+SILVER PLATE|n.|service argentin|
+SILVERPLATE|n.|argenteríe|
+SILVERSMITH|n.|argentero|
+SIMIAN|adj.|simian, simiatri|
+SIMILAR|adj.|simil (-itá)|
+SIMILE|n.|comparation|
 SIMMER|v.|bollettar, comensar bollir|
-SIMPLE|XXX|simplic (-itá), naiv; pur|
-SIMPLETON|XXX|naivon, ásino|
+SIMPLE|adj.|simplic (-itá), naiv; pur|
+SIMPLETON|n.|naivon, ásino|
 SIMPLIFY|v.|simplificar (-ation)|
 SIMPLY|adv.|absolutmen; (merely) solmen|
 SIMULATE|v.|simular (-ation)|
-SIMULTANEOUS|XXX|simultan (-itá)|
+SIMULTANEOUS|adj.|simultan (-itá)|
 SIN|n.|pecca (sinar, -ator, -ard)|
 SINCE|conj.|pro que|
 SINCE|prep.|desde|
-SINCE HE HAS COME I WILL LEAVE|XXX|pro que il ha venit yo va departer|
+SINCE HE HAS COME I WILL LEAVE|expr.|pro que il ha venit yo va departer|
 SINCE THAT TIME|adv.|desde ti témpor|
-SINCERE|XXX|sinceri (-tá)|
+SINCERE|adj.|sinceri (-tá)|
 SINE|Geom.|sinus|
-SINECURE|XXX|sinecura|
-SINEW|XXX|tendon|
-SINFUL|XXX|peccosi, peccaci|
+SINECURE|n.|sinecura|
+SINEW|n.|tendon|
+SINFUL|adj.|peccosi, peccaci|
 SING|v.|cantar (-ator)|
 SINGE|v.|ustular|
 SINGLE|adj.|sol, singul, unic; (unmarried) celib (-o)|
 SINGLE|v.|(single out) selecter|
 SINGULAR|n.|(gramm.) singulare|
 SINGULAR|adj.|singulari (-tá), ínusual, apart; bizarri|
-SINISTER|XXX|sinistri|
+SINISTER|adj.|sinistri|
 SINK|n.|(domestic) rinsuore, eversuore, lav-petre|
 SINK|v.|submerser, descenDer, plongear; diminuer; (sink a shaft) excavar|
 SINK INTO|v.|lassar se cader|
-SINKING-FUND|XXX|cassa de amortisation|
-SINUOUS|XXX|sinuosi (-tá)|
+SINKING-FUND|n.|cassa de amortisation|
+SINUOUS|adj.|sinuosi (-tá)|
 SIP|v.|sirotar|
-SIPHON|XXX|sifon (-ar)|
-SIR|XXX|senior|
-SIREN|XXX|sirene; (nymph) sirena|
-SIRLOIN|XXX|hanche|
-SISKIN|XXX|tarine|
-SISTER|XXX|sestra|
-SISTER-IN-LAW|XXX|bel-sestra|
+SIPHON|n.|sifon (-ar)|
+SIR|n.|senior|
+SIREN|n.|sirene; (nymph) sirena|
+SIRLOIN|n.|hanche|
+SISKIN|n.|tarine|
+SISTER|n.|sestra|
+SISTER-IN-LAW|n.|bel-sestra|
 SIT|v.|seder|
 SIT DOWN|v.|sedentar se; (of hens) covar|
-SITE|XXX|loc, situation, position|
-SITTING|XXX|session; (hen) covada|
+SITE|n.|loc, situation, position|
+SITTING|n.|session; (hen) covada|
 SITUATE|adj.|situat (-ion)|
-SIX|XXX|six (-anti, -esim)|
-SIZE|XXX|grandore, mesura, dimension; (adhesive) glutine|
+SIX|adj., n.|six (-anti, -esim)|
+SIZE|n.|grandore, mesura, dimension; (adhesive) glutine|
 SKATE|n.|patine (-ar, -age, -ator, -atoria); (fish) ray|
-SKEIN|XXX|glom|
-SKELETON|XXX|squelette, ossage; frame|
+SKEIN|n.|glom|
+SKELETON|n.|squelette, ossage; frame|
 SKETCH|n.|esquisse (-ar), dessine; (rough draft) cladde|
-SKEWER|XXX|carne-clove|
-SKI|XXX|ski (-ar)|
+SKEWER|n.|carne-clove|
+SKI|n.|ski (-ar)|
 SKID|n.|para-glissa, eaten de rote|
 SKID|v.|glissar|
-SKIFF|XXX|canú|
-SKILFUL|XXX|habil, dexteri (-tá), versat, expert|
-SKILL|XXX|habilitá, dexteritá|
+SKIFF|n.|canú|
+SKILFUL|adj.|habil, dexteri (-tá), versat, expert|
+SKILL|n.|habilitá, dexteritá|
 SKIM|v.|(milk) decremar, scumar; (skim through) traleer superficialmen, superglissar|
-SKIM-MILK|XXX|lacte decremat|
+SKIM-MILK|n.|lacte decremat|
 SKIN|v.|depellar, decorticar|
 SKIN|n.|pelle, pellicul; membrane, derma; shell, cortice|
 SKINFLINT|adj.|parcimoniosi|
 SKINFLINT|n.|avaron|
-SKINNY|XXX|magri, ossi|
+SKINNY|adj.|magri, ossi|
 SKIP|v.|saltettar|
 SKIPPER|n.|(naut.) capitano, mastro|
-SKIPPING-ROPE|XXX|corde por saltar|
+SKIPPING-ROPE|n.|corde por saltar|
 SKIRMISH|n.|scarmuche (-ar)|
 SKIRT|n.|jup; (under skirt) jupon|
 SKIRT|v.|circumear, bordar, circumdar|
-SKIRTING BOARD|XXX|plinte|
+SKIRTING BOARD|n.|plinte|
 SKIT|n.|burla, joca|
-SKITTLE|XXX|kegle|
+SKITTLE|n.|kegle|
 SKULK|v.|celar se|
-SKULL|XXX|cranie (-al)|
-SKUNK|XXX|scunc|
-SKY|XXX|ciel, firmament|
-SKYLARK|XXX|alaude|
-SKYLIGHT|XXX|tegment-fenestre|
-SKYSCRAPER|XXX|gratta-ciel|
-SLAB|XXX|platte, tabulette|
-SLACK|XXX|lax; poc rigorosi|
+SKULL|n.|cranie (-al)|
+SKUNK|n.|scunc|
+SKY|n.|ciel, firmament|
+SKYLARK|n.|alaude|
+SKYLIGHT|n.|tegment-fenestre|
+SKYSCRAPER|n.|gratta-ciel|
+SLAB|n.|platte, tabulette|
+SLACK|adj.|lax; poc rigorosi|
 SLACKEN|v.|alaxar, devenir lax; (slacken speed) desaccelerar, alentar; diminuer|
-SLAG|XXX|scorie|
+SLAG|n.|scorie|
 SLAKE|v.|calmar, desetar|
 SLAM|v.|cluder bruosimen, cluder per un jetta claccant, far claccar|
 SLANDER|n.|calumnie (-ar)|
 SLANDER|v.|defamar|
-SLANDEROUS|XXX|calumniosi|
+SLANDEROUS|adj.|calumniosi|
 SLANG|n.|argote (-ic), slang|
 SLANT|n.|cline|
 SLANT|v.|esser obliqui, far obliqui; clinar|
 SLAP|n.|batte (-er), colpe|
-SLAP IN THE FACE|XXX|faciata|
+SLAP IN THE FACE|n.|faciata|
 SLASH|v.|tranchar, cupar, fender|
-SLATE|XXX|ardese|
-SLATEPENCIL|XXX|ardes-crayon|
-SLATTERN|XXX|salopona|
+SLATE|n.|ardese|
+SLATEPENCIL|n.|ardes-crayon|
+SLATTERN|n.|salopona|
 SLAUGHTER|v.|buchar (-ada, -ería)|
 SLAV|n.|slavo (-a)|
 SLAV|adj.|slav, slavic|
 SLAVE|n.|sclavo, servo|
 SLAVER|v.|bavar|
-SLAVERY|XXX|servitude, sclavitá, sclaveríe|
-SLAVISH|XXX|servil|
+SLAVERY|n.|servitude, sclavitá, sclaveríe|
+SLAVISH|adj.|servil|
 SLAY|v.|mortar; buchar|
 SLEDGE|n.|slitte (-ar)|
-SLEDGE-HAMMER|XXX|martelle|
-SLEEK|XXX|glatt|
+SLEDGE-HAMMER|n.|martelle|
+SLEEK|adj.|glatt|
 SLEEP|n.|somnie (-ar, -aci, -on), dorme (-ida)|
 SLEEP|v.|dormir|
-SLEEP-WALKING|XXX|somnambulisme|
+SLEEP-WALKING|n.|somnambulisme|
 SLEEPER|rail.|traverse; lette-vagon|
-SLEEPINESS|XXX|somnolentie, dormientie|
-SLEEPING PARTNER|XXX|comanditario|
-SLEEPING SICKNESS|XXX|maladie somnial|
-SLEEPING-CAR|XXX|lette-vagon|
-SLEEPLESSNESS|XXX|ínsomnie|
-SLEEPY|XXX|dormaci, letargic|
-SLEET|XXX|nivpluvie|
-SLEEVE|XXX|manche|
-SLEIGH|XXX|slitte (-ar)|
-SLEIGHT OF HAND|XXX|escamotage, prestidigitation|
-SLENDER|XXX|gracil, svelt; (thin) tenui|
+SLEEPINESS|n.|somnolentie, dormientie|
+SLEEPING PARTNER|n.|comanditario|
+SLEEPING SICKNESS|n.|maladie somnial|
+SLEEPING-CAR|n.|lette-vagon|
+SLEEPLESSNESS|n.|ínsomnie|
+SLEEPY|adj.|dormaci, letargic|
+SLEET|n.|nivpluvie|
+SLEEVE|n.|manche|
+SLEIGH|n.|slitte (-ar)|
+SLEIGHT OF HAND|n.|escamotage, prestidigitation|
+SLENDER|adj.|gracil, svelt; (thin) tenui|
 SLICE|n.|tranche (-ar)|
 SLIDE|n.|(place, for sliding) glissuore; (phot.) cliché|
 SLIDE|v.|glissar (-ada)|
-SLIDING-SCALE|XXX|tarif variabil, scale variabil|
+SLIDING-SCALE|adj.|tarif variabil, scale variabil|
 SLIGHT|adj.|debil, levi; svelt, gracil; ínimportant, trivial, minimal|
 SLIGHT|v.|despecter, negliger|
 SLIM|adj.|gracil, svelt|
-SLIME|XXX|slamme|
+SLIME|n.|slamme|
 SLING|n.|sling (-ar); (surg.) bande|
-SLINK|XXX|(for-)repter, reptachar|
+SLINK|v.|(for-)repter, reptachar|
 SLIP|n.|erra; (garment) subjup|
 SLIP|v.|glissar; mispassuar; errar|
-SLIPPER|XXX|pantufle|
-SLIPPERY|XXX|glissid, lubric|
-SLIPSHOD|XXX|negligent, salop|
-SLIPWAY|XXX|glissuore (por lansar naves)|
+SLIPPER|n.|pantufle|
+SLIPPERY|adj.|glissid, lubric|
+SLIPSHOD|adj.|negligent, salop|
+SLIPWAY|n.|glissuore (por lansar naves)|
 SLIT|n.|fensura|
 SLIT|v.|fender, cupar secun li longore|
 SLOBBER|v.|bavar (-age)|
-SLOE|XXX|prunelle (-iero), prune savagi|
-SLOGAN|XXX|slogan|
-SLOOP|XXX|chalupe|
+SLOE|n.|prunelle (-iero), prune savagi|
+SLOGAN|n.|slogan|
+SLOOP|n.|chalupe|
 SLOPE|n.|declive (-ar), scarp (-ar)|
-SLOPPY|XXX|salop, muddosi; ínelegant|
-SLOPS|XXX|rinsura, rinsallia|
-SLOT|XXX|micri apertura, fensura|
-SLOTH|XXX|pigresse, pigritá; (animal) plantigrade|
-SLOTHFUL|XXX|índolent, tardigrad, lentaci, pigri|
+SLOPPY|adj.|salop, muddosi; ínelegant|
+SLOPS|n.|rinsura, rinsallia|
+SLOT|n.|micri apertura, fensura|
+SLOTH|n.|pigresse, pigritá; (animal) plantigrade|
+SLOTHFUL|adj.|índolent, tardigrad, lentaci, pigri|
 SLOUGH|n.|morasse, muddiera|
 SLOUGH|v.|vader índolentmen|
 SLOVEN|n.|salopon, sordidon|
 SLOW|adj.|lent (-ore), tard; (wearisome) enoyant|
 SLOW DOWN|v.|alentar, desaccelerar|
-SLUG|XXX|limace (calcin)|
-SLUGGARD|XXX|dormion, lentarde|
-SLUGGISH|XXX|pesant, inert, inactiv, lentaci; (med,) limfatic|
-SLUICE|XXX|scluse (-ero)|
-SLUM|XXX|quarterache, slum|
+SLUG|n.|limace (calcin)|
+SLUGGARD|n.|dormion, lentarde|
+SLUGGISH|adj.|pesant, inert, inactiv, lentaci; (med,) limfatic|
+SLUICE|n.|scluse (-ero)|
+SLUM|n.|quarterache, slum|
 SLUMBER|n.|dorme|
 SLUMBER|v.|dormettar, somnolar|
 SLUMP|n.|morasse; (fall) cadida; economic depression, chomage|
 SLUR|n.|reproche; stigma|
 SLUR|v.|trenar, traer|
-SLUSH|XXX|nive-mudde, niv-aqua|
-SLUT|XXX|sordidona, salopona|
-SLY|XXX|astut, secretiv, insidiosi, simulant|
+SLUSH|n.|nive-mudde, niv-aqua|
+SLUT|n.|sordidona, salopona|
+SLY|adj.|astut, secretiv, insidiosi, simulant|
 SMACK|n.|frappa, batte, colpe|
 SMACK|v.|batter; (with lips) labie-claccar|
-SMALL|XXX|micri, litt|
+SMALL|adj.|micri, litt|
 SMALL LETTER|n.|(not capital) minuscul|
-SMALL-POX|XXX|variol|
+SMALL-POX|n.|variol|
 SMART|adj.|elegant; habil; vivosi; (witty) espritosi|
 SMART|n.|dolore|
 SMART|v.|suffrer; doler|
 SMASH|n.|colision|
 SMASH|v.|fracassar, dispezzar; aplastar; (fin.) fallir|
-SMATTERING|XXX|conossentie superficial|
+SMATTERING|n.|conossentie superficial|
 SMEAR|v.|grassar, unguentar; (in writing) sordidar|
 SMELL|n.|odore, malodore, aroma, parfúm; (a sniff) flare|
 SMELL|v.|(with nose) flarar; (intr.) odorar, aromar|
@@ -13700,33 +13701,33 @@ SMELLING-BOTTLE|n.|flar-botelle|
 SMELT|v.|fonder, fuser; (fish) eperlane|
 SMILE|n.|subride (-er), ridette|
 SMIRCH|v.|assordidar|
-SMIRK|XXX|ridettache, un afectat subride|
+SMIRK|n.|ridettache, un afectat subride|
 SMITE|v.|dar un grand colpe|
-SMITH|XXX|forjero|
-SMITHY|XXX|forjería|
-SMITTEN WITH|XXX|incantat per, inamorat in|
-SMOCK|XXX|camise (de seniora)|
+SMITH|n.|forjero|
+SMITHY|n.|forjería|
+SMITTEN WITH|prep.|incantat per, inamorat in|
+SMOCK|n.|camise (de seniora)|
 SMOKE|n.|fum. vapore|
 SMOKE|v.|fumar; (of chimney) emisser fum; (bacon etc.) fumicar, infumar|
-SMOKER|XXX|fumator; (rail) cupé o comparti ment fumatori|
-SMOKY|XXX|fumosi, fumant, plen de fum|
+SMOKER|n.|fumator; (rail) cupé o comparti ment fumatori|
+SMOKY|adj.|fumosi, fumant, plen de fum|
 SMOOTH|adj.|glatt (-ar), polit; glissid; calm|
 SMOTHER|v.|sufocar (smother rage etc.) supresser|
 SMOULDER|v.|subbrular, brulettar|
 SMUDGE|v.|sordidar|
-SMUG|XXX|self-satisfat|
-SMUGGLING|XXX|contrabande (-age, -ar, -ero)|
+SMUG|adj.|self-satisfat|
+SMUGGLING|n.|contrabande (-age, -ar, -ero)|
 SMUT|n.|floc de fulígine|
-SNACK|XXX|colation, repastette, intermanja|
-SNAFFLE|XXX|trense|
-SNAG|XXX|node; impediment, desavantage|
-SNAIL|XXX|helice|
-SNAIL'S PACE|XXX|passu de helice|
-SNAKE|XXX|colubre, serpente|
+SNACK|n.|colation, repastette, intermanja|
+SNAFFLE|n.|trense|
+SNAG|n.|node; impediment, desavantage|
+SNAIL|n.|helice|
+SNAIL'S PACE|n.|passu de helice|
+SNAKE|n.|colubre, serpente|
 SNAP|n.|(clasp) agraffe, fibul; (noise) clacca|
 SNAP|v.|(break) rupter, fracter|
 SNAP AT|v.|happar|
-SNAPDRAGON|XXX|antirrine, bocca de leon|
+SNAPDRAGON|n.|antirrine, bocca de leon|
 SNARE|n.|trappe (-ar, -ero), captuore|
 SNARL|v.|grunir|
 SNATCH|n.|(of music) pezzette|
@@ -13736,312 +13737,313 @@ SNEAK|v.|(sneak away) furtivmen vadar; (sneak on) trahir|
 SNEER|n.|rican (-ar)|
 SNEEZE|v.|sternutar (-ation)|
 SNIFF|v.|snifflar (-ada); (smell) flarar|
-SNIPER|XXX|celat tirator, franc-tirator|
+SNIPER|n.|celat tirator, franc-tirator|
 SNIVEL|v.|plorachar|
 SNOB|n.|parvenú, snob; (shoemaker) sapatero|
 SNORE|n.|ronca (-ar, -ada, -ator)|
 SNORT|v.|sofflar|
-SNOUT|XXX|musel|
+SNOUT|n.|musel|
 SNOW|n.|nive (-ear)|
-SNOW-PLOUGH|XXX|nive-plug|
-SNOWBALL|XXX|bul de nive|
-SNOWDROP|XXX|flor de nive; clochette nival|
-SNOWED UP|XXX|innivat|
-SNOWFLAKE|XXX|flor de nive|
-SNOWY|XXX|nivosi, nivatri|
+SNOW-PLOUGH|n.|nive-plug|
+SNOWBALL|n.|bul de nive|
+SNOWDROP|n.|flor de nive; clochette nival|
+SNOWED UP|adj.|innivat|
+SNOWFLAKE|n.|flor de nive|
+SNOWY|adj.|nivosi, nivatri|
 SNUB|v.|repulser, ignorar|
 SNUB-NOSED|adj.|stumpnasat|
-SNUFF|XXX|sniffle-tabac|
-SNUG|XXX|comod, comfortabil|
+SNUFF|n.|sniffle-tabac|
+SNUG|adj.|comod, comfortabil|
 SO|adv.|talmen|
 SO|adv., conj.|(therefore) dunc, ergo|
-SO FAR|XXX|til nu, til ti punctu|
-SO MUCH|XXX|tant|
-SO MUCH THE BETTER|XXX|tant plu bon|
-SO THAT|XXX|por que|
+SO FAR|adv.|til nu, til ti punctu|
+SO MUCH|adv.|tant|
+SO MUCH THE BETTER|adv.|tant plu bon|
+SO THAT|conj.|por que|
 SOAK|v.|inmerser, macerar, saturar, amollar|
 SOAK UP|v.|absorpter|
 SOAP|n.|sapon (-osi, -ic)|
 SOAP|v.|insaponar|
-SOAP DISH|XXX|saponette|
-SOAPSUDS|XXX|sapon-lixive|
+SOAP DISH|n.|saponette|
+SOAPSUDS|n.|sapon-lixive|
 SOAR|v.|altear, levar se, ascenDer|
 SOB|n.|singlute (-ar)|
 SOBER|adj.|sobri (-etá); grav; moderat; calm|
 SOBER|v.|far sobri|
-SOCIABLE|XXX|sociabil, afabil (-itá)|
+SOCIABLE|adj.|sociabil, afabil (-itá)|
 SOCIAL|n.|soaré|
 SOCIAL|adj.|social (-isme, -ist, -istic), societan|
-SOCIETY|XXX|societé; (the community) societá|
-SOCIOLOGIST|XXX|sociologo (-ie, -ic)|
-SOCK|XXX|demí-strumpe, strumpette; (inner sole) solea intern|
-SOCKET|XXX|cavitá, cussinette; (of eye) ocul cave, órbite; (of tooth) alveol|
-SOD|XXX|torf-pezze; gazon|
-SODA|XXX|soda|
-SODDEN|XXX|saturat|
-SODIUM|XXX|natron|
-SOFA|XXX|sofa|
-SOFT|XXX|moll, tendri, mild, leni, suavi; (of voice) piani|
+SOCIETY|n.|societé; (the community) societá|
+SOCIOLOGIST|n.|sociologo (-ie, -ic)|
+SOCK|n.|demí-strumpe, strumpette; (inner sole) solea intern|
+SOCKET|n.|cavitá, cussinette; (of eye) ocul cave, órbite; (of tooth) alveol|
+SOD|n.|torf-pezze; gazon|
+SODA|n.|soda|
+SODDEN|adj.|saturat|
+SODIUM|n.|natron|
+SOFA|n.|sofa|
+SOFT|adj.|moll, tendri, mild, leni, suavi; (of voice) piani|
 SOFTEN|v.|amollar; moderar, adulciar, lenir|
 SOIL|n.|suol, terre|
 SOIL|v.|assordidar, macular|
-SOIREE|XXX|soaré|
-SOJOURN|XXX|sejorne (-ar)|
+SOIREE|n.|soaré|
+SOJOURN|n.|sejorne (-ar)|
 SOLACE|v.|consolar (-ation)|
-SOLAR|XXX|solari|
+SOLAR|adj.|solari|
 SOLDER|v.|suldar (-atura)|
-SOLDIER|XXX|soldate|
-SOLDIERY|XXX|soldatesca|
+SOLDIER|n.|soldate|
+SOLDIERY|n.|soldatesca|
 SOLE|adj.|sol, unic|
 SOLE|n.|(of foot) solea; (fish) solea|
 SOLE|v.|resolear|
-SOLECISM|XXX|solecisme|
-SOLEMN|XXX|solemni (-tá), grav|
+SOLECISM|n.|solecisme|
+SOLEMN|adj.|solemni (-tá), grav|
 SOLEMNISE|v.|celebrar|
 SOLICIT|v.|solicitar (-ation), aspirar a; invitar|
-SOLICITOR|XXX|avocate, notario|
-SOLICITOUS|XXX|atentiv, cuidosi, jalusi|
-SOLICITUDE|XXX|solicitude|
+SOLICITOR|n.|avocate, notario|
+SOLICITOUS|adj.|atentiv, cuidosi, jalusi|
+SOLICITUDE|n.|solicitude|
 SOLID|adj.|solid (-ari, -aritá, -itá), pesant, densi; unanim|
 SOLID|n.|solide|
 SOLIDIFY|v.|solidificar (se)|
-SOLILOQUY|XXX|monolog|
-SOLITARY|XXX|sol, solitari; isolat|
-SOLITUDE|XXX|solitá|
-SOLO|XXX|solo|
-SOLOIST|XXX|solist|
-SOLSTICE|XXX|solsticie (-al)|
-SOLUBLE|XXX|soluibil (-itá)|
-SOLUTION|XXX|solution|
+SOLILOQUY|n.|monolog|
+SOLITARY|adj.|sol, solitari; isolat|
+SOLITUDE|n.|solitá|
+SOLO|n.|solo|
+SOLOIST|n.|solist|
+SOLSTICE|n.|solsticie (-al)|
+SOLUBLE|adj.|soluibil (-itá)|
+SOLUTION|n.|solution|
 SOLVE|v.|(dis)soluer|
 SOLVENT|n.|solutive|
 SOLVENT|adj.|solvabil|
-SOMBRE|XXX|tenebrosi; melancolic, sombri|
-SOME|XXX|alcun; (a few) quelc|
-SOME QUANTITY|XXX|alquant|
-SOME SAY HE IS RICH, OTHERS...|XXX|li unes di que il es rich, li altres...|
-SOME SORT OF|XXX|alqual|
-SOME TIME|XXX|alquande|
-SOMEBODY|XXX|alcun, alqui; (acc.) alquem|
-SOMEHOW|XXX|alquam|
-SOMEONE|XXX|alcun, alquí|
-SOMERSAULT|XXX|culbute (-ar)|
-SOMETHING|XXX|alquó, alquicós|
-SOMETIMES|XXX|quelcvez|
-SOMEWHAT|XXX|un poc, alquant|
-SOMEWHERE|XXX|alcú|
-SOMNAMBULIST|XXX|somnambulist|
-SOMNOLENT|XXX|somnolent (-ie), dormaci|
-SON|XXX|filio|
-SON-IN-LAW|XXX|bel-filio|
-SONATA|XXX|sonata|
-SONG|XXX|cante, canzon; arie|
-SONGSTER|XXX|eant-avie|
-SONNET|XXX|sonetto|
-SONOROUS|XXX|sonori (-tá)|
-SOON|XXX|bentost; (early) tost|
-SOONER|XXX|plu tost; (rather) preferibilmen|
-SOONER OR LATER|XXX|tost o tard|
-SOOT|XXX|fulígine (-osi)|
+SOMBRE|adj.|tenebrosi; melancolic, sombri|
+SOME|adj.|alcun; (a few) quelc|
+SOME QUANTITY|n.|alquant|
+SOME SAY HE IS RICH, OTHERS...|expr.|li unes di que il es rich, li altres...|
+SOME SORT OF|adj.|alqual|XXX TODO -- adj./prep.
+SOME TIME|adv.|alquande|
+SOMEBODY|n.|alcun, alqui; (acc.) alquem|
+SOMEHOW|adv.|alquam|
+SOMEONE|n.|alcun, alquí|
+SOMERSAULT|n.|culbute (-ar)|
+SOMETHING|n.|alquó, alquicós|
+SOMETIMES|adv.|quelcvez|
+SOMEWHAT|adv.|alquant|
+SOMEWHAT|n.|un poc|
+SOMEWHERE|adv.|alcú|
+SOMNAMBULIST|n.|somnambulist|
+SOMNOLENT|adj.|somnolent (-ie), dormaci|
+SON|n.|filio|
+SON-IN-LAW|n.|bel-filio|
+SONATA|n.|sonata|
+SONG|n.|cante, canzon; arie|
+SONGSTER|n.|eant-avie|
+SONNET|n.|sonetto|
+SONOROUS|adj.|sonori (-tá)|
+SOON|adv.|bentost; (early) tost|
+SOONER|adv.|plu tost; (rather) preferibilmen|
+SOONER OR LATER|adv.|tost o tard|
+SOOT|n.|fulígine (-osi)|
 SOOTHE|v.|calmar, lenir (-itiv), tranquilisar|
-SOOTHSAYER|XXX|augur, divinator, chiromante|
-SOP|XXX|calmante|
-SOPHISM|XXX|sofisme|
-SOPHIST|XXX|sofist (-ic, -ica, -istisar)|
-SOPHISTICATED|XXX|sofisticat, ínnaiv|
+SOOTHSAYER|n.|augur, divinator, chiromante|
+SOP|n.|calmante|XXX TODO -- Add the other meanings.
+SOPHISM|n.|sofisme|
+SOPHIST|n.|sofist (-ic, -ica, -istisar)|
+SOPHISTICATED|adj.|sofisticat, ínnaiv|
 SOPORIFIC|n.|dormitive|
-SOPRANO|XXX|soprano|
-SORCERER|XXX|sorciero (-a)|
-SORCERY|XXX|sorcieríe|
-SORDID|XXX|sórdid; mesquin|
+SOPRANO|n.|soprano|
+SORCERER|n.|sorciero (-a)|
+SORCERY|n.|sorcieríe|
+SORDID|adj.|sórdid; mesquin|
 SORE|adj.|dolorosi, iritant, iritat|
 SORE|n.|úlcere|
 SORELY|adv.|fortmen|
-SORREL|XXX|oxale|
+SORREL|n.|oxale|
 SORROW|n.|grive, afliction|
 SORROW|v.|grivar|
 SORRY|adj.|trist|
 SORT|n.|sorte, specie|
 SORT|v.|sortir|
-SOUFFLE|XXX|suflé|
-SOUL|XXX|anim, spiritu; (person) hom|
+SOUFFLE|n.|suflé|
+SOUL|n.|anim, spiritu; (person) hom|
 SOUND|adj.|san, solid, integri, valid; (of sleep) profund|
 SOUND|n.|son; (straits) strette|
 SOUND|v.|sonar, far sonar; (plumb) sondar; (seem) semblar|
-SOUP|XXX|sup|
-SOUPTUREEN|XXX|supiere|
+SOUP|n.|sup|
+SOUPTUREEN|n.|supiere|
 SOUR|adj.|acid; rancid; brusqui|
-SOURCE|XXX|fonte, orígine|
+SOURCE|n.|fonte, orígine|
 SOUTH|n.|sude (-ic, -ano)|
-SOUTHERLY|XXX|del sude, meridional|
-SOUTHERN|XXX|sudic, meridional|
-SOUVENIR|XXX|memorette, suvenire|
+SOUTHERLY|adj.|del sude, meridional|XXX TODO -- southerly/southern
+SOUTHERN|adj.|sudic, meridional|XXX TODO -- southerly/southern
+SOUVENIR|n.|memorette, suvenire|
 SOVEREIGN|adj.|reyal, soverani (-tá)|
 SOVEREIGN|n.|soverano, monarch|
 SOW|n.|svina|
 SOW|v.|semar (-ada, -ation)|
-SPA|XXX|cité balneari, station balneari|
+SPA|n.|cité balneari, station balneari|
 SPACE|n.|loc, spacie (-al, -osi)|
 SPACE|v.|interspaciar|
-SPACE LINE|XXX|interlinea|
+SPACE LINE|n.|interlinea|
 SPADE|v.|spadar, fossar|
 SPADE|n.|spade, fossette; (at cards) pic|
 SPAN|n.|spanne (-ar); arc, curve; (of oxen) atelage|
 SPAN|v.|mesurar, extenDer se|
-SPANGLE|XXX|flittre|
-SPANISH-FLY|XXX|cantaride|
-SPANNER|XXX|clave adjustabil|
+SPANGLE|n.|flittre|
+SPANISH-FLY|n.|cantaride|
+SPANNER|n.|clave adjustabil|
 SPAR|min.|spate; (naut.) trave, maste|
 SPAR|v.|boxar|
 SPARE|adj.|superflú, disponibil; (of build) magri|
 SPARE|v.|indulger; economisar; far evitar a|
-SPARE ROOM|XXX|gast-chambre|
-SPARE WHEEL|XXX|reserve-rot|
-SPARING|XXX|frugal, sparniaci, parcimoniosi|
-SPARK|XXX|scintille (-ar)|
-SPARKING PLUG|XXX|scintill-candel|
+SPARE ROOM|n.|gast-chambre|
+SPARE WHEEL|n.|reserve-rot|
+SPARING|adj.|frugal, sparniaci, parcimoniosi|
+SPARK|n.|scintille (-ar)|
+SPARKING PLUG|n.|scintill-candel|
 SPARKLE|n.|lustre|
 SPARKLE|v.|scintillear, brilliar|
-SPARROW|XXX|sparro|
-SPARROWHAWK|XXX|sparvero|
+SPARROW|n.|sparro|
+SPARROWHAWK|n.|sparvero|
 SPARSE|adj.|rar, disperset, poc|
-SPASM|XXX|convulsion, spasma (-tic)|
-SPASMODIC|XXX|spasmodic|
+SPASM|n.|convulsion, spasma (-tic)|
+SPASMODIC|adj.|spasmodic|
 SPATTER|v.|spruzzar|
 SPAWN|n.|oves piscin|
 SPAWN|v.|ovar|
 SPEAK|v.|parlar, discurrer|
 SPEAK THE TRUTH|v.|dir li veritá|
-SPEAKER|XXX|parlator, orator|
+SPEAKER|n.|parlator, orator|
 SPEAR|n.|lanse|
 SPEAR|v.|trapicar, traforar per lanse|
-SPECIAL|XXX|special (-isar, -ist), apart, particulari|
-SPECIALITY|XXX|specialitá|
-SPECIE|XXX|monete metallic|
-SPECIES|XXX|specie, sorte|
-SPECIFIC|XXX|specific, precis|
-SPECIFIC GRAVITY|XXX|specific pesa|
+SPECIAL|adj.|special (-isar, -ist), apart, particulari|
+SPECIALITY|n.|specialitá|
+SPECIE|n.|monete metallic|
+SPECIES|n.|specie, sorte|
+SPECIFIC|adj.|specific, precis|
+SPECIFIC GRAVITY|n.|specific pesa|
 SPECIFY|v.|specificar (-ation)|
 SPECIMEN|n.|specimen, mustre, exemplare|
-SPECIOUS|XXX|plausibil|
-SPECK|XXX|maculette, particul; (of dust) polvun|
-SPECTACLE|XXX|spectacul (-ari)|
-SPECTACLES|XXX|oculvitres, oculares|
-SPECTATOR|XXX|spectator|
-SPECTRE|XXX|spectre (-al)|
-SPECTRUM|XXX|spectre|
-SPECTRUM ANALYSIS|XXX|spectral analise|
+SPECIOUS|adj.|plausibil|
+SPECK|n.|maculette, particul; (of dust) polvun|
+SPECTACLE|n.|spectacul (-ari)|
+SPECTACLES|n.|oculvitres, oculares|
+SPECTATOR|n.|spectator|
+SPECTRE|n.|spectre (-al)|
+SPECTRUM|n.|spectre|
+SPECTRUM ANALYSIS|n.|spectral analise|
 SPECULATE|v.|conjecter (-ion); (fin.) specular (-ator, -ation, -ativ)|
 SPEECH|n.|discurse, oration, parlada; (language) idioma, lingue; (faculty) parlation|
-SPEECHLESS|XXX|mut|
+SPEECHLESS|adj.|mut|
 SPEED|v.|ear rapidmen|
 SPEED|n.|rapiditá, rapidore, velocitá|
 SPEED UP|v.|accelerar|
-SPEEDOMETER|XXX|tacometre|
+SPEEDOMETER|n.|tacometre|
 SPELL|n.|(enchantment) incantation, sorcie; (turn) vez|
 SPELL|v.|espelar, ortografiar|
-SPELLBOUND|XXX|insorciat|
+SPELLBOUND|adj.|insorciat|
 SPEND|v.|expenser; consumar; (time) passar|
-SPENDTHRIFT|XXX|pródigo|
-SPERM|XXX|sperma (-tic)|
-SPERMATOZOON|XXX|spermatozóe|
+SPENDTHRIFT|n.|pródigo|
+SPERM|n.|sperma (-tic)|
+SPERMATOZOON|n.|spermatozóe|
 SPEW|v.|vomir|
-SPHERE|XXX|sfere (-ic, -oid, -ometre), globe|
-SPHINX|XXX|sfinxe (-atri)|
-SPICE|XXX|spice (-ear); (allspice) piment|
-SPICY|XXX|aromatic; plen de spice|
-SPIDER|XXX|arané|
-SPIDER'S WEB|XXX|rete de arané, textura de arané|
-SPIGOT|XXX|clove lignin|
-SPIKE|XXX|clove; (bot.) spica|
+SPHERE|n.|sfere (-ic, -oid, -ometre), globe|
+SPHINX|n.|sfinxe (-atri)|
+SPICE|n.|spice (-ear); (allspice) piment|
+SPICY|adj.|aromatic; plen de spice|
+SPIDER|n.|arané|
+SPIDER'S WEB|n.|rete de arané, textura de arané|
+SPIGOT|n.|clove lignin|XXX TODO -- Complete.
+SPIKE|n.|clove; (bot.) spica|
 SPILL|v.|(dis)versar|
 SPILL|n.|(fall) cade; (paper spill) inflammette de papere|
 SPIN|v.|filar (-ator, -ero); (revolve) rotar|
 SPIN OUT|v.|alongar; demorar|
-SPINACH|XXX|spinace|
-SPINDLE|XXX|spindle, axe|
-SPINDLE TREE|XXX|evonim|
-SPINE|XXX|spine (-al, -osi)|
-SPINET|XXX|spinette|
-SPINNING|XXX|filage, filatura|
-SPINNINGWHEEL|XXX|fila-rot|
-SPINSTER|XXX|celiba(taria)|
+SPINACH|n.|spinace|
+SPINDLE|n.|spindle, axe|
+SPINDLE TREE|n.|evonim|
+SPINE|n.|spine (-al, -osi)|
+SPINET|n.|spinette|
+SPINNING|n.|filage, filatura|
+SPINNINGWHEEL|n.|fila-rot|
+SPINSTER|n.|celiba(taria)|
 SPIRAL|adj.|spiral|
 SPIRAL|n.|spirale|
-SPIRE|XXX|pinacul, turr-punte|
+SPIRE|n.|pinacul, turr-punte|
 SPIRIT|n.|fantom, spirite (-ist, -isme); (genious, soul) spíritu (-al, -alitá); (alcohol) sprite|
 SPIRIT AWAY|v.|escamotar|
-SPIRIT LEVEL|XXX|nivelette|
+SPIRIT LEVEL|n.|nivelette|
 SPIT|n.|(rosting) grille, rost|
 SPIT|v.|sputar (-age), expectorar|
 SPITE|n.|rancore, malicie|
 SPITE|v.|afrontar|
-SPITEFUL|XXX|malevolent, maliciosi, rancorosi|
-SPITTLE|XXX|sputage, saliva|
-SPITTOON|XXX|sputuore|
+SPITEFUL|adj.|malevolent, maliciosi, rancorosi|
+SPITTLE|n.|sputage, saliva|
+SPITTOON|n.|sputuore|
 SPLASH|v.|(noise) plaudar; (in mud etc.) barbotar; (spatter) surspruzzar|
-SPLASHBACK|XXX|para-aqua|
-SPLEEN|XXX|splen, bilie|
-SPLENDID|XXX|splendid, magnific, superb|
-SPLENDOUR|XXX|splendore, magnificentie|
+SPLASHBACK|n.|para-aqua|
+SPLEEN|n.|splen, bilie|
+SPLENDID|adj.|splendid, magnific, superb|
+SPLENDOUR|n.|splendore, magnificentie|
 SPLICE|v.|interplecter|
 SPLINT|surg.|splinte|
-SPLINTER|XXX|splittre (-ar), lignun|
+SPLINTER|n.|splittre (-ar), lignun|
 SPLIT|n.|fension, fensura|
 SPLIT|v.|fenDer (se), fisser (-ion, -ura)|
 SPLUTTER|v.|sputear; (speech) balbutiar|
 SPOIL|v.|bosillar, damagear, ruinar; (despoil) spoliar; (go bad) putrir; (overindulge) dorlotar|
-SPOILS|XXX|raptallia|
-SPOKE|XXX|radion|
-SPOKESMAN|XXX|porta-voce|
-SPOLIATION|XXX|spoliation|
+SPOILS|n.|raptallia|
+SPOKE|n.|radion|
+SPOKESMAN|n.|porta-voce|
+SPOLIATION|n.|spoliation|
 SPONGE|n.|nettar per spongie|
 SPONGE|n.|spongie (-iatri, -iosi)|
 SPONGE ON|v.|parasitar ye|
-SPONSOR|XXX|garante; (godparent) compatre, commatre|
-SPONTANEOUS|XXX|spontan (-itá)|
-SPOOK|XXX|fantoma|
-SPOOL|XXX|spul (-ar), bobine|
-SPOON|XXX|coclare|
-SPOONFUL|XXX|coclarade|
-SPOOR|XXX|tracie, vestigie|
-SPORADIC|XXX|sporadic|
-SPORE|XXX|spor|
-SPORT|XXX|sport; divertissement, lude|
-SPORTIVE|XXX|festal; ludaci|
-SPORTSMAN|XXX|sportmann, sportist|
+SPONSOR|n.|garante; (godparent) compatre, commatre|
+SPONTANEOUS|adj.|spontan (-itá)|
+SPOOK|n.|fantoma|
+SPOOL|n.|spul (-ar), bobine|
+SPOON|n.|coclare|
+SPOONFUL|n.|coclarade|
+SPOOR|n.|tracie, vestigie|
+SPORADIC|adj.|sporadic|
+SPORE|n.|spor|
+SPORT|n.|sport; divertissement, lude|
+SPORTIVE|adj.|festal; ludaci|
+SPORTSMAN|n.|sportmann, sportist|
 SPOT|n.|macul; (drop) gutte; (point) punctu|
 SPOT|v.|macular; remarcar, detecter|
-SPOTLESS|XXX|ínmaculat, sin macul|
-SPOUSE|XXX|marita, marito|
+SPOTLESS|adj.|ínmaculat, sin macul|
+SPOUSE|n.|marita, marito|
 SPOUT|n.|guttiere; (of vessel) bec|
 SPOUT|v.|spruzzar; (declaim) declamar|
 SPRAIN|n.|tonsura|
 SPRAIN|v.|luxar, torder|
-SPRAT|XXX|sprat|
+SPRAT|n.|sprat|
 SPRAWL|v.|extenDer se, jacer extendet|
 SPRAY|n.|spruzzallia, jetta de aqua|
 SPRAY|v.|spruzzar, aspersar|
 SPREAD|v.|extenDer (se), expanDer; covrir; difuser (se), dissemar|
 SPREAD OUT FOR SALE|v.|estalar|
-SPRIG|XXX|ramette, sarment|
-SPRIGHTLY|XXX|vivaci, alegri|
+SPRIG|n.|ramette, sarment|
+SPRIGHTLY|adj.|vivaci, alegri|
 SPRING|n.|(water) fonte; (warm spring) terme; (a leap) salta; (season) verne; (mech.) ressor|
 SPRING|v.|fontear; saltar; (originate) provenir|
-SPRINGBOARD|XXX|trampline, saltuore|
-SPRINGY|XXX|elastic, spongeatri|
+SPRINGBOARD|n.|trampline, saltuore|
+SPRINGY|adj.|elastic, spongeatri|
 SPRINKLE|v.|asperser|
-SPRINKLER|XXX|spruzzette|
-SPRITE|XXX|cobolde|
-SPROCKET|XXX|dent-rote|
+SPRINKLER|n.|spruzzette|
+SPRITE|n.|cobolde|
+SPROCKET|n.|dent-rote|
 SPROUT|n.|burgeon, gérmine|
 SPROUT|v.|germinar, burgeonar|
 SPRUCE|adj.|nett, elegant|
 SPRUCE|n.|(fir) picea, abiete|
 SPUR|n.|sporn (-ar); stimul (-ar)|
-SPURGE|XXX|euforbie|
-SPURGE LAUREL|XXX|dafné|
-SPURIOUS|XXX|fals, apocrifal, fictiv, ínlegitim|
+SPURGE|n.|euforbie|
+SPURGE LAUREL|n.|dafné|
+SPURIOUS|adj.|fals, apocrifal, fictiv, ínlegitim|
 SPURN|v.|dedignar, tractar con depreciation, repulser|
 SPURT|v.|spruzzar|
 SPUTTER|v.|(speech) balbutiar|
@@ -14049,31 +14051,31 @@ SPY|n.|spion|
 SPY|v.|spiar, spionar; observar|
 SQUABBLE|n.|dispute, querelle|
 SQUABBLE|v.|disputar, querellar|
-SQUAD|XXX|file|
+SQUAD|n.|file|
 SQUADRON|mil.|escadron; (mar.) escadre|
-SQUALID|XXX|sórdid|
+SQUALID|adj.|sórdid|
 SQUALL|v.|strider|
 SQUALL|n.|squall (-i, -osi), burasca|
-SQUALOR|XXX|sordidesse|
-SQUAMOSE|XXX|squamosi|
+SQUALOR|n.|sordidesse|
+SQUAMOSE|adj.|squamosi|
 SQUANDER|v.|dissipar, prodigar|
 SQUARE|adj.|quadrat, quadriform; pari; quitt; honest|
 SQUARE|n.|quadrate; (geom.) squadre; (public) plazza|
 SQUARE|v.|quadrar; (set right) adjustar; (bribe) subcomprar; (intr.) acordar se con|
-SQUARE ROOT|XXX|radica quadratic|
-SQUARING|XXX|quadratura|
+SQUARE ROOT|n.|radica quadratic|
+SQUARING|n.|quadratura|
 SQUASH|v.|ecrasar, aplastar|
 SQUAT|adj.|stumpi|
 SQUAT|v.|hoccar|
 SQUEAK|v.|crepitar, cracar|
 SQUEAL|v.|strider; (turn informer) denunciar|
-SQUEAMISH|XXX|fastidiosi, scrupulosi, tro delicat|
+SQUEAMISH|adj.|fastidiosi, scrupulosi, tro delicat|
 SQUEEZE|v.|compresser, serrar|
 SQUINT|v.|strabar (-ator, -isme, -on)|
-SQUINTEYED|XXX|strabi|
-SQUIRE|XXX|scudero|
+SQUINTEYED|adj.|strabi|
+SQUIRE|n.|scudero|
 SQUIRM|v.|torder se|
-SQUIRREL|XXX|scurel|
+SQUIRREL|n.|scurel|
 SQUIRT|v.|spruzzar, asperser|
 STAB|n.|colpe per puniale|
 STAB|v.|trapicar, punialar|
@@ -14082,41 +14084,41 @@ STABLE|n.|stalle|
 STABLE|v.|logiar, installar|
 STACK|n.|cumul; (hay) fen-piramide|
 STACK|v.|amassar, cumular|
-STADIUM|XXX|stadion|
+STADIUM|n.|stadion|
 STAFF|n.|(pole) baston, pal; (personnel) personale, equip; (mil.) stabe; (mus.) lineatura|
-STAG|XXX|cervo|
+STAG|n.|cervo|
 STAGE|n.|(theatre) scene, podium; (platform) estrade; (of progress) stadie, etappe|
 STAGE|v.|inscenar|
-STAGECOACH|XXX|diligence|
-STAGEFRIGHT|XXX|timore de estrade|
-STAGEMANAGER|XXX|regissor|
+STAGECOACH|n.|diligence|
+STAGEFRIGHT|n.|timore de estrade|
+STAGEMANAGER|n.|regissor|
 STAGER|n.|actor|
 STAGGER|v.|chancelar; (take aback) consternar|
-STAGNANT|XXX|stagnant (-ie)|
+STAGNANT|adj.|stagnant (-ie)|
 STAGNATE|v.|stagnar (-ation)|
-STAID|XXX|seriosi, sobri, desfrivol|
+STAID|adj.|seriosi, sobri, desfrivol|
 STAIN|n.|macul (-ar)|
 STAIN|v.|(dye) tinter (-or, -ura)|
 STAIR|n.|scalun|
-STAIRCASE|XXX|scaliere|
+STAIRCASE|n.|scaliere|
 STAKE|n.|pal, palisse (-ade); (pledge) gage; (gambling) riscage|
 STAKE|v.|palissar; (money) riscar, hasardar; pariar|
 STAKE OUT|v.|jalonar|
-STALACTITE|XXX|stalactite|
-STALAGMITE|XXX|stalagmite|
-STALE|XXX|fad, desfrisc, old, rancid, ínsipid|
+STALACTITE|n.|stalactite|
+STALAGMITE|n.|stalagmite|
+STALE|adj.|fad, desfrisc, old, rancid, ínsipid|
 STALK|n.|stip, cálame|
 STALK|v.|persequer|
 STALL|n.|(stable) stalle, manjuore; (market stall) etale, baracca; (choir stall) cor-pupitre; (theatre stall) fotel|
-STALLION|XXX|cavallo, stallon|
-STALWART|XXX|brav, íntrepid|
-STAMEN|XXX|stámine (-al, -at, -ifer)|
-STAMINA|XXX|vigore, fortie vital, vitalitá|
+STALLION|n.|cavallo, stallon|
+STALWART|adj.|brav, íntrepid|
+STAMEN|n.|stámine (-al, -at, -ifer)|
+STAMINA|n.|vigore, fortie vital, vitalitá|
 STAMMER|v.|balbutiar (-ation)|
 STAMP|n.|(postage stamp) postmarca; (instrument) stamp; (brand) stampa, impression; (character) calibre, carac tere|
 STAMP|v.|a letter) afrancar; (impress) stampar; (coins) monetar; (with feet) frappar; (of horses) piaffar|
-STAMPEDE|XXX|fugida panical|
-STANCHION|XXX|pale ferrin|
+STAMPEDE|n.|fugida panical|
+STANCHION|n.|pale ferrin|
 STAND|n.|stative, pedestale, suport, porta-; (for spectators) podium|
 STAND|v.|star|
 STAND AGAINST|v.|oposir, resister|
@@ -14125,54 +14127,54 @@ STAND ON TIPTOE|v.|star sur li ped-fingres|
 STAND OUT|v.|prominer|
 STAND UP|v.|levar se|
 STAND UP|v.|stantar se|
-STAND-BY|XXX|reserve, suporte|
+STAND-BY|n.|reserve, suporte|
 STANDARD|adj.|uniform|
 STANDARD|n.|(ensign) standarte (-ario); (measure) norme, standarde (-isar), criterie, mesura; (of knowledge) gradu; (weights and measures) etalon|
 STANDING|adj.|permanent, constant|
 STANDING|n.|rang, reputation; duration|
-STANDPOINT|XXX|vis-punctu, sta-punctu|
-STANDSTILL|XXX|cessation, inmobilitá, halta|
-STANZA|XXX|stance|
+STANDPOINT|n.|vis-punctu, sta-punctu|
+STANDSTILL|n.|cessation, inmobilitá, halta|
+STANZA|n.|stance|
 STAPLE|adj.|chef, principal|
-STAR|XXX|stelle (-ari), astre, sídere; (print.) stellette. asterisco|
-STAR GAZER|XXX|astrologo; (stage etc.) star|
-STARBOARD|XXX|stirborde|
+STAR|n.|stelle (-ari), astre, sídere; (print.) stellette. asterisco|
+STAR GAZER|n.|astrologo; (stage etc.) star|
+STARBOARD|n.|stirborde|
 STARCH|n.|amidon|
 STARCH|v.|(in)amidonar|
-STARCHY|XXX|amidonal; formal|
+STARCHY|adj.|amidonal; formal|
 STARE|v.|regardar fixmen|
 STARE|n.|regarde fix o ínpudent|
-STARK|XXX|rigid; pur, absolut, tot|
-STARLING|XXX|sturne|
-STARRY|XXX|stellosi, stellut|
+STARK|adj.|rigid; pur, absolut, tot|
+STARLING|n.|sturne|
+STARRY|adj.|stellosi, stellut|
 START|n.|(sport) starte (-ar); prim passu, move ínvoluntari|
 START|v.|comensar, initiar, activar; departer|
 STARTLE|v.|aterrer, chocar, alarmar|
-STARTLING|XXX|consternant|
-STARVATION|XXX|fame, famine|
+STARTLING|adj.|consternant|
+STARVATION|n.|fame, famine|
 STARVE|intr.|famear; (tr.) afamar|
 STATE|adj.|statal; ceremonial|
 STATE|n.|(polit.) state; (condition) statu, condition; pompe, gala|
 STATE|v.|dir, narrar, declarar, asserter|
-STATELY|XXX|majestic, digni|
-STATEMENT|XXX|declaration, raporte; explication, assertion; (table, list) etate|
-STATESMAN|XXX|statmann, ministro|
-STATIC|XXX|static|
-STATICS|XXX|statica|
+STATELY|adj.|majestic, digni|
+STATEMENT|n.|declaration, raporte; explication, assertion; (table, list) etate|
+STATESMAN|n.|statmann, ministro|
+STATIC|adj.|static|
+STATICS|n.|statica|
 STATION|v.|postar|
 STATION|n.|posto; (Rail.) station; (rank) rang|
-STATIONARY|XXX|stationari, fix|
-STATIONER|XXX|paperero (-eríe)|
-STATIONMASTER|XXX|chef de station|
-STATISTICAL|XXX|statistic|
-STATISTICIAN|XXX|statistico|
-STATISTICS|XXX|statistica|
-STATUARY|XXX|statues, sculptura; (person) statuario|
-STATUE|XXX|statue (-esc, -ette), figura|
-STATURE|XXX|statura|
-STATUS|XXX|rang|
-STATUS QUO|XXX|statu-quo|
-STATUTE|XXX|statute (-ari), lege|
+STATIONARY|adj.|stationari, fix|
+STATIONER|n.|paperero (-eríe)|
+STATIONMASTER|n.|chef de station|
+STATISTICAL|adj.|statistic|
+STATISTICIAN|n.|statistico|
+STATISTICS|n.|statistica|
+STATUARY|n.|statues, sculptura; (person) statuario|
+STATUE|n.|statue (-esc, -ette), figura|
+STATURE|n.|statura|
+STATUS|n.|rang|
+STATUS QUO|n.|statu-quo|
+STATUTE|n.|statute (-ari), lege|
 STAUNCH|v.|desanguar, far haltar|
 STAUNCH|adj.|fidibil, loyal, firm|
 STAVE|n.|baston; (of barrel) doga|
@@ -14181,235 +14183,235 @@ STAY|n.|apoy; (naut.) stag; sejorne, restada|
 STAY|v.|restar, remaner; retardar; (uphold) apoyar, subtener; (arrest) haltar|
 STAY OVERNIGHT|v.|pernoctar|
 STAY THE NIGHT|v.|pernoctar|
-STAYS|XXX|corsete|
-STEAD|XXX|loc(o)|
-STEADFAST|XXX|constant, firm, loyal, resolut|
+STAYS|n.|corsete|
+STEAD|n.|loc(o)|
+STEADFAST|adj.|constant, firm, loyal, resolut|
 STEADY|adj.|secur, stabil, firm; assidui; sobri, constant|
 STEADY|v.|securar|
-STEAK|XXX|bifstec|
+STEAK|n.|bifstec|
 STEAL|v.|furter; ear furtivmen|
 STEAM|n.|vapor|
 STEAM|v.|vaporear|
-STEAM-ENGINE|XXX|vapor-machine|
-STEAMER|XXX|vapor-nave|
-STEARINE|XXX|stearine|
+STEAM-ENGINE|n.|vapor-machine|
+STEAMER|n.|vapor-nave|
+STEARINE|n.|stearine|
 STEEL|n.|stal (-atri, -in)|
 STEEL|v.|adurar, stalisar|
 STEEP|adj.|declivi (-tá), scarp|
 STEEP|v.|macerar|
-STEEPLE|XXX|turr-punte, pinacul|
+STEEPLE|n.|turr-punte, pinacul|
 STEER|n.|bovello|
 STEER|v.|directer, pilotar, guidar, navigar, stirar|
-STEERAGE|XXX|timonage, pilotage|
-STEERAGE PASSENGER|XXX|passagero del triesim classe|
+STEERAGE|n.|timonage, pilotage|
+STEERAGE PASSENGER|n.|passagero del triesim classe|
 STEERING WHEEL|n.|stir-rote|
-STELLAR|XXX|stellari, astral|
+STELLAR|adj.|stellari, astral|
 STEM|n.|stípite; (naut.) stem|
 STEM|v.|obstructer, haltar|
-STENCH|XXX|mal-odor, fetore|
+STENCH|n.|mal-odor, fetore|
 STENCIL|n.|stencil (-ar)|
-STENOGRAPHER|XXX|stenograf (-ar, -ic, -ie)|
-STENTORIAN|XXX|de Stentor, stentoric; stentoresc|
+STENOGRAPHER|n.|stenograf (-ar, -ic, -ie)|
+STENTORIAN|adj.|de Stentor, stentoric; stentoresc|
 STEP|n.|passu; (of stairs) scalun|
 STEP|v.|far un passu, passuar|
-STEP BY STEP|XXX|passu pos passu|
+STEP BY STEP|adv.|passu pos passu|
 STEP IN|v.|intrar|
-STEP-BROTHER|XXX|step-fratre|
-STEPPE|XXX|steppe|
-STEREOSCOPE|XXX|stereoscop (-ic)|
-STEREOTYPE|XXX|stereotip (-ar, -ic, -at)|
-STERIL|XXX|steril (-isar, -itá), ínfecund|
-STERLET|XXX|sterlete|
-STERLING|XXX|genuin, provat; (fin.) sterling|
+STEP-BROTHER|n.|step-fratre|
+STEPPE|n.|steppe|
+STEREOSCOPE|n.|stereoscop (-ic)|
+STEREOTYPE|n.|stereotip (-ar, -ic, -at)|
+STERIL|adj.|steril (-isar, -itá), ínfecund|
+STERLET|n.|sterlete|
+STERLING|adj.|genuin, provat; (fin.) sterling|
 STERN|adj.|severi (-tá), rigorosi|
 STERN|n.|sterne|
-STERNUM|XXX|sternum|
-STETHOSCOPE|XXX|stetoscop, auscultator, auscultuore|
-STEVEDORE|XXX|stivator, cargator|
+STERNUM|n.|sternum|
+STETHOSCOPE|n.|stetoscop, auscultator, auscultuore|
+STEVEDORE|n.|stivator, cargator|
 STEW|n.|stovage; (fruit) compot|
 STEW|v.|stovar, compotar|
-STEWARD|XXX|intendante, agente, econom, menagero; (ship's steward) servitor|
+STEWARD|n.|intendante, agente, econom, menagero; (ship's steward) servitor|
 STICK|n.|baston, verge; canne|
 STICK|v.|glutinar; (bills) afichar; (adhere) adherer; (remain) restar|
 STICK AT|v.|haltar avan|
 STICK OUT|v.|prominer|
-STICKY|XXX|glutinosi, adhesiv|
-STIFF|XXX|rigid, ínflexibil, obstinat; formal; fort|
+STICKY|adj.|glutinosi, adhesiv|
+STIFF|adj.|rigid, ínflexibil, obstinat; formal; fort|
 STIFFEN|v.|arigidar, far rigid; (intr.) devenir rigid|
 STIFLE|v.|sufocar, represser|
-STIGMA|XXX|stigma (-tic, -tisar)|
-STILE|XXX|passuore, pontette|
-STILETTO|XXX|stilette|
+STIGMA|n.|stigma (-tic, -tisar)|
+STILE|n.|passuore, pontette|
+STILETTO|n.|stilette|
 STILL|adv.|(however) támen|
 STILL|n.|distill-aparate, alambic|
 STILL|v.|calmar, quietar, contentar|
 STILL|adj.|calm, quiet, seren, silent; ínmobil, tranquil|
-STILL MORE|XXX|ancor plu|
-STILL-BORN|XXX|mort-nascet|
-STILT|XXX|stelte, marchette|
-STILTED|XXX|pomposi, formal|
-STIMULANT|XXX|stimulative|
+STILL MORE|adv.|ancor plu|
+STILL-BORN|adj.|mort-nascet|
+STILT|n.|stelte, marchette|
+STILTED|adj.|pomposi, formal|
+STIMULANT|n.|stimulative|
 STIMULATE|v.|stimular (-ation); excitar, spornar|
-STIMULUS|XXX|stimul|
+STIMULUS|n.|stimul|
 STING|n.|pica; (organ of insect) agullion|
-STINGING|XXX|picant, pungent|
-STINGY|XXX|avari (-tá), mesquin|
+STINGING|adj.|picant, pungent|
+STINGY|adj.|avari (-tá), mesquin|
 STINK|n.|malodore|
 STINK|v.|mal-odorar, feter (-id)|
 STINT|v.|limitar, restricter|
-STIPEND|XXX|stipendie (-iari, -iario)|
+STIPEND|n.|stipendie (-iari, -iario)|
 STIPPLE|v.|puntillar (-age)|
 STIPULATE|v.|stipular (-ation)|
-STIPULATION|XXX|clausul|
+STIPULATION|n.|clausul|
 STIR|n.|tumultu|
 STIR|v.|incitar, agitar; mover se|
-STIRRUP|XXX|strippe, pediero|
+STIRRUP|n.|strippe, pediero|
 STITCH|n.|lace, mallie; (pain) dolore de coste|
 STITCH|v.|suer|
-STOAT|XXX|hermeline|
+STOAT|n.|hermeline|
 STOCK|n.|trunc; (race) rasse; (comm.) capitale; (of wares) stock; assortiment; (flower) levcoye, gilliflor|
 STOCK|v.|furnir, provisionar|
-STOCK EXCHANGE|XXX|bursa|
-STOCK-JOBBER|XXX|agiotator, bursero|
-STOCK-PIECE|XXX|pezze de repertorie; (gun) clopp|
+STOCK EXCHANGE|n.|bursa|
+STOCK-JOBBER|n.|agiotator, bursero|
+STOCK-PIECE|n.|pezze de repertorie; (gun) clopp|
 STOCKADE|n.|palissade|
-STOCKBROKER|XXX|curtagero|
-STOCKHOLDER|XXX|rentero, actionario|
-STOCKING|XXX|strumpe|
+STOCKBROKER|n.|curtagero|
+STOCKHOLDER|n.|rentero, actionario|
+STOCKING|n.|strumpe|
 STOCKS|fin.|actiones; (for ships) staple; (for punishment) pilorie|
-STOIC|XXX|stoico|
-STOICAL|XXX|stoic|
+STOIC|n.|stoico|
+STOICAL|adj.|stoic|
 STOKE|v.|munir|
-STOKER|XXX|calentator, foyero|
-STOLID|XXX|stolid, flegmatic|
+STOKER|n.|calentator, foyero|
+STOLID|adj.|stolid, flegmatic|
 STOMACH|n.|stomac, epigastre, panse; apetite|
 STOMACH|v.|digester|
 STONE|adj.|de petre, petric. petrin, lito-|
 STONE|n.|petre, lápide; (of fruit) nucleo, grane; (gem) juvel. |
 STONE|v.|(pelt) lapidar; (fruit) degranar, denuclear|
-STONE AGE|XXX|epoca de petre|
-STONE QUARRY|XXX|petriera|
-STONY|XXX|lapidosi; petratri; cruel|
+STONE AGE|n.|epoca de petre|
+STONE QUARRY|n.|petriera|
+STONY|adj.|lapidosi; petratri; cruel|
 STOOK|n.|garbage, fasce de garbes|
-STOOL|XXX|scabelle, taburette|
+STOOL|n.|scabelle, taburette|
 STOOP|v.|clinar se, bassar se; humilar se|
 STOP|n.|halta; (full stop) punctu; (halting place) etape|
 STOP|v.|(cease) cessar; haltar, stoppar; (teeth) plombar|
 STOPPAGE|n.|obstruction, impediment; deduction|
 STOPPER|n.|tampon|
-STORAGE|XXX|magasinage|
+STORAGE|n.|magasinage|
 STORE|n.|provision; quantitá; abundantie; (place) magasine, depó, arsenale; (shop) butíca|
 STORE|v.|acumular, provisionar; inmagasinar; (the mind) inrichar|
-STOREY|XXX|etage|
-STORK|XXX|storc|
+STOREY|n.|etage|
+STORK|n.|storc|
 STORM|v.|stormear; (rage) furer; (mil.) assaltar, storm-ataccar|
 STORM|n.|storm (-i, -osi), tempeste , burasca|
-STORY|XXX|historie, raconta; fabul; (a lie) mentie|
-STOUT|XXX|corpulent; brav; (strong) fort|
-STOVE|XXX|forne; (primus stove) forne portabil|
+STORY|n.|historie, raconta; fabul; (a lie) mentie|
+STOUT|adj.|corpulent; brav; (strong) fort|
+STOVE|n.|forne; (primus stove) forne portabil|
 STOW|v.|stivar (-ation, -ator), cargar|
 STOWAWAY|n.|ciec passagero|
 STRADDLE|v.|escartar li gambes, star, li gambes furcat|
 STRAGGLE|v.|trenar se|
-STRAGGLER|XXX|trenard|
+STRAGGLER|n.|trenard|
 STRAIGHT|adj.|rect, direct; honest|
 STRAIGHT|adv.|strax, ínmediatmen|
-STRAIGHT AHEAD|XXX|rect adavan|
+STRAIGHT AHEAD|adv.|rect adavan|
 STRAIGHTEN|v.|rectificar|
 STRAIN|n.|tension; (pressure) pression; (race) rasse|
 STRAIN|v.|tenDer, efortiar se; (sieve) cribellar|
-STRAINER|XXX|cribelle, filtre|
+STRAINER|n.|cribelle, filtre|
 STRAIT|adj.|strett|
 STRAIT|n.|strette; desfacilitá|
-STRAITJACKET|XXX|corsete restrictiv|
+STRAITJACKET|n.|corsete restrictiv|
 STRAND|n.|(shore) rive; (of rope) cordun|
 STRAND|v.|strandar|
-STRANGE|XXX|strangi, extran, foren|
-STRANGER|XXX|ínconossete|
+STRANGE|adj.|strangi, extran, foren|
+STRANGER|n.|ínconossete|
 STRANGLE|v.|strangular (-ation)|
 STRAP|n.|strap|
-STRATAGEM|XXX|stratagema, artificie|
-STRATEGIST|XXX|stratego (-ic, -ie)|
+STRATAGEM|n.|stratagema, artificie|
+STRATEGIST|n.|stratego (-ic, -ie)|
 STRATIFY|v.|stratificar (-ation)|
-STRATUM|XXX|strate|
-STRAW|XXX|pallie|
-STRAWBERRY|XXX|frespere (-iero)|
+STRATUM|n.|strate|
+STRAW|n.|pallie|
+STRAWBERRY|n.|frespere (-iero)|
 STRAY|v.|vagar, deviar, errar, divagar|
 STREAK|n.|strie (-ar)|
-STREAM|XXX|fluvie, riverette|
-STREAMER|XXX|banderol|
-STREET|XXX|strada, via|
-STREET LAMP|XXX|lanterne|
-STRENGTH|XXX|fortie, vigore|
+STREAM|n.|fluvie, riverette|
+STREAMER|n.|banderol|
+STREET|n.|strada, via|
+STREET LAMP|n.|lanterne|
+STRENGTH|n.|fortie, vigore|
 STRENGTHEN|v.|infortiar, fortificar|
-STRENUOUS|XXX|strapaciosi, vigorosi|
+STRENUOUS|adj.|strapaciosi, vigorosi|
 STRESS|n.|emfase (-ar); accentu (-ar); tension, fatiga|
 STRETCH|v.|tenDer; alongar (se); extenDer se; exagerar|
-STRETCHER|XXX|portuore|
+STRETCHER|n.|portuore|
 STREW|v.|(dis)jettar, (dis)semar, disperser|
-STRICKEN|XXX|aflictet|
-STRICT|XXX|severi (-tá), strict (-ease), exact|
-STRICTURE|XXX|critica, desaprobation; (med.) constriction|
+STRICKEN|adj.|aflictet|
+STRICT|adj.|severi (-tá), strict (-ease), exact|
+STRICTURE|n.|critica, desaprobation; (med.) constriction|
 STRIDE|v.|ear per long passus|
 STRIDE|n.|un long passu|
-STRIDENT|XXX|strident|
-STRIFE|XXX|lucte, dispute, querelle, conflicte|
+STRIDENT|adj.|strident|
+STRIFE|n.|lucte, dispute, querelle, conflicte|
 STRIKE|n.|(of workers) bastament (-ar, -ero)|
 STRIKE|v.|batter, dar un colpe; (mint) monetar; (a flag) abassar|
-STRIKING|XXX|remarcabil, frappant, impressiv|
+STRIKING|adj.|remarcabil, frappant, impressiv|
 STRING|n.|corde; serie|
 STRING|v.|incordar, infilar|
-STRINGED INSTRUMENT|XXX|cord-instrument|
-STRINGENT|XXX|severi, strict|
+STRINGED INSTRUMENT|n.|cord-instrument|
+STRINGENT|adj.|severi, strict|
 STRIP|n.|strie|
 STRIP|v.|denudar; (undress) devestir; spoliar, privar|
 STRIPE|n.|strie (-ar); (mil.) galon|
-STRIPLING|XXX|yuno|
+STRIPLING|n.|yuno|
 STRIVE|v.|penar, luctar|
 STROKE|n.|batte, colpe; atacca, paralise; (hyphen) tiré; (with pen) streca|
 STROKE|v.|caressar|
 STROLL|v.|vagar (-ada)|
-STRONG|XXX|fort, robust, vigorosi; rancid|
-STRONGHOLD|XXX|citadelle, forteresse|
-STROP|XXX|strap (de cute)|
-STRUCTURE|XXX|structura (-al), edificie|
+STRONG|adj.|fort, robust, vigorosi; rancid|
+STRONGHOLD|n.|citadelle, forteresse|
+STROP|n.|strap (de cute)|
+STRUCTURE|n.|structura (-al), edificie|
 STRUGGLE|n.|lucte|
 STRUGGLE|v.|luctar, combatter; stramplar|
-STRUMPET|XXX|prostituta, hetera|
+STRUMPET|n.|prostituta, hetera|
 STRUT|n.|pal de apoy|
 STRUT|v.|paradar, afectar, strucear, ear fiernen|
-STRYCHNINE|XXX|stricnine|
-STUBBLE|XXX|stopple|
-STUBBORN|XXX|obstinat, ínflexibil, renitent|
-STUCCO|XXX|stucca (-ar)|
-STUD|XXX|buton|
-STUD-FARM|XXX|cavall-elevatoria|
-STUDENT|XXX|studiante; scolero|
-STUDIED|XXX|premeditat, intentet|
-STUDIO|XXX|ateliere|
+STRYCHNINE|n.|stricnine|
+STUBBLE|n.|stopple|
+STUBBORN|adj.|obstinat, ínflexibil, renitent|
+STUCCO|n.|stucca (-ar)|
+STUD|n.|buton|
+STUD-FARM|n.|cavall-elevatoria|
+STUDENT|n.|studiante; scolero|
+STUDIED|adj.|premeditat, intentet|
+STUDIO|n.|ateliere|
 STUDY|n.|studie (-osi); (room) scritoria, studia(toria)|
 STUDY|v.|studiar|
 STUFF|n.|stoffe, materie|
 STUFF|v.|stuffar (-age); (cul.) farcear|
-STUFFY|XXX|opressiv, sufocant|
+STUFFY|adj.|opressiv, sufocant|
 STULTIFY|v.|stultificar, futilisar|
 STUMBLE|v.|mispassuar, cadettar|
-STUMP|XXX|stump|
+STUMP|n.|stump|
 STUN|v.|aturdir; far ínconscient; stupefar|
-STUNNING|XXX|mirobolant; aturdient|
-STUNTED|XXX|nani, stumpat, demí-crescet|
+STUNNING|adj.|mirobolant; aturdient|
+STUNTED|adj.|nani, stumpat, demí-crescet|
 STUPEFY|v.|stupefar (-ation, -ant), narcotisar|
-STUPENDOUS|XXX|vastissim, gigantic, colossal|
-STUPID|XXX|stupid (-itá), folli; (stupefied) ínsensibil|
-STUPOR|XXX|stupore, letargie|
-STURDY|XXX|robust, fort|
-STURGEON|XXX|stur|
+STUPENDOUS|adj.|vastissim, gigantic, colossal|
+STUPID|adj.|stupid (-itá), folli; (stupefied) ínsensibil|
+STUPOR|n.|stupore, letargie|
+STURDY|adj.|robust, fort|
+STURGEON|n.|stur|
 STUTTER|v.|balbutiar|
-STY|XXX|svinstalle, sviniera|
-STYE|XXX|hordeol|
+STY|n.|svinstalle, sviniera|
+STYE|n.|hordeol|
 STYLE|v.|titular|
 STYLE|n.|stil (-ist, -istica); (of clothes) fasson; (fashion) moda|
-SUAVE|XXX|suavi (-tá)|
+SUAVE|adj.|suavi (-tá)|
 SUBALTERN|adj.|subordinat|
 SUBALTERN|n.|subaltern-oficero|
 SUBDUE|v.|subjugar; victer, amansar, conquestar|
@@ -14417,8 +14419,8 @@ SUBJECT|adj.|guvernat, subject|
 SUBJECT|n.|subjecte, tema; (person) subjecte, guvernate|
 SUBJECT|v.|subjecter (-ion); submisser, submetter|
 SUBJUGATE|v.|subjugar (-ation)|
-SUBJUNCTIVE|XXX|subjunctive|
-SUBLIME|XXX|sublim (-at, -itá)|
+SUBJUNCTIVE|n.|subjunctive|
+SUBLIME|adj.|sublim (-at, -itá)|
 SUBMARINE|adj.|submarin|
 SUBMARINE|n.|submarine, nave submersibil|
 SUBMERGE|v.|submerser (-ion)|
@@ -14426,205 +14428,206 @@ SUBMIT|v.|submetter, submisser (-iv, -ion), suggester; presentar|
 SUBORDINATE|v.|subordinar (-at, -ation)|
 SUBPOENA|n.|mandate judical|
 SUBSCRIBE|v.|(to periodical) abonnar (-ator, -ament); (to a society) cotisar? (to contribute) contribuer; (sign) subscrir (-tion)|
-SUBSEQUENT|XXX|subsequent|
-SUBSERVIENT|XXX|subservient, auxiliatori|
+SUBSEQUENT|adj.|subsequent|
+SUBSERVIENT|adj.|subservient, auxiliatori|
 SUBSIDE|v.|diminuer; (sink down) afundar se; (of wind) calmar se|
 SUBSIDIARY|adj.|auxiliari|
 SUBSIDIARY|n.|sucursale, filiale|
-SUBSIDY|XXX|subsidie (-iar), subvention (-ar)|
+SUBSIDY|n.|subsidie (-iar), subvention (-ar)|
 SUBSIST|v.|subsister (-entie), exister|
-SUBSOIL|XXX|subsuol|
-SUBSTANCE|XXX|substantie (-al, -ar)|
-SUBSTANTIVE|XXX|substantive (-ic, -isar)|
+SUBSOIL|n.|subsuol|
+SUBSTANCE|n.|substantie (-al, -ar)|
+SUBSTANTIVE|n.|substantive (-ic, -isar)|
 SUBSTITUTE|n.|surogate; (person) vicario|
 SUBSTITUTE|v.|substituer (-tion), remplazzar, vicear|
-SUBTANGENT|XXX|subtangente|
-SUBTERFUGE|XXX|subterfuge, evasion|
-SUBTERRANEAN|XXX|subterran|
-SUBTLE|XXX|subtil (-itá, -isar), delicat|
+SUBTANGENT|n.|subtangente|
+SUBTERFUGE|n.|subterfuge, evasion|
+SUBTERRANEAN|adj.|subterran|
+SUBTLE|adj.|subtil (-itá, -isar), delicat|
 SUBTRACT|v.|subtraer (-ation)|
-SUBURB|XXX|suburbe (-an)|
-SUBVENTION|XXX|subvention (-ar)|
+SUBURB|n.|suburbe (-an)|
+SUBVENTION|n.|subvention (-ar)|
 SUBVERT|v.|subverTer (-siv, -sion)|
-SUBWAY|XXX|via subterran, sub-passage|
+SUBWAY|n.|via subterran, sub-passage|
 SUCCEED|v.|successar, prosperar; (follow) succeDer, sequer|
 SUCCEED TO|v.|heredar|
-SUCCESS|XXX|successe|
-SUCCESSFUL|XXX|felici, successosi|
-SUCCESSION|XXX|succession, heredie; (series) serie|
-SUCCESSOR|XXX|successor|
-SUCCINCT|XXX|concis, resumat|
-SUCCOUR|XXX|sucurse (-er, -or)|
-SUCCULENT|XXX|succosi|
+SUCCESS|n.|successe|
+SUCCESSFUL|adj.|felici, successosi|
+SUCCESSION|n.|succession, heredie; (series) serie|
+SUCCESSOR|n.|successor|
+SUCCINCT|adj.|concis, resumat|
+SUCCOUR|n.|sucurse (-er, -or)|
+SUCCULENT|adj.|succosi|
 SUCCUMB|v.|sucumber|
-SUCH|XXX|tal|
-SUCH A PERSON|XXX|un tal person|
+SUCH|adj.|tal|
+SUCH A PERSON|n.|un tal person|
 SUCK|v.|sucar; aspirar|
 SUCK UP|v.|absorpter|
 SUCKER|hort.|sarment; (mech.) piston; (ent.) sucuore|
 SUCKLE|v.|alactar|
-SUCKLING|XXX|sucon, bebé, alacton|
+SUCKLING|n.|sucon, bebé, alacton|
 SUCTION|n.|(mech.) aspiration|
-SUDDEN|XXX|subit (-men)|
-SUDORIFIC|XXX|sudorific|
-SUDS|XXX|sapon-lixive|
+SUDDEN|adj.|subit|
+SUDDEN|adv.|subitmen|
+SUDORIFIC|adj.|sudorific|
+SUDS|n.|sapon-lixive|
 SUE|v.|(legal) processuar|
 SUE FOR|v.|petir, petitionar, eitar avan li tribunale, proceder contra|
-SUET|XXX|grasse del ren|
+SUET|n.|grasse del ren|
 SUFFER|v.|suffrer; tolerar|
 SUFFER JUDGMENT BY DEFAULT|v.|perdir ye li processu pro absentie|
 SUFFER WANT|v.|indiger|
-SUFFERER|XXX|suffrente, victime, patiente|
+SUFFERER|n.|suffrente, victime, patiente|
 SUFFERING|adj.|suffrent (-ie)|
 SUFFICE|v.|suficer (-ant, -entie)|
-SUFFIX|XXX|sufixe (-al)|
+SUFFIX|n.|sufixe (-al)|
 SUFFOCATE|v.|sufocar (-ation)|
-SUFFRAGAN|XXX|suffragan|
-SUFFRAGE|XXX|sufragie (-iette)|
+SUFFRAGAN|n.|suffragan|
+SUFFRAGE|n.|sufragie (-iette)|
 SUFFUSE|v.|expander se súper; colorar|
 SUGAR|n.|sucre (-ar, -in, -osi)|
-SUGAR PLANTATION|XXX|sucriera|
-SUGARBASIN|XXX|sucriere|
+SUGAR PLANTATION|n.|sucriera|
+SUGARBASIN|n.|sucriere|
 SUGGEST|v.|suggester (-iv, -ion)|
 SUICIDE|n.|(person) suicide (-al); (act) suicidie, self-mortation|
 SUIT|n.|(legal) processu; suplication; (clothes) vestiment; (cards) sequentie|
 SUIT|v.|convener; pleser a|
-SUITABLE|XXX|convenent (-ie), apt|
-SUITCASE|XXX|valise|
-SUITE|XXX|suita; serie|
-SUITOR|XXX|aspirante, suplicante|
+SUITABLE|adj.|convenent (-ie), apt|
+SUITCASE|n.|valise|
+SUITE|n.|suita; serie|
+SUITOR|n.|aspirante, suplicante|
 SULK|v.|budar; esser de mal humore|
-SULLEN|XXX|morosi|
+SULLEN|adj.|morosi|
 SULLY|v.|delustrar, sordidar|
-SULPHATE|XXX|sulfate|
+SULPHATE|n.|sulfate|
 SULPHIDE|n.|(of zinc) blende|
-SULPHITE|XXX|sulfite|
-SULPHUR|XXX|súlfur (-ic, -isar, -iera)|
-SULTAN|XXX|sultane (-atu, -essa)|
-SULTANA|XXX|micri rosine|
-SULTRY|XXX|sufocant, opressiv|
+SULPHITE|n.|sulfite|
+SULPHUR|n.|súlfur (-ic, -isar, -iera)|
+SULTAN|n.|sultane (-atu, -essa)|
+SULTANA|n.|micri rosine|
+SULTRY|adj.|sufocant, opressiv|
 SUM|n.|summa, totale; (arith.) calcul, exemple|
 SUM UP|v.|resumar; (add) addir|
 SUMMARISE|v.|resumar|
-SUMMARY|XXX|compendie, summarium|
-SUMMER|XXX|estive (-al)|
-SUMMIT|XXX|sómmite, cime, cúlmine|
+SUMMARY|n.|compendie, summarium|
+SUMMER|n.|estive (-al)|
+SUMMIT|n.|sómmite, cime, cúlmine|
 SUMMON|v.|advocar, convocar; citar avan li tribunale|
-SUMMONS|XXX|citation, apelle|
-SUMPTUOUS|XXX|sumptuosi, luxuosi|
+SUMMONS|n.|citation, apelle|
+SUMPTUOUS|adj.|sumptuosi, luxuosi|
 SUN|n.|sole (-ari)|
 SUN|v.|insolar se|
-SUNBEAM|XXX|radie del sole|
-SUNDAY|XXX|soledí|
+SUNBEAM|n.|radie del sole|
+SUNDAY|n.|soledí|
 SUNDER|v.|separar, divider|
-SUNDIAL|XXX|sol-horloge|
-SUNDRIES|XXX|diversages|
-SUNDRY|XXX|diversi, varie|
-SUNFLOWER|XXX|tornasole|
-SUNNY|XXX|lucent, brilliant|
-SUNRISE|XXX|ascension del sole|
-SUNSET|XXX|descension del sole|
-SUNSHADE|XXX|parasole|
-SUNSHINE|XXX|luce del sole|
-SUNSTROKE|XXX|colpe del sole|
+SUNDIAL|n.|sol-horloge|
+SUNDRIES|n.|diversages|
+SUNDRY|adj.|diversi, varie|
+SUNFLOWER|n.|tornasole|
+SUNNY|adj.|lucent, brilliant|
+SUNRISE|n.|ascension del sole|
+SUNSET|n.|descension del sole|
+SUNSHADE|n.|parasole|
+SUNSHINE|n.|luce del sole|
+SUNSTROKE|n.|colpe del sole|
 SUP|v.|supear, inboccar|
 SUPERANNUATE|v.|pensionar|
-SUPERB|XXX|superb (-ie), magnific|
-SUPERCILIOUS|XXX|desdigni, fierach, orgolliosi|
-SUPERFICIAL|XXX|superficial (-itá)|
-SUPERFICIES|XXX|superficie|
-SUPERFINE|XXX|superfin, finissim|
-SUPERFLUOUS|XXX|superflú (-itá)|
+SUPERB|adj.|superb (-ie), magnific|
+SUPERCILIOUS|adj.|desdigni, fierach, orgolliosi|
+SUPERFICIAL|adj.|superficial (-itá)|
+SUPERFICIES|n.|superficie|
+SUPERFINE|adj.|superfin, finissim|
+SUPERFLUOUS|adj.|superflú (-itá)|
 SUPERIMPOSE|v.|superposir|
 SUPERINTEND|v.|superintender (-nte), supervider, controlar|
 SUPERIOR|adj.|superiori (-tá)|
 SUPERIOR|n.|superiors, chef|
 SUPERLATIVE|adj.|superlativ, bonissim|
 SUPERLATIVE|n.|(gramm.) superlative|
-SUPERNATURAL|XXX|supernatural|
+SUPERNATURAL|adj.|supernatural|
 SUPERNUMERARY|adj.|supernumerari|
 SUPERNUMERARY|n.|supernumerario|
 SUPERSCRIBE|v.|superscrir (-ition)|
 SUPERSEDE|v.|deposir, deplazzar; substituer, remplazzar|
-SUPERSTITION|XXX|miscrede, supersticie (-osi)|
+SUPERSTITION|n.|miscrede, supersticie (-osi)|
 SUPERVENE|v.|supervenir, evenir ínexpectatmen|
 SUPERVISE|v.|superviDer, inspecter, controlar|
 SUPINE|adj.|inert, indolent|
 SUPINE|n.|(gramm.) supine|
-SUPPER|XXX|supé (-ar), repaste vesperal|
+SUPPER|n.|supé (-ar), repaste vesperal|
 SUPPLANT|v.|suplantar, deplazzar|
-SUPPLE|XXX|flexibil|
+SUPPLE|adj.|flexibil|
 SUPPLEMENT|v.|supleer (-ment, -mental, -mentari)|
 SUPPLICATE|v.|suplicar (-ation, -ator, -ante)|
 SUPPLY|n.|provision, assortiment|
 SUPPLY|v.|furnir, munir (per), liverar, provisionar|
-SUPPLY AND DEMAND|XXX|oferta e demande|
+SUPPLY AND DEMAND|n.|oferta e demande|
 SUPPORT|n.|suporte, apoy, subtention|
 SUPPORT|v.|apoyar, subtener, suportar; alimentar|
 SUPPOSE|v.|suposir (-ition)|
 SUPPRESS|v.|supresser (-ion, -iv)|
 SUPPURATE|v.|supurar (-ativ, -ation)|
-SUPREME|XXX|suprem (-itá)|
-SURCHARGE|XXX|supertaxe|
-SURE|XXX|cert, secur; fidibil|
-SURE ENOUGH|XXX|e vermen|
-SURETY|XXX|certitá; (guarantor) garante; (bail) caution|
+SUPREME|adj.|suprem (-itá)|
+SURCHARGE|n.|supertaxe|
+SURE|adj.|cert, secur; fidibil|
+SURE ENOUGH|adv.|e vermen|
+SURETY|n.|certitá; (guarantor) garante; (bail) caution|
 SURF|n.|mar-creste, mar-undes|
-SURFACE|XXX|superficie (-al)|
+SURFACE|n.|superficie (-al)|
 SURFEIT|v.|saturar|
 SURFEIT|n.|excesse|
 SURGE|v.|marear, undear (-ation), undular|
-SURGEON|XXX|chirurgo (-ic)|
-SURGERY|XXX|chirurgie; (place) cabinete, chirurgia|
-SURLY|XXX|morosi, rud|
+SURGEON|n.|chirurgo (-ic)|
+SURGERY|n.|chirurgie; (place) cabinete, chirurgia|
+SURLY|adj.|morosi, rud|
 SURMISE|v.|conjecter (-ion, -ura)|
 SURMOUNT|v.|superar, victer|
-SURNAME|XXX|nómine familial, surnómine|
+SURNAME|n.|nómine familial, surnómine|
 SURPASS|v.|superar; exceDer|
-SURPLICE|XXX|stola|
+SURPLICE|n.|stola|
 SURPLUS|adj.|superflú|
 SURPLUS|n.|excesse, rest, excedentie, surplus|
 SURPRISE|n.|surprise (-ar)|
 SURRENDER|v.|ceder, capitular; renunciar|
-SURREPTITIOUS|XXX|furtiv, secret|
-SURROGATE|XXX|surogate, substitute|
+SURREPTITIOUS|adj.|furtiv, secret|
+SURROGATE|n.|surogate, substitute|
 SURROUND|v.|cernar, circumdar|
-SURROUNDINGS|XXX|circumité|
-SURTAX|XXX|superimposte|
+SURROUNDINGS|n.|circumité|
+SURTAX|n.|superimposte|
 SURVEY|n.|super-regarda; expertise|
 SURVEY|v.|explorar; (scan) regardar, supervider; inspecter (-ion); (land) mesurar (-ator, -age); far un expertise|
-SURVEYOR|XXX|agremesurator|
-SURVIVAL|XXX|superviventie|
+SURVEYOR|n.|agremesurator|
+SURVIVAL|n.|superviventie|
 SURVIVE|v.|perviver, superviver (-ante)|
-SUSCEPTIBLE|XXX|susceptibil (-itá), impressibil, sensibil|
+SUSCEPTIBLE|adj.|susceptibil (-itá), impressibil, sensibil|
 SUSPECT|adj.|suspect (-er, -ion, -iv)|
 SUSPECT|n.|suspecte|
 SUSPECT|v.|(suspect that) conjecter que|
 SUSPEND|v.|suspenDer (-siv, -sion)|
-SUSPENDERS|XXX|porta-strumpes|
-SUSPENSE|XXX|suspense, íncertitá|
-SUSPICION|XXX|suspection|
-SUSPICIOUS|XXX|suspectiv; (open to suspicion) suspectibil|
+SUSPENDERS|n.|porta-strumpes|
+SUSPENSE|n.|suspense, íncertitá|
+SUSPICION|n.|suspection|
+SUSPICIOUS|adj.|suspectiv; (open to suspicion) suspectibil|
 SUSTAIN|v.|subtener, suportar; suffrer; continuar|
-SUSTENANCE|XXX|nutriment|
-SUTLER|XXX|cantinero|
-SUTURE|XXX|sutura (-al)|
+SUSTENANCE|n.|nutriment|
+SUTLER|n.|cantinero|
+SUTURE|n.|sutura (-al)|
 SWAB|n.|vatte a essuyar|
 SWAB|v.|vattar, nettar, scurar|
 SWADDLE|v.|circumvoluer|
 SWAGGER|v.|strucear, fanfaronar|
 SWAGGERING|n.|bravade|
 SWAGGERING|adj.|bravach|
-SWAIN|XXX|rustico; (lover) amante|
+SWAIN|n.|rustico; (lover) amante|
 SWALLOW|n.|hirunde|
 SWALLOW|v.|(in)glotir|
-SWAMP|XXX|morasse, palude|
-SWAN|XXX|cigne (-atri)|
-SWARD|XXX|herbe, gazon|
+SWAMP|n.|morasse, palude|
+SWAN|n.|cigne (-atri)|
+SWARD|n.|herbe, gazon|
 SWARM|n.|formication, turbul|
 SWARM|v.|formicar, turbular|
-SWARM OF FLIES|XXX|moscallia|
-SWARTHY|XXX|brun, nigratri|
+SWARM OF FLIES|n.|moscallia|
+SWARTHY|adj.|brun, nigratri|
 SWAY|v.|oscillar, chancelar|
 SWAY|n.|dominion, influentie (-ar)|
 SWEAR|v.|blasfemar, maledir; (on oath) jurar|
@@ -14633,69 +14636,69 @@ SWEAT|n.|sudore|
 SWEAT|v.|sudar, transpirar (-ation)|
 SWEDE|n.|(turnip) svedesi nap|
 SWEEP|v.|balayar; (as wind) chassar|
-SWEEPINGS|XXX|balayallia|
-SWEEPSTAKES|XXX|cavall-currida u li premie consists in li recivage|
+SWEEPINGS|n.|balayallia|
+SWEEPSTAKES|n.|cavall-currida u li premie consists in li recivage|
 SWEET|n.|bonbon; (dish) sucrage|
 SWEET|adj.|dulci, sucrosi|
 SWEETEN|v.|adulciar; sucrar|
-SWEETHEART|XXX|amata, inamorato|
+SWEETHEART|n.|amata, inamorato|
 SWELL|n.|undeada|
 SWELL|v.|inflar, crescer; tumer; dilatar; expanDer se|
-SWELLING|XXX|tumore, inflatura, túbere|
-SWELTERING|XXX|sufocant, opressiv|
+SWELLING|n.|tumore, inflatura, túbere|
+SWELTERING|adj.|sufocant, opressiv|
 SWERVE|v.|deviar, detornar se|
 SWIFT|adj.|rapid, veloci; subit|
 SWIFT|n.|(bird) cipsel|
 SWILL|n.|lavatura|
 SWILL|v.|trincachar|
 SWIM|v.|svimmar, flottar|
-SWIMMING BATH|XXX|piscine, svimm-bassine|
+SWIMMING BATH|n.|piscine, svimm-bassine|
 SWINDLE|v.|(de)fraudar, decepter|
-SWINE|XXX|svine(s) (-atri, -ero)|
+SWINE|n.|svine(s) (-atri, -ero)|
 SWING|n.|(swings) balansuore|
 SWING|v.|pendular, oscillar; (tr.) brandisser; far flirtar|
 SWING ROUND|v.|tornar se; (the arms) brassear|
-SWIPE|XXX|becasse|
-SWIRL|XXX|virle (-ar)|
+SWIPE|n.|becasse|
+SWIRL|n.|virle (-ar)|
 SWITCH|n.|(rail.) rel-changeator; (elec.) changeator, regulator|
 SWITCH|v.|comutar (-ator, -ation)|
 SWITCH OFF|v.|decomutar|
 SWIVEL|n.|pivot|
 SWOON|v.|evanescer (-ement)|
 SWOOP|v.|precipitar se sur, plongear sur, sursaltar|
-SWORD|XXX|espade, gladie (-iar)|
-SYCAMORE|XXX|platan-acere; (Egyptian) sicomore|
-SYCOPHANT|XXX|adulator servil, sicofante (-ie), parasite|
-SYLLABE|XXX|síllabe (-arium)|
-SYLLABUS|XXX|programma|
-SYLLOGISM|XXX|sillogisme|
-SYLPH|XXX|silfa|
-SYLVAN|XXX|silval, silvin|
-SYMBIOSIS|XXX|simbiose|
-SYMBOL|XXX|simbol (-ic, -isar, -isme)|
-SYMMETRY|XXX|simetrie (-ic)|
-SYMPATHETIC|XXX|simpatic|
-SYMPATHY|XXX|simpatíe; condolentie|
-SYMPHONY|XXX|simfonie (-ic)|
-SYMPOSIUM|XXX|simposium|
-SYMPTOM|XXX|simptoma (-tic)|
-SYNAGOGUE|XXX|sinagoga|
+SWORD|n.|espade, gladie (-iar)|
+SYCAMORE|n.|platan-acere; (Egyptian) sicomore|
+SYCOPHANT|n.|adulator servil, sicofante (-ie), parasite|
+SYLLABE|n.|síllabe (-arium)|
+SYLLABUS|n.|programma|
+SYLLOGISM|n.|sillogisme|
+SYLPH|n.|silfa|
+SYLVAN|adj.|silval, silvin|
+SYMBIOSIS|n.|simbiose|
+SYMBOL|n.|simbol (-ic, -isar, -isme)|
+SYMMETRY|n.|simetrie (-ic)|
+SYMPATHETIC|adj.|simpatic|
+SYMPATHY|n.|simpatíe; condolentie|
+SYMPHONY|n.|simfonie (-ic)|
+SYMPOSIUM|n.|simposium|
+SYMPTOM|n.|simptoma (-tic)|
+SYNAGOGUE|n.|sinagoga|
 SYNCHRONIZE|v.|sincronisar (-ation)|
-SYNCOPE|XXX|sincope|
-SYNDICATE|XXX|sindicatu|
-SYNECURE|XXX|sinecura|
-SYNOD|XXX|sinode|
-SYNONYMOUS|XXX|sinonim|
-SYNOPSIS|XXX|sinopSe (-tic. -tica)|
-SYNTAX|XXX|sintaxe (-actic)|
-SYNTHESIS|XXX|sinteSe (-tic)|
-SYPHILIS|XXX|sifilise|
-SYPHON|XXX|sifon (-ar)|
+SYNCOPE|n.|sincope|
+SYNDICATE|n.|sindicatu|
+SYNECURE|n.|sinecura|
+SYNOD|n.|sinode|
+SYNONYMOUS|n.|sinonim|
+SYNOPSIS|n.|sinopSe (-tic. -tica)|
+SYNTAX|n.|sintaxe (-actic)|
+SYNTHESIS|n.|sinteSe (-tic)|
+SYPHILIS|n.|sifilise|
+SYPHON|n.|sifon (-ar)|
 SYREN|n.|(myth.) sirena|
-SYRINGA|XXX|lila|
+SYRINGA|n.|lila|
 SYRINGE|v.|spruzzar (-uore), injecter|
-SYRUP|XXX|sirop (-osi), melasse|
-SYSTEM|XXX|sistema (-tic, -tisar)|
+SYRUP|n.|sirop (-osi), melasse|
+SYSTEM|n.|sistema (-tic, -tisar)|
 T-SQUARE|XXX|quadrette|
 TAB|n.|(of shoelace) lace-punta, puntale|
 TABBY|XXX|striat|
