@@ -546,7 +546,7 @@ ANTHOLOGY|n.|antologie|
 ANTHRACITE|n.|antracite|
 ANTHRAX|n.|antraxe|
 ANTHROPO|prefix|antropo-logo, -metric|
-ANTI|prefix|anti-semite, -septic etc.|
+ANTI|prefix|anti-semite, -septic etc.|XXX FIXME -- Mark examples as derivations.
 ANTICIPATE|v.|anticipar (-ation)|
 ANTICS|n.|drolleríe, gestes grotesc|
 ANTIDOTE|n.|antidot, antitoxine|
@@ -1409,7 +1409,7 @@ BEWITCH|v.|insorciar, fascinar|
 BEYOND|prep.|ultra; trans; (past) préter|
 BI|prefix|bi-annual, -furcat, -lateral etc.|
 BIAS|n.|inclination, partialitá, tendentie, predilection|
-BIASSED AGAINST||prejudiciat contra|XXX FIXME
+BIASSED AGAINST|prep.|prejudiciat contra|
 BIB|n.|bavette|
 BIBLE|n.|bible (-ic)|
 BIBLIO|prefix|biblio-grafie, -maniac|
@@ -2709,7 +2709,7 @@ COAT OF ARMS|n.|blason, emblema|
 COAT-HANGER|n.|veste-croc|
 COATED|adj.|stuccat, incrustat|
 COAX|v.|persuaDer|
-COB||un fort pony; (maize) spica|XXX FIXME
+COB|n.|un fort pony; (maize) spica|
 COBALT|n.|cobalt|
 COBBLE|v.|lappar, reparar|
 COBBLER|n.|sapatero, sapat-reparator|
@@ -2997,7 +2997,7 @@ CONFRONT|v.|confrontar (-ation)|
 CONFUSE|v.|confuser (-ion); inbrolliar|
 CONFUTE|v.|convicter pri erra, confutar|
 CONGEAL|v.|gelar, glaciar se, congelar (-ation)|
-CONGENER||homogen|XXX FIXME
+CONGENER|n.|homogen|XXX FIXME Improve/complete translation
 CONGENIAL|adj.|plesent, simpatic, afini|
 CONGENITAL|adj.|natural, de nascentie, ínnascet, congenital|
 CONGER|n.|mar-anguille, congre|
@@ -3236,9 +3236,9 @@ CORTEX|n.|cortice (-al)|
 CORUSCATE|v.|scintillear, brilliar|
 CORVETTE|n.|corvete|
 CORVINE|adj.|corvin|
-CORYPHAEUS||corifé|XXX FIXME
+CORYPHAEUS|n.|corifé|XXX FIXME corypheous?
 COSMETIC|n.|cosmetico|
-COSMETIC||grime, cosmetic|XXX FIXME
+COSMETIC|adj.|grime, cosmetic|XXX FIXME n./adj., grime?
 COSMIC|adj.|cosmic|
 COSMO|prefix|as in English: cosmo-gonie, -grafie, -logie, -polit|
 COSMOS|n.|cosmo|
@@ -3311,7 +3311,7 @@ COW|v.|intimidar, dominar|
 COW|n.|vacca|
 COWARD|n.|caudard, poltron (-eríe). timoron|
 COWBOY|n.|vaccero|
-COWDUNG||flad|XXX FIXME
+COWDUNG|n.|flad|XXX TOD confirm "cow-dung", "flad"
 COWEE|v.|ahoccar se; horrer (avan)|
 COWL|n.|capuce|
 COWSLIP|n.|primul|
@@ -5055,7 +5055,7 @@ EXCISE|n.|accise, impost|
 EXCITE|v.|excitar (-abil, -ation, -ant)|
 EXCLAIM|v.|exclamar (-ation, -ativ, -atori)|
 EXCLUDE|v.|excluDer (-sion, -siv, -sivitá)|
-EXCOMMUNICATE|v.|excomunier (-ion)|
+EXCOMMUNICATE|v.|excomunier (-ion)|XXX FIXME -- (-tion)
 EXCORIATE|v.|excoriar, scrappar|
 EXCREMENT|n.|excrement (-ari), fecallia|
 EXCRESCENCE|n.|excrescentie|
