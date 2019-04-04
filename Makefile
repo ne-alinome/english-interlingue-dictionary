@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201903260122
+# Last modified 201904010231
 # See change log at the end of the file
 
 # ==============================================================
@@ -105,7 +105,7 @@ xml: target/$(book_basename).adoc.xml
 .SECONDARY: tmp/$(book_basename).tsv.adoc
 
 tmp/%.tsv.adoc: src/%.tsv
-	sed -e "s/^\(.\+\)|\(.\+\)|\(.\+\)|/- .\1 (\2): \3/"  $< > $@
+	sed -e "s/^\(.\+\)|\(.\+\)|\(.\+\)|.*/- .\1 (\2): \3/"  $< > $@
 	vim -S make/add_letter_headings.vim $@
 
 target/$(book_basename).adoc: \
@@ -273,3 +273,5 @@ uninstall:
 # interface commands.
 #
 # 2019-03-26: Update to the new format of the data.
+# 
+# 2019-04-01: Fix sed expression to ignore comments.
