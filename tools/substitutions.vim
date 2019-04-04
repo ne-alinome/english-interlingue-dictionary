@@ -28,3 +28,7 @@
 :,$s@\t\([a-záéíóú-]\+\(ic\|al\|aci\|et\|at\|ut\|it\|il\|i\|t\)\)\>@\t(adj.) \1@c
 
 :,$s@\t\([a-záéíóú-]\+\(men\)\)\>@\t(adv.) \1@c
+
+" 2019-04-04: Fix order or entries by type n./v.:
+"
+:%s@^\(\(.\{-}\)|v.\+\)\n\(\2|n.\+\)$@\3\r\1@c
