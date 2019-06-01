@@ -10,9 +10,7 @@
 
 == Fixes and improvements
 
-- Convert "...." (the last one in an actual dot) to "….".
 - Fix spacing of elipsis.
-- Fix: in "SELF", "SELFWILL" lacks translation.
 - Fix colon/semicolon after English uppercase expressions.
 - Use always "v." etc to mark the word type. Now the notation is not
   regular.
