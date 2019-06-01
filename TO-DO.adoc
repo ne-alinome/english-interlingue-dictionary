@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-29
+:revdate: 2019-06-01
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -75,6 +75,7 @@
 - "YORE" is missing.
 - Fix: "PASS AWAY|v.|morir; evanescer|" -> "PASS AWAY|v.|morir|",
   "PASS OUT|v.|evanescer|"
+- Homogenize usage of "!" in all of the interjections.
 
 == Doubts
 
@@ -152,6 +153,8 @@
   signal-marca, mar-signe"
 - ínamico -> ínamíco
 - Meaning of "(rel.)".
+- "infam/ínfam".
+- Confirm "indueter" -> "inducer".
 
 == Notes about the contents
 
