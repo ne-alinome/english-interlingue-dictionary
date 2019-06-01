@@ -36,8 +36,6 @@
 - Fix "-eria" -> "-ería".
 - FIx "OFF (prep.) for. Also as prefix: forcurrer, forportar = to run,
   carry off".
-- Fix: In the original transcription "FOOTSTOOL" was at the end of
-  "foot- (2)" without translation.
 - Fix : In the original transcription "BOOKMARK" was at the end of
   "BOOK" without translation.
 - Fix notation . "AT ONE'S WITS' END esser al fine de su Latin, plu ne
