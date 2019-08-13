@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-06-01
+:revdate: 2019-06-02
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -72,6 +72,7 @@
 - Fix: "PASS AWAY|v.|morir; evanescer|" -> "PASS AWAY|v.|morir|",
   "PASS OUT|v.|evanescer|"
 - Homogenize usage of "!" in all of the interjections.
+- "THIS WAY|adv.|a ci|" is incomplete: it can mean also "by this method".
 
 == Doubts
 
@@ -172,3 +173,7 @@
   CARE".
 - In "REFRACTORY (n.) infusibile" is missing meaning "A refractory
   person".
+
+== Words missing
+
+- "ME".

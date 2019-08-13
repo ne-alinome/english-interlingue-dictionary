@@ -6,12 +6,14 @@
 "
 " By Marcos Cruz (programandala.net)
 
-" This program searchs the data for missing headword types and asks the user.
+" This program searches the data for missing headword types and asks the user.
 
 " 2019-03-25: Start. First version.
 "
 " 2019-03-26: Update to the new data format (bars instead of tabs). Add
 " 'expr.' and 'n.pl.' types. Add option 'x' to mark entry with 'FIXME'.
+"
+" 2019-08-07: Fix typo.
 
 function! SetHeadwordType(type)
 
