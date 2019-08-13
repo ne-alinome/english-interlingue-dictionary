@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-06-02
+:revdate: 2019-08-13
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -54,8 +54,6 @@
   is that of the English comments.
 - Separate usages: "ANOTHER (adj. pron.) altri, ancor un".
 - Fix: "ARRANT archi-"
-- "ANALOGY analog (-ie)". "ANALOGY" is noun, but "analog" is
-  adjective.
 - "CLIEUT clieut (-ela)" -> "CLIENT".
 - In "GLIB (tro) fluent; suavi" "(tro)" is Interlingue, but uses the
   notation of English comments.
