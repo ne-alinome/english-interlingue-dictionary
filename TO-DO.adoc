@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-13
+:revdate: 2019-08-23
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -25,7 +25,6 @@
 - Fix: "punte" is mentioned in "SCORE", but not in "POINT".
 - Fix "TO LOOK UP TO", which was at the end of "LOOK" without
   translation.
-- Fix "prep." -> "(prep.)".
 - Remove asterisks.
 - Improve notation of "OFF"
 - Split "DRIFT" into verb and noun.
@@ -54,7 +53,6 @@
   is that of the English comments.
 - Separate usages: "ANOTHER (adj. pron.) altri, ancor un".
 - Fix: "ARRANT archi-"
-- "CLIEUT clieut (-ela)" -> "CLIENT".
 - In "GLIB (tro) fluent; suavi" "(tro)" is Interlingue, but uses the
   notation of English comments.
 - In "JINGLE (far) tintinar" "(far)" is Interlingue, but uses the
@@ -63,7 +61,6 @@
 - "POLICY (plan) plan de action; (politics) political; (insur.)
   police". "political" -> "politica".
 - "YODEL (sons) yodle (-ero, -ar)" -> songs
-- Change "prefix." -> "prefix"/"pref.".
 - Fix: "STILL ancor" is missing. "ancor" is mentioned only in "YET".
 - Add adv. usages to "NEVERTHELESS" and "HOWEVER".
 - "YORE" is missing.
@@ -71,10 +68,12 @@
   "PASS OUT|v.|evanescer|"
 - Homogenize usage of "!" in all of the interjections.
 - "THIS WAY|adv.|a ci|" is incomplete: it can mean also "by this method".
+- Fix/improve "BESIDE" and "BESIDES".
+- Expand prefixes in the definitions.
+- Add "CLIENTELE/CLIENTÈLE", "clientité, clientela". 
 
 == Doubts
 
-- Confirm "apsorter".
 - Confirm entry "fro, to and". 
 - Confirm "BEATITUD beatitá. BEATITUDES: \~".
 - Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
@@ -149,6 +148,11 @@
 - Meaning of "(rel.)".
 - "infam/ínfam".
 - Confirm "indueter" -> "inducer".
+- Confirm correction "contra" -> "contra unaltru" in "FACE TO FACE".
+- Why note "(in comp.)" (in compounds?) is used in sufixes "CENTI" and
+  "COUNTER"?
+- Confirm translation of adverb "VICE VERSA": "vice versa" is also
+  used in Cosmoglotta. Add "VICE VERSA|adv.|inversmen, inversimen|".
 
 == Notes about the contents
 

@@ -2333,7 +2333,7 @@ CENSURE|n.|blama (-ar), censura (-ar), reprimande (-ar)|
 CENT|n.|centime|
 CENTENARY|adj.|centenari|
 CENTENARY|n.|centenarie|
-CENTI|prefix) (in comp.|centi-litre, -metre, -pede|
+CENTI|prefix| (in comp.) centi-litre, -metre, -pede|
 CENTRE|n.|centre (-al, -ale, -alisar)|
 CENTRE OF GRAVITY|n.|centre de gravitation, bari centre|
 CENTURY|n.|centennie, secul|
@@ -2645,7 +2645,7 @@ CLEVER|adj.|habil, capabil, astut, talentat|
 CLEW|n.|scot-angul|
 CLEW|v.|(naut.) cargar 11 segles|
 CLICK|v.|claccar, ticar, tic-tacar|
-CLIEUT|n.|clieut (-ela)|
+CLIENT|n.|client (-ité)|
 CLIFF|n.|cliff|
 CLIMATE|n.|clima (-tic)|
 CLIMAX|n.|culmine, sómmit|
@@ -3168,7 +3168,7 @@ COOLNESS|n.|aplombe|
 COOP|n.|cage por volallia|
 COOPER|n.|cuvero|
 COOT|n.|fulica|
-COPE|eccl.|sutane; (dome) cupol|
+COPE|n.|(eccl.) sutane; (dome) cupol|
 COPE WITH|v.|luctar contra, mastrisar|
 COPIOUS|adj.|ampli, rich, abundant, numerosi|
 COPPER|n.|cupre; (vessel) cuve|
@@ -3272,7 +3272,7 @@ COUNT|v.|numerar, contar, calcular|
 COUNTENANCE|n.|facie, visage; aprobation|
 COUNTENANCE|v.|permisser, aprobar|
 COUNTER|n.|contore; (games) chip, jeton|
-COUNTER|prefix) (in comp.|contra-mesura, -demande, -póndere|
+COUNTER|prefix| (in comp.) contra-mesura, -demande, -póndere|
 COUNTER|v.|contra-acter|
 COUNTER-CHECK|n.|centra-control|
 COUNTERFEIT|adj.|fictiv, fals|
@@ -5174,7 +5174,7 @@ FABRICATE|v.|fabricar, inventer|
 FACADE|n.|fassade|
 FACE|n.|facie (-al), visage; (of clock) disco; (of coins etc.) averse; (surface) superficie|
 FACE|v.|frontar|
-FACE TO FACE|adj. adv.|vis-a-vis, contra|XXX FIXME -- "contra" is preposition
+FACE TO FACE|adj., adv.|vis-a-vis, contra unaltru|
 FACET|n.|facette|
 FACETIOUS|adj.|jocosi|
 FACILE|adj.|facil (-itá)|
@@ -7920,7 +7920,7 @@ ISSUE|n.|(number of periodical) numeró; (offspring) descendentes; (outcome) res
 ISSUE|v.|(books) editer (-ion); publicar, distribuer, emisser; (come out) provenir|
 ISTHMUS|n.|istme|
 IT|pron.|it|
-IT IS A MATTER||it acte se pri|XXX FIXME --
+IT IS A MATTER OF...|expr.|it acte se pri...|
 IT IS A PITY|expr.|it es damage|
 IT IS A WEEK SINCE I SAW HER|expr.|ja de un semane yo plu ne ha videt la|
 IT IS DUSTY|expr.|it polvea|
@@ -9288,7 +9288,7 @@ METE OUT|v.|aportionar; rendir|
 METEOR|n.|meteor (-ic, -ologie)|
 METEORITE|n.|aerolite|
 METER|n.|metre; (instrument) mesurette|
-METHINKS||me sembla que|XXX TODO v./adv./conj.?
+METHINKS|v.|me sembla que|
 METHOD|n.|metode (-ic, -ist, -isme)|
 METHYLATED SPIRIT|n.|sprite metilat|
 METRE|n.|(unit of length) metre; (mus., poetry) metrica|
@@ -15345,7 +15345,7 @@ TRAMP|v.|migrar; ped-ear|
 TRAMPLE|v.|tramplar (-ada), ped-presser|
 TRANCE|n.|extaSe; cataleptie, transe|
 TRANQUIL|adj.|tranquil (-itá, -isar), calm|
-TRANS|prefix.|trans|
+TRANS|prefix|trans|
 TRANS|prep.|trans|
 TRANSACT|v.|transacter (-ion); tractar, negociar|
 TRANSCEND|v.|superar, superpassar|
@@ -15949,7 +15949,8 @@ VIANDS|n.|comestibles, manjages|
 VIBRATE|v.|vibrar (-ation, -ator, -atori)|
 VICAR|n.|vicario, paroco|
 VICARIOUS|adj.|vicari|
-VICE|n.|vicie (-osi), defecte; (mech.) serrette. (prefix) vice-|
+VICE|n.|vicie (-osi), defecte; (mech.) serrette|
+VICE|prefix|vice-|
 VICE VERSA|adj.|inversi|
 VICINITY|n.|vicinitá; vicinage|
 VICISSITUDE|n.|vicissitúdine|
