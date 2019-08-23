@@ -32,8 +32,6 @@
   "INLAID FLOOR".  Candidates: "WHITE OF EGG", "ERE LONG"... 
 - Fix "amíco/s", "amíca/s".
 - Fix "-eria" -> "-ería".
-- FIx "OFF (prep.) for. Also as prefix: forcurrer, forportar = to run,
-  carry off".
 - Fix : In the original transcription "BOOKMARK" was at the end of
   "BOOK" without translation.
 - Fix notation . "AT ONE'S WITS' END esser al fine de su Latin, plu ne
@@ -68,7 +66,6 @@
 - Homogenize usage of "!" in all of the interjections.
 - "THIS WAY|adv.|a ci|" is incomplete: it can mean also "by this method".
 - Fix/improve "BESIDE" and "BESIDES".
-- Expand prefixes in the definitions.
 - Add "CLIENTELE/CLIENTÈLE", "clientité, clientela". 
 
 == Doubts
