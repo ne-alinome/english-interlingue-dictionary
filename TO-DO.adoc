@@ -27,7 +27,6 @@
   translation.
 - Remove asterisks.
 - Improve notation of "OFF"
-- Split "DRIFT" into verb and noun.
 - Duplicate example expressions as entries. The original does it, e.g.
   "CHEST OF DRAWERS" is an entry, but also part of of "DRAWER". Also
   "INLAID FLOOR".  Candidates: "WHITE OF EGG", "ERE LONG"... 
