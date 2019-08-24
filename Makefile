@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201908241240
+# Last modified 201908241423
 # See change log at the end of the file
 
 # ==============================================================
@@ -105,7 +105,7 @@ xml: target/$(book_basename).adoc.xml
 .SECONDARY: tmp/$(book_basename).tsv.adoc
 
 tmp/%.tsv.adoc: src/%.tsv
-	sed -e "s/^\(.\+\)#\(.\+\)\?#\(.\+\)#.*/- .\1 (\2): \3/"  $< > $@
+	sed -e "s/^\(.\+\) *#\(.\+\)\?#\(.\+\)#.*/- .\1 (\2): \3/"  $< > $@
 	vim -S make/add_letter_headings.vim $@
 
 target/$(book_basename).adoc: \
@@ -218,7 +218,7 @@ tmp/$(dict_basename).$(dict_data_format): \
 	src/$(book_basename).tsv \
 	tmp/dict_header.adoc.xml.txt
 	cat tmp/dict_header.adoc.xml.txt > $@
-	sed -e "s/^\(.\+\)#\(.\+\)@\(.\+\)#/:\1:(\2): \3/" \
+	sed -e "s/^\(.\+\) *#\(.\+\)@\(.\+\)#/:\1:(\2): \3/" \
 		$< >> $@
 
 # ==============================================================
@@ -279,4 +279,5 @@ uninstall:
 # 2019-08-21: Fix sed expression to accept empty word-type fields. Formerly
 # those records were added to the previous one, ruining the output.
 #
-# 2019-08-24: Update: field separator "|" now is "#".
+# 2019-08-24: Update: field separator "|" now is "#", and the first field has a
+# trailing space.
