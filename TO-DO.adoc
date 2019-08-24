@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-23
+:revdate: 2019-08-24
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -66,7 +66,8 @@
 - Homogenize usage of "!" in all of the interjections.
 - "THIS WAY|adv.|a ci|" is incomplete: it can mean also "by this method".
 - Fix/improve "BESIDE" and "BESIDES".
-- Add "CLIENTELE/CLIENTÈLE", "clientité, clientela". 
+- Add "CLIENTELE/CLIENTÈLE", "clientité, clientela".
+- Fix "junite" -> "junité".
 
 == Doubts
 
