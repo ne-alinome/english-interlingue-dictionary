@@ -1236,12 +1236,10 @@ BEARDED|adj.|barbat|
 BEARING|n.|statura, postura; (mech.) suporte|
 BEARINGS|n.|(heraldry) insigne|
 BEAST|n.|bestie, animale; (pejor.) brute|
-BEAST OF PREY|n.|bestie predatori|
-BEAST OF PREY|n.|bestie raptaci|
+BEAST OF PREY|n.|bestie predatori, bestie raptaci|
 BEASTLY|adj.|bestial, repugnant, abominabil|
 BEAT|v.|batter, bastonar, frappar; (of pulse) pulsar; (surpass) superar; (conquer) victer; (eggs) quirlar; (heart) palpitar; (beat the air) frappar in vacuitá|
-BEATEN TRACK|n.|batte, grappa; (mus.) tacte|
-BEATEN TRACK|n.|trantran|
+BEATEN TRACK|n.|batte, grappa; (mus.) tacte; trantran|
 BEATIFIC|adj.|beatific|
 BEATITUDE|n.|beatitá; (beatitudes) beatitude|
 BEAU|n.|dandy, eleganto, amanto; cortesan|
@@ -1451,10 +1449,8 @@ BIO|prefix|biografie, biologie, bioplasma etc.|
 BIRCH|n.|(tree) betul|
 BIRCH|v.|vergar|
 BIRD|n.|avie|
-BIRD OF PASSAGE|n.|avie migratori|
-BIRD OF PASSAGE|n.|avie passatori|
-BIRD OF PREY|n.|avie predatori|
-BIRD OF PREY|n.|avie raptaci|
+BIRD OF PASSAGE|n.|avie migratori, avie passatori|
+BIRD OF PREY|n.|avie predatori, avie raptaci|
 BIRDCAGE|n.|aviere|
 BIRDLIME|n.|avie-colla|
 BIRTH|n.|nascentie|
@@ -2269,8 +2265,7 @@ CATARRH|n.|catarre|
 CATASTROPHE|n.|catastrof (-al)|
 CATCH|v.|capter, prender; (grasp mentally) capir|
 CATCH A CHILL|v.|refrigidar se|
-CATCH COLD|v.|afrigidar se, inreumar se|
-CATCH COLD|v.|refrigidar se|
+CATCH COLD|v.|afrigidar se, inreumar se, refrigidar se|
 CATCH SIGHT OF|v.|percepter|
 CATCH UP WITH|v.|atinger|
 CATECHISM|n.|catechisme|
@@ -2808,8 +2803,7 @@ COMBUSTIBLE|adj.|combustibil|
 COMBUSTION|n.|combustion|
 COME|v.|venir|
 COME ABOUT|v.|evenir|
-COME ACROSS|v.|incontrar|
-COME ACROSS|v.|trovar|
+COME ACROSS|v.|incontrar, trovar|
 COME AFTER|v.|sequer|
 COME BACK|v.|revenir, retornar|
 COME BY|v.|obtener|
@@ -3045,8 +3039,7 @@ CONSIDERING|prep.|con egard a|
 CONSIGN|v.|consignar (-ator, -ation, -atario), expedir|
 CONSIGNMENT|comm.|merces consignat, consignament|
 CONSIST|v.|consister (-ent, -entie)|
-CONSISTENT|adj.|acordant, compatibil|
-CONSISTENT|adj.|consequential, conform|
+CONSISTENT|adj.|acordant, compatibil, consequential, conform|
 CONSOLE|n.|console|
 CONSOLE|v.|consolar (-ation, -ativ)|
 CONSOLIDATE|v.|consolidar (-ation)|
@@ -3639,8 +3632,7 @@ DASHING|adj.|frappant, evocant atention, audaci, galant|
 DASTARD|n.|caudard, poltron (-eríe)|
 DASTARDLY|adj.|abominabil, caudardi|
 DATA|n.|data, factes, detallies|
-DATE|n.|(fruit) datil|
-DATE|n.|date (-ar)|
+DATE|n.|date (-ar); (fruit) datil|
 DATIVE|adj.|dativ|
 DATIVE|n.|dative|
 DAUB|v.|(with brush) pinselachar; pictachar|
@@ -4205,8 +4197,8 @@ DISPOSITION|n.|disposition; temperament|
 DISPOSSESS|v.|deposseder, privar de, expulser|
 DISPROPORTION|n.|desproportion (-al)|
 DISPROVE|v.|refutar|
-DISPUTE|n.|contro verse, querelle|
-DISPUTE|n.|disput (-ar, -ant, -aci, -ation, -ator), debatter, polemisar|
+DISPUTE|n.|disput (-ar, -ant, -aci, -ation, -ator), controverse, querell|
+DISPUTE|v.|disputar (-ant, -aci, -ation, -ator), debatter, polemisar|
 DISQUALIFY|v.|dequalificar (-ation)|
 DISQUIET|n.|perturbation, destranquilitá|
 DISQUIET|v.|ínquietar|
@@ -6075,8 +6067,7 @@ GET OUT|v.|preparar, editer; exear; (get out of) evitar, debrolliar|
 GET OVER|v.|(overcome) superar, victer; (illness) bon trapassar, recuperar|
 GET THROUGH|v.|traear; (finish) finir; successar|
 GET UP|v.|(rise) levar se; (arrange) arangear, organisar; (mount) montar|
-GET WELL|v.|resanar se|
-GET WELL|v.|resanijar, convalescer|
+GET WELL|v.|resanar se, resanijar, convalescer|
 GEWGAW|n.|juvelache, futilage, talmi, auripelle|
 GEYSER|n.|geyser; balne-forne, terme|
 GHASTLY|adj.|horribil, cadavric|
@@ -6122,13 +6113,11 @@ GIVE FORTH|v.|anunciar; (a cry) pussar|
 GIVE IN|v.|ceder, capitular|
 GIVE OFF|v.|(an odour) expander|
 GIVE OUT|v.|distribuer; exhauster se, anunciar|
-GIVE OVER|v.|cessar|
 GIVE OVER|v.|transdar, transmisser; (cease) cessar|
 GIVE REIMBURSE TO|v.|efrenar|
 GIVE RISE TO|v.|causar, nascentar|
 GIVE UP|v.|abandonar; (a problem) ne posser soluer; (surrender) capitular, renunciar|
-GIVE WAY|v.|ceder terren|
-GIVE WAY|v.|ceder (piazza); cader in ruinas, crular|
+GIVE WAY|v.|ceder (piazza), ceder terren; cader in ruinas, crular|
 GIVEN TO|adj.|inclinat, disposit|
 GIZZARD|n.|stomac (de avies), croppe|
 GLACIAL|adj.|glacial|
@@ -6208,7 +6197,6 @@ GO IN FOR|v.|interessar se por, interprender|
 GO INTO|v.|investigar, explorar|
 GO ON|v.|durar, continuar|
 GO OUT|v.|ear ad éxter, exear, surtir; (of a light) extinter se|
-GO OUT|v.|surtir, exear; extinter se|
 GO ROUND|v.|rotar, girar, tornar se; suficer por omnes|
 GO TO BED|v.|inlettar|
 GO TO LAW|v.|processuar|
@@ -6958,8 +6946,7 @@ HOODED CLOAK|n.|capote|
 HOODWINK|v.|decepter, dupar|
 HOOK|n.|croc|
 HOOLIGAN|n.|rixard|
-HOOP|n.|anelle de baril, cuv-bande|
-HOOP|n.|huf|
+HOOP|n.|anelle de baril, cuv-bande; huf|
 HOOPING-COUGH|n.|cocluche|
 HOOT|v.|ulular (-ada)|
 HOP|n.|(bot.) lupul (-iera)|
@@ -8374,10 +8361,8 @@ LAY-FIGURE|n.|marionette, figura|
 LAYER|hort.|marcotte; (geol.) strate; (de)positor|
 LAZY|adj.|pigri, índolent|
 LEA|n.|herbiera, prate|
-LEAD|n.|(metal) plumbe; (for pencils) grafite; (naut.) sonde|
-LEAD|n.|duction, direction; precedentie|
-LEAD|v.|(conduct) ducter, guidar, directer; (go in front) preceder; (cause) causar, far; (lead off) comensar; (lead astray) seducter|
-LEAD|v.|plumbar|
+LEAD|n.|(conduct) duction, direction; (in front) precedentie; (metal) plumbe; (for pencils) grafite; (naut.) sonde|
+LEAD|v.|(conduct) ducter, guidar, directer; (go in front) preceder; (cause) causar, far; (lead off) comensar; (lead astray) seducter; (metal) plumbar|
 LEADEN|adj.|plumbin, plumbic; inert|
 LEADER|n.|(con)duetor, chef; articul redactoral|
 LEAF|n.|folie (-at, -age, -ette, -osi); (of table etc.) clappe|
@@ -8406,7 +8391,6 @@ LEATHER|n.|cute (-in)|
 LEAVE|n.|permission, licentie, vacantie, congedie, adío|
 LEAVE|v.|lassar; (abandon) forlassar, abandonar; (depart) departer, forviagear; surtir; (bequeath) legar, testar|
 LEAVE ALONE|v.|lassar tranquil|
-LEAVE BEHIND|v.|poslassar|
 LEAVE BEHIND|v.|poslassar, lassar detra|
 LEAVE IN THE LURCH|v.|abandonar, monstrar se ínfidibil|
 LEAVE OFF|v.|cessar|
@@ -8526,7 +8510,6 @@ LID|n.|(cover) covrette, covricul; (eyelid) palpebre|
 LIE|n.|mentie; (slope) cline|
 LIE|v.|jacer, reposar; (tell a lie) mentir; (remain) restar|
 LIE IDLE|v.|chomar|
-LIE IN WAIT|v.|guatar|
 LIE IN WAIT|v.|inboscar, guatar|
 LIE OVER|v.|star ajornat|
 LIE TO|v.|(naut.) capear|
@@ -8925,9 +8908,7 @@ MAKE AMENDS|v.|compensar|
 MAKE AN ABSTRACT|v.|resumar|
 MAKE ASHAMED|v.|ahontar|
 MAKE AWAY WITH|v.|mortar; abolir|
-MAKE BELIEVE|v.|ficter|
-MAKE BELIEVE|v.|pretexter|
-MAKE GOOD|v.|compensar|
+MAKE BELIEVE|v.|ficter, pretexter|
 MAKE GOOD|v.|successar; reparar, compensar|
 MAKE LOVE|v.|cortesar|
 MAKE MERRY|v.|amusar se, delectar se, divertisser se|
@@ -9107,8 +9088,7 @@ MASSAGE|v.|massar (-age, -ero)|
 MASSES|n.|(people) plebeyos|
 MASSIVE|adj.|massiv (-itá)|
 MAST|n.|mast|
-MASTER|n.|(academical degree) magistro|
-MASTER|n.|mastre, mastro, chef, director, principale; experte; instructor|
+MASTER|n.|mastre, mastro, chef, director, principale; experte; instructor; (academical degree) magistro|
 MASTER|v.|mastrisar; domitar; dominar; victer, superar|
 MASTERFUL|adj.|despotic, imperiosi, dominatri|
 MASTERLY|adj.|expert, superiori|
@@ -9867,8 +9847,7 @@ NEVERTHELESS|conj.|támen, totvez|
 NEW|adj.|nov, recent|
 NEW-COMER|n.|novicio, nov-veniente|
 NEW-FANGLED|adj.|nov inventet, de nov mode|
-NEWS|n.|nova, information, avise|
-NEWS|n.|novas|
+NEWS|n.|nova, novas, information, avise|
 NEWSPAPER|n.|jurnale, gazette|
 NEWT|n.|salamandre|
 NEXT|adj.|proxim, sequent, adjacent|
@@ -11244,8 +11223,7 @@ POKE|n.|pussa|
 POKE|v.|pussar; (fire) agitar, inbrasar; (fun) mocar|
 POKER|n.|foy-ferre; (cards) póker|
 POKY|adj.|strett, constrictet, restrictet|
-POLE|n.|(astr., elect.) pol (-ari, -aritá, -arisar)|
-POLE|n.|pal, palisse; (of vehicle) timon|
+POLE|n.|pal, palisse; (of vehicle) timon; (astr., elect.) pol (-ari, -aritá, -arisar)|
 POLE-AXE|n.|buch-hacca|
 POLECAT|n.|pútor|
 POLEMICS|n.|polemica (-ar)|
@@ -11868,11 +11846,9 @@ PUT A SPURT|v.|accelerar, hastar|
 PUT ASIDE|v.|escartar|
 PUT DOWN|v.|deposir; inscrir, notar; subjugar|
 PUT OFF|v.|ajornar, procrastinar|
-PUT OFF|v.|procrastinar; ajornar|
 PUT ON|v.|(sur)metter; (feign) ficter|
 PUT ON MAIL|v.|blindar|
 PUT OUT|v.|ejecter; vexar, iritar; extinter|
-PUT OUT|v.|extinter; vexar, iritar|
 PUT OUT FEELERS|v.|sondar|
 PUT OUT OF JOINT|v.|luxar|
 PUT OUT TO|v.|inatigar|
@@ -12657,13 +12633,13 @@ RIOTOUS|adj.|tumultuosi, seditiosi|
 RIP|v.|lacerar|
 RIPARIAN|adj.|riveran, rivari|
 RIPE|adj.|matur (-ar, -itá)|
-RIPE|adj.|prevalent, reyent, luxuriant|
-RIPLE|n.|carabine (-ero), fusil|
+RIPE|adj.|prevalent, reyent, luxuriant|XXX FIXME -- this was out of order in the original --> rife!
+RIPLE|n.|carabine (-ero), fusil|XXX FIXME -- this was out of order in the original --> rifle!
 RIPLE|v.|spoliar, traserchar|
-RIPLE-BUTTS|n.|para-balles|
-RIPP-RAPF|n.|canallia|
+RIPLE-BUTTS|n.|para-balles|XXX FIXME -- this was out of order in the original --> rifle!
+RIPP-RAPF|n.|canallia|XXX FIXME -- this was out of order in the original --> riff-raff
 RIPPLE|v.|undettear|
-RIPT|n.|fensura, fissura|
+RIPT|n.|fensura, fissura|XXX FIXME -- this was out of order in the original --> rift
 RISE|n.|ascension, orígine; clive; avansament|
 RISE|v.|ascenDer, turrear; levar se; augmentar se|
 RISIBLE|adj.|risibil (-itá)|
@@ -13469,8 +13445,8 @@ SHUTTLE|n.|navette, spuliere|
 SHUTTLECOCK|n.|balls plumat|
 SHY|adj.|timid; suspectiv|
 SHY|v.|cabrar se|
+SIBILANT|adj.|sibilant|
 SIBILANT|n.|sibilante|
-SIBILANT|n.|sibilant|
 SICK|adj.|malad|
 SICKEN|v.|amaladar se, maladijar; revulser, nausear|
 SICKLE|n.|falce|
@@ -14003,8 +13979,8 @@ SPOILS|n.|raptallia|
 SPOKE|n.|radion|
 SPOKESMAN|n.|porta-voce|
 SPOLIATION|n.|spoliation|
-SPONGE|n.|nettar per spongie|
 SPONGE|n.|spongie (-iatri, -iosi)|
+SPONGE|v.|nettar per spongie|
 SPONGE ON|v.|parasitar ye|
 SPONSOR|n.|garante; (godparent) compatre, commatre|
 SPONTANEOUS|adj.|spontan (-itá)|
@@ -14131,8 +14107,7 @@ STAND AGAINST|v.|oposir, resister|
 STAND BACK|v.|retirar se, recular; (as candidate) presentar se; (endure) tolerar; (stand still) haltar, ne mover se|
 STAND ON TIPTOE|v.|star sur li ped-fingres|
 STAND OUT|v.|prominer|
-STAND UP|v.|levar se|
-STAND UP|v.|stantar se|
+STAND UP|v.|levar se, stantar se|
 STAND-BY|n.|reserve, suporte|
 STANDARD|adj.|uniform|
 STANDARD|n.|(ensign) standarte (-ario); (measure) norme, standarde (-isar), criterie, mesura; (of knowledge) gradu; (weights and measures) etalon|
@@ -14762,11 +14737,9 @@ TAKE OFFENCE|v.|ofender se|
 TAKE ONE'S LEAVE|v.|forear, departer|
 TAKE ORDERS|v.|(eccl.) prestijar|
 TAKE PAINS|v.|cuidar, penar, efortiar se|
-TAKE PAINS|v.|penar, efortiar se|
 TAKE PART|v.|partiprender|
 TAKE PART IN|v.|parti prender|
 TAKE PITY ON|v.|comiserar|
-TAKE PLACE|v.|evenir|
 TAKE PLACE|v.|far se, evenir|
 TAKE POSSESSION OF|v.|ocupar; capter|
 TAKE PROCEEDINGS|v.|processuar|
