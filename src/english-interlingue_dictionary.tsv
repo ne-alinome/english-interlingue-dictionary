@@ -569,7 +569,7 @@ ANY #adj., pron.#alquel, quelcunc; (any kind of) alqual, qualcunc. Often omitted
 ANYBODY #n.#(interr.) alcun, alquí, alquem; (no matter who(m)) quicunc, quemcunc#
 ANYHOW #adv.#alquam; (no matter how) quamcunc#
 ANYTHING #n.#(interr.) alquó; (no matter what) quocunc#
-ANYTHING BUT ##omno quam# XXX FIXME --
+ANYTHING BUT #prep.#omno quam# XXX FIXME -- omno except
 ANYWHERE #adv.#(interr.) alcú; (no matter where) ucunc#
 APACE #adv.#rapidmen, hastosimen#
 APART #adj.#apart, separat, isolat, desunit#
@@ -830,7 +830,7 @@ AT LEAST #adv.#adminim, alminu#
 AT LENGTH #adv.#in fine; detalliatmen#
 AT MOST #adv.#admaxim#
 AT ONCE #adv.#strax; simultanmen#
-AT ONE'S WITS' END ##esser al fine de su Latin, plu ne saver quo far#XXX FIXME --
+AT ONE'S WITS' END #adv.#esser al fine de su Latin, plu ne saver quo far#XXX FIXME --
 AT PAR #adv.#al pari#
 AT PRESENT #adv.#in presente, nu#
 AT RANDOM #adv.#in hasarde#
@@ -936,7 +936,7 @@ AWAY #adv.#for, absent#
 AWE #n.#timore, veneration, reverentie#
 AWEARY #adj.#lassi, fatigat#
 AWFUL #adj.#terribil, horribil#
-AWHILE ##poc momentes#XXX FIXME
+AWHILE #adv.#poc momentes#XXX FIXME -- improve translation
 AWKWARD #adj.#ínhabil, genant, rustic; embarassant, plump#
 AWL #n.#alen#
 AWNING #n.#(canopy) marquise, covritura#
@@ -1113,7 +1113,8 @@ BATHE #v.#balnear; inmerser#
 BATHROOM #n.#chambre balneari#
 BATHS #n.#balnería, piscine#
 BATMAN #n.#servitor de oficero; soldate de ordonantie#
-BATRACHIAN ##batracian#XXX FIXME
+BATRACHIAN #adj.#batracian#
+BATRACHIAN #n.#batraciane#
 BATTALION #n.#battallion#
 BATTEN #n.#latte#
 BATTEN #v.#grassijar#
@@ -1122,7 +1123,7 @@ BATTER #v.#batter, dismartellar#
 BATTERING-RAM #n.#assalt-ramme#
 BATTERY #n.#batterie#
 BATTLE #n.#battallie, combatte#
-BATTLEDORE AND SHUTTLECOCK ##rácket e volante#XXX FIXME
+BATTLEDORE AND SHUTTLECOCK #n.#rácket e volante#
 BATTLELMENTS #n.#bastion, parapete, crenel#
 BAUBLE #n.#auripelle, ludette, bagatelle#
 BAULK #n.#trave#
@@ -2270,7 +2271,6 @@ CATCH SIGHT OF #v.#percepter#
 CATCH UP WITH #v.#atinger#
 CATECHISM #n.#catechisme#
 CATEGORY #n.#categorie (-ic)#
-CATEIN ##ament#XXX FIXME
 CATER #v.#provisionar; cuidar#
 CATERPILLAR #n.#eruca#
 CATHARTIC #adj.#purgativ, laxativ#
@@ -2280,6 +2280,7 @@ CATHEDRAL #n.#catedrale#
 CATHODE #n.#catode#
 CATHOLIC #adj.#catolic (-isme)#
 CATHOLIC #n.#catolico#
+CATKIN #n.#ament#
 CATTLE #n.#brutes, boves, pecude#
 CAUDAL #adj.#caudal#
 CAULDRON #n.#caldron#
@@ -3390,7 +3391,7 @@ CRICK #n.#crampe, spasma#
 CRICKET #n.#(game) cricket; (insect) grillie#
 CRIME #n.#crímine (-al, -ard), delicte#
 CRIMP #v.#crispar#
-CRIMSON ##carmesin#XXX FIXME
+CRIMSON #adj.#carmesin#
 CRINGE #v.#adflexer se servilmen avan#
 CRINKLE #v.#rugar, plicar#
 CRINOLINE #n.#crinoline#
@@ -3488,7 +3489,7 @@ CULMINATE #v.#culminar (-ation)#
 CULPABLE #adj.#culpabil (-itá), criminal#
 CULPRIT #n.#culpon, malefator#
 CULT #n.#cultu#
-CULTERED ##cult#XXX FIXME
+CULTERED #adj.#cult#
 CULTIVATE #v.#cultivar (-ation, -ator, -abil)#
 CULTURE #n.#cultura (-al)#
 CUMBER #v.#genar, embarassar, incumbrar#
@@ -4603,7 +4604,7 @@ EDITORIAL #n.#articul redactori#
 EDUCATE #v.#educar (-ation, -ator, -ativ)#
 EDUCATED #adj.#instructet, doct, erudit#
 EEL #n.#anguille#
-EELBASKET ##nasse#XXX FIXME "EELBASKET"?
+EEL-BASKET #n.#nasse#XXX TODO Confirm: "EEL-BASKET"?, "nasse"?
 EERIE #adj.#magic, ínquietant, fantomátri#
 EFFACE #v.#efaciar, exterger, extinter, anullar#
 EFFECT #n.#efecte (-er, -iv, -ivar), resultate, consequentie#
@@ -5760,7 +5761,7 @@ FOUNDRY #n.#fondería, fusería#
 FOUNT #n.#fonte; (typ.) fonde#
 FOUNTAIN #n.#fontane#
 FOUNTAIN-PEN #n.#fontan-plum#
-FOUR #v.#quar#
+FOUR #adj., n.#quar#
 FOURFOLD #adj., n.#quadriplic#
 FOURTEEN #adj., n.#deciquar#
 FOWL #n.#avie; (domestic) gállin#
@@ -5802,7 +5803,7 @@ FREE OF TAX #adj.#exempt de tribute#
 FREEBOOTER #n.#marodero#
 FREEDOM #n.#libertá; (of city) borgesie#
 FREEHOLD #n.#líber possedage#
-FREEMASON #n.#franc-masson#
+FREEMASON #n.#francmasson#
 FREETHINKER #n.#liberpensante#
 FREEZE #v.#gelar, glaciar se; (feel cold) friger#
 FREIGHT #n.#frete, porte; (load) cargo#
@@ -9078,7 +9079,7 @@ MASH #n.#mixti-forrage#
 MASH #v.#pistar, mixter#
 MASK #n.#masca (-ar)#
 MASK #v.#camuflar#
-MASON #n.#murero, murator; (Freemason) francmasson (-eríe)#XXX TODO -- Freemason/freemason
+MASON #n.#murero, murator; (Freemason) francmasson (-eríe)
 MASONRY #n.#mureríe; massoneríe; (fallen) murallia#
 MASQUERADE #n.#mascarade#
 MASS #n.#masse; (eccl.) messe#
@@ -10189,7 +10190,7 @@ ONCE #adv.#un vez; (formerly) antey#
 ONCE AGAIN #adv.#ancor un vez#
 ONCE IN A WAY #adv.#ne tro sovente, ye vezes, de témpor a témpore#
 ONCE UPON A TIME #adv.#unquande#
-ONE #adj.#un#
+ONE #adj., n.#un#
 ONE #pron.#on#
 ONE ANOTHER #pron.#unaltru#
 ONE BY ONES #adv.#un pos li altri#
@@ -11353,7 +11354,7 @@ POTASH #n.#potasse#
 POTASSIUM #n.#kalium#
 POTATION #n.#tisane#
 POTATO #n.#potate, terr-pom#
-POTENT ##potent (-ie, -ial, -iale)#XXX FIXME n./adj.
+POTENT #adj.#potent (-ie, -ial, -iale)#
 POTENTATE #n.#potentate; soverano#
 POTENTILLA #n.#potentilla#
 POTION #n.#tisane, trincament, trincage#
@@ -11665,7 +11666,7 @@ PROPRIETOR #n.#proprietario#
 PROPRIETY #n.#convenentie#
 PROPULSION #n.#propulsion#
 PROROGUE #v.#ajornar, prorogar (-ation)#
-PROS AND CONS ##por e contra#XXX FIXME n.pl.
+PROS AND CONS #n.pl.#por e contra#XXX FIXME -- translation
 PROSAIC #adj.#prosaic#
 PROSCRIBE #v.#proscrir (-it, -ition), interdicter, bannir#
 PROSE #n.#prosa#
@@ -11886,7 +11887,7 @@ QUADRILATERAL #adj.#quadrilateral#
 QUADRILLE #n.#quadrille#
 QUADRILLION #n.#quadrillion#
 QUADROON #n.#quadrone#
-QUADRUMANA ##quadrimanes#XXX TODO
+QUADRUMANA #n.pl.#quadrimanes#
 QUADRUPED #adj.#quadriped#
 QUADRUPLE #adj.#quadriplic (-ar)#
 QUAGGA #n.#quagga#
@@ -15023,8 +15024,8 @@ THEOSOPHY #n.#teosofie (-ic)#
 THERAPEUTIC #adj.#terapeutic (-a)#
 THERAPY #n.#terapie#
 THERE #adv.#ta#
-THERE ARE ##vi, hay#XXX TODO --
-THERE IS ##vi, hay#XXX TODO --
+THERE ARE #v.#vi, hay#
+THERE IS #v.#vi, hay#
 THERE'S A RING AT THE DOOR #expr.#on sona#
 THEREABOUTS #adv.#circa tam mult; in li vicinitá#
 THEREBY #adv.#per to#
@@ -15546,7 +15547,7 @@ TWANG #n.#son vibratori; pronunciation nasal#
 TWANG #v.#pluccar#
 TWEEZERS #n.#pincette#
 TWELVE #adj., n.#decidu (-esim)#
-TWENTY #adj.#duanti#
+TWENTY #adj., n.#duanti#
 TWICE #adv.#duplic; du vezes#
 TWICE AS MANY #adv.#du vezes plu mult#
 TWIG #n.#ramette#

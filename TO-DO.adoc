@@ -150,6 +150,7 @@
   "COUNTER"?
 - Confirm translation of adverb "VICE VERSA": "vice versa" is also
   used in Cosmoglotta. Add "VICE VERSA|adv.|inversmen, inversimen|".
+- Confirm "vi" as translation of "THERE IS/ARE" -- word-type is "v.".
 
 == Notes about the contents
 
