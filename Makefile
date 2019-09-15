@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201909151417
+# Last modified 201909151421
 # See change log at the end of the file
 
 # ==============================================================
@@ -102,15 +102,15 @@ xml: target/$(book_basename).adoc.xml
 # ==============================================================
 # Convert the original data to Asciidoctor
 
-.SECONDARY: tmp/$(book_basename).tsv.adoc
+.SECONDARY: tmp/$(book_basename).txt.adoc
 
-tmp/%.tsv.adoc: src/%.tsv
+tmp/%.txt.adoc: src/%.txt
 	sed -e "s/^\(.\+\) *#\(.\+\)\?#\(.\+\)#.*/- .\1 (\2): \3/"  $< > $@
 	vim -S make/add_letter_headings.vim $@
 
 target/$(book_basename).adoc: \
 	src/header.adoc \
-	tmp/${book_basename}.tsv.adoc
+	tmp/${book_basename}.txt.adoc
 	cat $^ > $@
 
 # ==============================================================
@@ -215,7 +215,7 @@ tmp/%.adoc.xml.txt: tmp/%.adoc.xml
 .SECONDARY: tmp/$(dict_basename).$(dict_data_format)
 
 tmp/$(dict_basename).$(dict_data_format): \
-	src/$(book_basename).tsv \
+	src/$(book_basename).txt \
 	tmp/dict_header.adoc.xml.txt
 	cat tmp/dict_header.adoc.xml.txt > $@
 	sed -e "s/^\(.\+\) *#\(.\+\)#\(.\+\)#/:\1:(\2): \3/" \
@@ -283,4 +283,5 @@ uninstall:
 # trailing space.
 #
 # 2019-09-15: Fix the sed expression that converts the original text data file
-# to dictfmt's input format. The bug was introduced on 2019-08-24.
+# to dictfmt's input format. The bug was introduced on 2019-08-24. Update the
+# filename extension of the data file, from TSV to TXT.
