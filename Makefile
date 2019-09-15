@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201908241423
+# Last modified 201909151417
 # See change log at the end of the file
 
 # ==============================================================
@@ -218,7 +218,7 @@ tmp/$(dict_basename).$(dict_data_format): \
 	src/$(book_basename).tsv \
 	tmp/dict_header.adoc.xml.txt
 	cat tmp/dict_header.adoc.xml.txt > $@
-	sed -e "s/^\(.\+\) *#\(.\+\)@\(.\+\)#/:\1:(\2): \3/" \
+	sed -e "s/^\(.\+\) *#\(.\+\)#\(.\+\)#/:\1:(\2): \3/" \
 		$< >> $@
 
 # ==============================================================
@@ -281,3 +281,6 @@ uninstall:
 #
 # 2019-08-24: Update: field separator "|" now is "#", and the first field has a
 # trailing space.
+#
+# 2019-09-15: Fix the sed expression that converts the original text data file
+# to dictfmt's input format. The bug was introduced on 2019-08-24.
