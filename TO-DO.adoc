@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-24
+:revdate: 2019-09-19
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -68,6 +68,8 @@
 - Fix/improve "BESIDE" and "BESIDES".
 - Add "CLIENTELE/CLIENTÈLE", "clientité, clientela".
 - Fix "junite" -> "junité".
+- Fix: "questionar" is missing in "QUESTION (v.)", but mentioned as a
+  derivate in "QUESTION (n.)".
 
 == Doubts
 
