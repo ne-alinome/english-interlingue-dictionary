@@ -2891,7 +2891,8 @@ COMPLAISENT #adj.#complesent (-ie), gentil#
 COMPLEMENT #n.#complement (-ari), suplement#
 COMPLETE #adj.#complet#
 COMPLETE #v.#compleer, completar, finir, perfectionar#
-COMPLEX #adj.#complex (-itá), complicat; (noion) complexe#XXX FIXME -- "noion"
+COMPLEX #adj.#complex (-itá), complicat; (notion) complexe#
+COMPLEX #n.#(notion) complexe#
 COMPLEXION #n.#facie-color, carnation#
 COMPLICATE #v.#complicar (-ation)#
 COMPLICITY #n.#complicitá, complicie#
