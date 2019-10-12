@@ -14462,7 +14462,7 @@ SUFFER JUDGMENT BY DEFAULT #v.#perdir ye li processu pro absentie#
 SUFFER WANT #v.#indiger#
 SUFFERER #n.#suffrente, victime, patiente#
 SUFFERING #adj.#suffrent (-ie)#
-SUFFICE #v.#suficer (-ant, -entie)#
+SUFFICE #v.#suficer (-ent, -entie)#
 SUFFIX #n.#sufixe (-al)#
 SUFFOCATE #v.#sufocar (-ation)#
 SUFFRAGAN #n.#suffragan#
