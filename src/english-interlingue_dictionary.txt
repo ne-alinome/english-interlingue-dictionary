@@ -8751,8 +8751,8 @@ LOTH #adj.#avers, desinclinat#
 LOTION #n.#lotion#
 LOTTERY #n.#loteríe#
 LOTUS #n.#lotus#
-LOUD #adj.#sonori, bruiosi, vocosi, fort#
-LOUD-SPEAKER #n.#altparlator#
+LOUD #adj.#sonori, bruosi, vocosi, fort#
+LOUD-SPEAKER #n.#alt-parlator#
 LOUGH #n.#golfe; lago#
 LOUNGE #n.#salon; sofa#
 LOUNGE #v.#flanar; reposar#

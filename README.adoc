@@ -1,6 +1,6 @@
 = English-Interlingue Dictionary
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-09
+:revdate: 2019-10-27
 :toc:
 :toc-levels: 2
 :toc-title: Contents/Contenete/Enhavo
@@ -82,7 +82,7 @@ Loc web:: http://ne.alinome.net[ne.alinome.net]
 
 === Qualmen constructer li dictionarium
 
-Si vu ne posse atender li liberation de li sequente version, vu self
+Si vu ne posse atender li liberation de li sequent version, vu self
 posse constructer li dictionarium-documentes.
 
 In prim, ples confirmar que li programes listat in li section
