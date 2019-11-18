@@ -11741,7 +11741,7 @@ PTARMIGAN #n.#lagopede#
 PTERODACTYL #n.#pterodactil#
 PUBERTY #n.#pubertá#
 PUBESCENT #adj.#pubescent (-ie)#
-PUBLIC #adj.#public (-ation, -itá, -ist#
+PUBLIC #adj.#public (-ation, -itá, -ist)#
 PUBLIC #n.#publica#
 PUBLIC HOUSE #n.#taverne, gastería#
 PUBLIC PROSECUTOR #n.#procurator#
