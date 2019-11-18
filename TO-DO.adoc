@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-10-12
+:revdate: 2019-10-28
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -8,6 +8,7 @@
 //
 // By Marcos Cruz (programandala.net)
 
+// Fixes and improvements {{{1
 == Fixes and improvements
 
 - Fix spacing of elipsis.
@@ -70,7 +71,9 @@
 - Fix "junite" -> "junité".
 - Fix: "questionar" is missing in "QUESTION (v.)", but mentioned as a
   derivate in "QUESTION (n.)".
+- Fix: "raconta" -> "raconte".
 
+// Doubts {{{1
 == Doubts
 
 - Confirm entry "fro, to and". 
@@ -154,6 +157,7 @@
   used in Cosmoglotta. Add "VICE VERSA|adv.|inversmen, inversimen|".
 - Confirm "vi" as translation of "THERE IS/ARE" -- word-type is "v.".
 
+// Notes about the contents {{{1
 == Notes about the contents
 
 - Check: "different" is missing.
@@ -176,7 +180,9 @@
 - In "REFRACTORY (n.) infusibile" is missing meaning "A refractory
   person".
 
-== Words missing
+// Missing words {{{1
+== Missing words
 
 - "ME".
 - "CLASSROOM": "aula", used only once in Cosmoglotta.
+- "JAPAN": substantive.
