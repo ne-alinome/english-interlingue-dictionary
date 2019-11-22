@@ -1039,7 +1039,7 @@ BANGLE #n.#brasselette#
 BANISH #v.#bannir (-iment), proscrir, exiliar; (sorrow) forchassar#
 BANISTER #n.#balustre (-ade)#
 BANJO #n.#banjó#
-BANK #fin.#bank (-ero); (embankment) diga; (of earth) altage; (of river) rive; (slope) declive, scarpette#
+BANK #n.#(fin.) bank (-ero); (embankment) diga; (of earth) altage; (of river) rive; (slope) declive, scarpette#
 BANK #v.#deposir in li bank, inbankar#
 BANKNOTE #n.#bank-billet#
 BANKRUPT #adj.#bancrott#
@@ -6345,7 +6345,7 @@ GRATIS #adj.#gratuit, sin custa#
 GRATITUDE #n.#gratitá#
 GRATUITOUS #adj.#gratuit, sin cause#
 GRATUITY #n.#gratiment; trinca-moné, bakshish#
-GRAVE #adj.#grav (-itá), seriosi digni (mus.) bass, lent#
+GRAVE #adj.#grav (-itá), seriosi, digni; (mus.) bass, lent#
 GRAVE #n.#tombe#
 GRAVEL #n.#gravie; (med.) gravelle#
 GRAVELPIT #n.#graviera#
@@ -15789,7 +15789,7 @@ VAGABOND #n.#vagabunde#
 VAGARY #n.#capricie#
 VAGINA #n.#vagine#
 VAGRANCY #n.#vagabunderíe, vagantie#
-VAGUE #adj.#vag, inprecis#
+VAGUE #adj.#vag, ínprecis#
 VAIN #adj.#van, futil; (conceited) orgolliosi, vanitosi#
 VAINGLORY #n.#vaniglorie (-osi)#
 VALEDICTORY #adj.#de adío#
