@@ -8349,7 +8349,7 @@ LAX #adj.#lax (-itá)#
 LAXATIVE #adj.#laxativ#
 LAXATIVE #n.#laxative#
 LAY #adj.#laic (-o)#
-LAY #v.#posir, metter. jacentar; (eggs) posir, ovar; (ghost) exorcisar; (tablecloth) covrir li table; (wager) pariar; (lay dust) abatter#
+LAY #v.#posir, metter, jacentar; (eggs) posir, ovar; (ghost) exorcisar; (tablecloth) covrir li table; (wager) pariar; (lay dust) abatter#
 LAY DOWN #v.#statuer, prescrir, definir, decreter#
 LAY IN #v.#(store) aprovisionar#
 LAY ON #v.#aplicar; (strike) batter#
@@ -14839,7 +14839,7 @@ TAXIMETER #n.#taxametre, contator#
 TEA #n.#té; té-repaste; té-plante#
 TEA-CADDY #n.#té-buxe#
 TEA-URN #n.#té-urne#
-TEACH #v.#docer (-ente), instructor (-or, -ion)#
+TEACH #v.#docer (-ente), instructer (-or, -ion)#
 TEAK #n.#tec#
 TEAM #n.#(sport) truppe; (horses) atelage; (of workers) equip#
 TEAPOT #n.#teiere, té-cruche#
