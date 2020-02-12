@@ -4446,7 +4446,7 @@ DRINK TO #v.#tostar#
 DRIP #v.#guttear#
 DRIPPING #n.#rost-grasse, grasse culinari#
 DRIVE #n.#promenada, excursion; (road) calech-via, allé#
-DRIVE #v.a.#conductor, far functionar, far avansar, far ear, propulser, promoer; (a horse) ducter; (a machine) mo(v)er, operar, vehicular, choferar; (compel) fortiar#
+DRIVE #v.a.#conducter, far functionar, far avansar, far ear, propulser, promoer; (a horse) ducter; (a machine) mo(v)er, operar, vehicular, choferar; (compel) fortiar#
 DRIVE TO DISTRACTION #v.#far frenetic#
 DRIVEL #v.#radotar, parlar ínepties; (slaver) bavar#
 DRIVER #n.#cochero, chofero, conductor#

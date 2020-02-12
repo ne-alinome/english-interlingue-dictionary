@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-12-29
+:revdate: 2020-02-11
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -27,7 +27,7 @@
 - Fix "TO LOOK UP TO", which was at the end of "LOOK" without
   translation.
 - Remove asterisks.
-- Improve notation of "OFF"
+- Improve notation of "OFF".
 - Duplicate example expressions as entries. The original does it, e.g.
   "CHEST OF DRAWERS" is an entry, but also part of of "DRAWER". Also
   "INLAID FLOOR".  Candidates: "WHITE OF EGG", "ERE LONG"... 
@@ -157,6 +157,7 @@
   used in Cosmoglotta. Add "VICE VERSA|adv.|inversmen, inversimen|".
 - Confirm "vi" as translation of "THERE IS/ARE" -- word-type is "v.".
 - Confirm difference: "RED TAPE" and "RED-TAPE".
+- Confirm «parol pro parol» or «parol por parol».
 
 // Notes about the contents {{{1
 == Notes about the contents
@@ -187,3 +188,6 @@
 - "ME".
 - "CLASSROOM": "aula", used only once in Cosmoglotta.
 - "JAPAN": substantive.
+- "CONFIGURATE (v.)".
+- "EXIT (v.)".
+- "WANT (v.) ... voler".
