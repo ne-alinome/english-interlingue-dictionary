@@ -9367,7 +9367,7 @@ MINISTER #v.#servir; contribuer#
 MINISTRATION #n.#servicie#
 MINISTRY #n.#ministerie (-al); (eccl.) clero, pastoratu, sacerdotie#
 MINOR #adj.#minori (-itá, -ité), inferiori#
-MINOR #n.#minorenn#
+MINOR #n.#minore#
 MINSTER #n.#catedrale#
 MINSTREL #n.#menestrel (-ie)#
 MINT #n.#(bot.) minte; (coin-factory) monetaría#
