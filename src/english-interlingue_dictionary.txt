@@ -5076,7 +5076,7 @@ EXHAUST #n.#(mech.) escapament#
 EXHAUST #v.#exhauster (-ion, -iv); (empty) vacuar#
 EXHIBIT #v.#exhibir (-tion), exposir, monstrar#
 EXHILARATE #v.#alegrar, invigorar#
-EXHORT #v.#exhortar (-ation) monir#
+EXHORT #v.#exhortar (-ation), monir#
 EXHUME #v.#exhumar (-ation)#
 EXIGENCY #n.#exigentie, beson, urgentie#
 EXIGUOUS #adj.#scarsi; litt#
