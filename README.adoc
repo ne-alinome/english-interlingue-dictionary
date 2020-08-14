@@ -1,6 +1,6 @@
 = English-Interlingue Dictionary
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-10-27
+:revdate: 2020-04-06
 :toc:
 :toc-levels: 2
 :toc-title: Contents/Contenete/Enhavo
@@ -39,19 +39,19 @@ follows:
 |===
 | Command             | Effect
 
-| make                | Build most formats and variants
-| make all            | Build most formats and variants
-| make adoc           | Build the Asciidoctor format
+| make                | Build all documents
+| make adoc           | Build the Asciidoctor document
+| make dbk            | Build the DocBook document
 | make dict           | Build the DICT format
-| make epub           | Build the EPUB format (most variants)
-| make epubd          | Build the EPUB format with dbtoepub
-| make epubp          | Build the EPUB format with pandoc
-| make epubx          | Build the EPUB format with xsltproc
-| make odt            | Build the OpenDocument format
-| make pdf            | Build the PDF format (both sizes)
-| make pdfa4          | Build the DIN A4 size PDF format
-| make pdfl           | Build the letter size PDF format
-| make xml            | Build the DocBook format
+| make epub           | Build the EPUB documents
+| make epuba          | Build an EPUB document with Asciidoctor EPUB3
+| make epubd          | Build an EPUB document with dbtoepub
+| make epubp          | Build an EPUB document with pandoc
+| make epubx          | Build an EPUB document with xsltproc
+| make odt            | Build an OpenDocument document 
+| make pdf            | Build the PDF documents (both sizes)
+| make pdfa4          | Build a PDF document (DIN A4 size)
+| make pdfl           | Build a PDF document (letter size)
 | sudo make install   | Install the DICT files
 | sudo make uninstall | Uninstall the DICT files
 |===
@@ -95,19 +95,19 @@ ti exemples:
 |===
 | Comande             | Efecte
 
-| make                | Constructer max mult formates e variantes
-| make all            | Constructer max mult formates e variantes
-| make adoc           | Constructer li formate Asciidoctor
-| make dict           | Constructer li formate DICT
-| make epub           | Constructer li formate EPUB (max mult variantes)
-| make epub1d         | Constructer li formate EPUB per dbtoepub
-| make epub1p         | Constructer li formate EPUB per pandoc
-| make epub1x         | Constructer li formate EPUB per xsltproc
-| make odt            | Constructer li formate OpenDocument
-| make pdf            | Constructer li formate PDF (ambi grandores)
-| make pdfa4          | Constructer li formate PDF ye grandore DIN A4
-| make pdfl           | Constructer li formate PDF ye grandore "letter"
-| make xml            | Constructer li formate DocBook
+| make                | Constructer omni documentes
+| make adoc           | Constructer li document Asciidoctor
+| make dbk            | Constructer li document DocBook
+| make dict           | Constructer li document DICT
+| make epub           | Constructer li document EPUB (omni variantes)
+| make epuba          | Constructer li document EPUB per Asciidoctor EPUB3
+| make epubd          | Constructer li document EPUB per dbtoepub
+| make epubp          | Constructer li document EPUB per pandoc
+| make epubx          | Constructer li document EPUB per xsltproc
+| make odt            | Constructer li document OpenDocument
+| make pdf            | Constructer li document PDF (ambi grandores)
+| make pdfa4          | Constructer li document PDF (grandore DIN A4)
+| make pdfl           | Constructer li document PDF (grandore "letter")
 | sudo make install   | Instalar li documentes DICT
 | sudo make uninstall | Desinstalar li documentes DICT
 |===
@@ -151,17 +151,17 @@ jene:
 |===
 | Ordono              | Efiko
 
-| make                | Konstrui plej multajn formatojn kaj variantojn
-| make all            | Konstrui plej multajn formatojn kaj variantojn
-| make dict           | Konstrui la formaton DICT
-| make epub           | Konstrui la formaton EPUB (plej multajn variantojn)
-| make epubd          | Konstrui la formaton EPUB per dbtoepub
-| make epubp          | Konstrui la formaton EPUB per pandoc
-| make epubx          | Konstrui la formaton EPUB per xsltproc
-| make pdf            | Konstrui la formaton PDF (ambaŭ grandojn)
-| make pdfa4          | Konstrui la formaton PDF je grando DIN A4
-| make pdfl           | Konstrui la formaton PDF je grando "letter"
-| make xml            | Konstrui la formaton DocBook
+| make                | Konstrui ĉiujn dokumentojn
+| make dict           | Konstrui la dokumenton DICT
+| make dbk            | Konstrui la dokumenton DocBook
+| make epub           | Konstrui la dokumenton EPUB (ĉiujn variantojn)
+| make epuba          | Konstrui la dokumenton EPUB per Asciidoctor EPUB3
+| make epubd          | Konstrui la dokumenton EPUB per dbtoepub
+| make epubp          | Konstrui la dokumenton EPUB per pandoc
+| make epubx          | Konstrui la dokumenton EPUB per xsltproc
+| make pdf            | Konstrui la dokumenton PDF (ambaŭ grandojn)
+| make pdfa4          | Konstrui la dokumenton PDF (grando DIN A4)
+| make pdfl           | Konstrui la dokumenton PDF (grando "letter")
 | sudo make install   | Instali la DICT-dosierojn
 | sudo make uninstall | Malinstali the DICT-dosierojn
 |===

@@ -2,6 +2,12 @@
 :authors: Charles Kemp, F.R. Pope
 include::../src/VERSION.adoc[]
 :description: English-Interlingue Dictionary
+ifdef::backend-epub3[]
+:doctype: book
+:toc: auto
+:toclevels: 2
+:toc-title: Contents
+endif::[]
 ifdef::backend-pdf[]
 :doctype: book
 :toc: auto
@@ -13,7 +19,7 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 201903260117
+// Last modified 202004060103
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
@@ -22,13 +28,23 @@ ifeval::["{format}"=="DICT"]
 :headwords:
 endif::[]
 
+:headwordsnote: For the same reason, in the e-book formats, \
+a dot is automatically added \
+at the start of the headwords.
+
 ifeval::["{format}"=="e-book"]
 :in_other_formats: in DICT, EPUB, PDF and other formats
 :this: this book
 :http:
-:headwords: For the same reason, in the e-book formats, \
-a dot is automatically added \
-at the start of the headwords.
+:headwords: {headwordsnote}
+endif::[]
+
+ifdef::backend-epub3[]
+:format: EPUB3
+:in_other_formats: also in DICT, PDF and other formats
+:this: this book
+:http:
+:headwords: {headwordsnote}
 endif::[]
 
 ifdef::backend-pdf[]
@@ -36,9 +52,7 @@ ifdef::backend-pdf[]
 :in_other_formats: also in DICT, EPUB and other formats
 :this: this book
 :http:
-:headwords: For the same reason, in the e-book formats, \
-a dot is automatically added \
-at the start of the headwords.
+:headwords: {headwordsnote}
 endif::[]
 
 == About {this}
@@ -55,7 +69,7 @@ Transcription of the original contents:: François Comparot et al., c.
 http://interlingue.narod.ru/[{http}interlingue.narod.ru] and
 http://ie-munde.com[{http}ie-munde.com].
 
-Revision and {format} edition:: Marcos Cruz, 2019.  Available in
+Revision and {format} edition:: Marcos Cruz, 2019, 2020.  Available in
 http://ne.alinome.net[{http}ne.alinome.net] {in_other_formats}.
 
 Main changes in this edition::
@@ -75,13 +89,14 @@ list in the project repository] for details.
 
 Edition made only by libre programs:: 
 http://asciidoctor.org[Asciidoctor],
-https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
-dbtoepub,
+https://github.com/asciidoctor/asciidoctor-epub3[Asciidoctor EPUB3],
+https://github.com/asciidoctor/asciidoctor-pdf[Asciidoctor PDF],
+http://docbook.sourceforge.net/release/xsl/current/epub/README[dbtoepub],
 http://debian.org[Debian],
-dictfmt,
+http://www.dict.org[dictfmt],
 http://git-scm.com/[Git],
 https://www.gnu.org/software/make/[GNU make],
-http://pandoc.org[pandoc],
+http://pandoc.org[Pandoc],
 http://http://jonas.nitro.dk/tig[Tig],
 http://vim.org[Vim],
 http://xmlsoft.org/XSLT/[xsltproc]...

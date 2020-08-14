@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-02-11
+:revdate: 2020-05-14
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -158,6 +158,7 @@
 - Confirm "vi" as translation of "THERE IS/ARE" -- word-type is "v.".
 - Confirm difference: "RED TAPE" and "RED-TAPE".
 - Confirm «parol pro parol» or «parol por parol».
+- Confirm «star» in «STAR GAZER #n.#astrologo; (stage etc.) star#».
 
 // Notes about the contents {{{1
 == Notes about the contents
