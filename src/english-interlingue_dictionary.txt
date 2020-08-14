@@ -1501,7 +1501,7 @@ BLANCH #v.#paller; (tr.) pallidar#
 BLANCMANGE #n.#lacte-gelé, blamange#
 BLAND #adj.#suavi, mild#
 BLANDISHMENT #n.#flattada#
-BLANK #adj.#blanc, nud, nett; (paper) blanc, inusat#
+BLANK #adj.#blanc, nud, nett; (paper) blanc, ínusat#
 BLANK CARTRIDGE #n.#cartuche ciec#
 BLANK VERSE #n.#verse sin rimes#
 BLANKET #n.#lett-covritura, lanin covriment (de lette)#
@@ -4437,8 +4437,8 @@ DRESSING-TABLE #n.#toilette-table#
 DRESSMAKER #v.#tallier(ess)a#
 DRIBBLE #v.#guttear; (as child) bavar; (football) dribblar#
 DRIED CURRANT #n.#corinte#
-DRIFT #n.#tendentie, impulse, scope; (snowdrift) nive-banca#
-DRIFT #v.#(naut.) drive (-ar), flottar con li currente; (wander) vagar#
+DRIFT #n.#tendentie, impulse, scope; (naut.) drive (-ar); (snowdrift) nive-banca#
+DRIFT #v.#(naut.) drivar, flottar con li currente; (wander) vagar#
 DRILL #n.#exercida; (tool) drill; (hort.) sulca#
 DRILL #v.#(per)forar, drillar; (mil.) dresser, exercir (-ida, -itie)#
 DRINK #v.#trincar (-age)#
@@ -7077,7 +7077,8 @@ HUSBAND #v.#economisar#
 HUSBANDRY #n.#agricultura, cultivation#
 HUSH #n.#calmesse, silentie#
 HUSH #v.#far tacer, quietar#
-HUSH UP #v.#ocultar; celar; (interj.) sst!#
+HUSH UP #interj.# sst!#
+HUSH UP #v.#ocultar; celar#
 HUSK #n.#invelope, cortice, shell#
 HUSKY #adj.#rauc, aspri#
 HUSSAR #v.#hussar#
@@ -7425,7 +7426,7 @@ INCONGRUOUS #adj.#íncongruent#
 INCONSEQUENT #adj.#ínconsequent#
 INCONSIDERABLE #adj.#ínconsiderabil, ínsignificant#
 INCONSIDERATE #adj.#ínindulgent#
-INCONSISTENT #adj.#íncompatibil, inconsequent#
+INCONSISTENT #adj.#íncompatibil, ínconsequent#
 INCONSOLABLE #adj.#ínconsolabil#
 INCONSPICUOUS #adj.#ínremarcabil, ínperceptibil#
 INCONSTANT #adj.#ínconstant (-ie)#
@@ -7465,7 +7466,7 @@ INDEED #adv.#vermen, ya, advere, in veritá, sin dúbite#
 INDEFATIGABLE #adj.#ínfatigabil#
 INDEFEASIBLE #adj.#ínalienabil#
 INDEFENSIBLE #adj.#índefensibil#
-INDEFINABLE #adj.#indefinibil#
+INDEFINABLE #adj.#índefinibil#
 INDEFINITE #adj.#índefinit, ínprecisi#
 INDELIBLE #adj.#ínefaciabil, índelebil#
 INDELICATE #adj.#índelicat, vulgari#
@@ -7668,7 +7669,7 @@ INSCRUTABLE #adj.#ínpenetrabil, ocult, ínsondabil#
 INSECT #n.#insecte (-ivori)#
 INSECURE #adj.#ínsecur, dangerosi, índangerant#
 INSENSATE #adj.#ínsensat, frenetic, folli#
-INSENSIBLE #adj.#(without feeling) ínsensibil; (imperceptible) insentibil; (unconscious) ínconscient#
+INSENSIBLE #adj.#(without feeling) ínsensibil; (imperceptible) ínsentibil; (unconscious) ínconscient#
 INSEPARABLE #adj.#ínseparabil#
 INSERT #v.#inserter (-ion), intercalar#
 INSET #n.#insertion, insertete#
@@ -7826,7 +7827,7 @@ INUTILITY #n.#ínutilitá#
 INVADE #v.#invaDer (-sion, -sor)#
 INVALID #adj.#ínvalid; malad, debil#
 INVALID #n.#ínvalide#
-INVALID #v.#ínvalidar, rendir invalid, anullar#
+INVALID #v.#ínvalidar, rendir ínvalid, anullar#
 INVARIABLE #adj.#constant, ínvariabil#
 INVASION #n.#invasion#
 INVECTIVE #n.#invective#
