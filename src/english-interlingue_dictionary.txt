@@ -14227,7 +14227,7 @@ STIGMA #n.#stigma (-tic, -tisar)#
 STILE #n.#passuore, pontette#
 STILETTO #n.#stilette#
 STILL #adj.#calm, quiet, seren, silent; ínmobil, tranquil#
-STILL #adv.#(however) támen#
+STILL #adv.#(however) támen; (yet) ancor#
 STILL #n.#distill-aparate, alambic#
 STILL #v.#calmar, quietar, contentar#
 STILL MORE #adv.#ancor plu#
