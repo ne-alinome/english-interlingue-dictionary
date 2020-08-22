@@ -11,7 +11,6 @@
 // Fixes and improvements {{{1
 == Fixes and improvements
 
-- Fix spacing of elipsis.
 - Fix colon/semicolon after English uppercase expressions.
 - Use always "v." etc to mark the word type. Now the notation is not
   regular.
@@ -68,7 +67,6 @@
 - "THIS WAY|adv.|a ci|" is incomplete: it can mean also "by this method".
 - Fix/improve "BESIDE" and "BESIDES".
 - Add "CLIENTELE/CLIENTÈLE", "clientité, clientela".
-- Fix "junite" -> "junité".
 - Fix: "questionar" is missing in "QUESTION (v.)", but mentioned as a
   derivate in "QUESTION (n.)".
 - Fix: "raconta" -> "raconte".
@@ -182,6 +180,7 @@
   CARE".
 - In "REFRACTORY (n.) infusibile" is missing meaning "A refractory
   person".
+- Why "si" in `HAVE A MIND TO #v.#inclinar, it vell pleser … si#`?
 
 // Missing words {{{1
 == Missing words

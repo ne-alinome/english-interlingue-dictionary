@@ -1674,7 +1674,7 @@ BOTANIC #adj.#botanic (-o)#
 BOTANY #n.#botanica (-al)#
 BOTCH #v.#bosillar (-atura, -age)#
 BOTH #adj.#ambi#
-BOTH ... AND ... #conj.#é ... é ...#
+BOTH … AND … #conj.#é … é …#
 BOTHER #v.#vexar, íncomodar, trublar, tedar#
 BOTHER ABOUT #v.#suciar#
 BOTTLE #n.#botelle#
@@ -1996,7 +1996,7 @@ BY NO MEANS #adv.#nequalmen#
 BY RETURN OF POST #adv.#per retroposta#
 BY ROTE #adv.#per memorie#
 BY STEALTH #adv.#furtivmen, insidiosimen#
-BY THAT HE MEANS #expr.#il vole dir per to que...#
+BY THAT HE MEANS #expr.#il vole dir per to que…#
 BY THE TIME WE ARRIVE #expr.#til quande noi va arivar#
 BY THE WAY #adv.#apropó, passante#
 BY TURNS #adv.#secun torne#
@@ -4638,7 +4638,7 @@ EIGHTEEN #adj., n.#deci-ott#
 EIGHTH #adj., n.#ottesim#
 EIGHTY #adj.#ottanti#
 EITHER #adj., pron.#alcun; (each) chascun; (both) ambi#
-EITHER ... OR ... #conj.#sive ... sive ..., o ... o ...#
+EITHER … OR … #conj.#sive … sive …, o … o …#
 EJACULATE #v.#exclamar, ejacular#
 EJECT #v.#ejecter (-ion, -or), expulser#
 EKE OUT #v.#prolongar, supleer#
@@ -5039,7 +5039,7 @@ EXCAVATE #v.#excavar (-ation, -ator), exfossar, subminar#
 EXCEED #v.#exceder (-ent), transpassar,superar, superpassar#
 EXCEEDINGLY #adv.#excessivmen, extremmen#
 EXCEL #v.#exceller (-ent, -entie), eminer#
-EXCEPT #conj.#except que, si ... ne#
+EXCEPT #conj.#except que, si … ne#
 EXCEPT #prep.#except#
 EXCEPT #v.#excepter (-ion, -ional)#
 EXCERPT #n.#excerpte (-er), resumé#
@@ -6663,7 +6663,7 @@ HAUNT #n.#refugia, loc frequentat#
 HAUNT #v.#obseDer; frequentar, persecuter#
 HAUTBOY #n.#hobóe#
 HAVE #v.#haver, posseDer; (auxiliary) har#
-HAVE A MIND TO #v.#inclinar, it vell pleser...si#
+HAVE A MIND TO #v.#inclinar, it vell pleser … si#
 HAVE AN INTUITION #v.#intuiter#
 HAVE TO #v.#dever#
 HAVE YOU ANY MATCHES? #expr.#esque vu have inflammettes?#
@@ -6783,7 +6783,7 @@ HEMP #n.#cánabe#
 HEN #n.#gallina (-iere)#
 HENBANE #n.#hiosciame#
 HENCE #adv.#for, de ci#
-HENCE #conj.#(therefore) ergo, dunc, de to...#
+HENCE #conj.#(therefore) ergo, dunc, de to#
 HENCEFORTH #adv.#desde nu#
 HENCHMAN #n.#servero#
 HEPATIC #adj.#hepatic#
@@ -7116,7 +7116,7 @@ I AM SORRY THAT #expr.#it dole me que, yo regreta que#
 I AM WARM #expr.#yo cale#
 I DON'T CARE #expr.#to ne importa me, to es me índiferent#
 I FEEL IT INCUMBENT ON ME #expr.#yo egarda it quam mi deve, yo senti que it es me obligatori#
-I LEARN THAT ... #expr.#on di me que...#
+I LEARN THAT … #expr.#on di me que …#
 I MAY DO IT #expr.#yo fórsan va far to#
 I MIGHT HAVE DONE SO #expr.#yo vell har posset far to, yo fórsan vell har fat it#
 I TAKE THE LIBERTY #expr.#yo permisse me#
@@ -7912,16 +7912,16 @@ ISSUE #n.#(number of periodical) numeró; (offspring) descendentes; (outcome) re
 ISSUE #v.#(books) editer (-ion); publicar, distribuer, emisser; (come out) provenir#
 ISTHMUS #n.#istme#
 IT #pron.#it#
-IT IS A MATTER OF... #expr.#it acte se pri...#
+IT IS A MATTER OF … #expr.#it acte se pri …#
 IT IS A PITY #expr.#it es damage#
 IT IS A WEEK SINCE I SAW HER #expr.#ja de un semane yo plu ne ha videt la#
 IT IS DUSTY #expr.#it polvea#
 IT IS RUMOURED #expr.#on di que#
 IT IS USELESS TO #expr.#it es van pena#
-IT PAINS ME TO HAVE TO... #expr.#it dole me dever...#
+IT PAINS ME TO HAVE TO … #expr.#it dole me dever …#
 IT REDOUNDS TO HIS CREDIT #expr.#to honora le#
 IT SERVES HIM RIGHT #expr.#it eveni le quo il merite, to es quo il merite#
-IT STRUCK HIM THAT... #expr.#venit le in mente que...#
+IT STRUCK HIM THAT … #expr.#venit le in mente que …#
 IT WILL AVAIL NOTHING #expr.#it va esser inutil#
 IT'S ALL ONE #expr.#it es egal, índiferent#
 IT'S ALL THE SAME TO ME #expr.#it es me egal#
@@ -8457,8 +8457,8 @@ LESSEE #n.#locatario, luator#
 LESSEN #v.#diminuer (se)#
 LESSER #adj.#inferiori#
 LESSON #n.#lecion; (eccl.) letion#
-LEST #conj.#pro timore que; por que ... ne#
-LET #v.#(allow) lassar, permisser; (let alone) lassar; a tacer pri; (lease) forluar; (optative) lass...; (subjunctive) mey#
+LEST #conj.#pro timore que; por que … ne#
+LET #v.#(allow) lassar, permisser; (let alone) lassar; a tacer pri; (lease) forluar; (optative) lass …; (subjunctive) mey#
 LET ALONE #prep.#a tacer pri#
 LET GO #v.#liberar, lassar ear; (naut.) filar#
 LET IT CAME #expr.#it mey venir#
@@ -9813,7 +9813,7 @@ NEIGHBOURHOOD #n.#vicinitá, vicinage#
 NEIGHBOURING #adj.#vicin, adjacent#
 NEIGHBOURLY #adj.#sociabil, de bon vicino#
 NEITHER #pron.#nequel, null; ni un ni li altri#
-NEITHER ... NOR ... #conj.#ni ... ni ...#
+NEITHER … NOR … #conj.#ni … ni …#
 NEMESIS #n.#némesis#
 NEOLITHIC #adj.#neolitic#
 NEOLOGISM #n.#neologisme#
@@ -9903,7 +9903,7 @@ NITROGEN #n.#nitre, azot#
 NO #adj.#(not any) null, nequel; (no quantity) nequant; (no sort of) nequal#
 NO #adv.#no; (before verbs) ne#
 NO EFFECT #v.#in van#
-NO SOONER HAD HE GONE WHEN... #expr.#il apen departet quande...#
+NO SOONER HAD HE GONE WHEN … #expr.#il apen departet quande …#
 NO THOROUGHFARE #adj.#íntraficabil#
 NOBLE #adj.#(character) nobli (-esse), magnific; (of rank) nobil (-o, -itá, -ité)#
 NOBODY #n.#nequí; (obj.) nequem#
@@ -10812,7 +10812,7 @@ PENWIPER #n.#essuya-plum#
 PEONY #n.#peonie#
 PEOPLE #n.#(nation) popul; (persons) homes, gente#
 PEOPLE #v.#popular#
-PEOPLE SAY THAT... #expr.#on di que...#
+PEOPLE SAY THAT … #expr.#on di que …#
 PEPPER #n.#pipre (-ar, -iere, -bux)#
 PEPPERMINT #n.#pipremint, minte piprin#
 PEPSIN #n.#pepsine#
@@ -11143,7 +11143,7 @@ PLEAD #v.#pledar; (offer as excuse) pretextar; suplicar#
 PLEAD GUILTY #v.#confesser su culpa#
 PLEASANT #adj.#agreabil, plesent, afabil#
 PLEASANTRY #n.#joca#
-PLEASE #v.#pleser (-ent, -ura); (kindly) ples...#
+PLEASE #v.#pleser (-ent, -ura); (kindly) ples …#
 PLEASED #adj.#content#
 PLEAT #n.#plica#
 PLEBEIAN #n.#plebeyo (-an)#
@@ -13805,7 +13805,7 @@ SOLVENT #n.#solutive#
 SOMBRE #adj.#tenebrosi; melancolic, sombri#
 SOME #adj.#alcun; (a few) quelc#
 SOME QUANTITY #n.#alquant#
-SOME SAY HE IS RICH, OTHERS... #expr.#li unes di que il es rich, li altres...#
+SOME SAY HE IS RICH, OTHERS … #expr.#li unes di que il es rich, li altres …#
 SOME SORT OF #adj.#alqual#XXX TODO -- adj./prep.
 SOME TIME #adv.#alquande#
 SOMEBODY #n.#alcun, alqui; (acc.) alquem#
@@ -15676,7 +15676,7 @@ UNITE #v.#unir (-ition)#
 UNITY #n.#unitá#
 UNIVERSE #n.#universe (-al, -alitá)#
 UNIVERSITY #n.#universitá#
-UNLESS #conj.#si...ne#XXX TODO -- Improve translation.
+UNLESS #conj.#si … ne#XXX TODO -- Improve translation.
 UNLOCKED FOR #adj.#ínexpectat, ínprevidet#XXX TODO -- Confirm usage (prep.?) and translation.
 UNLUCKY #adj.#ínfortunosi, ínfelici#
 UNMAN #v.#afeminar#
@@ -16276,7 +16276,7 @@ WHEREAT #adv.#che quo, poy, quande#
 WHEREFORE #adv., conj.#pro quo#
 WHET #v.#slifar; (appetite) stimular#
 WHETHER #conj.#ca#
-WHETHER ... OR ... #conj.#sive ... sive ...#
+WHETHER … OR … #conj.#sive … sive …#
 WHEY #n.#buttre-serum#
 WHICH #pron.#quel#
 WHICHEVER #adj., pron.#quelcunc#
