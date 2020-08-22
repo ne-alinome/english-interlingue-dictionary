@@ -6649,7 +6649,7 @@ HASTE #n.#hasta (-ar), rapiditá#
 HASTEN #v.#hastar; accelerar#
 HASTY #adj.#coleric, ínpatient; hastosi#
 HAT #n.#chapel (-ero)#
-HATCH OUT #v.#covar, inventer; (in drawing) *sgraffir#
+HATCH OUT #v.#covar, inventer; (in drawing) sgraffir#
 HATCHET #n.#hacca, hachette#
 HATCHWAY #n.#luca#
 HATE #n.#odie (-osi)#

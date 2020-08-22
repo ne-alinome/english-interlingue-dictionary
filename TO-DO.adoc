@@ -12,9 +12,6 @@
 == Fixes and improvements
 
 - Fix colon/semicolon after English uppercase expressions.
-- Use always "v." etc to mark the word type. Now the notation is not
-  regular.
-- Decide about notation "D" and "S", e.g. "leDer", "diagnoSe".
 - Homogenize the usage of commas and semicolons.
 - Fix "COME ON", which was at the end of "COME", without translation.
 - Separate "LIMB membre; tranche; LIMB (astr.) limbe" and similar
@@ -25,12 +22,10 @@
 - Fix: "punte" is mentioned in "SCORE", but not in "POINT".
 - Fix "TO LOOK UP TO", which was at the end of "LOOK" without
   translation.
-- Remove asterisks.
 - Improve notation of "OFF".
 - Duplicate example expressions as entries. The original does it, e.g.
   "CHEST OF DRAWERS" is an entry, but also part of of "DRAWER". Also
-  "INLAID FLOOR".  Candidates: "WHITE OF EGG", "ERE LONG"... 
-- Fix "amíco/s", "amíca/s".
+  "INLAID FLOOR".  Candidates: "WHITE OF EGG", "ERE LONG"...
 - Fix "-eria" -> "-ería".
 - Fix : In the original transcription "BOOKMARK" was at the end of
   "BOOK" without translation.
@@ -48,25 +43,21 @@
   "(aquisit)" is that of the English comments.
 - Fix: "GULLIBLE (adj.) (facil) dupabil".  The notation of "(facil)"
   is that of the English comments.
-- Separate usages: "ANOTHER (adj. pron.) altri, ancor un".
 - Fix: "ARRANT archi-"
 - In "GLIB (tro) fluent; suavi" "(tro)" is Interlingue, but uses the
   notation of English comments.
 - In "JINGLE (far) tintinar" "(far)" is Interlingue, but uses the
   notation of English comments.
-- Use notation "(expr.)" for sentences.
 - "POLICY (plan) plan de action; (politics) political; (insur.)
   police". "political" -> "politica".
 - "YODEL (sons) yodle (-ero, -ar)" -> songs
 - Fix: "STILL ancor" is missing. "ancor" is mentioned only in "YET".
 - Add adv. usages to "NEVERTHELESS" and "HOWEVER".
-- "YORE" is missing.
 - Fix: "PASS AWAY|v.|morir; evanescer|" -> "PASS AWAY|v.|morir|",
   "PASS OUT|v.|evanescer|"
 - Homogenize usage of "!" in all of the interjections.
 - "THIS WAY|adv.|a ci|" is incomplete: it can mean also "by this method".
 - Fix/improve "BESIDE" and "BESIDES".
-- Add "CLIENTELE/CLIENTÈLE", "clientité, clientela".
 - Fix: "questionar" is missing in "QUESTION (v.)", but mentioned as a
   derivate in "QUESTION (n.)".
 - Fix: "raconta" -> "raconte".
@@ -74,7 +65,7 @@
 // Doubts {{{1
 == Doubts
 
-- Confirm entry "fro, to and". 
+- Confirm entry "fro, to and".
 - Confirm "BEATITUD beatitá. BEATITUDES: \~".
 - Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
   consists of three parts: the duodenum, jejunum, and ileum.
@@ -167,15 +158,12 @@
 - "automatic/men" is missing.
 - Complete "COUNT" with nouns: "total number counted" and "the act of
   counting".
-- Add "ADVISED".
 - Complete "SAINT santo (-itá)".
 - "CLASSIC" is missing.
 - "SUPER-" is missing.
 - "COHERENT" is missing, only "COHERE".
 - "ANYWAY" is missing.
 - "gramofon" is missing, but "fonograf".
-- Add "ABEYANCE".
-- Add "AKIMBO".
 - Move/copy "TAKE CARE: atention!, garda vos!" from "TAKE" to "TAKE
   CARE".
 - In "REFRACTORY (n.) infusibile" is missing meaning "A refractory
@@ -192,3 +180,8 @@
 - "EXIT (v.)".
 - "WANT (v.) ... voler".
 - "SORRY" in the sense "pardon".
+- "AKIMBO" (used in "WITH ARMS AKIMBO").
+- "CLIENTELE/CLIENTÈLE", "clientité, clientela".
+- "ABEYANCE" (used in "IN ABEYANCE").
+- "ADVISED" (used in "ILL-ADVISED").
+- "YORE" (used in "OF YORE").
