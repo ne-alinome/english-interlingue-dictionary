@@ -569,7 +569,7 @@ ANY #adj., pron.#alquel, quelcunc; (any kind of) alqual, qualcunc. Often omitted
 ANYBODY #n.#(interr.) alcun, alquí, alquem; (no matter who(m)) quicunc, quemcunc#
 ANYHOW #adv.#alquam; (no matter how) quamcunc#
 ANYTHING #n.#(interr.) alquó; (no matter what) quocunc#
-ANYTHING BUT #prep.#omno quam# XXX FIXME -- omno except
+ANYTHING BUT #prep.#omno except#
 ANYWHERE #adv.#(interr.) alcú; (no matter where) ucunc#
 APACE #adv.#rapidmen, hastosimen#
 APART #adj.#apart, separat, isolat, desunit#
@@ -969,7 +969,7 @@ BACKSIDE #n.#cul#
 BACKSLIDE #v.#rebeller, apostasiar#
 BACKSLIDER #n.#apostatico#
 BACKSTAIRS #n.#detra-scaliere#
-BACKWARDS #adv.#retro-#
+BACKWARDS #adv.#a retro, retro-#
 BACKWARDS AND FORWARDS #adv.#a ci e ta#
 BACKWATER #n.#aqua barrat#
 BACON #n.#larde#
@@ -2291,7 +2291,7 @@ CAUSELESS #adj.#ínmotivat#
 CAUSEWAY #n.#chossé#
 CAUSTIC #adj.#caustic; satiric#
 CAUTERIZE #v.#cauterisar#
-CAUTION #n.#caution, prudentie; (warning#
+CAUTION #n.#caution, prudentie; warning#
 CAUTION #v.#advertir (-iment)#
 CAUTIOUS #adj.#caut, prudent, circumspect#
 CAVALCADE #n.#cavalcade#
@@ -11914,7 +11914,7 @@ QUARRY #n.#petriera; (hunting) preda#
 QUARRY #v.#minar, exeavar; fracter#
 QUARRYMAN #n.#petrero#
 QUART #n.#un quart gallon#
-QUARTER #one fourth) quart; (of year etc.#quartale, trimestre; (district) quartere, region; (mercy) indulgentie#
+QUARTER #(one fourth) quart; (of year etc.) quartale, trimestre; (district) quartere, region; (mercy) indulgentie#
 QUARTER #v.#divider in quartes; (troops) logiar, quarterar#
 QUARTERLY #adj.#trimensual#XXX TODO -- Add missing meanings.
 QUARTERLY #adv.#trimensualmen#
@@ -11936,7 +11936,7 @@ QUEENLY #adj.#reyal, soveran, de reyessa#
 QUEER #adj.#strangi, drolli, bizarri (-tá)#
 QUELL #v.#supresser, domitar, calmar#
 QUENCH #v.#extinter, dessetar#
-QUENCH ONE'S THIRST #v.#extinter su sete#
+QUENCH ONE'S THIRST #expr.#extinter su sete#
 QUERCITRON #n.#quercitron#
 QUERULOUS #adj.#plendaci#
 QUERY #n.#question, dúbite; signe de interrogation#
