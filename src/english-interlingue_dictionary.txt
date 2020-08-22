@@ -16402,7 +16402,10 @@ WIPE OUT #v.#exterminar, obliterar, anullar, efaciar#
 WIRE #n.#metall-fil, ferrofil; telegramma#
 WIRE #v.#ligar per ferrofil; telegrafar#
 WIRE-PULLING #n.#intrigas, manipulation#
-WIRELESS #n.#radio#XXX FIXME -- add adj., adv.
+WIRELESS #adj.#sin ferrofiles, sin metall-files, sin fil#
+WIRELESS #n.#(short for wireless telegraphy) telegrafie sin fil, radio; (short for wireless telephony) telefonie sin fil, radio#
+WIRELESS TELEGRAPHY#n.#telegrafie sin fil, radio#
+WIRELESS TELEPHONY#n.#telefonie sin fil, radio#
 WIRELESS SET #n.#radio-receptor#
 WIRY #adj.#filatri; (sinewy) tendonosi#
 WISDOM #n.#sagiesse, sapientie, prudentie#
