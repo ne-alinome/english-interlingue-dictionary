@@ -29,8 +29,7 @@ ifeval::["{format}"=="DICT"]
 endif::[]
 
 :headwordsnote: For the same reason, in the e-book formats, \
-a dot is automatically added \
-at the start of the headwords.
+the headwords are surrounded by dots.
 
 ifeval::["{format}"=="e-book"]
 :in_other_formats: in DICT, EPUB, PDF and other formats

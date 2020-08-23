@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202004060101
+# Last modified 202008230204
 # See change log at the end of the file
 
 # ==============================================================
@@ -107,7 +107,7 @@ dbk: target/$(book_basename).adoc.dbk
 .SECONDARY: tmp/$(book_basename).txt.adoc
 
 tmp/%.txt.adoc: src/%.txt
-	sed -e "s/^\(.\+\) *#\(.\+\)\?#\(.\+\)#.*/- .\1 (\2): \3/"  $< > $@
+	sed -e "s/^\(.\+\) \+#\(.\+\)\?#\(.\+\)#.*/- .\1. (\2): \3/"  $< > $@
 	vim -S make/add_letter_headings.vim $@
 
 target/$(book_basename).adoc: \
@@ -310,3 +310,4 @@ uninstall:
 # 2020-04-06: Improve requirements list. Replace DocBook extension "xml" with
 # "dbk". Update the publisher. Build an EPUB also with Asciidoctor EPUB3.
 # Change the names of the PDF versions to make both of them be listed together.
+# 2020-08-23: Add a dot also at the end of the headwords, in e-book formats.
