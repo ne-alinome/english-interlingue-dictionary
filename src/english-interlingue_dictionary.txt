@@ -215,7 +215,7 @@ ADULATE #v.#adular (-ation, -ator), flattar#
 ADULT #adj.#adult, plen-crescet#
 ADULT #n.#adulte#
 ADULTERATE #v.#falsar, corupter#
-ADULTERY #n.#adultérie#
+ADULTERY #n.#adulterie#
 ADUMBRATE #v.#esquissar#
 ADVANCE #v.#avansar, progresser#
 ADVANTAGE #n.#avantage (-eosi), profite#
@@ -353,6 +353,7 @@ ALKALI #n.#alcali (-in)#
 ALL #adj.#(all the) omni#
 ALL #n.#(everything) omnicos; (the whole) li totalité, lu tot#
 ALL BUT #adv.#presc#
+ALL BUT #prep.#omni except(et), omnes except(et)#
 ALL OVER EUROPE #adv.#tra tot Europa#
 ALL THE YEAR ROUND #adv.#li tot annu#
 ALLAY #v.#calmar, aleviar, moderar, quietar, mitigar#
