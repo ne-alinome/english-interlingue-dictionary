@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008241740
+# Last modified 202008241807
 # See change log at the end of the file
 
 # ==============================================================
@@ -23,6 +23,9 @@
 
 # dbtoepub
 #   http://docbook.sourceforge.net/release/xsl/current/epub/README
+
+# ebook-convert
+#   manual.calibre-ebook.com/generated/en/ebook-convert.html
 
 # ImageMagick (by ImageMagick Studio LCC)
 #   http://imagemagick.org
@@ -64,7 +67,7 @@ cover_title="English-\nInterlingue\nDictionary"
 default: dict epuba pdfa4 thumb
 
 .PHONY: all
-all: dict dbk epub odt pdf thumb
+all: azw3 dict dbk epub odt pdf thumb
 
 .PHONY: clean
 clean:
@@ -80,6 +83,9 @@ $(dict_data_format): tmp/$(dict_basename).$(dict_data_format)
 
 .PHONY: adoc
 adoc: target/$(book).adoc
+
+.PHONY: azw3
+azw3: target/$(book).adoc.epub.azw3
 
 .PHONY: dict
 dict: target/$(dict_basename).dict.dz
@@ -245,6 +251,12 @@ target/$(book).adoc.dbk.pandoc.epub: \
 		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
 		--output $@ $<
+
+# ==============================================================
+# Convert EPUB to AZW3 {{{1
+
+target/%.epub.azw3: target/%.epub
+	ebook-convert $< $@
 
 # ==============================================================
 # Convert the original data to "dict_data_format" {{{1
@@ -439,4 +451,4 @@ tmp/$(cover).pdf: target/$(cover).jpg
 #
 # 2020-08-24: Build a cover image. Use it with Asciidoctor EPUB3 and
 # Asciidoctor PDF. Deprecate the conversions from DocBook to EPUB. Add a main
-# "default" rule to build only the usual formats.
+# "default" rule to build only the usual formats. Convert EPUB to AZW3.
