@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008230204
+# Last modified 202008241740
 # See change log at the end of the file
 
 # ==============================================================
@@ -24,6 +24,12 @@
 # dbtoepub
 #   http://docbook.sourceforge.net/release/xsl/current/epub/README
 
+# ImageMagick (by ImageMagick Studio LCC)
+#   http://imagemagick.org
+
+# img2pdf (by Johannes 'josch' Schauer)
+#   https://gitlab.mister-muffin.de/josch/img2pdf
+
 # Pandoc (by John MaFarlane)
 #   http://pandoc.org
 
@@ -36,7 +42,7 @@
 
 VPATH=./src:./target
 
-book_basename=english-interlingue_dictionary
+book=english-interlingue_dictionary
 title="English-Interlingue Dictionary"
 lang="en"
 editor="Marcos Cruz (programandala.net)"
@@ -47,11 +53,18 @@ dict_basename=eng-ile
 dict_data_url=http://ne.alinome.net
 dict_data_format=j
 
+cover=$(book)_cover
+cover_author="Dr. Fritz Haas"
+cover_title="English-\nInterlingue\nDictionary"
+
 # ==============================================================
 # Interface {{{1
 
+.PHONY: default
+default: dict epuba pdfa4 thumb
+
 .PHONY: all
-all: dict dbk epub odt pdf
+all: dict dbk epub odt pdf thumb
 
 .PHONY: clean
 clean:
@@ -66,7 +79,7 @@ $(dict_data_format): tmp/$(dict_basename).$(dict_data_format)
 # an include.
 
 .PHONY: adoc
-adoc: target/$(book_basename).adoc
+adoc: target/$(book).adoc
 
 .PHONY: dict
 dict: target/$(dict_basename).dict.dz
@@ -75,50 +88,62 @@ dict: target/$(dict_basename).dict.dz
 epub: epuba epubd epubp epubx
 
 .PHONY: epuba
-epuba: target/$(book_basename).adoc.epub
+epuba: target/$(book).adoc.epub
 
 .PHONY: epubd
-epubd: target/$(book_basename).adoc.dbk.dbtoepub.epub
+epubd: target/$(book).adoc.dbk.dbtoepub.epub
 
 .PHONY: epubp
-epubp: target/$(book_basename).adoc.dbk.pandoc.epub
+epubp: target/$(book).adoc.dbk.pandoc.epub
 
 .PHONY: epubx
-epubx: target/$(book_basename).adoc.dbk.xsltproc.epub
+epubx: target/$(book).adoc.dbk.xsltproc.epub
 
 .PHONY: odt
-odt: target/$(book_basename).adoc.dbk.pandoc.odt
+odt: target/$(book).adoc.dbk.pandoc.odt
 
 .PHONY: pdf
 pdf: pdfa4 pdfletter
 
 .PHONY: pdfa4
-pdfa4: target/$(book_basename).adoc._a4.pdf
+pdfa4: target/$(book).adoc._a4.pdf
 
 .PHONY: pdfletter
-pdfletter: target/$(book_basename).adoc._letter.pdf
+pdfletter: target/$(book).adoc._letter.pdf
 
 .PHONY: dbk
-dbk: target/$(book_basename).adoc.dbk
+dbk: target/$(book).adoc.dbk
+
+# -------------------------------------
+
+.PHONY: cover
+cover: target/$(cover).jpg
+
+.PHONY: thumb
+thumb: target/$(cover)_thumb.jpg
+
+.PHONY: cleancover
+cleancover:
+	rm -f target/*.jpg tmp/*.png
 
 # ==============================================================
 # Convert the original data to Asciidoctor {{{1
 
-.SECONDARY: tmp/$(book_basename).txt.adoc
+.SECONDARY: tmp/$(book).txt.adoc
 
 tmp/%.txt.adoc: src/%.txt
 	sed -e "s/^\(.\+\) \+#\(.\+\)\?#\(.\+\)#.*/- .\1. (\2): \3/"  $< > $@
 	vim -S make/add_letter_headings.vim $@
 
-target/$(book_basename).adoc: \
+target/$(book).adoc: \
 	src/header.adoc \
-	tmp/${book_basename}.txt.adoc
+	tmp/${book}.txt.adoc
 	cat $^ > $@
 
 # ==============================================================
 # Convert Asciidoctor to DocBook {{{1
 
-.SECONDARY: target/$(book_basename).adoc.dbk
+.SECONDARY: target/$(book).adoc.dbk
 
 %.adoc.dbk: %.adoc
 	asciidoctor \
@@ -129,18 +154,18 @@ target/$(book_basename).adoc: \
 # ==============================================================
 # Convert Asciidoctor to EPUB {{{1
 
-%.adoc.epub: %.adoc
+%.adoc.epub: %.adoc target/$(cover).jpg
 	asciidoctor-epub3 \
 		--out-file=$@ $<
 
 # ==============================================================
 # Convert Asciidoctor to PDF {{{1
 
-%.adoc._a4.pdf: %.adoc
+%.adoc._a4.pdf: %.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--out-file=$@ $<
 
-%.adoc._letter.pdf: %.adoc
+%.adoc._letter.pdf: %.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
@@ -148,23 +173,26 @@ target/$(book_basename).adoc: \
 # ==============================================================
 # Convert DocBook to EPUB {{{1
 
+# XXX OLD -- Deprecated.
+
 # ------------------------------------------------
 # With dbtoepub
 
-%/$(book_basename).adoc.dbk.dbtoepub.epub: \
-	%/$(book_basename).adoc.dbk \
-	src/$(book_basename)-docinfo.xml
+%/$(book).adoc.dbk.dbtoepub.epub: \
+	%/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml
 	dbtoepub \
 		--output $@ $<
 
 # ------------------------------------------------
 # With pandoc
 
-%/$(book_basename).adoc.dbk.pandoc.epub: \
-	%/$(book_basename).adoc.dbk \
-	src/$(book_basename)-docinfo.xml \
+target/$(book).adoc.dbk.pandoc.epub: \
+	target/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml \
 	src/pandoc_epub_template.txt \
-	src/pandoc_epub_stylesheet.css
+	src/pandoc_epub_stylesheet.css­\
+	target/$(cover).jpg
 	pandoc \
 		--from docbook \
 		--to epub3 \
@@ -174,6 +202,7 @@ target/$(book_basename).adoc: \
 		--variable=editor:$(editor) \
 		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
+		--epub-cover-image=target/$(cover).jpg \
 		--output $@ $<
 
 # ------------------------------------------------
@@ -205,7 +234,7 @@ target/$(book_basename).adoc: \
 
 %.adoc.dbk.pandoc.odt: \
 	%.adoc.dbk \
-	src/$(book_basename)-docinfo.xml \
+	src/$(book)-docinfo.xml \
 	src/pandoc_odt_template.txt
 	pandoc \
 		--from docbook \
@@ -236,7 +265,7 @@ tmp/%.adoc.dbk.txt: tmp/%.adoc.dbk
 .SECONDARY: tmp/$(dict_basename).$(dict_data_format)
 
 tmp/$(dict_basename).$(dict_data_format): \
-	src/$(book_basename).txt \
+	src/$(book).txt \
 	tmp/dict_header.adoc.dbk.txt
 	cat tmp/dict_header.adoc.dbk.txt > $@
 	sed -e "s/^\(.\+\) *#\(.\+\)#\(.\+\)#/:\1:(\2): \3/" \
@@ -275,6 +304,101 @@ uninstall:
 	/etc/init.d/dictd restart
 
 # ==============================================================
+# Create the cover image {{{1
+
+# ------------------------------------------------
+# Create the canvas and texts of the cover image {{{2
+
+font=Helvetica
+background=yellow
+fill=black
+strokewidth=4
+logo='\#FFD700' # gold
+
+tmp/$(cover).title.png:
+	convert \
+		-background transparent \
+		-fill $(fill) \
+		-font $(font) \
+		-pointsize 128 \
+		-size 1200x \
+		-gravity east \
+		caption:$(cover_title) \
+		$@
+
+tmp/$(cover).author.png:
+	convert \
+		-background transparent \
+		-fill $(fill) \
+		-font $(font) \
+		-pointsize 72 \
+		-size 896x \
+		-gravity east \
+		caption:$(cover_author) \
+		$@
+
+tmp/$(cover).publisher.png:
+	convert \
+		-background transparent \
+		-fill $(fill) \
+		-font $(font) \
+		-pointsize 24 \
+		-gravity east \
+		-size 128x \
+		caption:$(publisher) \
+		$@
+
+tmp/$(cover).logo.png: img/icon_plaincircle.svg
+	convert $< \
+		-fuzz 50% \
+		-fill $(background) \
+		-opaque white \
+		-fuzz 50% \
+		-fill $(logo) \
+		-opaque black \
+		-resize 256% \
+		$@
+
+tmp/$(cover).decoration.png: img/$(book)_cover_decoration.png
+	convert $< \
+		-fuzz 10% \
+		-fill $(background) \
+		-opaque white \
+		-resize 48% \
+		$@
+
+# ------------------------------------------------
+# Create the cover image {{{2
+
+target/$(cover).jpg: \
+	tmp/$(cover).title.png \
+	tmp/$(cover).author.png \
+	tmp/$(cover).publisher.png \
+	tmp/$(cover).logo.png \
+	tmp/$(cover).decoration.png
+	convert -size 1200x1600 canvas:$(background) $@
+	composite -gravity south     -geometry +000+000 tmp/$(cover).logo.png $@ $@
+	composite -gravity northeast -geometry +048+048 tmp/$(cover).title.png $@ $@
+	composite -gravity northeast -geometry +048+512 tmp/$(cover).author.png $@ $@
+	composite -gravity southeast -geometry +048+048 tmp/$(cover).publisher.png $@ $@
+	composite -gravity west      -geometry +102+170 tmp/$(cover).decoration.png $@ $@
+
+# ------------------------------------------------
+# Convert the cover image to PDF {{{2
+
+# This is needed in order to make sure the cover image ocuppies the whole page
+# in the PDF versions of the book.
+
+tmp/$(cover).pdf: target/$(cover).jpg
+	img2pdf --output $@ --border 0 $<
+
+# ------------------------------------------------
+# Create a thumb version of the cover image {{{2
+
+%_thumb.jpg: %.jpg
+	convert $< -resize 190x $@
+
+# ==============================================================
 # Change log {{{1
 
 # 2019-02-06: Start. Make DICT.
@@ -285,8 +409,8 @@ uninstall:
 #
 # 2019-02-27: Fix metadata parameters of pandoc. Replace ISO 639-1 'ie' code
 # with ISO-639-3 'ile' in the DICT file name, after the usual convention in
-# collections of DICT dictionaries. Reuse the header in the DICT format. Don't
-# use xsltproc by default.
+# collections of DICT dictionaries. Reuse the header in the DICT format.
+# Don't use xsltproc by default.
 #
 # 2019-03-05: Update the URL of the original data of the DICT format.
 #
@@ -294,20 +418,25 @@ uninstall:
 # interface commands.
 #
 # 2019-03-26: Update to the new format of the data.
-# 
+#
 # 2019-04-01: Fix sed expression to ignore comments.
 #
 # 2019-08-21: Fix sed expression to accept empty word-type fields. Formerly
 # those records were added to the previous one, ruining the output.
 #
-# 2019-08-24: Update: field separator "|" now is "#", and the first field has a
-# trailing space.
+# 2019-08-24: Update: field separator "|" now is "#", and the first field has
+# a trailing space.
 #
-# 2019-09-15: Fix the sed expression that converts the original text data file
-# to dictfmt's input format. The bug was introduced on 2019-08-24. Update the
-# filename extension of the data file, from TSV to TXT.
+# 2019-09-15: Fix the sed expression that converts the original text data
+# file to dictfmt's input format. The bug was introduced on 2019-08-24.
+# Update the filename extension of the data file, from TSV to TXT.
 #
 # 2020-04-06: Improve requirements list. Replace DocBook extension "xml" with
 # "dbk". Update the publisher. Build an EPUB also with Asciidoctor EPUB3.
-# Change the names of the PDF versions to make both of them be listed together.
-# 2020-08-23: Add a dot also at the end of the headwords, in e-book formats.
+# Change the names of the PDF versions to make both of them be listed
+# together. 2020-08-23: Add a dot also at the end of the headwords, in e-book
+# formats.
+#
+# 2020-08-24: Build a cover image. Use it with Asciidoctor EPUB3 and
+# Asciidoctor PDF. Deprecate the conversions from DocBook to EPUB. Add a main
+# "default" rule to build only the usual formats.

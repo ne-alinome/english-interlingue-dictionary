@@ -2,24 +2,23 @@
 :authors: Charles Kemp, F.R. Pope
 include::../src/VERSION.adoc[]
 :description: English-Interlingue Dictionary
-ifdef::backend-epub3[]
 :doctype: book
-:toc: auto
 :toclevels: 2
 :toc-title: Contents
+ifdef::backend-epub3[]
+:toc:!
+:front-cover-image: ../target/english-interlingue_dictionary_cover.jpg
 endif::[]
 ifdef::backend-pdf[]
-:doctype: book
 :toc: auto
-:toclevels: 2
-:toc-title: Contents
+:front-cover-image: ../tmp/english-interlingue_dictionary_cover.pdf
 endif::[]
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 202008230112
+// Last modified 202008241650
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
