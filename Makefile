@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008241807
+# Last modified 202008260136
 # See change log at the end of the file
 
 # ==============================================================
@@ -67,7 +67,7 @@ cover_title="English-\nInterlingue\nDictionary"
 default: dict epuba pdfa4 thumb
 
 .PHONY: all
-all: azw3 dict dbk epub odt pdf thumb
+all: azw3 csv dict dbk epub odt pdf thumb
 
 .PHONY: clean
 clean:
@@ -86,6 +86,9 @@ adoc: target/$(book).adoc
 
 .PHONY: azw3
 azw3: target/$(book).adoc.epub.azw3
+
+.PHONY: csv
+csv: target/$(book).csv
 
 .PHONY: dict
 dict: target/$(dict_basename).dict.dz
@@ -145,6 +148,12 @@ target/$(book).adoc: \
 	src/header.adoc \
 	tmp/${book}.txt.adoc
 	cat $^ > $@
+
+# ==============================================================
+# Convert the original data to CSV {{{1
+
+target/%.csv: src/%.txt
+	sed -e 's/^\(.\+\) \+#\(.\+\)\?#\(.\+\)#.*/"\1","\2","\3"/'  $< > $@
 
 # ==============================================================
 # Convert Asciidoctor to DocBook {{{1
@@ -452,3 +461,5 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # 2020-08-24: Build a cover image. Use it with Asciidoctor EPUB3 and
 # Asciidoctor PDF. Deprecate the conversions from DocBook to EPUB. Add a main
 # "default" rule to build only the usual formats. Convert EPUB to AZW3.
+#
+# 2020-08-26: Build also a CSV data file.
