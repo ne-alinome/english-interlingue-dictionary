@@ -472,7 +472,8 @@ ANALOGY #n.#analogie#
 ANALYSE #v.#analisar#
 ANALYSIS #n.#analise#
 ANALYTICAL #adj.#analitic#
-ANARCHY #n.#anarchic (-ist)#XXX FIXME -- anarchic/anarchie
+ANARCHIC #adj.#anarchic#
+ANARCHY #n.#anarchie (-ist)#
 ANATHEMA #n.#anatema#
 ANATOMY #n.#anatomie (-ic, -ico, -isar), structura#
 ANCESTOR #n.#antecessor (-al), preavo#
