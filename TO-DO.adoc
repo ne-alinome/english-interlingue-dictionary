@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-22
+:revdate: 2020-08-25
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -169,6 +169,7 @@
 - In "REFRACTORY (n.) infusibile" is missing meaning "A refractory
   person".
 - Why "si" in `HAVE A MIND TO #v.#inclinar, it vell pleser … si#`?
+- Fix "simpatíe", etc.
 
 // Missing words {{{1
 == Missing words
