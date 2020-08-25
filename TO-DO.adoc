@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-25
+:revdate: 2020-08-26
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -61,6 +61,8 @@
 - Fix: "questionar" is missing in "QUESTION (v.)", but mentioned as a
   derivate in "QUESTION (n.)".
 - Fix: "raconta" -> "raconte".
+- Update the list of programs used.
+- Update the list changes done in this edition.
 
 // Doubts {{{1
 == Doubts
@@ -169,7 +171,7 @@
 - In "REFRACTORY (n.) infusibile" is missing meaning "A refractory
   person".
 - Why "si" in `HAVE A MIND TO #v.#inclinar, it vell pleser … si#`?
-- Fix "simpatíe", etc.
+- Add "(-ie)" to "impertinent" and others. 
 
 // Missing words {{{1
 == Missing words
@@ -186,3 +188,9 @@
 - "ABEYANCE" (used in "IN ABEYANCE").
 - "ADVISED" (used in "ILL-ADVISED").
 - "YORE" (used in "OF YORE").
+- "BACTERIUM"
+- "BOYFRIEND"
+- "GIRLFRIEND"
+- "BOYFRIEND"
+- "GIRLFRIEND"
+- "EXIT" (verb)

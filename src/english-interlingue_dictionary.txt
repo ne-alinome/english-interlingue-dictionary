@@ -553,7 +553,7 @@ ANTICIPATE #v.#anticipar (-ation)#
 ANTICS #n.#drolleríe, gestes grotesc#
 ANTIDOTE #n.#antidot, antitoxine#
 ANTIMONY #n.#antimon#
-ANTIPATHY #n.#antipatíe#
+ANTIPATHY #n.#antipatie#
 ANTIPODES #n.#antipode#
 ANTIQUARIAN #adj.#antiquaric#
 ANTIQUARIAN #n.#antiquario#
@@ -576,7 +576,7 @@ APACE #adv.#rapidmen, hastosimen#
 APART #adj.#apart, separat, isolat, desunit#
 APART FROM THAT #adv.#ultra to#
 APATHETIC #adj.#apátic#
-APATHY #n.#apatíe#
+APATHY #n.#apatie#
 APE #n.#simio#
 APE #v.#imitachar, simiar#
 APERIENT #n.#purgative, laxative#
@@ -593,7 +593,7 @@ APOPLECTIC #adj.#apoplectic#
 APOPLEXY #n.#apoplexie#
 APOSTASY #n.#apostasie#
 APOSTATE #n.#apostatico#
-APOSTLE #n.#apóstol (-ic), disoiple#
+APOSTLE #n.#apóstol (-ic), disciple#
 APOSTROPHE #n.#apostrof#
 APOTHECARY #n.#apotecario, farmacist#
 APOTHEGM #n.#maxime, aforisme#
@@ -688,7 +688,7 @@ ARISE OUT OF #v.#nascer ex, provenir#
 ARISTOCRAT #n.#aristocrate (-ie, -ic)#
 ARITHMETIC #n.#aritmetica#
 ARITHMETICIAN #n.#aritmetico#
-ARK #n.#(Noah's) area de Noé#
+ARK #n.#(Noah's) arca de Noé#
 ARM #n.#(limb) brasse; (mil.) arme#
 ARM #v.#armar (-ament)#
 ARMCHAIR #n.#fotel#
@@ -722,7 +722,7 @@ ARSENAL #n.#arsenale, armería#
 ARSENIC #n.#arsenic#
 ARSON #n.#incendiation#
 ART #n.#arte (-ist, -istic)#
-ART GALIERY #n.#pinacoteca#
+ART GALLERY #n.#pinacoteca#
 ARTERY #n.#arterie (-osclerose)#
 ARTFUL #adj.#astut (-ie)#
 ARTHRITIS #n.#artrite#
@@ -730,17 +730,17 @@ ARTICHOKE #n.#artichoc#
 ARTICLE #n.#articul; (thing) cose#
 ARTICULATE #v.#articular (-ation)#
 ARTIFICE #n.#artificie#
-ARTIFICIAL #adj.#artifical (-itá)#
+ARTIFICIAL #adj.#artificial (-itá)#
 ARTIFICIAL SILK #n.#rayonne#
 ARTILLERY #n.#artillerie#
 ARTISAN #n.#artisian (-al, -atu)#
-ARTLESS #adj.#naiv, inafectat, simplic, ingenui (-tá)#
+ARTLESS #adj.#naiv, ínafectat, simplic, ingenui (-tá)#
 AS #adv., conj.#(because) proque; (manner) quam#
 AS A MATTER OF FACT #n.#advere#
 AS A RULE #adv.#generalmen, in general#
 AS FAR AS #prep.#til#
 AS FAR AS I KNOW #adv.#secun quo yo save#
-AS LIEF #v.#preferer#
+AS LIEF #adv.#preferer#XXX FIXME
 AS MUCH AS #adv.#tant quant#
 AS RICH AS #adv.#tam rich quam#
 AS SOON AS POSSIBLE #adv.#max bentost possibil#
@@ -813,7 +813,7 @@ ASTRONOMER #n.#astronom (-ie, -ic)#
 ASTUTE #adj.#astut (-ie)#
 ASUNDER #adj.#apart, separat; dis-#
 ASYLUM #n.#asil, hospicie por alienates#
-AT #prep.#(place) in (London), a; (time) ye; (house, shop) che; (towards) vers, contra, a; (at the rate of) tri horloges a Fr. 100#
+AT #prep.#(place) in (London), a; (time) ye; (house, shop) che; (towards) vers, contra, a; (at the rate of) tri horloges a Fr. 100#XXX FIXME improve, split
 AT A PREMIUM #adv.#súper pari, súper nominale#
 AT A STRETCH #adv.#sin intermittentie#
 AT ALL EVENTS #adv.#in omni casu#
@@ -836,7 +836,7 @@ AT PAR #adv.#al pari#
 AT PRESENT #adv.#in presente, nu#
 AT RANDOM #adv.#in hasarde#
 AT SIGHT #adv.#che vise#
-AT THE BACK OF #adv.#detra#
+AT THE BACK OF #prep.#detra#
 AT THE BARBER'S #adv.#che li barbero#
 AT THE END OF ONE'S TETHER #adv.#al fine de su corde#
 AT THE OUTSET #adv.#in prim linea#
@@ -907,7 +907,7 @@ AUTO #prefix#autocrate, autograf, automobile, autonomie etc.#
 AUTUMN #n.#autun (-al)#
 AUXILIARY #adj.#auxiliari#
 AVAIL #v.#valer#
-AVAIL ONESELF OF THE OPPORTUNITY #v.#profitar li ocasion#
+AVAIL ONESELF OF THE OPPORTUNITY #expr.#profitar li ocasion#
 AVAILABLE #adj.#disponibil, obtenibil; (person) accessibil; (ticket) valid#
 AVALANCHE #n.#avalanche#
 AVARICIOUS #adj.#avari, cupid (-itá)#
@@ -959,7 +959,7 @@ BACCHANAL #adj.#debochant#
 BACHELOR #n.#celibo; (graduate) baccalaureo#
 BACILLUS #n.#bacille#
 BACK #n.#dorse, parte posteriori#
-BACK #v.#(a horse) retroducter; (intr.) retropassuar; (sails) baccar; (support) suportar, subtener#
+BACK #v.#(a horse) retroducter; (intr.) retropassuar; (sails) baccar; (support) suportar, subtener#XXX TODO split tr./ntr.
 BACKBITE #v.#calumniar#
 BACKBONE #n.#spine dorsal#
 BACKGAMMON #n.#trictrac#
@@ -1128,7 +1128,7 @@ BATTLEDORE AND SHUTTLECOCK #n.#rácket e volante#
 BATTLELMENTS #n.#bastion, parapete, crenel#
 BAUBLE #n.#auripelle, ludette, bagatelle#
 BAULK #n.#trave#
-BAWD #n.#copulero#
+BAWD #n.#copulero#XXX TODO copulere
 BAWDY #adj.#lasciv#
 BAWL #v.#clamar, criachar, crialliar#
 BAY #adj.#rubi-brun, rubatri, bai#
@@ -1139,7 +1139,7 @@ BAZAAR #v.#bazar#
 BE #v.#esser, exister; (of health) standar#
 BE ABASHED #v.#hontar, esser confuset, embarassat#
 BE ABLE #v.#posser#
-BE ABOUT SOMETHING #v.#ocupar se pri#
+BE ABOUT SOMETHING #v.#ocupar se pri#XXX FIXME
 BE ABOUT TO #v.#esser sur li punctu de#
 BE ADRIFT #v.#drivar, esser flott#
 BE AFRAID #v.#timer#
@@ -1148,25 +1148,25 @@ BE ALARMED #v.#anxiar se#
 BE ALIVE WITH #v.#formicar ye#
 BE AMISS WITH #v.#mancar#
 BE AN OLD STAGER #v.#saver li trantran#
-BE APPREHENSIVE OF #v.#esser ínquiet, timer pri#
-BE APT TO #v.#tender#
+BE APPREHENSIVE OF #v.#esser ínquiet pri, timer pri#
+BE APT TO #v.#tender#XXX TODO improve
 BE ASHAMED #v.#hontar#
 BE AT A LOSS #v.#ne saver#
 BE AT LOGGERHEADS #v.#querellar#
-BE AT THE HEAD OF #v.#esser ye li punta, preceder#
+BE AT THE HEAD OF #v.#esser ye li punta de, preceder#
 BE AWARE #v.#saver; (conscious of) conscier#
 BE BACKWARD #v.#aprender desfacilmen#
 BE BECALMED #v.#esser haltat de calme#
 BE BORN #v.#nascer#
 BE COGNIZANT OF #v.#saver#
 BE COLD #v.#(feel cold) friger#
-BE CONSCIOUS OF #v.#conscier#
-BE CONSPICUOUS BY ITS ABSENCE #v.#brilliar per su tot absentie#
+BE CONSCIOUS OF #v.#conscier (pri)#
+BE CONSPICUOUS BY ITS ABSENCE #expr.#brilliar per su tot absentie#
 BE CONVENIENT #v.#convener#
 BE DEFUNCT #v.#ne plu exister#
 BE DELIRIOUS #v.#delirar#
 BE DESIROUS #v.#desirar#
-BE DISENGAGED #v.#esser líber, ínocupat#
+BE DISENGAGED #v.#esser líber, esser ínocupat#
 BE DISPOSED #v.#esser inclinat#
 BE EQUIVALENT #v.#equivaler#
 BE FACED WITH #v.#star avan#
@@ -1175,7 +1175,7 @@ BE FOND OF #v.#amar, apreciar#
 BE FURIOUS #v.#furer#
 BE GLIB #v.#parlar suavimen, parlar volubilmen#
 BE HOPEFUL #v.#esperar#
-BE IDLE #v.#ne esser ocupat; ne functionant#
+BE IDLE #v.#ne esser ocupat; ne functionar#
 BE IN A HUFF #v.#budar#
 BE IN A QUANDARY #v.#ne saver quo far#
 BE IN THE HABIT #v.#esser acustomat#
@@ -1186,7 +1186,7 @@ BE LACKING #v.#mancar#
 BE LEFT OVER #v.#restar#
 BE MISTAKEN #v.#errar#
 BE OBLIGED #v.#dever#
-BE OFF FOOD #v.#li apetite manca me#
+BE OFF FOOD #v.#li apetite manca me#XXX FIXME
 BE OFF! #interj.#for!, via!#
 BE ON DUTY #v.#dejorar#
 BE OUT OF #v.#esser sin, mancar#
@@ -1199,19 +1199,19 @@ BE QUITS #v.#esser quitt#
 BE RAMPANT #v.#exuberar, luxuriar; reyer#
 BE REPUTED #v.#haver li reputation#
 BE RESPONSIBLE #v.#responsar#
-BE SENSIBLE OF #v.#conscier#
+BE SENSIBLE OF #v.#conscier (pri)#
 BE SHORT OF #v.#besonar, mancar#
 BE SICK #v.#(vomit) vomir#
 BE SICK OF #v.#esser sat de#
-BE SLOW #v.#(of clock) retardar#
+BE SLOW #v.#(of clock) retardar#XXX FIXME
 BE STRANDED #v.#misviar, misviagear#
-BE SURE #v.#comprende se#
+BE SURE #v.#comprende se#XXX FIXME
 BE TAKEN UNAWARES #v.#esser surprisat#
 BE UNABLE #v.#ne posser#
 BE UNAWARE #v.#ne saver#
 BE UNWILLING #v.#ne voler, ne esser pret#
 BE VACANT #v.#vacar#
-BE WANTING #v.#mancar#
+BE WANTING #v.#mancar#XXX TODO confirm, improve
 BE WELL #v.#standar bon#
 BE WONT #v.#customar#
 BE WORTH #v.#valer#
@@ -1787,7 +1787,7 @@ BREWERY #n.#birería#
 BRIAR #n.#rose savagi#
 BRIBE #v.#subcomprar; corupter (-tion)#
 BRICK #n.#brique#
-BRIDE #n.#sponsa#
+BRIDE #n.#sponsa#XXX FIXME description of BRIDE doesn't match that of FIANCE
 BRIDEGROOM #n.#sponso#
 BRIDES MAID #n.#sponsaria#
 BRIDGE #n.#ponte; (of nose) dorse; (of violin) cavallette; (card game) bridge#
@@ -2063,7 +2063,7 @@ CALIPH #n.#calif (-atu)#
 CALL #n.#demande, exigentie#
 CALL #v.#vocar, clamar; (cry) criar; (name) nominar; (a meeting) convocar; (visit) visitar#
 CALL AT #v.#haltar che#
-CALL FOR #v.#ear (venir) prender#
+CALL FOR #v.#ear (venir) prender#XXX TODO split
 CALL IN #v.#far venir#
 CALL OUT #v.#exclamar#
 CALL TO MIND #v.#rememorar#
@@ -2840,7 +2840,7 @@ COMMENT #n.#comenta, nota, remarca#
 COMMENT #v.#comentar (-ation, -ator, -arie)#
 COMMERCE #n.#comercie (-al), afere, negocie#
 COMMISERATE #v.#comiserar, compatir#
-COMMISSARIAT #mil.#comissariatu, intendantùra#
+COMMISSARIAT #mil.#comissariatu, intendantura#
 COMMISSARY #n.#comissario#
 COMMISSION #n.#comission (-ario), charge, mandate, comende#
 COMMIT #v.#cometter, far; (entrust) confider#
@@ -2920,6 +2920,7 @@ COMPROMISE #n.#compromisse, arangeament#
 COMPROMISE #v.#compromisser (-ion); (a person) comprometter (-ent)#
 COMPULSION #n.#fortiation, pression,obligation#
 COMPULSORY #adj.#obligativ, obligatori#
+COMPUNCTION #n.#remorse, contrition#
 COMPUTE #v.#computar, calcular; evaluar, taxar (-ation)#
 COMRADE #n.#camarado, compane, socio#
 CON #v.#studiar, leer atentivmen#
@@ -4151,7 +4152,7 @@ DISHEVEL #v.#desordinar, defriser#
 DISHONEST #adj.#deshonest#
 DISHONOUR #n.#deshonor (-ar, -abil), ignominie#
 DISILLUSION #v.#desilusionar, derevar, decepter#
-DISINCLINATION #n.#aversion, antipatíe#
+DISINCLINATION #n.#aversion, antipatie#
 DISINFECT #v.#desinfecter (-ion)#
 DISINGENUOUS #adj.#ínsinceri#
 DISINHERIT #v.#desheredar#
@@ -4237,7 +4238,7 @@ DISSONANT #adj.#dissonant (-ie)#
 DISSUADE #v.#dissuaDer (-sion, -siv), deconsiliar#
 DISTAFF #n.#spindle#
 DISTANT #adj.#distant (-ie), lontan; (in manner) reservat#
-DISTASTE #n.#aversion, antipatíe#
+DISTASTE #n.#aversion, antipatie#
 DISTASTEFUL #adj.#desagreabil, antipatic#
 DISTEMPER #n.#febre canin; (colouring) badigeon (-age, -ero)#
 DISTEMPER #v.#badigeonar#
@@ -6234,7 +6235,6 @@ GOLDFISH #n.#pisc aurin#
 GOLDSMITH #n.#juvelero, aure-inercante#
 GOLF #n.#(sport) golf#
 GOLOSH #n.#galoche#
-GOMPUNCTION #n.#remorse, contrition#
 GONDOLA #n.#góndol (-ero)#
 GONFIDANT #n.#intimo, confidente#
 GONG #n.#gong#
@@ -6456,7 +6456,7 @@ GUEST HOUSE #n.#albergo, gastería#
 GUFFAW #n.#sonori ridache#
 GUIDE #n.#guidero, conductor; (sign) signe#
 GUIDE #v.#ducter, guidar#
-GUIDEBOOK #n.#guide libre, libre por turisme#
+GUIDEBOOK #n.#guide-libre, libre por turisme#
 GUILD #n.#corporation, guilde, confratrie#
 GUILE #n.#astutie, insidie#
 GUILLOTINE #n.#guillotine#
@@ -7150,7 +7150,7 @@ IDIOM #n.#idioma (-tic); (idiomatic expression) idiotisme#
 IDIOSYNCRASY #n.#idiosincrasie, particularitá#
 IDIOT #n.#idiot (-ic)#
 IDLE #adj.#indolent; (lazy) pigri; (vane) van, futil, líber, ne usat#
-IDLE ONE'S TIME AWAY #v.#flanar, passar li témpor fante necós#
+IDLE ONE'S TIME AWAY #expr.#flanar, passar li témpor fante necós#
 IDOL #n.#idol (-atro, -atrie, -cultu, -isar)#
 IDYLL #n.#idille (-io)#
 IF #conj.#si; (whether) ca#
@@ -7474,7 +7474,7 @@ INDELICATE #adj.#índelicat, vulgari#
 INDEMNIFY #v.#indemnisar, dedamagear#
 INDEMNITY #n.#indemnitá#
 INDENTATION #n.#cavette, impression#
-INDENTED #adj.#(toothed) dentat#
+INDENTED #adj.#(toothed) dentat#XXX TODO update
 INDENTURES #n.#contrate aprensori#
 INDEPENDENT #adj.#índependent (-ie)#
 INDESCRIBABLE #adj.#índescribil, ínexpressibil#
@@ -7840,7 +7840,7 @@ INVERSE #adj.#inversi, contrari#
 INVERSION #n.#inversion#
 INVERT #v.#inverter#
 INVERTEBRATE #adj.#ínvertebrat#
-INVERTEBRATE #n.#invertebrate#
+INVERTEBRATE #n.#ínvertebrate#
 INVEST #v.#(clothe) vestir; (mil.) investir (-itura); (money) plazzar, investir#
 INVESTIGATE #v.#investigar (-ation, -ator), inquester#
 INVESTITURE #n.#investitura#
@@ -7917,7 +7917,7 @@ IT IS A MATTER OF … #expr.#it acte se pri …#
 IT IS A PITY #expr.#it es damage#
 IT IS A WEEK SINCE I SAW HER #expr.#ja de un semane yo plu ne ha videt la#
 IT IS DUSTY #expr.#it polvea#
-IT IS RUMOURED #expr.#on di que#
+IT IS RUMOURED #expr.#on di que#XXX FIXME (that)/(que)
 IT IS USELESS TO #expr.#it es van pena#
 IT PAINS ME TO HAVE TO … #expr.#it dole me dever …#
 IT REDOUNDS TO HIS CREDIT #expr.#to honora le#
@@ -7950,7 +7950,7 @@ JADE #n.#cavallacha; feminach; (min.) jade#
 JADED #adj.#fatigat, lassi#
 JAGGED #adj.#con inregulari bordes#
 JAGUAR #n.#jaguar#
-JAIL #n.#cárcere, prison (ario)#
+JAIL #n.#cárcere, prison (-ario)#
 JAILER #n.#cárcer-mastro#
 JAM #n.#jam, confitura; embarasse#
 JAM #v.#serrar, presser#
@@ -8146,7 +8146,7 @@ KIRK #n.#eclesie; (building) eclesia#
 KISS #n.#besa (-ar)#
 KIT #n.#possedallia, proprietá, cosage#
 KIT-BAG #n.#sac-valise#
-KITCHEN #n.#cocin(erí)a#
+KITCHEN #n.#cocin(erí)a#XXX TODO split
 KITCHEN CUPBOARD #n.#scaf de cocina, utensilarium#
 KITCHEN-GARDEN #n.#legumiera#
 KITE #n.#(bird) milve; (paper kite) dracon volant#
@@ -8233,7 +8233,7 @@ LAIDY #n.#laicos, profanes#XXX TODO -- confirm
 LAIR #n.#lette, tana, refugia#
 LAKE #n.#lago#
 LAMA #n.#lama#
-LAMB #n.#agnelle (-a); (meat) agnelline, oarne agnellin#
+LAMB #n.#agnelle (-a); (meat) agnelline, carne agnellin#
 LAMBENT #n.#(flame) serpentant#
 LAME #adj.#claudicant; (fig.)ínsatisfatori, debil#
 LAME #v.#mutilar, far .claudicant, paralisar#
@@ -10968,7 +10968,7 @@ PHYSIC #n.#medicament#
 PHYSICAL #adj.#corporal, fisic#
 PHYSICIAN #n.#medico#
 PHYSICIST #n.#fisico, fisicist#
-PHYSICS #adj.#fisica#
+PHYSICS #n.#fisica#
 PHYSIOGNOMY #n.#fisionomie#
 PHYSIOLOGIST #n.#fisiolog (-ie, -ic)#
 PIANO #n.#piano (-ist)#
@@ -10978,7 +10978,7 @@ PICK #v.#selecter (-ion); (with beak) becar; (a fowl) pluccar, deplumar; (a bone
 PICK AT #v.#demarjar, manjettar; (pick pockets) furter; (a quarrel) serchar#
 PICK UP #v.#levar; trovar; (recover) recuperar#
 PICKABACK #adv.#sur li dorse#
-PICKABACK #n.#surdorse#
+PICKABACK #n.#surdorse#XXX TODO confirm it's also a noun
 PICKAXE #n.#pic, pioche#
 PICKET #n.#pal; (mil.) pikett (-ar)#
 PICKLE #v.#salar, marinar (-age)#
@@ -11015,7 +11015,8 @@ PILGRIM #n.#peregrino (-ar, -age, -ation)#
 PILL #n.#pillul#
 PILLAGE #v.#pilliar (-iage, -iard)#
 PILLAR #n.#pilare, colonne, pilastre#
-PILLARBOX #n.#lettre-bux#
+PILLAR BOX #n.#lettre-bux#
+PILLAR-BOX #n.#lettre-bux#
 PILLION #n.#detra-sede#
 PILLORY #n.#pilorie (-iar)#
 PILLOW #n.#cap-cussine#
@@ -12591,7 +12592,7 @@ RHYME #n.#rim (-ar, -arium, -ero, -astro)#
 RHYTHM #n.#ritme (-ic)#
 RIB #n.#coste (-al)#
 RIBALD #adj.#obscen#
-RIBBON #n.#bande; (typewriter ribbon) color-bande#
+RIBBON #n.#bande; (typewriter ribbon) color-bande#XXX TODO split?; "incre-bande"
 RICE #n.#ris#
 RICE PLANTATION #n.#risiera#
 RICH #adj.#rich (-esse); fertil, sumptuosi, opulent#
@@ -12743,7 +12744,7 @@ ROUT #n.#desórdine, fugida; defete; (mil.) derute#
 ROUT #v.#derutar#
 ROUTE #n.#rute, via#
 ROUTINE #n.#rutine (-ari, -al)#
-ROVE #v.#inigrar, vagar#
+ROVE #v.#inigrar, vagar#XXX FIXME "inigrar"?
 ROW #n.#(line) range, file, linea; colonne; (noise) clamore, bruida; querelle#
 ROW #v.#remar (-ation)#
 ROWAN #n.#sorbe#
@@ -12751,11 +12752,11 @@ ROWDY #adj.#bruosi, tumultuosi#
 ROWDY #n.#tumultuon#
 ROWLOCK #n.#tolette#
 ROYAL #adj.#reyal (-ist, -isme)#
-ROYALTY #n.#dignitá reyal, soveranitá; (on a book etc.; tantieme#
+ROYALTY #n.#dignitá reyal, soveranitá; (on a book etc.) tantieme#
 RUB #v.#frottar, fricter#
 RUB OUT #v.#efaciar#
 RUBBER #n.#cautchuc; gumme#
-RUBBER BAND #n.#cautchuclace#
+RUBBER BAND #n.#cautchuc-lace#
 RUBBISH #n.#escombre, jettallia; (exclam.) nonsens!#
 RUBBLE #n.#fragmentallia, murallia#
 RUBESCENT #adj.#rubijant#
@@ -14663,7 +14664,7 @@ SYMBIOSIS #n.#simbiose#
 SYMBOL #n.#simbol (-ic, -isar, -isme)#
 SYMMETRY #n.#simetrie (-ic)#
 SYMPATHETIC #adj.#simpatic#
-SYMPATHY #n.#simpatíe; condolentie#
+SYMPATHY #n.#simpatie; condolentie#
 SYMPHONY #n.#simfonie (-ic)#
 SYMPOSIUM #n.#simposium#
 SYMPTOM #n.#simptoma (-tic)#
@@ -14864,7 +14865,7 @@ TEGUMENT #n.#tegument#
 TELEGRAM #n.#telegramma#
 TELEGRAPH #n.#telegraf (-ic, -ie, -ist)#
 TELEOLOGY #n.#teleologie#
-TELEPATHY #n.#telepatíe (-ic)#
+TELEPATHY #n.#telepatie (-ic)#
 TELEPHONE #n.#telefon (-ar, -ic, -ie, -ist)#
 TELESCOPE #n.#telescop (-ar, -ic)#
 TELEVISION #n.#television#
@@ -16405,9 +16406,9 @@ WIRE #v.#ligar per ferrofil; telegrafar#
 WIRE-PULLING #n.#intrigas, manipulation#
 WIRELESS #adj.#sin ferrofiles, sin metall-files, sin fil#
 WIRELESS #n.#(short for wireless telegraphy) telegrafie sin fil, radio; (short for wireless telephony) telefonie sin fil, radio#
-WIRELESS TELEGRAPHY#n.#telegrafie sin fil, radio#
-WIRELESS TELEPHONY#n.#telefonie sin fil, radio#
 WIRELESS SET #n.#radio-receptor#
+WIRELESS TELEGRAPHY #n.#telegrafie sin fil, radio#
+WIRELESS TELEPHONY #n.#telefonie sin fil, radio#
 WIRY #adj.#filatri; (sinewy) tendonosi#
 WISDOM #n.#sagiesse, sapientie, prudentie#
 WISE #adj.#sagi, sapient, prudent; doct; discret#
