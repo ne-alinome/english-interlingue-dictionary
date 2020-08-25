@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008260136
+# Last modified 202008260147
 # See change log at the end of the file
 
 # ==============================================================
@@ -114,11 +114,19 @@ odt: target/$(book).adoc.dbk.pandoc.odt
 .PHONY: pdf
 pdf: pdfa4 pdfletter
 
+# NOTE: First the zip (which preserves the PDF),
+# then the gzip (which deletes it):
 .PHONY: pdfa4
-pdfa4: target/$(book).adoc._a4.pdf
+pdfa4: \
+	target/$(book).adoc._a4.pdf.zip \
+	target/$(book).adoc._a4.pdf.gz
 
+# NOTE: First the zip (which preserves the PDF),
+# then the gzip (which deletes it):
 .PHONY: pdfletter
-pdfletter: target/$(book).adoc._letter.pdf
+pdfletter: \
+	target/$(book).adoc._letter.pdf.zip \
+	target/$(book).adoc._letter.pdf.gz
 
 .PHONY: dbk
 dbk: target/$(book).adoc.dbk
@@ -184,6 +192,12 @@ target/%.csv: src/%.txt
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
+
+%.pdf.zip: %.pdf
+	zip -9 $@ $<
+
+%.pdf.gz: %.pdf
+	gzip $<
 
 # ==============================================================
 # Convert DocBook to EPUB {{{1
@@ -462,4 +476,4 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # Asciidoctor PDF. Deprecate the conversions from DocBook to EPUB. Add a main
 # "default" rule to build only the usual formats. Convert EPUB to AZW3.
 #
-# 2020-08-26: Build also a CSV data file.
+# 2020-08-26: Build also a CSV data file. Compresse the PDF with zip and gzip.
