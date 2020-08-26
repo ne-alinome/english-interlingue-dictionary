@@ -3690,7 +3690,7 @@ DEBONAIR #adj.#galant, benigni, afabil#
 DEBOUCH #v.#exmarchar, exfluer#
 DEBRIS #n.#fragmentes, roccallia#
 DEBT #n.#debite (-or)#
-DEBUT #n.#debut (-ante)#
+DEBUT #n.#debut (-ante)#XXX TODO add verb and move "-nte" to it
 DECADE #n.#decennie (-al)#
 DECADENT #n.#decadent (-ie)#
 DECAMP #v.#departer, secretmen forear, decampar#
@@ -5554,7 +5554,7 @@ FLOCK #v.#amassar se, gregar se#
 FLOCK #wool etc.#flocc#
 FLOE #n.#camp de glacie#
 FLOG #v.#flagellar (-ation), knutar, castigar#
-FLOOD #n.#torrent, flut, diluvie#
+FLOOD #n.#torrent, flut, diluvie#XXX FIXME flut?
 FLOOD #v.#inundar (-ation)#
 FLOOR #n.#suol, planc-suol; (storey) etage#
 FLORA #n.#(bot.) flora#
@@ -11055,7 +11055,7 @@ PIPER #n.#flautist, cornamusero#
 PIQUANT #adj.#picant (-ie)#
 PIQUE #n.#rancore, resentiment#
 PIQUE #v.#vexar, rancorar#
-PIRATE #n.#pirate (eríe, -ie, -ic), corsaro#
+PIRATE #n.#pirate (-eríe, -ie, -ic), corsaro#
 PIRATE #v.#editer sin jure, plagiar#
 PIROUETTE #n.#piruette (-ar)#
 PISCATORIAL #adj.#piscatori#
@@ -11204,7 +11204,7 @@ POACH #v.#(eggs) bollir sin cortice; (game) braconar (-age, -ero)#
 POCK #n.#variol-marca#
 POCKET #n.#tasca (-abil)#
 POCKET #v.#intascar#
-POCKETHANDKERCHIEF #n.#manu-toale, nas-linette#
+POCKET HANDKERCHIEF #n.#manu-toale, nas-linette#
 POCKETKNIFE #n.#canif#
 POD #n.#silique#
 PODGY #adj.#grass, carnut#
@@ -11324,7 +11324,7 @@ POSSE #n.#bande, truppe#
 POSSESS #v.#posseDer (-ssion, -ssiv, -ssor)#
 POSSESSION #n.#possession#
 POSSIBLE #adj.#possibil (-itá)#
-POST #n.#(pole) pal; (letters) posta (-al); (mil. etco) posto; (employment) oficie#
+POST #n.#(pole) pal; (letters) posta (-al); (mil. etc.) posto; (employment) oficie#
 POST #v.#(letters) inpostar, expedir; (mil.) postar; (accounts) inscrir; (bill-post) afichar, placatar#
 POST-DATE #v.#posdatar#
 POST-FREE ##porte-franc, porte payat#XXX FIXME -- adj. and adv.
@@ -11394,7 +11394,7 @@ PRAISE #n.#elogie, laude (-ar, -abil, -ativ)#
 PRAM #n.#coche de bebé#
 PRANCE #v.#saltettar#
 PRANK #n.#buffoneríe, escapade#
-PRATE #v.#babill(ach)ar, fanfaronar#
+PRATE #v.#babill(ach)ar, fanfaronar#XXX TODO separate
 PRATTLE #v.#babillettar#
 PRAWN #n.#crevette#
 PRAY #v.#pregar, suplicar#
@@ -11424,7 +11424,7 @@ PRECONCERTED #adj.#preconsentit#
 PRECURSOR #n.#precursor (-i)#
 PREDATORY #adj.#predatori; raptori, raptaci#
 PREDECEASE #v.#predeceDer#
-PREDECESSOR #n.#processor, antecessor#
+PREDECESSOR #n.#precessor, antecessor#
 PREDESTINATE #v.#predestinar (-ation)#
 PREDICAMENT #n.#embarassament#
 PREDICATE #n.#predicate#
@@ -11435,7 +11435,7 @@ PREDISPOSE #v.#preinclinar, predisposir#
 PREDOMINATE #v.#predominar (-ant, -antie), prevaler#
 PREEMINENT #n.#eminentissim, pre-eminent#
 PREEMPTION #n.#precompration#
-PREEN #v.#nettar; (preen oneself) orgolliar se#
+PREEN #v.#nettar; (preen oneself) orgolliar se#XXX TODO split?
 PREFACE #n.#prefacie (-ar), anteparol#
 PREFECT #n.#prefecte (-ura)#
 PREFER #v.#preferer (-entie, -ibil); promoer#
@@ -11463,7 +11463,7 @@ PREPONDERATE #v.#preponderar (-ant, -antie), prevaler#
 PREPOSITION #n.#preposition (-al)#
 PREPOSSESSING #adj.#atrativ#
 PREPOSSESSION #n.#inclination#
-PREPOSTEROUS #adj.#absurd(issim)#
+PREPOSTEROUS #adj.#absurd(issim)#XXX TODO separate
 PREPUCE #n.#prepucie#
 PREREQUISITE #n.#precondition#
 PREROGATIVE #n.#prerogative#
@@ -11478,10 +11478,10 @@ PRESENT #adj.#present#
 PRESENT #n.#don, donation; (gramm.) presente#
 PRESENT #v.#donar; presentar#
 PRESENTIMENT #n.#presentiment#
-PRESENTLY #adv.#bentost#
+PRESENTLY #adv.#bentost#XXX TODO add "nu"
 PRESERVE #n.#confitura, conserve; (game preserve) chassería#
 PRESERVE #v.#(protect) preservar (-ation, -ativ); (fruit) confiter, conservar#
-PRESIDE #v.#presider (-ante, -entie, -ential)#
+PRESIDE #v.#presider (-ente, -entie, -ential)#
 PRESS #n.#(newspapers) presse; (machine) pressuore; (printing press) print-machine; (of people) turbe#
 PRESS #v.#presser (-ion, -ura); (insist) insistentmen petir; pussar, urger#
 PRESSMAN #n.#jurnalist#
@@ -11613,7 +11613,7 @@ PROFUSE #adj.#exuberant, prodigal, abundant, extravagant (-ie)#
 PROGENITOR #n.#progenitor#
 PROGENITURE #n.#progenitura#
 PROGENY #n.#genitura, descendentes#
-PROGNOSIS #n.#prognoSe (-stic)#
+PROGNOSIS #n.#prognoSe (-stic)#XXX FIXME Why "S" in a noun?
 PROGNOSTICATE #v.#predir, profetisar, augurar#
 PROGRAMME #n.#programma#
 PROGRESS #n.#progresse, avansament#
@@ -11757,7 +11757,7 @@ PUCKER #n.#frunse (-ar)#
 PUDDING #n.#púdding#
 PUDDLE #n.#flac#
 PUDDLE #v.#(iron) puddlar#
-PUERILE #adj.#pueril (-itá), ihfantil#
+PUERILE #adj.#pueril (-itá), infantil#
 PUERPERAL #adj.#parturitional#
 PUFF #adj.#(pastry) foliat#
 PUFF #n.#(of air) soffle, brise, puss; (powder puff) pudre-quast; (advert.) boniment#
@@ -11854,10 +11854,10 @@ PUT DOWN #v.#deposir; inscrir, notar; subjugar#
 PUT OFF #v.#ajornar, procrastinar#
 PUT ON #v.#(sur)metter; (feign) ficter#
 PUT ON MAIL #v.#blindar#
-PUT OUT #v.#ejecter; vexar, iritar; extinter#
+PUT OUT #v.#ejecter; vexar, iritar; extinter#XXX NOTE reason to change semicolon to vertical bars
 PUT OUT FEELERS #v.#sondar#
 PUT OUT OF JOINT #v.#luxar#
-PUT OUT TO #v.#inatigar#
+PUT OUT TO #v.#inatigar#XXX FIXME already consulted
 PUT OUT WITH #v.#tolerar#
 PUT THE BLAME ON #v.#atribuer li culpa a#
 PUT TO DEATH #v.#mortar#
@@ -15067,7 +15067,7 @@ THIRTY #adj., n.#trianti#
 THIS #adj.#ti, ti ci#
 THIS #pron.#to, to ci#
 THIS IS DUE TO CARELESSNESS #expr.#to es debit a ínatention#
-THIS WAY #adv.#a ci#
+THIS WAY #adv.#a ci#XXX TODO Add the other meaning
 THISTLE #n.#carde#
 THITHER #adj., adv.#ta#
 THONG #n.#bande cutin, strap#

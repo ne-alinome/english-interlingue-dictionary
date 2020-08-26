@@ -63,6 +63,9 @@
 - Fix: "raconta" -> "raconte".
 - Update the list of programs used.
 - Update the list changes done in this edition.
+- Fix "-ente" -> "-nte", etc.
+- Check that participies are mentioned in the verbal roots.
+- Check accents: -oría, -aría, -ería, etc.
 
 // Doubts {{{1
 == Doubts
@@ -194,3 +197,6 @@
 - "BOYFRIEND"
 - "GIRLFRIEND"
 - "EXIT" (verb)
+- "BOXING" = box, boxada, pugilism
+- "CENTENNIAL".
+- "DEBUTAR".
