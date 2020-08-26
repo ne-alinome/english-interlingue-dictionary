@@ -11854,15 +11854,15 @@ PUT DOWN #v.#deposir; inscrir, notar; subjugar#
 PUT OFF #v.#ajornar, procrastinar#
 PUT ON #v.#(sur)metter; (feign) ficter#
 PUT ON MAIL #v.#blindar#
-PUT OUT #v.#ejecter; vexar, iritar; extinter#XXX NOTE reason to change semicolon to vertical bars
+PUT OUT #v.#extinter; vexar, iritar# XXX TODO anc ejecter?
 PUT OUT FEELERS #v.#sondar#
 PUT OUT OF JOINT #v.#luxar#
-PUT OUT TO #v.#inatigar#XXX FIXME already consulted
-PUT OUT WITH #v.#tolerar#
 PUT THE BLAME ON #v.#atribuer li culpa a#
 PUT TO DEATH #v.#mortar#
 PUT TO THE BLUSH #v.#ahontar, far hontar#
 PUT UP #v.#(at) logiar, pernoctar#
+PUT UP TO #v.#infatigar#
+PUT UP WITH #v.#tolerar#
 PUTATIVE #adj.#suposit, putativ#
 PUTREFY #v.#putrir, putrificar#
 PUTRESCENCE #n.#putrition#
