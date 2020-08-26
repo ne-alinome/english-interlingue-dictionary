@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008260147
+# Last modified 202008262021
 # See change log at the end of the file
 
 # ==============================================================
@@ -78,7 +78,7 @@ clean:
 .PHONY: $(dict_data_format)
 $(dict_data_format): tmp/$(dict_basename).$(dict_data_format)
 
-# XXX TODO -- Move adoc to <tmp>, because it's not ready to be reused, it has
+# XXX TODO Move adoc to <tmp>, because it's not ready to be reused, it has
 # an include.
 
 .PHONY: adoc
@@ -94,7 +94,7 @@ csv: target/$(book).csv
 dict: target/$(dict_basename).dict.dz
 
 .PHONY: epub
-epub: epuba epubd epubp epubx
+epub: epuba
 
 .PHONY: epuba
 epuba: target/$(book).adoc.epub
@@ -202,7 +202,7 @@ target/%.csv: src/%.txt
 # ==============================================================
 # Convert DocBook to EPUB {{{1
 
-# XXX OLD -- Deprecated.
+# XXX OLD Deprecated.
 
 # ------------------------------------------------
 # With dbtoepub
@@ -251,10 +251,10 @@ target/$(book).adoc.dbk.pandoc.epub: \
 	cd - && \
 	mv $@.zip $@
 
-# XXX TODO -- Find out how to pass parameters and their names, from the XLS:
+# XXX TODO Find out how to pass parameters and their names, from the XLS:
 #    --param epub.ncx.filename testing.ncx \
 
-# XXX TODO -- Add the stylesheet. The XLS must be modified first,
+# XXX TODO Add the stylesheet. The XLS must be modified first,
 # or the resulting XHTML must be modified at the end.
 #  cp -f src/xsltproc/stylesheet.css tmp/xsltproc/OEBPS/ && \
 
@@ -476,4 +476,5 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # Asciidoctor PDF. Deprecate the conversions from DocBook to EPUB. Add a main
 # "default" rule to build only the usual formats. Convert EPUB to AZW3.
 #
-# 2020-08-26: Build also a CSV data file. Compresse the PDF with zip and gzip.
+# 2020-08-26: Build also a CSV data file. Compresse the PDF with zip and
+# gzip. Deprecate the conversions from DocBook to EPUB.
