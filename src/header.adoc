@@ -17,7 +17,7 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 202008252234
+// Last modified 202008262024
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
@@ -88,15 +88,12 @@ Edition made only by libre programs::
 http://asciidoctor.org[Asciidoctor],
 https://github.com/asciidoctor/asciidoctor-epub3[Asciidoctor EPUB3],
 https://github.com/asciidoctor/asciidoctor-pdf[Asciidoctor PDF],
-http://docbook.sourceforge.net/release/xsl/current/epub/README[dbtoepub],
-http://debian.org[Debian],
+http://manual.calibre-ebook.com/generated/en/ebook-convert.html[ebook-convert],
 http://www.dict.org[dictfmt],
-http://git-scm.com/[Git],
-https://www.gnu.org/software/make/[GNU make],
-http://pandoc.org[pandoc],
-http://http://jonas.nitro.dk/tig[Tig],
-http://vim.org[Vim],
-http://xmlsoft.org/XSLT/[xsltproc]...
+http://imagemagick.org[ImageMagick],
+https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],
+http://vim.org[Vim]…
+on the http://debian.org[Debian] operating system.
 
 Version of this edition:: {revnumber}.
 
