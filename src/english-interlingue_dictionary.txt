@@ -1078,7 +1078,7 @@ BARN #n.#graniere#
 BARNACLE #n.#(goose) barnacle; (crustacean) cirripede#
 BAROMETER #n.#barometre (-ic)#
 BARON #n.#baron (-essa)#
-BAROQUE #adj.#baroc#XXX FIXME -- baroc?
+BAROQUE #adj.#baroc#
 BARQUE #n.#barca#
 BARRACKS #n.#baracca, caserne#
 BARRAGE #n.#barrage#
@@ -1187,7 +1187,7 @@ BE LACKING #v.#mancar#
 BE LEFT OVER #v.#restar#
 BE MISTAKEN #v.#errar#
 BE OBLIGED #v.#dever#
-BE OFF FOOD #v.#li apetite manca me#XXX FIXME
+BE OFF FOOD #v.#esser sin apetite, ne haver apetite#
 BE OFF! #interj.#for!, via!#
 BE ON DUTY #v.#dejorar#
 BE OUT OF #v.#esser sin, mancar#
@@ -2998,7 +2998,7 @@ CONFRONT #v.#confrontar (-ation)#
 CONFUSE #v.#confuser (-ion); inbrolliar#
 CONFUTE #v.#convicter pri erra, confutar#
 CONGEAL #v.#gelar, glaciar se, congelar (-ation)#
-CONGENER #n.#homogen#XXX FIXME Improve/complete translation
+CONGENER #n.#congenere, homogen#
 CONGENIAL #adj.#plesent, simpatic, afini#
 CONGENITAL #adj.#natural, de nascentie, ínnascet, congenital#
 CONGER #n.#mar-anguille, congre#
@@ -3236,7 +3236,7 @@ CORTEX #n.#cortice (-al)#
 CORUSCATE #v.#scintillear, brilliar#
 CORVETTE #n.#corvete#
 CORVINE #adj.#corvin#
-CORYPHAEUS #n.#corifé#XXX FIXME corypheous?
+CORYPHAEUS #n.#corifé#
 COSMETIC #adj.#grime, cosmetic#XXX FIXME n./adj., grime?
 COSMETIC #n.#cosmetico#
 COSMIC #adj.#cosmic#
@@ -3983,7 +3983,7 @@ DIABOLICAL #adj.#diabolic#
 DIADEM #n.#diadem#
 DIAGNOSIS #n.#diagnoSe (-ar, -tic, -tica)#
 DIAGONAL #adj.#diagonal#
-DIAGONAL #n.#diagonal(e)#XXX FIXME --
+DIAGONAL #n.#diagonal(e)#XXX FIXME -- delete parens?
 DIAGRAM #n.#diagramma (-tic), figura#
 DIAL #n.#disco#
 DIALECT #n.#dialecte (-ica)#
@@ -4039,7 +4039,7 @@ DIMINISH #v.#(di)minuer (-tion, -tiv), decrescer#
 DIMPLE #n.#cavette#
 DIN #n.#bruida#
 DIN INTO OUR EARS #v.#tamburar a nor oreles#
-DINGHLY #n.#yoll#XXX FIXME ->"DINGHY"?
+DINGHY #n.#yoll#
 DINGY #adj.#morni, sordid, obscur#
 DINING-ROOM #n.#manjatoria#
 DINNER #n.#diné#
@@ -4314,7 +4314,7 @@ DOG-ROSE #n.#savagi rose#
 DOG-STAR #n.#Sírius#
 DOGGED #adj.#tenaci, obstinat, infatigabil#
 DOGGEREL #n.#versaches, rimallia#
-DOGMA #n.#dogma (tic)#XXX FIXME -- "(tic)"?
+DOGMA #n.#dogma (-tic)#
 DOLE #n.#(share) parte, portion; almosne#
 DOLE #v.#(dole out) partir, distribuer#
 DOLEFUL #adj.#morni, trist#
@@ -4497,7 +4497,7 @@ DUEL #n.#duelle (-ar, -ante)#
 DUES #n.#impost#
 DUET #n.#duett#
 DUG #n.#tette, but on de mamme#
-DUKE #n.#due (-al, -atu, -essa)#XXX FIXME -- "due"?
+DUKE #n.#duce (-al, -atu, -essa)#
 DULCET #adj.#dulci#
 DULCIMER #n.#clavicímbal#
 DULL #adj.#(of sound) obtusi, insonori; (blunt) desacut; (stupid) stult, inept, stupid; (uninteresting) enoyant; (colour) pallid, matt, falb#
@@ -4585,7 +4585,7 @@ ECCENTRIC #adj.#excentric (-itá)#
 ECCENTRIC #n.#originale, particulard#
 ECCLESIASTIC #adj.#eclesiastic (-o), eclesial#
 ECHO #n.#ecó (-ar)#
-ECHO #v.#ecoar, repercusser (se)#XXX FIXME -- ecoar/ecóar (this entry was extracted from the noun)
+ECHO #v.#ecoar, repercusser (se)#
 ECLAT #n.#eclate (-ant)#
 ECLECTIC #adj.#eclectic#
 ECLIPSE #n.#eclipse#
@@ -4742,7 +4742,7 @@ EMINENT #adj.#eminent (-ie)#
 EMIR #n.#emir#
 EMISSARY #n.#emissario#
 EMIT #v.#emisser (-ion); far audir#
-EMMET #n.#formic#XXX FIXME -- formíc
+EMMET #n.#formíca#
 EMOLLIENT #adj.#emollant#
 EMOLUMENT #n.#honorarie, emolument#
 EMOTION #n.#emotion (-al, -alisme)#
@@ -5055,7 +5055,7 @@ EXCISE #v.#exciser (-ion)#
 EXCITE #v.#excitar (-abil, -ation, -ant)#
 EXCLAIM #v.#exclamar (-ation, -ativ, -atori)#
 EXCLUDE #v.#excluDer (-sion, -siv, -sivitá)#
-EXCOMMUNICATE #v.#excomunier (-ion)#XXX FIXME -- (-tion)
+EXCOMMUNICATE #v.#excomunicar (-tion)#
 EXCORIATE #v.#excoriar, scrappar#
 EXCREMENT #n.#excrement (-ari), fecallia#
 EXCRESCENCE #n.#excrescentie#
@@ -5206,7 +5206,7 @@ FAIRY #adj.#feeric#
 FAIRY #n.#fea, silf(a), elf#
 FAIRY ART #n.#feeríe#
 FAIRY TALE #n.#fiaba#
-FAITH #n.#fide, crede, confidentic; confession#XXX FIXME -- "confidentic"?
+FAITH #n.#fide, crede, confidentie; confession#
 FAITHFUL #adj.#fidel (-itá)#
 FAITHLESS #adj.#ínfidel, perfid (-ie)#
 FAKE #n.#fraude; (naut.) rul de cordage#
@@ -5249,12 +5249,12 @@ FANTASY #n.#fantasie#
 FAR #adj.#lontan, distant#
 FAR #adv.#mult#
 FAR AFIELD #adv.#in lontanie#
-FAR TOO MUCH #adj.#mult tro mult#XXX FIXME -- adj./adv.?
+FAR TOO MUCH #adj.#mult tro mult#
 FARCE #n.#farse, buffa, comedie; (cul.) farce#
 FARE #n.#nutriment; passagero; precie#
 FARE #v.#standar#
 FAREWELL #adj.#demissional#
-FAREWELL #interj.#adío, til revide!#
+FAREWELL #interj.#adío!, til revide!#
 FARINA #n.#farine#
 FARM #n.#farme (-ero)#
 FARM #v.#cultivar; (farm out) locar, forluar#
@@ -5380,7 +5380,7 @@ FIDDLE STRING #n.#corde#
 FIDDLESTICKS #n.#nonsense#
 FIDELITY #n.#fidelitá#
 FIDGET #v.#esser desquiet, movettar se nervosimen#
-FIE #interj.#fi!#XXX FIXME -- homogenize "!" in all interj.
+FIE #interj.#fi!#
 FIELD #n.#agre, prate, camp#
 FIELD HOSPITAL #n.#ambulantia#
 FIELD-GLASS #n.#binocul#
@@ -9635,7 +9635,7 @@ MUDGUARD #n.#para-mudde, para-fango#
 MUDSCRAPER #n.#demuddator#
 MUFF #n.#muff#
 MUFFLE #v.#(wrap up) invelopar; (of sound) obtuser (-ion)#
-MUFFLED #adj.#obtus#XXX FIXME -- obtus?
+MUFFLED #adj.#obtus#
 MUFFLER #n.#col-charpe#
 MUFTI #n.#vestiment civil; (title) mufti#
 MUG #n.#cruche, cop(ette); (tankard) chop; (fig.) stulton#
