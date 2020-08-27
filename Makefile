@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008262021
+# Last modified 202008271905
 # See change log at the end of the file
 
 # ==============================================================
@@ -149,7 +149,8 @@ cleancover:
 .SECONDARY: tmp/$(book).txt.adoc
 
 tmp/%.txt.adoc: src/%.txt
-	sed -e "s/^\(.\+\) \+#\(.\+\)\?#\(.\+\)#.*/- .\1. (\2): \3/"  $< > $@
+	sed -e "s/^\(.\+\) \+#\(.\+\)\?#\(.\+\)#.*/- .\1. (\2): \3/"  $< | \
+	sed -e "s/; / |{nbsp}/g" > $@
 	vim -S make/add_letter_headings.vim $@
 
 target/$(book).adoc: \
@@ -197,7 +198,7 @@ target/%.csv: src/%.txt
 	zip -9 $@ $<
 
 %.pdf.gz: %.pdf
-	gzip $<
+	gzip --force $<
 
 # ==============================================================
 # Convert DocBook to EPUB {{{1
@@ -444,8 +445,8 @@ tmp/$(cover).pdf: target/$(cover).jpg
 #
 # 2019-02-27: Fix metadata parameters of pandoc. Replace ISO 639-1 'ie' code
 # with ISO-639-3 'ile' in the DICT file name, after the usual convention in
-# collections of DICT dictionaries. Reuse the header in the DICT format.
-# Don't use xsltproc by default.
+# collections of DICT dictionaries. Reuse the header in the DICT format. Don't
+# use xsltproc by default.
 #
 # 2019-03-05: Update the URL of the original data of the DICT format.
 #
@@ -459,22 +460,24 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # 2019-08-21: Fix sed expression to accept empty word-type fields. Formerly
 # those records were added to the previous one, ruining the output.
 #
-# 2019-08-24: Update: field separator "|" now is "#", and the first field has
-# a trailing space.
+# 2019-08-24: Update: field separator "|" now is "#", and the first field has a
+# trailing space.
 #
-# 2019-09-15: Fix the sed expression that converts the original text data
-# file to dictfmt's input format. The bug was introduced on 2019-08-24.
-# Update the filename extension of the data file, from TSV to TXT.
+# 2019-09-15: Fix the sed expression that converts the original text data file
+# to dictfmt's input format. The bug was introduced on 2019-08-24. Update the
+# filename extension of the data file, from TSV to TXT.
 #
 # 2020-04-06: Improve requirements list. Replace DocBook extension "xml" with
 # "dbk". Update the publisher. Build an EPUB also with Asciidoctor EPUB3.
-# Change the names of the PDF versions to make both of them be listed
-# together. 2020-08-23: Add a dot also at the end of the headwords, in e-book
-# formats.
+# Change the names of the PDF versions to make both of them be listed together.
+# 2020-08-23: Add a dot also at the end of the headwords, in e-book formats.
 #
 # 2020-08-24: Build a cover image. Use it with Asciidoctor EPUB3 and
 # Asciidoctor PDF. Deprecate the conversions from DocBook to EPUB. Add a main
 # "default" rule to build only the usual formats. Convert EPUB to AZW3.
 #
-# 2020-08-26: Build also a CSV data file. Compresse the PDF with zip and
-# gzip. Deprecate the conversions from DocBook to EPUB.
+# 2020-08-26: Build also a CSV data file. Compresse the PDF with zip and gzip.
+# Deprecate the conversions from DocBook to EPUB.
+#
+# 2020-08-27: Convert the semicolons into vertical bars in the Asciidoctor
+# document.
