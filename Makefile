@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008281724
+# Last modified 202008281825
 # See change log at the end of the file
 
 # ==============================================================
@@ -114,15 +114,11 @@ odt: target/$(book).adoc.dbk.pandoc.odt
 .PHONY: pdf
 pdf: pdfa4 pdfletter
 
-# NOTE: First the zip (which preserves the PDF),
-# then the gzip (which deletes it):
 .PHONY: pdfa4
 pdfa4: \
 	target/$(book).adoc._a4.pdf.zip \
 	target/$(book).adoc._a4.pdf.gz
 
-# NOTE: First the zip (which preserves the PDF),
-# then the gzip (which deletes it):
 .PHONY: pdfletter
 pdfletter: \
 	target/$(book).adoc._letter.pdf.zip \
@@ -185,20 +181,24 @@ target/%.csv: src/%.txt
 # ==============================================================
 # Convert Asciidoctor to PDF {{{1
 
-%.adoc._a4.pdf: %.adoc tmp/$(cover).pdf
+.SECONDARY: \
+	tmp/$(book).adoc._a4.pdf \
+	tmp/$(book).adoc._letter.pdf
+
+tmp/%.adoc._a4.pdf: target/%.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--out-file=$@ $<
 
-%.adoc._letter.pdf: %.adoc tmp/$(cover).pdf
+tmp/%.adoc._letter.pdf: target/%.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
 
-%.pdf.zip: %.pdf
+target/%.pdf.zip: tmp/%.pdf
 	zip -9 $@ $<
 
-%.pdf.gz: %.pdf
-	gzip --force $<
+target/%.pdf.gz: tmp/%.pdf
+	gzip -9 --stdout $< > $@
 
 # ==============================================================
 # Convert DocBook to EPUB {{{1
@@ -393,4 +393,5 @@ include Makefile.cover_image
 # document.
 #
 # 2020-08-28: Move the cover image rules to an independent file. Fix author on
-# the cover.
+# the cover. Improve the compression of PDF files and keep them also
+# uncompressed in <tmp>.
