@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-26
+:revdate: 2020-08-28
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -66,6 +66,7 @@
 - Fix "-ente" -> "-nte", etc.
 - Check that participies are mentioned in the verbal roots.
 - Check accents: -oría, -aría, -ería, etc.
+- Fix "ad. circa" in "ROUNDABOUT".
 
 // Doubts {{{1
 == Doubts
@@ -153,6 +154,8 @@
 - Confirm difference: "RED TAPE" and "RED-TAPE".
 - Confirm «parol pro parol» or «parol por parol».
 - Confirm «star» in «STAR GAZER #n.#astrologo; (stage etc.) star#».
+- Confirm "concernent" in "ABOUT".
+- Confirm "circa tam mult" in "THEREABOUTS".
 
 // Notes about the contents {{{1
 == Notes about the contents
