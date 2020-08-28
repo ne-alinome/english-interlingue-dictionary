@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008271905
+# Last modified 202008281724
 # See change log at the end of the file
 
 # ==============================================================
@@ -57,7 +57,7 @@ dict_data_url=http://ne.alinome.net
 dict_data_format=j
 
 cover=$(book)_cover
-cover_author="Dr. Fritz Haas"
+cover_author="Charles Kemp\nF.R. Pope"
 cover_title="English-\nInterlingue\nDictionary"
 
 # ==============================================================
@@ -342,97 +342,7 @@ uninstall:
 # ==============================================================
 # Create the cover image {{{1
 
-# ------------------------------------------------
-# Create the canvas and texts of the cover image {{{2
-
-font=Helvetica
-background=yellow
-fill=black
-strokewidth=4
-logo='\#FFD700' # gold
-
-tmp/$(cover).title.png:
-	convert \
-		-background transparent \
-		-fill $(fill) \
-		-font $(font) \
-		-pointsize 128 \
-		-size 1200x \
-		-gravity east \
-		caption:$(cover_title) \
-		$@
-
-tmp/$(cover).author.png:
-	convert \
-		-background transparent \
-		-fill $(fill) \
-		-font $(font) \
-		-pointsize 72 \
-		-size 896x \
-		-gravity east \
-		caption:$(cover_author) \
-		$@
-
-tmp/$(cover).publisher.png:
-	convert \
-		-background transparent \
-		-fill $(fill) \
-		-font $(font) \
-		-pointsize 24 \
-		-gravity east \
-		-size 128x \
-		caption:$(publisher) \
-		$@
-
-tmp/$(cover).logo.png: img/icon_plaincircle.svg
-	convert $< \
-		-fuzz 50% \
-		-fill $(background) \
-		-opaque white \
-		-fuzz 50% \
-		-fill $(logo) \
-		-opaque black \
-		-resize 256% \
-		$@
-
-tmp/$(cover).decoration.png: img/$(book)_cover_decoration.png
-	convert $< \
-		-fuzz 10% \
-		-fill $(background) \
-		-opaque white \
-		-resize 48% \
-		$@
-
-# ------------------------------------------------
-# Create the cover image {{{2
-
-target/$(cover).jpg: \
-	tmp/$(cover).title.png \
-	tmp/$(cover).author.png \
-	tmp/$(cover).publisher.png \
-	tmp/$(cover).logo.png \
-	tmp/$(cover).decoration.png
-	convert -size 1200x1600 canvas:$(background) $@
-	composite -gravity south     -geometry +000+000 tmp/$(cover).logo.png $@ $@
-	composite -gravity northeast -geometry +048+048 tmp/$(cover).title.png $@ $@
-	composite -gravity northeast -geometry +048+512 tmp/$(cover).author.png $@ $@
-	composite -gravity southeast -geometry +048+048 tmp/$(cover).publisher.png $@ $@
-	composite -gravity west      -geometry +102+170 tmp/$(cover).decoration.png $@ $@
-
-# ------------------------------------------------
-# Convert the cover image to PDF {{{2
-
-# This is needed in order to make sure the cover image ocuppies the whole page
-# in the PDF versions of the book.
-
-tmp/$(cover).pdf: target/$(cover).jpg
-	img2pdf --output $@ --border 0 $<
-
-# ------------------------------------------------
-# Create a thumb version of the cover image {{{2
-
-%_thumb.jpg: %.jpg
-	convert $< -resize 190x $@
+include Makefile.cover_image
 
 # ==============================================================
 # Change log {{{1
@@ -476,8 +386,11 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # Asciidoctor PDF. Deprecate the conversions from DocBook to EPUB. Add a main
 # "default" rule to build only the usual formats. Convert EPUB to AZW3.
 #
-# 2020-08-26: Build also a CSV data file. Compresse the PDF with zip and gzip.
+# 2020-08-26: Build also a CSV data file. Compress the PDF with zip and gzip.
 # Deprecate the conversions from DocBook to EPUB.
 #
 # 2020-08-27: Convert the semicolons into vertical bars in the Asciidoctor
 # document.
+#
+# 2020-08-28: Move the cover image rules to an independent file. Fix author on
+# the cover.
