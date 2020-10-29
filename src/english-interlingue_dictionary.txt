@@ -2919,7 +2919,7 @@ COMPRESS #v.#compresser (-ion, -or, -ibil)#
 COMPRISE #v.#inbrassar, contener, incluDer#
 COMPROMISE #n.#compromisse, arangeament#
 COMPROMISE #v.#compromisser (-ion); (a person) comprometter (-ent)#
-COMPULSION #n.#fortiation, pression,obligation#
+COMPULSION #n.#fortiation, pression, obligation#
 COMPULSORY #adj.#obligativ, obligatori#
 COMPUNCTION #n.#remorse, contrition#
 COMPUTE #v.#computar, calcular; evaluar, taxar (-ation)#
@@ -3915,7 +3915,7 @@ DESIGNATE #v.#designar (-ation, -abil), destinar, nominar#
 DESIGNING #adj.#perfid, astut#
 DESIRE #n.#desire (-ar, -abil)#
 DESIST #v.#cessar, detener se#
-DESK #n.#pupitre,scri-table#
+DESK #n.#pupitre, scri-table#
 DESOLATE #adj.#desert, desolat, isolat#
 DESOLATE #v.#devastar (-ation)#
 DESPAIR #v.#desesperar (-antie)#
@@ -5039,7 +5039,7 @@ EXAMINE #v.#examinar (-ation, -ator), investigar; inquisir, provar; (med.) sonda
 EXAMPLE #n.#(instance) exemple; (copy) exemplare; (sample) mustre, specimen#
 EXASPERATE #v.#exasperar (-ation), iritar#
 EXCAVATE #v.#excavar (-ation, -ator), exfossar, subminar#
-EXCEED #v.#exceder (-ent), transpassar,superar, superpassar#
+EXCEED #v.#exceder (-ent), transpassar, superar, superpassar#
 EXCEEDINGLY #adv.#excessivmen, extremmen#
 EXCEL #v.#exceller (-ent, -entie), eminer#
 EXCEPT #conj.#except que, si … ne#
@@ -16517,7 +16517,7 @@ WRAP #n.#(dress) chale#
 WRAP #v.#voluer, velopar#
 WRAP UP #v.#invelopar, inballar#
 WRAPPER #n.#(of book) covriment; (newspaper) banderol#
-WRATH #n.#colere (-osi, -ic); índignation,ira#
+WRATH #n.#colere (-osi, -ic); índignation, ira#
 WREAK #v.#inflicter; (vengeance) venjar#
 WREATH #n.#guirlande#
 WREATHE #v.#plecter; adornar, guirlandar#
