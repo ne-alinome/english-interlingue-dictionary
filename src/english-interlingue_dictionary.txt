@@ -7512,7 +7512,7 @@ INDOOR #adj.#chambre-#
 INDOORS #adv.#in dom, in hem, intern#
 INDORSE #v.#indossar (-ainent)#
 INDUBITABLE #adj.#índubitabil#
-INDUCE #v.#persuaDer, causar; indueter#
+INDUCE #v.#persuaDer, causar; inducter#
 INDUCEMENT #n.#motive, stimul#
 INDUCT #v.#inducter (-ion, -or, -iv) , installar, introducter, iniciar (a)#
 INDULGE #v.#(be indulgent) indulger, favori sar; (grant) octroyar; satisfar#
