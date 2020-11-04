@@ -17,11 +17,11 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 202011041915
+// Last modified 202011041919
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
-:this: this dictionary
+:work: dictionary
 :http: http://
 :headwords:
 endif::[]
@@ -31,7 +31,7 @@ the headwords are surrounded by dots.
 
 ifeval::["{format}"=="e-book"]
 :in_other_formats: in DICT, EPUB, PDF and other formats
-:this: this book
+:work: book
 :http:
 :headwords: {headwordsnote}
 endif::[]
@@ -39,7 +39,7 @@ endif::[]
 ifdef::backend-epub3[]
 :format: EPUB3
 :in_other_formats: also in DICT, PDF and other formats
-:this: this book
+:work: book
 :http:
 :headwords: {headwordsnote}
 endif::[]
@@ -47,13 +47,13 @@ endif::[]
 ifdef::backend-pdf[]
 :format: PDF
 :in_other_formats: also in DICT, EPUB and other formats
-:this: this book
+:work: book
 :http:
 :headwords: {headwordsnote}
 endif::[]
 
 [colophon]
-== About {this}
+== About this {work}
 
 Title:: {doctitle}.
 
