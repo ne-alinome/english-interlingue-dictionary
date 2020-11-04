@@ -7800,7 +7800,7 @@ INTERVENE #v.#intervenir (-tion)#
 INTERVIEW #n.#interview (-ar)#
 INTERWEAVE #v.#intertexter#
 INTESTATE #adj.#íntestat#
-INTESTINE #n.#intestine (-al); (the small) ileum#
+INTESTINE #n.#intestine (-al); (the small intestine) ileum#
 INTIMACY #n.#intimitá#
 INTIMATE #adj.#intim (-a, -o)#
 INTIMATE #v.#suggester, informar#

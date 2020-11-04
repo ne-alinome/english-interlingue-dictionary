@@ -73,7 +73,7 @@
 
 - Confirm entry "fro, to and".
 - Confirm "BEATITUD beatitá. BEATITUDES: \~".
-- Confirm "INTESTINE\~ (-al); (the small) ileum". The small intestine
+- Confirm "(the small intestine) ileum". The small intestine
   consists of three parts: the duodenum, jejunum, and ileum.
 - Confirm: comma before "etc".
 - Confirm certain compound headwors, e.g. "GOOD-FELLOWSHIP".
