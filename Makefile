@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008281825
+# Last modified 202011051814
 # See change log at the end of the file
 
 # ==============================================================
@@ -345,6 +345,13 @@ uninstall:
 include Makefile.cover_image
 
 # ==============================================================
+# Build the release archives {{{1
+
+version_file=src/VERSION.adoc
+
+include Makefile.release
+
+# ==============================================================
 # Change log {{{1
 
 # 2019-02-06: Start. Make DICT.
@@ -395,3 +402,5 @@ include Makefile.cover_image
 # 2020-08-28: Move the cover image rules to an independent file. Fix author on
 # the cover. Improve the compression of PDF files and keep them also
 # uncompressed in <tmp>.
+#
+# 2020-11-05: Include <Makefile.release>.
