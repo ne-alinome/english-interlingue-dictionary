@@ -17,7 +17,7 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net)
 
-// Last modified 202011041919
+// Last modified 202011051844
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
@@ -67,15 +67,16 @@ Transcription of the original contents:: François Comparot et al., c.
 http://interlingue.narod.ru/[{http}interlingue.narod.ru] and
 http://ie-munde.com[{http}ie-munde.com].
 
-Revision and {format} edition:: Marcos Cruz, 2019, 2020.  Available in
-http://ne.alinome.net[{http}ne.alinome.net] {in_other_formats}.
+Revision and {format} edition:: Marcos Cruz, 2019, 2020.  Available
+{in_other_formats} in http://ne.alinome.net[{http}ne.alinome.net]
+and http://github.com/ne-alinome[{http}github.com/ne-alinome].
 
 Main changes in this edition::
 
 - All errors and typos found, including punctuation, layout and
   notation, have been fixed.
 - In order to facilitate the searching all entries have been splitted
-  by type.  {headwords}
+  by type. {headwords}
 - In order to make the contents more legible and reusable in any format, 
   the tildes in the definitions have been replaced with the
   headwords.
