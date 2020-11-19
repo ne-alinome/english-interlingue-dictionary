@@ -68,6 +68,7 @@
 - Check accents: -oría, -aría, -ería, etc.
 - Fix "ad. circa" in "ROUNDABOUT".
 - Add "deputate" to "DEPUTY".
+- Regularize "ti ci/ta" and "ti-ci/ta".
 
 // Doubts {{{1
 == Doubts
@@ -196,9 +197,8 @@
 - "YORE" (used in "OF YORE").
 - "BACTERIUM"
 - "BOYFRIEND"
-- "GIRLFRIEND"
+- "GIRLFRIEND" (in _Interlingue Course in 10 Lessons_: "amata")
 - "BOYFRIEND"
-- "GIRLFRIEND"
 - "EXIT" (verb)
 - "BOXING" = box, boxada, pugilism
 - "CENTENNIAL".
