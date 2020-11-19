@@ -4725,7 +4725,7 @@ EMBOSS #v.#bossar, reliefar, bosselar#
 EMBRACE #v.#inbrassar, circumbrassar#
 EMBRASURE #n.#embrasura#
 EMBROCATION #n.#frotte-remedie#
-EMBROIDER #v.#brodar (-erie, -ero)#
+EMBROIDER #v.#brodar (-eríe, -ero)#
 EMBROIL #v.#implicar, inbrolliar (ye); (things) complicar#
 EMBRYO #n.#embrion (-ic)#
 EMEND #v.#emendar (-ation, -abil)#
@@ -7988,7 +7988,7 @@ JERRY-BUILT #adj.#ínsolidmen construetet#
 JERSEY #n.#jersé; veste ex lan#
 JERUSALEM ARTICHOKE #n.#topinambur#
 JESSAMINE #n.#jasmine#
-JEST #n.#joca, burla (-ar, -erie, -on)#
+JEST #n.#joca, burla (-ar, -eríe, -on)#
 JESUIT #n.#jesuit (-ic)#
 JET #n.#spruzza; (gas jet) bec de gas; (min.) gagate#
 JET-PROPELLED #adj.#roquette-propulset#
@@ -7996,7 +7996,7 @@ JETSAM #n.#jettallia#
 JETTISON #v.#forjettar#
 JETTY #n.#molo, diga#
 JEW #n.#judéo (-ic, -isme, -isar)#
-JEWEL #n.#juvel (-ero, -erie, -eria)#
+JEWEL #n.#juvel (-ero, -eríe, -ería)#
 JIB #n.#(naut.) jib#
 JIB #v.#paver, esser obstinat#
 JIG #n.#jig (dansa irlandesi)#
@@ -9217,7 +9217,7 @@ MEMORIAL #n.#memoriale, monument; petition#
 MEMORY #n.#memorie (-isar)#
 MENACE #n.#menacie (-ar)#
 MENAGE #n.#menage (-ero, -era)#
-MENAGERIE #n.#bestiarium; menagerie#XXX TODO -- Check.
+MENAGERIE #n.#bestiarium; menageríe#
 MEND #v.#reparar, repezzar; (improve) amelio rar (sé); (patch) lappar#
 MENDACIOUS #adj.#mentaci (-itá), mentosi#
 MENDICANT #adj.#mendicant (-ie)#
@@ -10273,7 +10273,7 @@ ORDINAL #n.#ordinale#
 ORDINANCE #n.#ordon, decrete ritu#
 ORDINARY #adj.#ordinari, usual#
 ORDINATION #n.#ordination, consacration#
-ORDNANCE #n.#artillerie#
+ORDNANCE #n.#artillerie#XXX FIXME
 ORDURE #n.#excrement#
 ORE #n.#minerale (metalliferi)#
 ORGAN #n.#organ (-ist)#

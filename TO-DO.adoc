@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-07
+:revdate: 2020-11-19
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -26,7 +26,6 @@
 - Duplicate example expressions as entries. The original does it, e.g.
   "CHEST OF DRAWERS" is an entry, but also part of of "DRAWER". Also
   "INLAID FLOOR".  Candidates: "WHITE OF EGG", "ERE LONG"...
-- Fix "-eria" -> "-ería".
 - Fix : In the original transcription "BOOKMARK" was at the end of
   "BOOK" without translation.
 - Fix notation . "AT ONE'S WITS' END esser al fine de su Latin, plu ne
