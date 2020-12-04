@@ -1,6 +1,6 @@
 = English-Interlingue Dictionary
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-04-06
+:revdate: 2020-12-04
 :toc:
 :toc-levels: 2
 :toc-title: Contents/Contenete/Enhavo
@@ -13,8 +13,10 @@
 
 :user: ~
 
+// English {{{1
 == English
 
+// About this project {{{2
 === About this project
 
 Goal:: Create an EPUB e-book and a DICT format dictionary, among other
@@ -25,6 +27,10 @@ Author:: Marcos Cruz (programandala.net), 2019
 
 Website:: http://ne.alinome.net[ne.alinome.net]
 
+Note: On 2020-12-04 the Git repository was converted to
+http://fossil-scm.rog[Fossil]. GitHub is used only as a copy.
+
+// How to build the dictionary {{{2
 === How to build the dictionary
 
 If you cannot wait the release of the next version, you can build the
@@ -58,6 +64,7 @@ follows:
 
 The documents are built in the <target> directory.
 
+// DICT command (for GNU/Linux systems) {{{2
 === DICT command (for GNU/Linux systems)
 
 
@@ -67,8 +74,10 @@ can copy or link it to a location in your path, e.g. as <{user}/bin/>,
 Then the command `ie` will search all installed dictonaries that have
 the word "interlingue" (case insensitive) in their description.
 
+// Interlingue {{{1
 == Interlingue
 
+// Pri ti projecte {{{2
 === Pri ti projecte
 
 Scope:: Crear un EPUB-libre e un DICT-formati dictionarium, inter
@@ -80,6 +89,10 @@ Autor:: Marcos Cruz (programandala.net), 2019
 
 Loc web:: http://ne.alinome.net[ne.alinome.net]
 
+Note: In 2020-12-04 li depositoria de Git esset convertet a
+http://fossil-scm.org[Fossil]. GitHub es usat solmen quam un copie.
+
+// Qualmen constructer li dictionarium {{{2
 === Qualmen constructer li dictionarium
 
 Si vu ne posse atender li liberation de li sequent version, vu self
@@ -114,6 +127,7 @@ ti exemples:
 
 Li documentes es creat in li documentiere <target> (scope).
 
+// DICT-comande (por sistemas GNU/Linux) {{{2
 === DICT-comande (por sistemas GNU/Linux)
 
 Li document <src/interlingue.sh> es un comande por simplificar li
@@ -124,8 +138,10 @@ un ex tui documentieres de programas, por exemple <{user}/bin/>,
 quel have li parol "interlingue" in lor descrition (índiferent per
 majuscules o minuscules).
 
+// Esperanto {{{1
 == Esperanto
 
+// Pri ĉi projekto {{{2
 === Pri ĉi projekto
 
 Celo:: Krei  EPUB-an bitlibron kaj DICT-formatan vortaron, inter aliaj
@@ -137,6 +153,10 @@ Aŭtoro:: Marcos Cruz (programandala.net), 2019
 
 Retpaĝaro:: http://ne.alinome.net[ne.alinome.net]
 
+Noto: Je 2020-12-04 la Git-deponejo estis konvertita al
+http://fossil-scm.org[Fossil]. GitHub estas uzata nur kiel kopio.
+
+// Kiel konstrui la vortaron {{{2
 === Kiel konstrui la vortaron
 
 Se vi ne povas atendi la publikigon de la venonta versio, vi mem povas
@@ -168,6 +188,7 @@ jene:
 
 La dosieroj estos kreitaj en la dosierujo <target> (celo).
 
+// DICT-ordono (por sistemoj GNU/Linux) {{{2
 === DICT-ordono (por sistemoj GNU/Linux)
 
 La dosiero <src/interlingue.sh> estas simplig-ordono por DICT-serĉoj.
