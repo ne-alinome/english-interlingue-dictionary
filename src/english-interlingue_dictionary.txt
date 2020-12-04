@@ -3527,7 +3527,7 @@ CURMUDGEON #n.#avaron, mesquino#
 CURRANT #n.#crusbere#
 CURRENCY #n.#circulation; valuta, moné#
 CURRENT #adj.#current, fluent, circulant#
-CURRICULUM #n.#curriculum#
+CURRICULUM #n.#currículum#
 CURRIER #n.#preparator de cute#
 CURRY #n.#carri#
 CURRY FAVOUR #v.#insinuar se#
