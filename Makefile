@@ -1,12 +1,12 @@
-# Makefile of _English-Interlingue Dictionary_
+# Makefile
 
 # This file is part of the project
-# _English-Interlingue Dictionary_
+# "English-Interlingue Dictionary"
 # (http://ne.alinome.net)
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202011141424
+# Last modified 202012052008
 # See change log at the end of the file
 
 # ==============================================================
@@ -145,7 +145,7 @@ cleancover:
 .SECONDARY: tmp/$(book).txt.adoc
 
 tmp/%.txt.adoc: src/%.txt
-	sed -e "s/^\(.\+\) \+#\(.\+\)\?#\(.\+\)#.*/- .\1. (\2): \3/"  $< | \
+	sed -e "s/^\(.\+\) *#\(.\+\)\?#\(.\+\)#.*/- .\1. (\2): \3/"  $< | \
 	sed -e "s/; / |{nbsp}/g" > $@
 	vim -S make/add_letter_headings.vim $@
 
@@ -158,7 +158,7 @@ target/$(book).adoc: \
 # Convert the original data to CSV {{{1
 
 target/%.csv: src/%.txt
-	sed -e 's/^\(.\+\) \+#\(.\+\)\?#\(.\+\)#.*/"\1","\2","\3"/'  $< > $@
+	sed -e 's/^\(.\+\) *#\(.\+\)\?#\(.\+\)#.*/"\1","\2","\3"/'  $< > $@
 
 # ==============================================================
 # Convert Asciidoctor to DocBook {{{1
@@ -408,3 +408,6 @@ include Makefile.release
 # 2020-11-05: Include <Makefile.release>.
 #
 # 2020-11-14: Update to the new vesion of <Makefile.release>.
+#
+# 2020-12-05: Update the conversion of the original data, ignoring the trailing
+# spaces of the headword.
