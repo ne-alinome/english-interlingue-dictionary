@@ -29,7 +29,7 @@ Website:: http://ne.alinome.net[ne.alinome.net]
 
 :note-caption: Note
 NOTE: On 2020-12-04 the Git repository was converted to
-http://fossil-scm.rog[Fossil]. GitHub is used only as a copy.
+http://fossil-scm.org[Fossil]. GitHub is used only as a copy.
 
 // How to build the dictionary {{{2
 === How to build the dictionary
