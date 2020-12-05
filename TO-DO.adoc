@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-24
+:revdate: 2020-12-05
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
@@ -67,7 +67,6 @@
 - Check accents: -oría, -aría, -ería, etc.
 - Fix "ad. circa" in "ROUNDABOUT".
 - Add "deputate" to "DEPUTY".
-- Regularize "ti ci/ta" and "ti-ci/ta".
 
 // Doubts {{{1
 == Doubts

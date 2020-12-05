@@ -8320,7 +8320,7 @@ LATHER #v.#insaponar#
 LATHWORK #n.#lattage#
 LATITUDE #n.#latitúdine; (freedom) libertá#
 LATRINE #n.#latrine#
-LATTER #adj.#ultim, ti ci#
+LATTER #adj.#ultim, ti-ci#
 LATTICE #n.#trellie (-age)#
 LAUD #n.#laude (-ar, -abil, -ativ)#
 LAUDANUM #n.#tinctura de opium#
@@ -14971,9 +14971,9 @@ THANK YOU #expr.#mersí#
 THANKFUL #adj.#grat (-itá), mersiosi#
 THANKLESS #adj.#íngrat#
 THANKS #expr.#mersí#
-THAT #adj.#ti#
+THAT #adj.#ti, ti-ta#
 THAT #conj.#que; (the one which) quel; (the thing which) quo#
-THAT #pron.#to#
+THAT #pron.#ti, ti-ta| to, to-ta#
 THAT CAN'T BE HELPED #expr.#to ne posse esser remediat#
 THAT DOESN'T MATTER #expr.#to ne fa nequo#XXX FIXME -- duplic negation
 THAT IS TO SAY #conj.#a saver#
@@ -15039,8 +15039,8 @@ THEREFORE #conj.#ergo, dunc#
 THEREUPON #adv.#poy#
 THERMO #n.#termometre, -scop etc.#
 THESAURUS #n.#tresor#
-THESE #adj.#ti#
-THESE #pron.#tis#
+THESE #adj.#ti, ti-ci#
+THESE #pron.#tis, tis-ci#
 THESIS #n.#tese, dissertation#
 THEY #pron.#ili#
 THEY CAN #expr.#ili posse#
@@ -15064,8 +15064,8 @@ THIRST #v.#haver sete#
 THIRSTY #adj.#setosi; arid#
 THIRTEEN #adj., n.#deci-tri#
 THIRTY #adj., n.#trianti#
-THIS #adj.#ti, ti ci#
-THIS #pron.#to, to ci#
+THIS #adj.#ti, ti-ci#
+THIS #pron.#ti, ti-ci; to, to-ci#
 THIS IS DUE TO CARELESSNESS #expr.#to es debit a ínatention#
 THIS WAY #adv.#a ci#XXX TODO Add the other meaning
 THISTLE #n.#carde#
@@ -15077,8 +15077,8 @@ THOROUGH #adj.#complet; scrupulosi#
 THOROUGHBRED #adj.#de pur rasse#
 THOROUGHFARE #n.#passage; chossé#
 THOROUGHLY #adv.#a funde#
-THOSE #adj.#ti#
-THOSE #pron.#tis (ta)#
+THOSE #adj.#ti, ti-ta#
+THOSE #pron.#tis, tis-ta#
 THOU #pron.#tu#
 THOUGH #conj.#benque#
 THOUGHT #n.#pense; pensada; idé; meditation#
