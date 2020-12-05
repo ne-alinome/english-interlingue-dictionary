@@ -2,12 +2,12 @@ A#art.#un#
 A BANK OVERGROWN WITH THYME#n.#un banca u luxuria li tim#
 A CLOSE FIGHT#n.#un combatte long índecidet#
 A DOWNRIGHT FOOL#n.#un absolut follo#
-A FOUR#n.#quadren#
+A FOUR#n.#quadrene#
 A GOOD DEAL#adj.#mult, sat mult#
 A LOT OF#adj.#mult#
 A MAN OF LETTERS#n.#litterato#
 A MATTER OF COURSE#n.#un afere natural#
-A ONE#n.#unen#
+A ONE#n.#unene#
 A PIECE OF NEWS#n.#un nova#
 A SMATTERER IN PHILOSOPHY#n.#un filosofastro#
 A WORK OF SUPEREROGATION#n.#superflú bonitá#
