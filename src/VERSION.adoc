@@ -1,2 +1,2 @@
 :version-label: Digital edition version
-:revnumber: 0.1.0-pre.137.1+20201205
+:revnumber: 0.1.0-pre.138.1+20201220

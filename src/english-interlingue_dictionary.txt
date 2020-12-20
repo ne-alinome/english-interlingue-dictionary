@@ -1,16 +1,29 @@
 A#art.#un#
-A BANK OVERGROWN WITH THYME#n.#un banca u luxuria li tim#
-A CLOSE FIGHT#n.#un combatte long índecidet#
-A DOWNRIGHT FOOL#n.#un absolut follo#
-A FOUR#n.#quadrene#
+OVERGROWN (ex.): A BANK OVERGROWN WITH THYME#n.#un banca u luxuria li tim#
+CLOSE (ex.): A CLOSE FIGHT#n.#un combatte long índecidet#
+DOWNRIGHT (ex.): A DOWNRIGHT FOOL#n.#un absolut follo#
+FOOL (ex.): A DOWNRIGHT FOOL#n.#un absolut follo#
+FOUR (ex.): A FOUR#n.#quadrene#
 A GOOD DEAL#adj.#mult, sat mult#
+GOOD DEAL, A#adj.#mult, sat mult#
+DEAL, A GOOD#adj.#mult, sat mult#
 A LOT OF#adj.#mult#
+LOT OF, A#adj.#mult#
 A MAN OF LETTERS#n.#litterato#
+MAN OF LETTERS, A#n.#litterato#
+LETTERS, A MAN OF#n.#litterato#
 A MATTER OF COURSE#n.#un afere natural#
+MATTER OF COURSE, A#n.#un afere natural#
+COURSE, A MATTER OF#n.#un afere natural#
 A ONE#n.#unene#
+ONE, A#n.#unene#
 A PIECE OF NEWS#n.#un nova#
-A SMATTERER IN PHILOSOPHY#n.#un filosofastro#
+PIECE OF NEWS, A#n.#un nova#
+NEWS, A PIECE OF#n.#un nova#
+SMATTERER IN PHILOSOPHY, A#n.#un filosofastro#
 A WORK OF SUPEREROGATION#n.#superflú bonitá#
+WORK OF SUPEREROGATION, A#n.#superflú bonitá#
+SUPEREROGATION, A WORK OF#n.#superflú bonitá#
 ABAFT#adj.#vers li sterne#
 ABANDON#n.#licentie#
 ABANDON#v.#abandonar, ceder#
@@ -1153,6 +1166,7 @@ BE APPREHENSIVE OF#v.#esser ínquiet pri, timer pri#
 BE APT TO#v.#tender#XXX TODO improve
 BE ASHAMED#v.#hontar#
 BE AT A LOSS#v.#ne saver#
+BE AT ONE#v.#concordar#
 BE AT LOGGERHEADS#v.#querellar#
 BE AT THE HEAD OF#v.#esser ye li punta de, preceder#
 BE AWARE#v.#saver; (conscious of) conscier#
@@ -2100,6 +2114,7 @@ CAMPION#n.#lichnide#
 CAN#n.#potte, cruche; metallic scatulle#
 CAN#v.#inladar#
 CAN YOU SPARE THIS?#expr.#esque to es vos superflú?, esque vu dispone to?#
+SPARE THIS?, CAN YOU#expr.#esque to es vos superflú?, esque vu dispone to?#
 CANAILLE#n.#canallia#
 CANAL#n.#canale (-isar)#
 CANALLOCK#n.#scluse#
@@ -6247,6 +6262,7 @@ GOOD FRIDAY#n.#Sant Venerdí#
 GOOD GRACIOUS!#interj.#Dómino-Deo!#
 GOOD LUCK!#interj.#bon successe!, bon chance!#
 GOOD WINE NEEDS NO BUSH#expr.#bon merces lauda se self#
+BUSH, GOOD WINE NEEDS NO#expr.#bon merces lauda se self#
 GOOD-FELLOWSHIP#n.#camaraderíe#
 GOOD-FOR-NOTHING#n.#vale-necós#
 GOOD-NATURED#adj.#boncordiosi#
@@ -6643,6 +6659,7 @@ HARUM-SCARUM#n.#garsonacho, bube#
 HARVEST#n.#recolte (-ar, -ator)#
 HARVESTER#n.#recolte-machine#
 HAS HE COME YET?#expr.#esque il ha ja venit?#
+YET?, HAS HE COME#expr.#esque il ha ja venit?#
 HASH#n.#(cul.) ragú; mixtura#
 HASH#v.#(bungle) bosillar#
 HASP#n.#haspe (-ar), croc#
@@ -6669,6 +6686,7 @@ HAVE A MIND TO#v.#inclinar, it vell pleser … si#
 HAVE AN INTUITION#v.#intuiter#
 HAVE TO#v.#dever#
 HAVE YOU ANY MATCHES?#expr.#esque vu have inflammettes?#
+ANY MATCHES?, HAVE YOU#expr.#esque vu have inflammettes?#
 HAVEN#n.#portu; (refuge) asil#
 HAVERSACK#n.#sac dorsal, tornistre#
 HAVOC#n.#devastation#
@@ -6687,16 +6705,28 @@ HAZEL#adj.#rubi-brun#
 HAZEL#n.#avelane (-iero)#
 HE#pron.#il#
 HE BUMPED AGAINST A WALL#expr.#il chocat contra un mur#
+BUMPED AGAINST A WALL, HE#expr.#il chocat contra un mur#
 HE CAN AFFORD IT#expr.#su medies permisse to, il dispone lì moné#
+AFFORD IT, HE CAN#expr.#su medies permisse to, il dispone lì moné#
 HE CAN'T HELP IT#expr.#il ne posse ne far to, il ne posse evitar (impedir) to#
+HELP IT, HE CAN'T#expr.#il ne posse ne far to, il ne posse evitar (impedir) to#
 HE DWARFED HIS COMPANION#expr.#su compane aspectet apu il quam un nano, il nanisat su compane#
+DWARFED HIS COMPANION, HE#expr.#su compane aspectet apu il quam un nano, il nanisat su compane#
 HE HIM#pron.#il self#
 HE IS ENTITLED TO SAY#expr.#il es in jure dir#
+ENTITLED TO SAY, HE IS#expr.#il es in jure dir#
 HE IS INDEBTED TO YOU FOR EVERYTHING#expr.#il debi a vos omnicos#
+INDEBTED TO YOU FOR EVERYTHING, HE IS#expr.#il debi a vos omnicos#
 HE IS SHAVING#expr.#il rasa se#
+SHAVING, HE IS#expr.#il rasa se#
 HE KINDLY ASSISTED ME#expr.#il benevolet auxiliar me#
+KINDLY ASSISTED ME, HE#expr.#il benevolet auxiliar me#
+ASSISTED ME, HE KINDLY#expr.#il benevolet auxiliar me#
 HE MUST GO#expr.#il deve ear#
+MUST GO, HE#expr.#il deve ear#
 HE WAS EDUCATED FOR THE BAR#expr.#il ha studiat (li) jure#
+EDUCATED FOR THE BAR, HE WAS#expr.#il ha studiat (li) jure#
+BAR, HE WAS EDUCATED FOR THE#expr.#il ha studiat (li) jure#
 HEAD#adj.#chef-, principal#
 HEAD#n.#cap; chef, mastro, principale, director; (source) fonte; (on beer) scum#
 HEAD#v.#(lead) ducter, comandar; (a ball) cap-pussar#
@@ -6872,7 +6902,11 @@ HIRE OUT#v.#locar, forluar#
 HIRE PURCHASE#n.#compra secun ratas#
 HIRSUTE#adj.#vellut, capillut#
 HIS CONSCIENCE SMOTE HIM#expr.#il sentit remorse#
+CONSCIENCE SMOTE HIM, HIS#expr.#il sentit remorse#
+SMOTE HIM, HIS CONSCIENCE#expr.#il sentit remorse#
 HIS MEMORY HAS BECOME A BLANK#expr.#il ha totmen perdit su memorie#
+MEMORY HAS BECOME A BLANK, HIS#expr.#il ha totmen perdit su memorie#
+BLANK, HIS MEMORY HAS BECOME A#expr.#il ha totmen perdit su memorie#
 HISS#v.#sibilar#
 HISTORY#n.#historie (-ic, -ico, -ograf)#
 HISTRIONIC#adj.#actoral, teatric#
@@ -7010,13 +7044,18 @@ HOVEL#n.#cabanach, domach#
 HOVER#v.#planear#
 HOW#adv.#qualmen#
 HOW DO YOU DO?#expr.#qualmen vu standa?#
+DO?, HOW DO YOU#expr.#qualmen vu standa?#
 HOW DO YOU FEEL?#expr.#qualmen vu standa?#
+FEEL?, HOW DO YOU#expr.#qualmen vu standa?#
 HOW HEAVY IS THE BASKET?#expr.#quant pesa li corbe?#
+HEAVY IS THE BASKET?, HOW#expr.#quant pesa li corbe?#
 HOW MANY#adv.#quant#
 HOW MUCH#adv.#quant#
 HOW MUCH IS THE FARE?#expr.#quant custa li viage?#
+FARE?, HOW MUCH IS THE#expr.#quant custa li viage?#
 HOW MUCH?#adv.#quant?#
 HOW OLD ARE YOU?#expr.#quel etá vu have?, quant annus vu have?#
+OLD ARE YOU?, HOW#expr.#quel etá vu have?, quant annus vu have?#
 HOWEVER#adv.#(in whatever way) quamcunc#
 HOWEVER#conj.#támen, totvez#
 HOWEVER FAR IT IS#adv.#quantcunc lontan it es#
@@ -7111,20 +7150,37 @@ HYPOTHESIS#n.#hipoteSe (-tic)#
 HYSTERIA#n.#histerie (-ic)#
 I#pron.#yo#
 I AM AGREEABLE#expr.#yo consenti, yo concorda#
+AGREEABLE, I AM#expr.#yo consenti, yo concorda#
 I AM COLD#expr.#yo frige#
+COLD, I AM#expr.#yo frige#
 I AM GLAD#expr.#yo joya#
+GLAD, I AM#expr.#yo joya#
 I AM RUNNING SHORT OF PAPER#expr.#mi provision de paper es presc exhaustet#
+RUNNING SHORT OF PAPER, I AM#expr.#mi provision de paper es presc exhaustet#
+SHORT OF PAPER, I AM RUNNING#expr.#mi provision de paper es presc exhaustet#
 I AM SORRY THAT#expr.#it dole me que, yo regreta que#
+SORRY THAT, I AM#expr.#it dole me que, yo regreta que#
 I AM WARM#expr.#yo cale#
+WARM, I AM#expr.#yo cale#
 I DON'T CARE#expr.#to ne importa me, to es me índiferent#
+CARE, I DON'T#expr.#to ne importa me, to es me índiferent#
 I FEEL IT INCUMBENT ON ME#expr.#yo egarda it quam mi deve, yo senti que it es me obligatori#
+INCUMBENT ON ME, I FEEL IT#expr.#yo egarda it quam mi deve, yo senti que it es me obligatori#
 I LEARN THAT …#expr.#on di me que …#
+LEARN THAT …, I#expr.#on di me que …#
 I MAY DO IT#expr.#yo fórsan va far to#
+MAY DO IT, I#expr.#yo fórsan va far to#
 I MIGHT HAVE DONE SO#expr.#yo vell har posset far to, yo fórsan vell har fat it#
+MIGHT HAVE DONE SO, I#expr.#yo vell har posset far to, yo fórsan vell har fat it#
 I TAKE THE LIBERTY#expr.#yo permisse me#
+LIBERTY, I TAKE THE#expr.#yo permisse me#
 I WILL NOT STAY ANY LONGER#expr.#yo ne va restar plu long#
+ANY LONGER, I WILL NOT STAY#expr.#yo ne va restar plu long#
+STAY ANY LONGER, I WILL NOT#expr.#yo ne va restar plu long#
 I WOULD AS LIEF#expr.#yo vell preferer#
+LIEF, I WOULD AS#expr.#yo vell preferer#
 I WOULD RATHER#expr.#yo vell preferer#
+RATHER, I WOULD#expr.#yo vell preferer#
 IAMBIC#adj.#iambic#
 IAMBIC#n.#iamb#
 IBIS#n.#ibis#
@@ -7156,6 +7212,7 @@ IDOL#n.#idol (-atro, -atrie, -cultu, -isar)#
 IDYLL#n.#idille (-io)#
 IF#conj.#si; (whether) ca#
 IF YOU PLEASE#expr.#si it plese vos#
+PLEASE, IF YOU#expr.#si it plese vos#
 IGNEOUS#adj.#foyatri#
 IGNIS FATUUS#n.#foy errant#
 IGNITE#v.#accenDer (se) (-sion), inflammar#
@@ -7907,6 +7964,7 @@ IRRIGATE#v.#irigar (-ation, -ator)#
 IRRITATE#v.#iritar (-ation, -abil, -abilitá)#
 IRRUPT#v.#irupter (-ion), inrupter#
 IS IT NOT?#expr.#never?#
+NOT?, IS IT#expr.#never?#
 ISLAND#n.#insul (-ano)#
 ISLE#n.#insul#
 ISOLATE#v.#isolar (-ation, -ator)#
@@ -7915,20 +7973,35 @@ ISSUE#v.#(books) editer (-ion); publicar, distribuer, emisser; (come out) proven
 ISTHMUS#n.#istme#
 IT#pron.#it#
 IT IS A MATTER OF …#expr.#it acte se pri …#
+MATTER OF …, IT IS A#expr.#it acte se pri …#
 IT IS A PITY#expr.#it es damage#
+PITY, IT IS A#expr.#it es damage#
 IT IS A WEEK SINCE I SAW HER#expr.#ja de un semane yo plu ne ha videt la#
+SINCE I SAW HER, IT IS A WEEK#expr.#ja de un semane yo plu ne ha videt la#
 IT IS DUSTY#expr.#it polvea#
+DUSTY, IT IS#expr.#it polvea#
 IT IS RUMOURED#expr.#on di que#XXX FIXME (that)/(que)
+RUMOURED, IT IS#expr.#on di que#XXX FIXME (that)/(que)
 IT IS USELESS TO#expr.#it es van pena#
+USELESS TO, IT IS#expr.#it es van pena#
 IT PAINS ME TO HAVE TO …#expr.#it dole me dever …#
+PAINS ME TO HAVE TO …, IT#expr.#it dole me dever …#
 IT REDOUNDS TO HIS CREDIT#expr.#to honora le#
+REDOUNDS TO HIS CREDIT, IT#expr.#to honora le#
 IT SERVES HIM RIGHT#expr.#it eveni le quo il merite, to es quo il merite#
+SERVES HIM RIGHT, IT#expr.#it eveni le quo il merite, to es quo il merite#
 IT STRUCK HIM THAT …#expr.#venit le in mente que …#
-IT WILL AVAIL NOTHING#expr.#it va esser inutil#
+STRUCK HIM THAT …, IT#expr.#venit le in mente que …#
+IT WILL AVAIL NOTHING#expr.#it va esser ínutil#
+AVAIL NOTHING, IT WILL#expr.#it va esser ínutil#
 IT'S ALL ONE#expr.#it es egal, índiferent#
+ONE, IT'S ALL#expr.#it es egal, índiferent#
 IT'S ALL THE SAME TO ME#expr.#it es me egal#
+ALL THE SAME TO ME, IT'S#expr.#it es me egal#
 IT'S NO TROUBLE#expr.#it ne gena me#
+TROUBLE, IT'S NO#expr.#it ne gena me#
 IT'S TOO MUCH TROUBLE#expr.#it incomoda me tro mult#
+TROUBLE, IT'S TOO MUCH#expr.#it incomoda me tro mult#
 ITALICS#n.#cursiv lítteres#
 ITCH#n.#(med.) scabie#
 ITCH#v.#pruritar#
@@ -8463,7 +8536,7 @@ LEST#conj.#pro timore que; por que … ne#
 LET#v.#(allow) lassar, permisser; (let alone) lassar; a tacer pri; (lease) forluar; (optative) lass …; (subjunctive) mey#
 LET ALONE#prep.#a tacer pri#
 LET GO#v.#liberar, lassar ear; (naut.) filar#
-LET IT CAME#expr.#it mey venir#
+LET IT CAME#expr.#it mey venir#XXX TODO confirmar anglesi came/come
 LET ME KNOW#expr.#ples avisar me#
 LET OFF#v.#far exploDer; (fig.) pardonar, excusar#
 LET OUT#v.#(clothes) extender, alargar; (divulge) divulgar; (free) lassar surtir, lassar escapar#
@@ -10180,6 +10253,7 @@ ON BEHALF OF#prep.#in nómine de, por#
 ON FOOT#adv.#a pedes#
 ON NO ACCOUNT#adv.#pro nequel (null) cause, certmen ne#
 ON PAIN OF DEATH#adv.#sub pena de morte#
+PAIN OF DEATH, ON#adv.#sub pena de morte#
 ON THAT SCORE#adv.#pro ti motive#
 ON THE AVERAGE#adv.#medialmen#
 ON THE CONTRARY#adv.#in contrari#
@@ -14976,6 +15050,7 @@ THAT#conj.#que; (the one which) quel; (the thing which) quo#
 THAT#pron.#ti, ti-ta| to, to-ta#
 THAT CAN'T BE HELPED#expr.#to ne posse esser remediat#
 THAT DOESN'T MATTER#expr.#to ne fa nequo#XXX FIXME -- duplic negation
+MATTER, THAT DOESN'T#expr.#to ne fa nequo#XXX FIXME -- duplic negation
 THAT IS TO SAY#conj.#a saver#
 THAT WAS YOUR DOING#expr.#ta vu es culpabil, pri to vu es responsabil#
 THATCH#n.#pallie#
@@ -14997,6 +15072,7 @@ THE LESS THE BETTER#adv.#plu poc plu bon#
 THE MORE HE HAS, THE MORE HE WANTS#expr.#plu il have, plu il desira#
 THE MORE THE BETTER#adv.#plu mult, plu bon#
 THE ONE THING#n.#li sol afere#
+ONE THING, THE#n.#li sol afere#
 THE ONWARD MARCH#n.#li marcha adavan#
 THE OTHER DAY#adv.#recentmen, ante quelc dies#
 THE POOR#n.#li povres#
@@ -15195,7 +15271,6 @@ TITTER#v.#hihicar#
 TO#prep.#a(d); vers; (as far as) til; (in order to) por#
 TO ALL INTENTS#adv.#virtualmen#
 TO AND FRO#adv.#a ci e ta#
-TO BE AT ONE#v.#concordar#
 TO SAY THE LEAST#adv.#por ne exagerar#
 TO THE POINT#adj.#pertinent#
 TO THE PURPOSE#adj.#scope-conform#
@@ -16254,6 +16329,7 @@ WHAT A#adj.#qual#
 WHAT A NUISANCE!#expr.#quam desagreabil!#
 WHAT A PROSPECT!#expr.#qual expectative!#
 WHAT IS THE MATTER?#expr.#pri quo it acte se?#
+MATTER?, WHAT IS THE#expr.#pri quo it acte se?#
 WHAT TIME IS IT?#expr.#quel hora es?#
 WHAT'S AFOOT#expr.#quo eveni#
 WHATEVER#adj.#(sort of) qualcunc#
@@ -16366,6 +16442,7 @@ WILL#n.#vole(ntie); voluntá; (leg.) testament (-ar, -ari)#
 WILL#v.#voler; (bequeath) legar#
 WILL O' THE WISP#n.#foy errant#
 WILL THAT DO?#expr.#esque to es apt, esque to sufice?#
+DO?, WILL THAT#expr.#esque to es apt, esque to sufice?#
 WILLING#adj.#pret, voluntari, disposit#
 WILLOW#n.#salice#
 WILLOWHERB#n.#epilobie#
