@@ -1,9 +1,9 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-12-05
+:revdate: 2020-12-20
 
 // This file is part of the project
-// _English-Interlingue Dictionary_
+// "English-Interlingue Dictionary"
 // (http://ne.alinome.net)
 //
 // By Marcos Cruz (programandala.net)
@@ -11,6 +11,7 @@
 // Fixes and improvements {{{1
 == Fixes and improvements
 
+- Fix "notieie" -> "noticie".
 - Fix colon/semicolon after English uppercase expressions.
 - Homogenize the usage of commas and semicolons.
 - Fix "COME ON", which was at the end of "COME", without translation.
