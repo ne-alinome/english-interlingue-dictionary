@@ -11,10 +11,9 @@
 // Fixes and improvements {{{1
 == Fixes and improvements
 
-- Fix "notieie" -> "noticie".
 - Fix colon/semicolon after English uppercase expressions.
 - Homogenize the usage of commas and semicolons.
-- Fix "COME ON", which was at the end of "COME", without translation.
+- Add "COME ON", which was at the end of "COME", without translation.
 - Separate "LIMB membre; tranche; LIMB (astr.) limbe" and similar
   cases.
 - Add a list of abbreviations used in the dictionary.
@@ -68,6 +67,7 @@
 - Check accents: -oría, -aría, -ería, etc.
 - Fix "ad. circa" in "ROUNDABOUT".
 - Add "deputate" to "DEPUTY".
+- Sort the data file at the start of the conversions.
 
 // Doubts {{{1
 == Doubts

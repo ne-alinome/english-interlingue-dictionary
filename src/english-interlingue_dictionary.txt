@@ -10048,7 +10048,7 @@ NOTED#adj.#celebri, famosi; mal famat#
 NOTEWORTHY#adj.#remarcabil, notabil#
 NOTHING#n.#nequó, necós#
 NOTHING ELSE#n.#nequó altri#
-NOTICE#n.#notieie, observation; atention; (notification) avise, anuncie#
+NOTICE#n.#noticie, observation; atention; (notification) avise, anuncie#
 NOTICE#v.#remarcar, observer#
 NOTIFY#v.#notificar (-ation), avisar#
 NOTION#n.#notion, conception, idé#
