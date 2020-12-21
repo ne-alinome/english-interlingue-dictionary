@@ -1177,6 +1177,7 @@ BE COGNIZANT OF#v.#saver#
 BE COLD#v.#(feel cold) friger#
 BE CONSCIOUS OF#v.#conscier (pri)#
 BE CONSPICUOUS BY ITS ABSENCE#expr.#brilliar per su tot absentie#
+CONSPICUOUS BY ITS ABSENCE, BE#expr.#brilliar per su tot absentie#
 BE CONVENIENT#v.#convener#
 BE DEFUNCT#v.#ne plu exister#
 BE DELIRIOUS#v.#delirar#
@@ -1200,7 +1201,7 @@ BE INTERMITTENT#v.#intermitter#
 BE LACKING#v.#mancar#
 BE LEFT OVER#v.#restar#
 BE MISTAKEN#v.#errar#
-BE OBLIGED#v.#dever#
+BE OBLIGED TO#v.#dever#
 BE OFF FOOD#v.#esser sin apetite, ne haver apetite#
 BE OFF!#interj.#for!, via!#
 BE ON DUTY#v.#dejorar#
@@ -1388,7 +1389,7 @@ BESEEM#v.#decer, convener#
 BESET#v.#circumdar, persecuter; (siege) assediar#
 BESIDE#prep.#apu, proxim; except, exter#
 BESIDES#adv.#ultra to, in ultra, adplu#
-BESIDES FRENCH HE ALSO SPEAKS SPANISH#expr.#ultra francesi il parla anc hispan#
+BESIDES FRENCH HE ALSO SPEAKS SPANISH#expr.#ultra francesi il parla anc hispan#XXX FIXME BESIDE
 BESIEGE#v.#assediar, circumpresser#
 BESMEAR#v.#sordidar, macular#
 BESOM#n.#balaye#
@@ -8538,6 +8539,7 @@ LET ALONE#prep.#a tacer pri#
 LET GO#v.#liberar, lassar ear; (naut.) filar#
 LET IT CAME#expr.#it mey venir#XXX TODO confirmar anglesi came/come
 LET ME KNOW#expr.#ples avisar me#
+KNOW, LET ME#expr.#ples avisar me#
 LET OFF#v.#far exploDer; (fig.) pardonar, excusar#
 LET OUT#v.#(clothes) extender, alargar; (divulge) divulgar; (free) lassar surtir, lassar escapar#
 LETHAL#adj.#mortific, mortatori#
@@ -9694,10 +9696,12 @@ MOVE#v.#moer, mover (se); (of the feelings) emoer, atendrir; (change residence) 
 MOVEMENT#n.#movement#
 MOW#v.#falcear; (with lawn mower) machin-tonder#
 MR.#n.#senior#
-MRS N. IS AT HOME ON TUESDAY#expr.#Sra. N. accepte chascun mardi#
+MRS N. IS AT HOME ON TUESDAY#expr.#Sra. N. accepte chascun mardí#
+HOME ON TUESDAY, MRS N. IS AT#expr.#Sra. N. accepte chascun mardí#
 MUCH#adj.#mult#
 MUCH#n.#multcós#
-MUCH TO BE OBLIGED TO YOU#expr.#grand mersí#
+MUCH OBLIGED TO YOU#expr.#grand mersí#
+OBLIGED TO YOU, MUCH#expr.#grand mersí#
 MUCILAGE#n.#mucilágine, colle, glutine#
 MUCK#n.#inpuritá, fec; (manure) sterco#
 MUCUS#n.#muc (-osi, -ositá)#
@@ -9752,6 +9756,7 @@ MUSEUM#n.#muséo#
 MUSHROOM#n.#fungo, champinion#
 MUSIC#n.#musica (-al, -ar), harmonie#
 MUSIC AFFORDS ME PLEASURE#expr.#li musica aporta me piesura#
+AFFORDS ME PLEASURE, MUSIC#expr.#li musica aporta me piesura#
 MUSIC STOOL#n.#taburette#
 MUSIC-HALL#n.#teatre de varietá#
 MUSICIAN#n.#musico, musicante#
@@ -9779,6 +9784,7 @@ MUTUAL#adj.#mutual (-itá, -isme), reciproc, comun#
 MUZZLE#n.#(snout) musel; (for dog) museliere; (of gun) bocca#
 MY#adj.poss.#mi#
 MY HEAD SWIMS#expr.#yo have vertígine#
+SWIMS, MY HEAD#expr.#yo have vertígine#
 MYOPIA#n.#miopie, curt vision#
 MYOSOTIS#n.#miosótis#
 MYRIAD#n.#miriade; deci mill#XXX TODO -- separate n./adj.
@@ -9979,6 +9985,7 @@ NO#adj.#(not any) null, nequel; (no quantity) nequant; (no sort of) nequal#
 NO#adv.#no; (before verbs) ne#
 NO EFFECT#v.#in van#
 NO SOONER HAD HE GONE WHEN …#expr.#il apen departet quande …#
+SOONER HAD HE GONE WHEN …, NO#expr.#il apen departet quande …#
 NO THOROUGHFARE#adj.#íntraficabil#
 NOBLE#adj.#(character) nobli (-esse), magnific; (of rank) nobil (-o, -itá, -ité)#
 NOBODY#n.#nequí; (obj.) nequem#
@@ -10022,10 +10029,12 @@ NOSTRIL#n.#narice#
 NOSTRUM#n.#remediastre#
 NOT#adv.#ne#
 NOT A WHIT#expr.#ne un iota#
+WHIT, NOT A#expr.#ne un iota#
 NOT AT ALL#adv.#tot ne, totmen ne, nequant, nequam#
 NOT IN THE LEAST#adv.#in null mode, tot ne#
 NOT LONG AGO#adv.#ante ne long#
 NOT SO RICH AS#expr.#minu rich quam#
+SO RICH AS, NOT#expr.#minu rich quam#
 NOTABLE#adj.#notabil, remarcabil#
 NOTABLE#n.#person eminent, notabile#
 NOTARY#n.#notario (-atu)#
@@ -10221,6 +10230,7 @@ OGEE#n.#ogive (-al)#
 OGLE#v.#ocular (-ada)#
 OGRE#n.#ogre (-essa)#
 OH DEAR#expr.#o ve!#
+DEAR, OH#expr.#o ve!#
 OHM#n.#ohm#
 OIL#n.#oleo (-ar, -ari, -osi, -iere, -iferi, -iera)#
 OIL-PAINTING#n.#oleo-pictura#
@@ -10440,6 +10450,7 @@ OUTSIDE#adj.#exteriori#
 OUTSIDE#n.#exteriore#
 OUTSIDE#prep.#éxter; ad éxter, extern, a externe#
 OUTSIDE ON THE VERANDA#expr.#al exteriore sur li veranda#
+VERANDA, OUTSIDE ON THE#expr.#al exteriore sur li veranda#
 OUTSIDER#n.#profano, externo, non-iniciate#
 OUTSKIRTS#n.#circumité, vicinité, periferie#
 OUTSPOKEN#adj.#franc, brusqui#
@@ -12014,6 +12025,7 @@ QUEER#adj.#strangi, drolli, bizarri (-tá)#
 QUELL#v.#supresser, domitar, calmar#
 QUENCH#v.#extinter, dessetar#
 QUENCH ONE'S THIRST#expr.#extinter su sete#
+THIRST, QUENCH ONE'S#expr.#extinter su sete#
 QUERCITRON#n.#quercitron#
 QUERULOUS#adj.#plendaci#
 QUERY#n.#question, dúbite; signe de interrogation#
@@ -12502,6 +12514,7 @@ REPLY#n.#replica (-ar), response#
 REPLY#v.#responDer#
 REPORT#n.#raporte (-ar, -ero); rumore, fama; (of gun) craca, son#
 REPORT TO THE GUARDROOM#expr.#anuncia vos in li arest-locale#
+GUARDROOM, REPORT TO THE#expr.#anuncia vos in li arest-locale#
 REPOSE#n.#repose (-ar)#
 REPOSITORY#n.#depositoria#
 REPREHEND#v.#censurar, reprimandar#
@@ -14243,7 +14256,9 @@ STAVE IN#v.#brechar#
 STAY#n.#apoy; (naut.) stag; sejorne, restada#
 STAY#v.#restar, remaner; retardar; (uphold) apoyar, subtener; (arrest) haltar#
 STAY OVERNIGHT#v.#pernoctar#
+OVERNIGHT, STAY#v.#pernoctar#
 STAY THE NIGHT#v.#pernoctar#
+NIGHT, STAY THE#v.#pernoctar#
 STAYS#n.#corsete#
 STEAD#n.#loc(o)#
 STEADFAST#adj.#constant, firm, loyal, resolut#
@@ -15049,41 +15064,71 @@ THAT#adj.#ti, ti-ta#
 THAT#conj.#que; (the one which) quel; (the thing which) quo#
 THAT#pron.#ti, ti-ta| to, to-ta#
 THAT CAN'T BE HELPED#expr.#to ne posse esser remediat#
+HELPED, THAT CAN'T BE#expr.#to ne posse esser remediat#
 THAT DOESN'T MATTER#expr.#to ne fa nequo#XXX FIXME -- duplic negation
 MATTER, THAT DOESN'T#expr.#to ne fa nequo#XXX FIXME -- duplic negation
 THAT IS TO SAY#conj.#a saver#
 THAT WAS YOUR DOING#expr.#ta vu es culpabil, pri to vu es responsabil#
+DOING, THAT WAS YOUR#expr.#ta vu es culpabil, pri to vu es responsabil#
 THATCH#n.#pallie#
 THATCH#v.#tegmentar per pallie, inpalliar#
 THAW#n.#degel (-ar)#
 THE#art.#li; (abstract) lu#
 THE ACCUSED GOT OFF#expr.#on absoluet li acusato#
+ACCUSED GOT OFF, THE#expr.#on absoluet li acusato#
+GOT OFF, THE ACCUSED#expr.#on absoluet li acusato#
 THE ANTARCTIC#n.#Antarctica#
+ANTARCTIC, THE#n.#Antarctica#
 THE ARCTIC#n.#Arctica#
+ARCTIC, THE#n.#Arctica#
 THE BROWNS AND THE SMITHS#n.#lis Brown e lis Smith#
 THE CHIEF THING#n.#li cose cardinal, lu essential#
+CHIEF THING, THE#n.#li cose cardinal, lu essential#
+THING, THE CHIEF#n.#li cose cardinal, lu essential#
 THE DEAD#n.#li mortes#
-THE FORE#v.#in avan#
+DEAD, THE#n.#li mortes#
+TO THE FORE#adv.#in avan#
+FORE, TO THE#adv.#in avan#
 THE FOREGOING#n.#lu precedent#
+FOREGOING, THE#n.#lu precedent#
 THE GENERAL PUBLIC#n.#li grand publica#
+PUBLIC, THE GENERAL#n.#li grand publica#
 THE HOUSE OVERLOOKS A PARK#expr.#li dom es situat contra un pare, da vista sur un parc#
+OVERLOOKS A PARK, THE HOUSE#expr.#li dom es situat contra un pare, da vista sur un parc#
 THE LEAST BEAUTIFUL#n.#li minim bell#
+LEAST BEAUTIFUL, THE#n.#li minim bell#
 THE LESS THE BETTER#adv.#plu poc plu bon#
-THE MORE HE HAS, THE MORE HE WANTS#expr.#plu il have, plu il desira#
+LESS THE BETTER, THE#adv.#plu poc plu bon#
+THE MORE HE HAS, THE MORE HE WANTS#expr.#plu il have, plu il desira#XXX FIXME ti-ci expression have comma
+MORE HE HAS, THE MORE HE WANTS, THE#expr.#plu il have, plu il desira#XXX FIXME ti-ci expression have comma
 THE MORE THE BETTER#adv.#plu mult, plu bon#
+MORE THE BETTER, THE#adv.#plu mult, plu bon#
+BETTER, THE MORE THE#adv.#plu mult, plu bon#
 THE ONE THING#n.#li sol afere#
 ONE THING, THE#n.#li sol afere#
 THE ONWARD MARCH#n.#li marcha adavan#
+ONWARD MARCH, THE#n.#li marcha adavan#
 THE OTHER DAY#adv.#recentmen, ante quelc dies#
+OTHER DAY, THE#adv.#recentmen, ante quelc dies#
 THE POOR#n.#li povres#
+POOR, THE#n.#li povres#
 THE PROGRAMME IS ON#expr.#li programma es in action, ha comensat#
+ON, THE PROGRAMME IS#expr.#li programma es in action, ha comensat#
 THE RUN OF A PLACE#n.#ínimpedit accesse#
+RUN OF A PLACE, THE#n.#ínimpedit accesse#
 THE SUPERNATURAL#n.#lu supernatural#
+SUPERNATURAL, THE#n.#lu supernatural#
 THE TEN COMMANDMENTS#n.#decalog#
+COMMANDMENTS, THE TEN#n.#decalog#
+TEN COMMANDMENTS, THE#n.#decalog#
 THE TENS#n.#li decenes#
+TENS, THE#n.#li decenes#
 THE TROPICS#n.#li tropic landes#
+TROPICS, THE#n.#li tropic landes#
 THE WHOLE FRY#n.#li tot parentité#
+FRY, THE WHOLE#n.#li tot parentité#
 THE YOUNG#n.#li yunité#
+YOUNG, THE#n.#li yunité#
 THEATRE#n.#teatre (-al, -ic)#
 THEE#pron.#te#
 THEFT#n.#furte#
@@ -15108,6 +15153,7 @@ THERE#adv.#ta#
 THERE ARE#v.#vi, hay#
 THERE IS#v.#vi, hay#
 THERE'S A RING AT THE DOOR#expr.#on sona#
+RING AT THE DOOR, THERE'S A#expr.#on sona#
 THEREABOUTS#adv.#circa tam mult; in li vicinitá#
 THEREBY#adv.#per to#
 THEREFORE#adv.#pro to#
@@ -15120,7 +15166,9 @@ THESE#pron.#tis, tis-ci#
 THESIS#n.#tese, dissertation#
 THEY#pron.#ili#
 THEY CAN#expr.#ili posse#
+CAN, THEY#expr.#ili posse#
 THEY PAID EVEN MORE THAN WE#expr.#ili payat mem plu quam noi#
+EVEN MORE THAN WE, THEY PAID#expr.#ili payat mem plu quam noi#
 THICK#adj.#spess (-ore), densi (-tá); ínclar; compact#
 THICKEN#v.#aspessar, far spess, condensar#
 THICKET#n.#densallia, boscage#
@@ -15143,7 +15191,9 @@ THIRTY#adj., n.#trianti#
 THIS#adj.#ti, ti-ci#
 THIS#pron.#ti, ti-ci; to, to-ci#
 THIS IS DUE TO CARELESSNESS#expr.#to es debit a ínatention#
+DUE TO CARELESSNESS, THIS IS#expr.#to es debit a ínatention#
 THIS WAY#adv.#a ci#XXX TODO Add the other meaning
+WAY, THIS#adv.#a ci#XXX TODO Add the other meaning
 THISTLE#n.#carde#
 THITHER#adj., adv.#ta#
 THONG#n.#bande cutin, strap#
@@ -16327,11 +16377,15 @@ WHARF#n.#caye, warf (-age)#
 WHAT#pron.#quo#
 WHAT A#adj.#qual#
 WHAT A NUISANCE!#expr.#quam desagreabil!#
+NUISANCE!, WHAT A#expr.#quam desagreabil!#
 WHAT A PROSPECT!#expr.#qual expectative!#
+PROSPECT!, WHAT A#expr.#qual expectative!#
 WHAT IS THE MATTER?#expr.#pri quo it acte se?#
 MATTER?, WHAT IS THE#expr.#pri quo it acte se?#
 WHAT TIME IS IT?#expr.#quel hora es?#
+TIME IS IT?, WHAT#expr.#quel hora es?#
 WHAT'S AFOOT#expr.#quo eveni#
+AFOOT, WHAT'S#expr.#quo eveni#
 WHATEVER#adj.#(sort of) qualcunc#
 WHATEVER#pron.#quocunc#
 WHATNOT#n.#etagiere#
@@ -16585,6 +16639,7 @@ WORTHLESS#adj.#sin valore#
 WORTHY#adj.#digni, honorabil#
 WOULD#v.aux.#(conditional) vell#
 WOULD YOU MIND?#expr.#esque vu permisse?#
+MIND?, WOULD YOU#expr.#esque vu permisse?#
 WOULD-BE#adj.#quasi-, pretendent#
 WOUND#n.#vúlnere (-ar, -abil)#
 WOUND#v.#(feelings) ofender; leDer#
@@ -16664,6 +16719,7 @@ YONDER#adj.#ti-ta#
 YONDER#adv.#ta, a ta#
 YOU#pron.#vu; (dat. ace.) vos#XXX FIXME -- "ace."?; add "tu"
 YOU NEEDN'T STAY#expr.#vu ne besona restar#
+NEEDN'T STAY, YOU#expr.#vu ne besona restar#
 YOUNG#adj.#yun; (of animals) -ello#
 YOUNGSTER#n.#júveno, yuno#
 YOUR#pron.poss.#vor, vostri; tui#
