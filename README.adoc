@@ -31,9 +31,9 @@ Website:: http://ne.alinome.net[ne.alinome.net]
 
 NOTE: On 2020-12-04 the Git repository was
 converted to a
-http://fossil.programandala.net/english-interlingue_dictionary[Fossil
+http://fossil.ne.alinome.net/english-interlingue_dictionary[Fossil
 repository], keeping
-http://github.com/programandala-net/english-interlingue-dictionary[GitHub]
+http://github.com/ne-alinome/english-interlingue-dictionary[GitHub]
 as a mirror.
 
 // How to build the dictionary {{{2
@@ -98,9 +98,9 @@ Loc web:: http://ne.alinome.net[ne.alinome.net]
 :note-caption: Note
 
 NOTE: In 2020-12-04 li depositoria de Git esset convertet a un
-http://fossil.programandala.net/english-interlingue_dictionary[repositoria
+http://fossil.ne.alinome.net/english-interlingue_dictionary[repositoria
 de Fossil], conservante
-http://github.com/programandala-net/english-interlingue-dictionary[GitHub]
+http://github.com/ne-alinome/english-interlingue-dictionary[GitHub]
 quam un copie.
 
 
@@ -169,9 +169,9 @@ Retpaĝaro:: http://ne.alinome.net[ne.alinome.net]
 
 NOTE: Je 2020-12-04 la Git-deponejo estis
 konvertita al
-http://fossil.programandala.net/english-interlingue_dictionary[Fossil-deponejo],
+http://fossil.ne.alinome.net/english-interlingue_dictionary[Fossil-deponejo],
 konservante
-http://github.com/programandala-net/english-interlingue-dictionary[GitHub]
+http://github.com/ne-alinome/english-interlingue-dictionary[GitHub]
 kiel kopion.
 
 // Kiel konstrui la vortaron {{{2
