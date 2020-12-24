@@ -6,8 +6,8 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202012052008
-# See change log at the end of the file
+# Last modified: 202012241823.
+# See change log at the end of the file.
 
 # ==============================================================
 # Requirements {{{1
@@ -64,10 +64,10 @@ cover_title="English-\nInterlingue\nDictionary"
 # Interface {{{1
 
 .PHONY: default
-default: dict epuba pdfa4 thumb
+default: dict epuba pdfa4 thumb wwwdoc
 
 .PHONY: all
-all: azw3 csv dict dbk epub odt pdf thumb
+all: azw3 csv dict dbk epub odt pdf thumb wwwdoc
 
 .PHONY: clean
 clean:
@@ -354,6 +354,33 @@ prerequisites=*.adoc target/
 include Makefile.release
 
 # ==============================================================
+# Online documentation {{{1
+
+# Online documentation displayed on the Fossil repository.
+
+.PHONY: wwwdoc
+wwwdoc: wwwreadme
+
+.PHONY: cleanwww
+cleanwww:
+	rm -f \
+		doc/www/* \
+		tmp/README.*
+
+.PHONY: wwwreadme
+wwwreadme: doc/www/README.html
+
+doc/www/README.html: tmp/README.html
+	echo "<div class='fossil-doc' data-title='README'>" > $@;\
+	cat $< >> $@;\
+	echo "</div>" >> $@
+
+tmp/README.html: README.adoc
+	asciidoctor \
+		--embedded \
+		--out-file=$@ $<
+
+# ==============================================================
 # Change log {{{1
 
 # 2019-02-06: Start. Make DICT.
@@ -411,3 +438,5 @@ include Makefile.release
 #
 # 2020-12-05: Update the conversion of the original data, ignoring the trailing
 # spaces of the headword.
+#
+# 2020-12-24: Build an online version of the README file for the Fossil repository.
