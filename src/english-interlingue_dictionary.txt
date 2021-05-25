@@ -4486,7 +4486,7 @@ DRUB#v.#batter, bastonar#
 DRUDGE#n.#quasi-sclave (-a), marmiton#
 DRUDGERY#n.#strapacie, penosi labore#
 DRUG#n.#drogue (-ist), medicament#
-DRUG#v.#narcot isar, intoxicar#
+DRUG#v.#narcotisar, intoxicar#
 DRUID#n.#druide (-ic)#
 DRUM#n.#tambur (-ar, -ero, -ist); cilindre; (of ear) timpane#
 DRUNK#adj.#ebri, ebriat (in-ar)#
@@ -6707,6 +6707,7 @@ HAZEL#n.#avelane (-iero)#
 HE#pron.#il#
 HE BUMPED AGAINST A WALL#expr.#il chocat contra un mur#
 BUMPED AGAINST A WALL, HE#expr.#il chocat contra un mur#
+AGAINST A WALL, HE BUMPED#expr.#il chocat contra un mur#
 HE CAN AFFORD IT#expr.#su medies permisse to, il dispone lì moné#
 AFFORD IT, HE CAN#expr.#su medies permisse to, il dispone lì moné#
 HE CAN'T HELP IT#expr.#il ne posse ne far to, il ne posse evitar (impedir) to#
@@ -6948,7 +6949,7 @@ HOLD OUT#v.#durar, resister#
 HOLD TOGETHER#v.#coherer, esser solidari#
 HOLD UP#v.#stop par, haltar; suportar#
 HOLDALL#n.#necessarium#
-HOLDER#n.#(person) tenente; (receptacle) vase, receptuore, centenente. By affixes porta-, -iero: porta-cigarre or cigarriero (Engl. cigar-holder)#
+HOLDER#n.#(person) tenente; (receptacle) vase, receptuore, centenente. By affixes porta-, -iero: porta-cigarre or cigarriero (Engl. cigar-holder)#XXX FIXME "or", "Engl."
 HOLDING#n.#(land) parcelle; (small) hube#
 HOLE#n.#fore, apertura; (in ground) cava, antre, fosse#
 HOLIDAY#n.#vacanties; (public) die festal#
