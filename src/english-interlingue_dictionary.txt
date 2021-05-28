@@ -14765,6 +14765,7 @@ SYNCOPE#n.#sincope#
 SYNDICATE#n.#sindicatu#
 SYNECURE#n.#sinecura#
 SYNOD#n.#sinode#
+SYNONYM#n.#sinonime#
 SYNONYMOUS#n.#sinonim#
 SYNOPSIS#n.#sinopSe (-tic. -tica)#
 SYNTAX#n.#sintaxe (-actic)#
@@ -16748,6 +16749,7 @@ ZOO#n.#bestiarium, jardin zoologic#
 ZOOLOGIST#n.#zoologo (-ie, -ic)#
 ZOOPHYTE#n.#zoofite#
 ZOUAVE#n.#zuave#
+ZULU#adj.#zulu#
 ZULU#n.#zulu (-land)#
 ZYGOMA#n.#zygoma, maxille#
 ZYMOSIS#n.#zymose (-tic)#
