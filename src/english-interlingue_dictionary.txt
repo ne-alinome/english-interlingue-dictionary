@@ -2229,7 +2229,7 @@ CARP#n.#carpe, carasse#
 CARP#v.#chicanar, criticachar#
 CARPENTER#v.#carpentar (-ero)#
 CARPET#n.#tapisse#
-CARRIAGE#veh.#caleche, coche; (rly.) vagon, cupé; (gun carriage) afuste; (cost of carriage) frete, porte; (conveying) transporte; (bearing) postura, eada, statura#
+CARRIAGE#veh.#caleche, coche; (rail.) vagon, cupé; (gun carriage) afuste; (cost of carriage) frete, porte; (conveying) transporte; (bearing) postura, eada, statura#
 CARRIER#n.#(of goods) carrero; (messenger) missagero, curriero, portator; (shipper etc.) expeditor#
 CARRION#n.#putrallia, cadavre#
 CARROT#n.#carotte#
@@ -2674,7 +2674,7 @@ CLINKERBUILT#n.#plancatura-clinc#
 CLIQUE#n.#clique#
 CLOAK#n.#mantó, mantel#
 CLOAK#v.#celar#
-CLOAKROOM#n.#garda-roba; (rail) depositoria#
+CLOAKROOM#n.#garda-roba; (rail.) depositoria#
 CLOCK#n.#horloge (-ero, alarm-)#
 CLOCKWORK#n.#mecanisme#
 CLOD#n.#gleb; (lump) bul#
@@ -5429,7 +5429,7 @@ FILLER#n.#funel#
 FILLET#n.#cap-band; (cul.) filé, pisc despinat#
 FILLIP#n.#stimul, incitation#
 FILLY#n.#cavallella, yun cavalla#
-FILM#n.#membrane, pellículi (phot.) film (-actor, -stelle)#
+FILM#n.#membrane, pellícul; (phot.) film (-actor, -stelle)#
 FILTER#n.#filtre (-ar)#
 FILTH#n.#sordidage, sordidallia#
 FIN#n.#pinne, svimmuore#
@@ -6339,7 +6339,7 @@ GRANITE#n.#granite#
 GRANT#n.#subvention; concession#
 GRANT#v.#octroyar, conceder; dar, permisser#
 GRANULE#n.#granul (-ar, -ation, -ari)#
-GRAPE#n.#vinbere; (bunch.) uve#
+GRAPE#n.#vinbere; (bunch) uve#
 GRAPEFRUIT#n.#pamplemusse#
 GRAPESHOT#n.#mitrallie#
 GRAPHIC#adj.#vivid, picturesc; (science) grafic (-ica)#
@@ -13701,7 +13701,7 @@ SLEEK#adj.#glatt#
 SLEEP#n.#somnie (-ar, -aci, -on), dorme (-ida)#
 SLEEP#v.#dormir#
 SLEEP-WALKING#n.#somnambulisme#
-SLEEPER#rail.#traverse; lette-vagon#
+SLEEPER#n.#(rail.) lette-vagon#
 SLEEPINESS#n.#somnolentie, dormientie#
 SLEEPING PARTNER#n.#comanditario#
 SLEEPING SICKNESS#n.#maladie somnial#
@@ -13785,7 +13785,7 @@ SMITTEN WITH#prep.#incantat per, inamorat in#
 SMOCK#n.#camise (de seniora)#
 SMOKE#n.#fum. vapore#
 SMOKE#v.#fumar; (of chimney) emisser fum; (bacon etc.) fumicar, infumar#
-SMOKER#n.#fumator; (rail) cupé o comparti ment fumatori#
+SMOKER#n.#fumator; (rail.) cupé o compartiment fumatori#
 SMOKY#adj.#fumosi, fumant, plen de fum#
 SMOOTH#adj.#glatt (-ar), polit; glissid; calm#
 SMOTHER#v.#sufocar (smother rage etc.) supresser#
@@ -14236,7 +14236,7 @@ STATEMENT#n.#declaration, raporte; explication, assertion; (table, list) etate#
 STATESMAN#n.#statmann, ministro#
 STATIC#adj.#static#
 STATICS#n.#statica#
-STATION#n.#posto; (Rail.) station; (rank) rang#
+STATION#n.#posto; (rail.) station; (rank) rang#
 STATION#v.#postar#
 STATIONARY#adj.#stationari, fix#
 STATIONER#n.#paperero (-eríe)#
@@ -15725,7 +15725,7 @@ ULTRA#prefix#ultramarin, ultramontan#
 ULULATION#n.#ululation#
 UMBER#n.#umbra#
 UMBILICUS#n.#umbilico (-al)#
-UMBRELLA#n.#parapluvie. ombrel#
+UMBRELLA#n.#parapluvie, ombrel#
 UMPIRE#n.#arbitro (-ar)#
 UN#prefix#(with adjectives) ín-; (with verbs) ín-, de(s)-#
 UNACCOUNTABLE#adj.#ínexplicabil#
@@ -16191,7 +16191,7 @@ WAGER#n.#parí (-ar); hasardar#
 WAGES#n.#salarie#
 WAGGISH#adj.#jocaci#
 WAGGLE#v.#sucusser, flirtar, far flirtar#
-WAGGON#n.#carre; (rly.) vagon#
+WAGGON#n.#carre; (rail.) vagon#
 WAGTAIL#n.#motacilla#
 WAIF#n.#infante abandonat, abandonate#
 WAIL#v.#lamentar, plorachar; (infants) vagir#

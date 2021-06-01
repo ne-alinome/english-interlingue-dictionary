@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-05-27
+:revdate: 2021-05-31
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -159,6 +159,7 @@
 - Confirm "circa tam mult" in "THEREABOUTS".
 - Confirm "shell" in "SKIN (n.): pelle, pellicul; membrane, derma; shell,
   cortice". Maybe it's English in the original.
+- `UMBRELLA#n.#parapluvie, ombrel#`: "ombrel"?!
 
 // Notes about the contents {{{1
 == Notes about the contents
