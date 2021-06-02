@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-05-31
+:revdate: 2021-06-02
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -64,7 +64,6 @@
 - Update the list changes done in this edition.
 - Fix "-ente" -> "-nte", etc.
 - Check that participies are mentioned in the verbal roots.
-- Check accents: -oría, -aría, -ería, etc.
 - Fix "ad. circa" in "ROUNDABOUT".
 - Add "deputate" to "DEPUTY".
 - Sort the data file at the start of the conversions.

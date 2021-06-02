@@ -31,7 +31,7 @@ ABANDONED#adj.#abandonat; (morally) ínmoral, depravat#
 ABASE#v.#abassar, degradar, humilar#
 ABASH#v.#confuser, pudentar#
 ABATE#v.#diminuer; (price) rabattar, redacter; (pain etc.) quietar, mitigar, moderar (se)#
-ABATTOIR#n.#bucheria, abattuore#
+ABATTOIR#n.#buchería, abattuore#
 ABBEY#n.#abatia#
 ABBOT#n.#abate (-essa, -ia, -iatu)#
 ABBREVIATE#v.#acurtar, abreviar#
@@ -3608,7 +3608,7 @@ DAILY#adj.#dial, diari#
 DAILY#n.#diale#
 DAINTY#adj.#delicat (-esse), fin, pretti#
 DAINTY#n.#gurmandage#
-DAIRY#n.#lacteria#
+DAIRY#n.#lactería#
 DAIRY MAID#n.#lactera#
 DAIS#n.#estrade, tribune#
 DAISY#n.#margarita#
@@ -5184,7 +5184,7 @@ EYELID#n.#palpebre#
 EYESIGHT#n.#visivitá#
 EYRIE#n.#áquil-nest#
 FABLE#n.#fabul (-ist, -osi), saga, legende#
-FABRIC#n.#edificie, structural (cloth.) stoff, materie, textage#
+FABRIC#n.#edificie, structura; (cloth) stoff, materie, textage#
 FABRICATE#v.#fabricar, inventer#
 FACADE#n.#fassade#
 FACE#n.#facie (-al), visage; (of clock) disco; (of coins etc.) averse; (surface) superficie#
@@ -8664,7 +8664,7 @@ LINEAGE#n.#genealogie#
 LINEAMENT#n.#trate, lineament#
 LINEN#adj.#linin#
 LINEN#n.#toale; (clothes) linage#
-LINEN WAREHOUSE#n.#linageria#
+LINEN WAREHOUSE#n.#linagería#
 LINER#n.#nave de linea, transoceanico#
 LING#n.#(fish) molve; (bot.) erica#
 LINGER#v.#tardar, demorar, lentear; (remain) restar#
@@ -9402,7 +9402,7 @@ MILK-FOOD#n.#lactage#
 MILKJUG#n.#lacte-pott, cruche#
 MILKSOP#n.#horn afeminat, dorloton#
 MILKY WAY#n.#via galactic, galaxe#
-MILL#n.#(corn) moline (-ar, -ero); (spinning) filería, texteria, usina#
+MILL#n.#(corn) moline (-ar, -ero); (spinning) filería, textería, usina#
 MILL#v.#molinar; (coins) stampar#
 MILL DAM#n.#diga molinari#
 MILLENIUM#n.#millennie (-ari)#
@@ -11475,7 +11475,7 @@ PRACTISE#v.#practicar, exercir, executer#
 PRACTISED#adj.#expert, exercit; versat#
 PRACTITIONER#n.#practicante, medico#
 PRAGMATIC#adj.#pragmatic#
-PRAIRIE#n.#prería#XXX TODO -- prería/preria?
+PRAIRIE#n.#prería#
 PRAISE#n.#elogie, laude (-ar, -abil, -ativ)#
 PRAM#n.#coche de bebé#
 PRANCE#v.#saltettar#
@@ -11837,7 +11837,7 @@ PUBLIC HOUSE#n.#taverne, gastería#
 PUBLIC PROSECUTOR#n.#procurator#
 PUBLIC RELIEF#n.#assistentie public#
 PUBLICAN#n.#tavernero#
-PUBLISH#v.#publicar, editer (-ion, -or, -oría)#
+PUBLISH#v.#publicar, editer (-ion, -or, -oria)#
 PUCE#adj.#purpur (-ie)#XXX TODO -- Also n.
 PUCKER#n.#frunse (-ar)#
 PUDDING#n.#púdding#
@@ -12796,7 +12796,7 @@ ROOT#v.#(in)radicar#
 ROOT OUT#v.#eradicar, extirpar#
 ROPE#n.#corde, fune#
 ROPE#v.#fixar o ligar per corde#
-ROPEYARD#n.#corderia#
+ROPEYARD#n.#cordería#
 RORQUAL#n.#rorqual#
 ROSARY#n.#rosarium#
 ROSE#n.#rose (-ette)#
