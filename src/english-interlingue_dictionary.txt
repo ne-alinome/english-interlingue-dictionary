@@ -11561,7 +11561,7 @@ PRESCRIPTION#n.#prescrition, receptu#
 PRESENCES#n.#presentie; (bearing) aspecte, personalitá#
 PRESENCES OF MIND#n.#presentie mental#
 PRESENT#adj.#present#
-PRESENT#n.#don, donation; (gramm.) presente#
+PRESENT#n.#don, donation; (gramm.) presente; (present time) presente#
 PRESENT#v.#donar; presentar#
 PRESENTIMENT#n.#presentiment#
 PRESENTLY#adv.#bentost#XXX TODO add "nu"
