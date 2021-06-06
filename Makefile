@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 202012241823.
+# Last modified: 20210606T1436+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -23,6 +23,14 @@
 
 # dbtoepub
 #   http://docbook.sourceforge.net/release/xsl/current/epub/README
+
+# dictfmt (by Rik Faith)
+#   https://sourceforge.net/projects/dict/
+#   http://dict.org
+
+# dictzip (by Rik Faith)
+#   https://sourceforge.net/projects/dict/
+#   http://dict.org
 
 # ebook-convert
 #   manual.calibre-ebook.com/generated/en/ebook-convert.html
@@ -440,3 +448,5 @@ tmp/README.html: README.adoc
 # spaces of the headword.
 #
 # 2020-12-24: Build an online version of the README file for the Fossil repository.
+
+# 2021-06-06: Update the requirements: add dictfmt and dictzip.
