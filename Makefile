@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 20210608T1342+0200.
+# Last modified: 20210608T1752+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -41,11 +41,17 @@
 # img2pdf (by Johannes 'josch' Schauer)
 #   https://gitlab.mister-muffin.de/josch/img2pdf
 
+# Neovim (by Justin M. Keyes)
+#   http://neovim.org
+
 # Pandoc (by John MaFarlane)
 #   http://pandoc.org
 
 # sort (by Mike Haertel and Paul Eggert)
 #   https://www.gnu.org/software/coreutils/
+
+# sponge (by Colin Watson and Tollef Fog Heen)
+#   https://joeyh.name/code/moreutils/
 
 # xsltproc
 #   http://xmlsoft.org/xslt/xsltproc.html
@@ -60,11 +66,13 @@ title="English-Interlingue Dictionary"
 lang="en"
 editor="Marcos Cruz (programandala.net)"
 publisher="ne alinome"
-description="English-Interlingue Dictionary"
+description=English-Interlingue Dictionary
+version_file=src/VERSION.adoc
+version=$(shell cat $(version_file)|grep ':revnumber:'|sed -e 's/:revnumber: *//')
+description_and_version="$(description) v$(version)"
 
 dict_basename=eng-ile
 dict_data_url=http://ne.alinome.net
-dict_data_format=j
 
 cover=$(book)_cover
 cover_author="Charles Kemp\nF.R. Pope"
@@ -96,8 +104,8 @@ cleancover:
 
 # -------------------------------------
 
-.PHONY: $(dict_data_format)
-$(dict_data_format): tmp/$(dict_basename).$(dict_data_format)
+.PHONY: jargon
+jargon: tmp/$(dict_basename).jargon
 
 # XXX TODO Move adoc to <tmp>, because it's not ready to be reused, it has
 # an include.
@@ -183,9 +191,9 @@ tmp/$(book)._sorted.txt: src/$(book).txt
 .SECONDARY: tmp/$(book).txt.adoc
 
 tmp/%.txt.adoc: tmp/%._sorted.txt
-	sed -e "s/^\(.\+\) *#\(.\+\)\?#\(.\+\)#.*/- .\1. (\2): \3/"  $< | \
-	sed -e "s/; / |{nbsp}/g" > $@
-	vim -S make/add_letter_headings.vim $@
+	cp -f $< $@
+	nvim -es -S make/convert_data_to_asciidoctor.vim $@ -c 'wq!'
+	nvim -es -S make/add_letter_headings.vim $@ -c 'wq!'
 
 target/$(book).adoc: \
 	src/header.adoc \
@@ -275,7 +283,7 @@ target/$(book).adoc.dbk.pandoc.epub: \
 		--variable=lang:$(lang) \
 		--variable=editor:$(editor) \
 		--variable=publisher:$(publisher) \
-		--variable=description:$(description) \
+		--variable=description:$(description_and_version) \
 		--epub-cover-image=target/$(cover).jpg \
 		--output $@ $<
 
@@ -317,7 +325,7 @@ target/$(book).adoc.dbk.pandoc.epub: \
 		--variable=lang:$(lang) \
 		--variable=editor:$(editer) \
 		--variable=publisher:$(publisher) \
-		--variable=description:$(description) \
+		--variable=description:$(description_and_version) \
 		--output $@ $<
 
 # ==============================================================
@@ -327,7 +335,7 @@ target/%.epub.azw3: target/%.epub
 	ebook-convert $< $@
 
 # ==============================================================
-# Convert the original data to "dict_data_format" {{{1
+# Convert the original data to jargon {{{1
 
 .SECONDARY: tmp/dict_header.adoc.dbk
 
@@ -342,24 +350,25 @@ tmp/dict_%.adoc.dbk: src/%.adoc
 tmp/%.adoc.dbk.txt: tmp/%.adoc.dbk
 	pandoc -f docbook -t plain -o $@ $<
 
-.SECONDARY: tmp/$(dict_basename).$(dict_data_format)
+.SECONDARY: tmp/$(dict_basename).jargon
 
-tmp/$(dict_basename).$(dict_data_format): \
+tmp/$(dict_basename).jargon: \
 	tmp/$(book)._sorted.txt \
 	tmp/dict_header.adoc.dbk.txt
-	cat tmp/dict_header.adoc.dbk.txt > $@
-	sed -e "s/^\(.\+\) *#\(.\+\)#\(.\+\)#/:\1:(\2): \3/" \
-		$< >> $@
+	cp -f $< $@
+	nvim -es -S make/convert_data_to_jargon.vim $@ -c 'wq!'
+	cat tmp/dict_header.adoc.dbk.txt $@ | sponge $@
 
 # ==============================================================
 # Convert dictionary data to dict format {{{1
 
-target/%.dict: tmp/%.$(dict_data_format)
+target/%.dict: tmp/%.jargon
+	echo $(description_and_version)
 	dictfmt \
 		--utf8 \
 		-u $(dict_data_url) \
-		-s $(description) \
-		-$(dict_data_format) $(basename $@) \
+		-s $(description_and_version) \
+		-j $(basename $@) \
 		< $<
 
 # ==============================================================
@@ -391,7 +400,6 @@ include Makefile.cover_image
 # ==============================================================
 # Build the release archives {{{1
 
-version_file=src/VERSION.adoc
 branch=$(book)
 prerequisites=*.adoc target/
 
@@ -490,4 +498,7 @@ tmp/README.html: README.adoc
 # 2021-06-08: Make sure the data is sorted before converting it. Add a rule to
 # clean the temporary and target files except those of the cover. Separate the
 # building of the compressed and uncompressed PDF files; built the uncompressed
-# PDF files by default.
+# PDF files by default. Update to the data-to-jargon and data-to-asciidoctor
+# converters used by the "Diccionario español-interlingüe project, which
+# combine all identical headwords into one single entry. Add the version number
+# to the description. Use Neovim instead of Vim.
