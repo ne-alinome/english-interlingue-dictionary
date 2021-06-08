@@ -15,9 +15,9 @@ endif::[]
 
 // This file is part of the project
 // _English-Interlingue Dictionary_
-// (http://ne.alinome.net)
+// (http://ne.alinome.net).
 
-// Last modified 202011051844
+// Last modified 20210608T1533+0200.
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
@@ -67,9 +67,10 @@ Transcription of the original contents:: François Comparot et al., c.
 http://interlingue.narod.ru/[{http}interlingue.narod.ru] and
 http://ie-munde.com[{http}ie-munde.com].
 
-Revision and {format} edition:: Marcos Cruz, 2019, 2020.  Available
-{in_other_formats} in http://ne.alinome.net[{http}ne.alinome.net]
-and http://github.com/ne-alinome[{http}github.com/ne-alinome].
+Revision and {format} edition:: Marcos Cruz, 2019, 2020, 2021.
+Available {in_other_formats} in
+http://ne.alinome.net[{http}ne.alinome.net] and
+http://github.com/ne-alinome[{http}github.com/ne-alinome].
 
 Main changes in this edition::
 
@@ -77,7 +78,7 @@ Main changes in this edition::
   notation, have been fixed.
 - In order to facilitate the searching all entries have been splitted
   by type. {headwords}
-- In order to make the contents more legible and reusable in any format, 
+- In order to make the contents more legible and reusable in any format,
   the tildes in the definitions have been replaced with the
   headwords.
 - The notation and the punctuation have been homogenized.
@@ -86,20 +87,22 @@ Some changes and improvements are unfinished yet. See the
 http://github.com/ne-alinome/english-interlingue-dictionary/blob/master/TO-DO.adoc[to-do
 list in the project repository] for details.
 
-Edition made only by libre programs:: 
+Version of this edition:: {revnumber}.
+
+Contributions:: Corrections and suggestions for next versions are
+welcome at http://ne.alinome.net[{http}ne.alinome.net].
+
+Main programs used::
 http://asciidoctor.org[Asciidoctor],
 https://github.com/asciidoctor/asciidoctor-epub3[Asciidoctor EPUB3],
 https://github.com/asciidoctor/asciidoctor-pdf[Asciidoctor PDF],
 http://manual.calibre-ebook.com/generated/en/ebook-convert.html[ebook-convert],
 http://www.dict.org[dictfmt],
 http://imagemagick.org[ImageMagick],
+http://neovim.org[Neovim],
 https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],
 http://vim.org[Vim]…
 on the http://debian.org[Debian] operating system.
-
-Version of this edition:: {revnumber}.
-
-Contributions:: Corrections and suggestions for next versions are
-welcome at http://ne.alinome.net[{http}ne.alinome.net].
+All programs used are free software.
 
 // -------------------------------------------------------------
