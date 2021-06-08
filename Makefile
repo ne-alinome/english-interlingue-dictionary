@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 20210606T1436+0200.
+# Last modified: 20210608T1342+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -44,9 +44,11 @@
 # Pandoc (by John MaFarlane)
 #   http://pandoc.org
 
+# sort (by Mike Haertel and Paul Eggert)
+#   https://www.gnu.org/software/coreutils/
+
 # xsltproc
 #   http://xmlsoft.org/xslt/xsltproc.html
-
 
 # ==============================================================
 # Config {{{1
@@ -80,6 +82,17 @@ all: azw3 csv dict dbk epub odt pdf thumb wwwdoc
 .PHONY: clean
 clean:
 	rm -fr target/* tmp/*
+
+.PHONY: cleandoc
+cleandoc:
+	rm -f $(shell find target -type f | \
+		grep "target/\..*" -v | grep ".*\.\(jpg\|png\)" -v)
+	rm -f $(shell find tmp -type f | \
+		grep "tmp/\..*" -v | grep ".*\.\(jpg\|png\)" -v)
+
+.PHONY: cleancover
+cleancover:
+	rm -f target/*.jpg tmp/*.png
 
 # -------------------------------------
 
@@ -124,11 +137,22 @@ pdf: pdfa4 pdfletter
 
 .PHONY: pdfa4
 pdfa4: \
-	target/$(book).adoc._a4.pdf.zip \
-	target/$(book).adoc._a4.pdf.gz
+	target/$(book).adoc._a4.pdf
 
 .PHONY: pdfletter
 pdfletter: \
+	target/$(book).adoc._letter.pdf
+
+.PHONY: pdfz
+pdf: pdfa4z pdfletterz
+
+.PHONY: pdfa4z
+pdfa4z: \
+	target/$(book).adoc._a4.pdf.zip \
+	target/$(book).adoc._a4.pdf.gz
+
+.PHONY: pdfletterz
+pdfletterz: \
 	target/$(book).adoc._letter.pdf.zip \
 	target/$(book).adoc._letter.pdf.gz
 
@@ -143,16 +167,22 @@ cover: target/$(cover).jpg
 .PHONY: thumb
 thumb: target/$(cover)_thumb.jpg
 
-.PHONY: cleancover
-cleancover:
-	rm -f target/*.jpg tmp/*.png
+# ==============================================================
+# Sort the original data {{{1
+
+.PHONY: sort
+sort:
+	sort -t# -k1,1 src/$(book).txt | sponge src/$(book).txt
+
+tmp/$(book)._sorted.txt: src/$(book).txt
+	sort -t# -k1,1 $< > $@
 
 # ==============================================================
 # Convert the original data to Asciidoctor {{{1
 
 .SECONDARY: tmp/$(book).txt.adoc
 
-tmp/%.txt.adoc: src/%.txt
+tmp/%.txt.adoc: tmp/%._sorted.txt
 	sed -e "s/^\(.\+\) *#\(.\+\)\?#\(.\+\)#.*/- .\1. (\2): \3/"  $< | \
 	sed -e "s/; / |{nbsp}/g" > $@
 	vim -S make/add_letter_headings.vim $@
@@ -201,6 +231,12 @@ tmp/%.adoc._letter.pdf: target/%.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
+
+target/%.adoc._a4.pdf: tmp/%.adoc._a4.pdf
+	@ln --force $< $@
+
+target/%.adoc._letter.pdf: tmp/%.adoc._letter.pdf
+	@ln --force $< $@
 
 target/%.pdf.zip: tmp/%.pdf
 	zip -9 $@ $<
@@ -309,7 +345,7 @@ tmp/%.adoc.dbk.txt: tmp/%.adoc.dbk
 .SECONDARY: tmp/$(dict_basename).$(dict_data_format)
 
 tmp/$(dict_basename).$(dict_data_format): \
-	src/$(book).txt \
+	tmp/$(book)._sorted.txt \
 	tmp/dict_header.adoc.dbk.txt
 	cat tmp/dict_header.adoc.dbk.txt > $@
 	sed -e "s/^\(.\+\) *#\(.\+\)#\(.\+\)#/:\1:(\2): \3/" \
@@ -450,3 +486,8 @@ tmp/README.html: README.adoc
 # 2020-12-24: Build an online version of the README file for the Fossil repository.
 
 # 2021-06-06: Update the requirements: add dictfmt and dictzip.
+#
+# 2021-06-08: Make sure the data is sorted before converting it. Add a rule to
+# clean the temporary and target files except those of the cover. Separate the
+# building of the compressed and uncompressed PDF files; built the uncompressed
+# PDF files by default.
