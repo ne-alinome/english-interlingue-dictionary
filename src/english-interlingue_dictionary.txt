@@ -461,9 +461,8 @@ AMOK#adj.#amocc#
 AMONG#prep.#ínter#
 AMOROUS#adj.#amorosi#
 AMORPHOUS#adj.#amorf, sin forme#
-AMOUNT#adj.#equivaler#
 AMOUNT#n.#summa, quantitá#
-AMOUNT#v.#(to amount to) summar#
+AMOUNT#v.#(to amount to) summar a, equivaler#
 AMOUR#n.#amor-afere#
 AMPHIBIAN#n.#amfibie#
 AMPHIBIOUS#adj.#amfibic#
@@ -497,7 +496,7 @@ ANCHOVY#n.#anchove#
 ANCIENT#adj.#ancian, antiqui, old#
 ANCILLARY#adj.#suplementari, auxiliari#
 AND#conj.#e#
-AND SO ON#adv.#et cetera#
+AND SO ON#adv.#etcéteri#
 ANECDOTE#n.#anecdote#
 ANEMOMETER#n.#anemometre#
 ANEMONE#n.#anemone#
@@ -580,7 +579,7 @@ ANUS#n.#ánus#
 ANVIL#n.#incude#
 ANXIETY#n.#anxietá#
 ANXIOUS#adj.#íntranquil, anxiosi; tre desirosi#
-ANY#adj., pron.#alquel, quelcunc; (any kind of) alqual, qualcunc. Often omitted#
+ANY#adj., pron.#alquel, quelcunc; (any kind of) alqual, qualcunc. Often omitted#XXX REMARK Often omitted?
 ANYBODY#n.#(interr.) alcun, alquí, alquem; (no matter who(m)) quicunc, quemcunc#
 ANYHOW#adv.#alquam; (no matter how) quamcunc#
 ANYTHING#n.#(interr.) alquó; (no matter what) quocunc#
@@ -799,7 +798,7 @@ ASSESS#v.#evaluar (-ation), taxar#
 ASSETS#n.#actives#
 ASSIDUOUS#adj.#assidui (-tá), diligent#
 ASSIGN#v.#assignar, atribuer#
-ASSIMILATE#v.#assimilar (-ation)j incorporar#
+ASSIMILATE#v.#assimilar (-ation); incorporar#
 ASSIST#v.#auxiliar, assister (-ente, -entie)#
 ASSIZES#n.#assises, tribunale#
 ASSOCIATE#n.#socio#
@@ -2869,7 +2868,7 @@ COMMODIOUS#adj.#comod, spaciosi, vast, ampli#
 COMMODITY#n.#merce#
 COMMODORE#n.#comodore#
 COMMON#adj.#comun, ordinari, banal, trivial, vulgari, frequent#
-COMMON#n.#comun pastura;#
+COMMON#n.#comun pastura#
 COMMONALTY#n.#comunitá, populache#
 COMMONER#n.#cive#
 COMMONPLACE#adj.#banal (-itá), ordinari#
@@ -3232,7 +3231,7 @@ CORPSE#n.#cadavre, morto#
 CORPULENT#adj.#corpulent (-ie), obesi#
 CORPUSCLE#n.#corpuscul (-ari)#
 CORRECT#adj.#corect, just#
-CORRECT#v.#corecter (-ion, -iv, -ura),punir#
+CORRECT#v.#corecter (-ion, -iv, -ura); punir#
 CORRELATE#v.#corelater (-ion, -iv)#
 CORRESPOND#v.#coresponder (-ent, -entie)#
 CORRESPONDING TO#prep.#conform a, secun#
@@ -4991,8 +4990,8 @@ ESTIMATE#v.#apreciar, taxar; opiner, evaluar#
 ESTRADE#n.#estrade#
 ESTRANGE#v.#alienar#
 ESTUARY#n.#estuarie, inboccatura#
-ETC.#adv.#etcéteri, etc.#
-ETCETERA#adv.#etcéteri, etc.#
+ETC.#adv.#etc., etcétera, e céteri#
+ETCETERA#adv.#etcétera, e céteri, etc.#
 ETCH#v.#rader#
 ETCHING#n.#radura#
 ETERNAL#adj.#etern (-itá, -isar)#
@@ -5045,7 +5044,7 @@ EVOLVE#v.#evoluer, developar#
 EWE#n.#agna#
 EWER#n.#aquiere, aqua-cruche#
 EX#prefix#as in English: ex-oficero, ex-presidente etc.#
-EXACERBATE#v.#exacerbar (-ation), agravar,#
+EXACERBATE#v.#exacerbar (-ation), agravar#
 EXACT#adj.#exact (-itá), precisi#
 EXACT#v.#exiger, extorDer, postular#
 EXAGGERATE#v.#exagerar (-ation)#
@@ -5328,7 +5327,7 @@ FEEBLE#adj.#debil (-itá, -isar)#
 FEED#v.a.#nutrir, alimentar; (eat) manjar; (cattle) forragear#
 FEED ON#v.#nutrir se per#
 FEEL#v.#sentir; (by touch) palpar, tastar#
-FEELER#ent.#antenne#
+FEELER#n.#(ent.) antenne#
 FEELING#n.#sente, sensation, emotion#
 FEIGN#v.#ficter, simular#
 FEINT#n.#fiction, simulation, pretexte; tric; (fencing) finte#
@@ -6941,13 +6940,13 @@ HOGSHEAD#n.#grand baril#
 HOIST#n.#elevator, lift#
 HOIST#v.#hissar, levar#
 HOLD#n.#cargo-funde, hold#
-HOLD#v.#tener, haver, posseDer; contener; mantener, opiner, considerar, afirmar#
+HOLD#v.#tener, haver, posseDer; contener; mantener, opiner, considerar, afirmar; retener, detener; frenar; valer; tacer; durar, resister; coherer, esser solidari; stoppar, haltar; suportar#
 HOLD BACK#v.#retener, detener; frenar#
 HOLD GOOD#v.#valer#
 HOLD ONE'S TONGUE#v.#tacer#
 HOLD OUT#v.#durar, resister#
 HOLD TOGETHER#v.#coherer, esser solidari#
-HOLD UP#v.#stop par, haltar; suportar#
+HOLD UP#v.#stoppar, haltar; suportar#
 HOLDALL#n.#necessarium#
 HOLDER#n.#(person) tenente; (receptacle) vase, receptuore, centenente. By affixes porta-, -iero: porta-cigarre or cigarriero (Engl. cigar-holder)#XXX FIXME "or", "Engl."
 HOLDING#n.#(land) parcelle; (small) hube#
@@ -7492,7 +7491,7 @@ INCONSOLABLE#adj.#ínconsolabil#
 INCONSPICUOUS#adj.#ínremarcabil, ínperceptibil#
 INCONSTANT#adj.#ínconstant (-ie)#
 INCONTESTABLE#adj.#íncontestabil#
-INCONTINENT#adj.#ínchast, íncontinent;#
+INCONTINENT#adj.#ínchast, íncontinent#
 INCONTINENTLY#adv.#strax#
 INCONTROVERTIBLE#adj.#ínrefutabil, íncontestabil#
 INCONVENIENT#adj.#íncomod, genant, ínoportun#
@@ -8222,7 +8221,7 @@ KIRK#n.#eclesie; (building) eclesia#
 KISS#n.#besa (-ar)#
 KIT#n.#possedallia, proprietá, cosage#
 KIT-BAG#n.#sac-valise#
-KITCHEN#n.#cocin(erí)a#XXX TODO split
+KITCHEN#n.#cocin(erí)a#XXX TODO split?
 KITCHEN CUPBOARD#n.#scaf de cocina, utensilarium#
 KITCHEN-GARDEN#n.#legumiera#
 KITE#n.#(bird) milve; (paper kite) dracon volant#
@@ -8282,7 +8281,7 @@ LACE#v.#lacear; ligar#
 LACEHOLE#n.#oculette#
 LACERATE#v.#lacerar, mutilar#
 LACHRYMAL#adj.#lachrymal lacrimal#
-LACK#n.#manca, beson, índigentie#
+LACK#n.#manca, beson, indigentie#
 LACK#v.#mancar, indiger#
 LACKADAISICAL#adj.#índiferent; negligent#
 LACKEY#n.#lacayo#
@@ -8311,8 +8310,8 @@ LAKE#n.#lago#
 LAMA#n.#lama#
 LAMB#n.#agnelle (-a); (meat) agnelline, carne agnellin#
 LAMBENT#n.#(flame) serpentant#
-LAME#adj.#claudicant; (fig.)ínsatisfatori, debil#
-LAME#v.#mutilar, far .claudicant, paralisar#
+LAME#adj.#claudicant; (fig.) ínsatisfatori, debil#
+LAME#v.#mutilar, far claudicant, paralisar#
 LAMENT#v.#lamentar (-ation, -abil), deplorar#
 LAMINA#n.#lámine#
 LAMP#n.#lampe#
@@ -9501,7 +9500,7 @@ MISQUOTE#v.#miscitar#
 MISREPRESENT#v.#mispresentar (-ation)#
 MISRULE#n.#mal guvernation#
 MISS#n.#manca, missuccesse; (title) senioretta#
-MISS#v.#(feel a want of) sentir li manca de, indiger; (let go by) preterlassar; (a train) ne atinger; (target) mancar; (discover a loss) remarcar un manca, omisser#
+MISS#v.#(feel a want of) sentir li manca de, indiger; (let go by) preterlassar; (a train) ne atinger; (target) mancar; (discover a loss) remarcar un manca, omisser#XXX FIXME miss target = mancar cible?
 MISSAL#n.#messale#
 MISSHAPEN#adj.#mal format, misformat#
 MISSILE#n.#projectile#
@@ -11681,7 +11680,7 @@ PROD#v.#incitar, picar, instigar#
 PRODIGAL#n.#prodigo (-al, -alitá)#
 PRODIGY#n.#prodigie (-osi)#
 PRODUCE#n.#producte#
-PRODUCE#v.#producter (-ion, -or,-iv), causar, monstrar#
+PRODUCE#v.#producter (-ion, -or, -iv), causar, monstrar#
 PROFANE#adj.#profan, seculari, blasfematori#
 PROFANE#v.#profanar (-ation), dessacrar, blasfemar#
 PROFESS#v.#professer, declarar; (avow) confesser; (claim) pretender#
@@ -12788,7 +12787,7 @@ ROMP#n.#bruosi lude#
 RONDEAU#n.#rondo#
 ROOK#n.#cornille; (Chess) turre#
 ROOM#n.#sala, chambre, cámera; (space) spacie#
-ROOMY#adj.#spaciosi, vast,; ampli#
+ROOMY#adj.#spaciosi, vast; ampli#XXX TODO confirm if "ampli" must be apart by semicolon
 ROOP#n.#tecte, tegment (-ar, -ero, -age); (of mouth; pálate#
 ROOST#n.#galliniere#
 ROOT#n.#radica; orígine, fonte#
@@ -13210,7 +13209,7 @@ SEASON#v.#condimentar, spicear#
 SEASONABLE#adj.#oportun, secun seson#
 SEASONING#n.#condiment#
 SEAT#n.#sede, stul, banca#
-SEAT#v.#sedentar#
+SEAT#v.tr.#sedentar#
 SEBACIOUS#adj.#sebosi, sebic#
 SECEDE#v.#retraer se; dissider (-ente)#
 SECLUDE#v.#secluDer (-sion)#
@@ -13289,7 +13288,7 @@ SEND#v.#inviar, misser, expedir#
 SEND FOR#v.#far venir#
 SEND ON#v.#transmisser#
 SEND OUT#v.#emisser, dismisser#
-SEND WORD OF#v.#avisar#
+SEND WORD OF#v.#avisar#XXX FIXME "OF"? "TO"?
 SENILE#adj.#senil (-itá)#
 SENIOR#adj.#plu old, senior (-itá)#
 SENSATION#n.#sensation (-al, -alisme), eclate, sentida#
@@ -13367,7 +13366,7 @@ SETTING#n.#colocation; scene, funde#
 SETTLE#v.#fixar, arangear; payar; deciDer; (an account) saldar; (sink) afundar; reposar; (territory) colonisar#
 SETTLED#adj.#tranquil, constant; colonisat#
 SETTLEMENT#n.#saldo; arangeament; assignatura; liquidation; (colony) colonia; (subsidence) subsedentie#
-SEVEN#adj. ,n.#sett (-anti, -esim)#
+SEVEN#adj., n.#sett (-anti, -esim)#
 SEVEN-SLEEPER#n.#glire#
 SEVER#v.#separar, dejunter, detranchar#
 SEVERAL#adj.#(in number) pluri, divers, diatint, separat; respectiv#
@@ -13748,7 +13747,7 @@ SLOW#adj.#lent (-ore), tard; (wearisome) enoyant#
 SLOW DOWN#v.#alentar, desaccelerar#
 SLUG#n.#limace (calcin)#
 SLUGGARD#n.#dormion, lentarde#
-SLUGGISH#adj.#pesant, inert, inactiv, lentaci; (med,) limfatic#
+SLUGGISH#adj.#pesant, inert, inactiv, lentaci; (med.) limfatic#
 SLUICE#n.#scluse (-ero)#
 SLUM#n.#quarterache, slum#
 SLUMBER#n.#dorme#
@@ -14227,7 +14226,7 @@ START#v.#comensar, initiar, activar; departer#
 STARTLE#v.#aterrer, chocar, alarmar#
 STARTLING#adj.#consternant#
 STARVATION#n.#fame, famine#
-STARVE#intr.#famear; (tr.) afamar#
+STARVE#v.intr.#famear; (tr.) afamar#
 STATE#adj.#statal; ceremonial#
 STATE#n.#(polit.) state; (condition) statu, condition; pompe, gala#
 STATE#v.#dir, narrar, declarar, asserter#
@@ -16004,7 +16003,7 @@ VENTURE#v.#riscar; (dare) audaciar#
 VERACIOUS#adj.#veraci (-tá)#
 VERANDA#n.#veranda#
 VERB#n.#verbe (-al, -alisar)#
-VERBAL#adj.#(word of mouth) oral; (word for word) parol pro parol#
+VERBAL#adj.#(word of mouth) oral; (word for word) parol pro parol#XXX FIXME pro/por parol?
 VERBENA#n.#verben#
 VERBOSE#adj.#prolix (-itá)#
 VERDANT#adj.#verdi, frisc#
