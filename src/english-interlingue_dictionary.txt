@@ -9500,7 +9500,7 @@ MISQUOTE#v.#miscitar#
 MISREPRESENT#v.#mispresentar (-ation)#
 MISRULE#n.#mal guvernation#
 MISS#n.#manca, missuccesse; (title) senioretta#
-MISS#v.#(feel a want of) sentir li manca de, indiger; (let go by) preterlassar; (a train) ne atinger; (target) mancar; (discover a loss) remarcar un manca, omisser#XXX FIXME miss target = mancar cible?
+MISS#v.#(feel a want of) sentir li manca de, indiger; (let go by) preterlassar; (a train) ne atinger; (target) fallir; (discover a loss) remarcar un manca, omisser#
 MISSAL#n.#messale#
 MISSHAPEN#adj.#mal format, misformat#
 MISSILE#n.#projectile#
