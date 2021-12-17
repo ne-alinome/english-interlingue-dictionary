@@ -15887,7 +15887,7 @@ URBANE#adj.#polit, cortesi#
 URCHIN#n.#gamino, pueracho, garsonacho#
 URGE#n.#impulse#
 URGE#v.intr.#(be urgent) urger (-ent, -entie)#
-URGE#v.tr.#presser#XXX FIXME improve
+URGE#v.tr.#presser adavan, incitar, animar, incoragear; presser in argumente o dispute, insister, persister#
 URINAL#n.#urinuore, pissuore#
 URINE#n.#urine (-ari)#
 URN#n.#urne#
