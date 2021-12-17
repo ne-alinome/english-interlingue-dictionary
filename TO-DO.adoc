@@ -17,7 +17,6 @@
 - Separate "LIMB membre; tranche; LIMB (astr.) limbe" and similar
   cases.
 - Add a list of abbreviations used in the dictionary.
-- Homogenize notations v.a./tr. and v.n./intr.
 - Separate all variants into independent headwords.
 - Fix: "punte" is mentioned in "SCORE", but not in "POINT".
 - Fix "TO LOOK UP TO", which was at the end of "LOOK" without
@@ -69,7 +68,7 @@
 - Sort the data file at the start of the conversions.
 - Homogenize "forne" (6 in Cosmoglotta) - "forn" (11 in Cosmoglotta).
 - Homogenize commas before "etc".  
-- Fix notation "(intr.)" and "(tr.)" and split them.
+- Improve "expr.": "prep.expr.", "v.expr.", etc.
 
 // Doubts {{{1
 == Doubts

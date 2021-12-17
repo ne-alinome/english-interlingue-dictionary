@@ -972,7 +972,8 @@ BACCHANAL#adj.#debochant#
 BACHELOR#n.#celibo; (graduate) baccalaureo#
 BACILLUS#n.#bacille#
 BACK#n.#dorse, parte posteriori#
-BACK#v.#(a horse) retroducter; (intr.) retropassuar; (sails) baccar; (support) suportar, subtener#XXX TODO split tr./ntr.
+BACK#v.intr.#retropassuar, retroear#
+BACK#v.tr.#(a horse) retroducter; (a horse) montar; (sails) baccar; (support) suportar, subtener#XXX consult "back sails = baccar"
 BACKBITE#v.#calumniar#
 BACKBONE#n.#spine dorsal#
 BACKGAMMON#n.#trictrac#
@@ -1513,7 +1514,8 @@ BLADE#n.#(bot.) folie; (knife) lame#
 BLAME#n.#blama#
 BLAME#v.#blamar (-abil)#
 BLAMELESS#adj.#ínreprochabil#
-BLANCH#v.#paller; (tr.) pallidar#
+BLANCH#v.intr.#paller#
+BLANCH#v.tr.#pallidar#
 BLANCMANGE#n.#lacte-gelé, blamange#
 BLAND#adj.#suavi, mild#
 BLANDISHMENT#n.#flattada#
@@ -1533,8 +1535,8 @@ BLAZE#v.#flammear; (light) lucer, brilliar#
 BLAZER#n.#flanell-jaque#
 BLAZON#n.#blason, emblema, insigne#
 BLAZONRY#n.#heraldica, arte de blason#
-BLEACH#v.a.#pallidar, ablancar#
-BLEACH#v.n.#devenir pallid#
+BLEACH#v.intr.#devenir pallid#XXX TODO -ijar
+BLEACH#v.tr.#pallidar, ablancar#
 BLEAK#adj.#desert, frigid; trist#
 BLEAR-EYED#adj.#con nebulat ocules, con humid ocules#
 BLEAT#v.#belar, blecar#
@@ -1555,8 +1557,8 @@ BLINK#v.#palpebrar, oculettar#
 BLINKERS#n.#para-ocul, garda-ocul#
 BLISS#n.#beatitá, delicie#
 BLISTER#n.#vesicul (-ari)#
-BLISTER#v.#tumer, tumescer#
-BLISTER#v.a.#tumefar#
+BLISTER#v.intr.#tumer, tumescer#
+BLISTER#v.tr.#tumefar#
 BLITHE#adj.#gay, alegri#
 BLIZZARD#n.#nive-storm, blizzard#
 BLOATED#adj.#inflat, tumid#
@@ -1625,8 +1627,8 @@ BOGGLE#v.#hesitar, haver scrupules#
 BOGIE#n.#bogie#
 BOGUS#adj.#fals, fictiv, pretextat#
 BOIL#n.#furuncul, tumore#
-BOIL#v.#bollir#
-BOIL#v.a.#bollientar, cocinar#
+BOIL#v.intr..#bollir#
+BOIL#v.tr.#bollientar, cocinar#
 BOIL OVER#v.#sputar in (li) foy#
 BOILER#n.#caldron, caldiere, bolliere#
 BOISTEROUS#adj.#tumultuosi, vehement, impetuosi, rud#
@@ -1956,7 +1958,8 @@ BURLESQUE#adj.#burlesc#
 BURLESQUE#n.#burlesca#
 BURLY#adj.#robust, gross#
 BURN#n.#(a wound) brulatura; (stream) riverette#
-BURN#v.a.#brular, incendiar; (intr.) arder, flagrar. combuster#
+BURN#v.intr.#arder, flagrar. combuster#
+BURN#v.tr..#brular, incendiar#
 BURNING-GLASS#n.#lupe#
 BURNISH#v.#brunir (-age, -itor, -ition), polir, far splender#
 BURROW#n.#tunnel de cunícul#
@@ -3458,7 +3461,7 @@ CROW'S NEST#n.#mast-corb#
 CROWBAR#n.#levuore, ferrin fuste#
 CROWD#n.#hom-amasse, turbe#
 CROWD#v.#presser, amassar, superplenar#
-CROWD SAILS#v.#presser segles, portar tro mult segles#
+CROWD SAILS#expr.#presser segles, portar tro mult segles#
 CROWN#n.#coron, diadem; (wreath) guirlande; (of head) vertice; (of anchor) cruce#
 CROWN#v.#coronar (-ation)#
 CRUCIAL#adj.#critic, decisiv#
@@ -3535,7 +3538,7 @@ CURFEW#n.#vésper-cloche#
 CURIO#n.#curiositá, raritá#
 CURIOUS#adj.#curiosi, inquisitiv, strangi#
 CURL#n.#bucle; (of waves) crispada; (of smoke) serpenteada#
-CURL#v.a.#friser, buclar#
+CURL#v.tr.#friser, buclar#
 CURLEW#n.#numenio#
 CURLING-PAPER#n.#papilotte#
 CURMUDGEON#n.#avaron, mesquino#
@@ -3696,8 +3699,8 @@ DEBAR#v.#excluDer, refusar#
 DEBASE#v.#degradar, depravar, humilar; (coinage) falsar#
 DEBASED#adj.#viciosi, degradat, corupt(et)#
 DEBATE#n.#debatte (-ar, -abil)#
-DEBAUCH#v.#seducter, ruinar#
-DEBAUCH#v.a.#debochar (-ard, -eríe), libertinar#
+DEBAUCH#v.intr.#debochar (-ard, -eríe), libertinar#XXX REMARK "v.a." in the original
+DEBAUCH#v.tr.#seducter, ruinar#
 DEBENTURE#n.#obligation, debit-atest#
 DEBILITATE#v.#debilisar (-ation)#
 DEBIT#comm.#debete (-ar)#
@@ -3802,8 +3805,8 @@ DEISM#n.#de-isme (-ist)#
 DEITY#n.#Deo, deitá#
 DEJECTED#adj.#depresset, descorageat, desanimat#
 DELAY#n.#retarde, mora#
-DELAY#v.a.#retardar, procrastinar, demorar#
-DELAY#v.n.#tardar, hesitar#
+DELAY#v.intr.#tardar, hesitar#
+DELAY#v.tr.#retardar, procrastinar, demorar#
 DELECTABLE#adj.#deliciosi, juitiv, delectabil#
 DELEGATE#v.#delegar (-ation. -ate), deputar#
 DELETE#v.#forstrecar, deleter (-ion)#
@@ -4464,7 +4467,7 @@ DRINK TO#v.#tostar#
 DRIP#v.#guttear#
 DRIPPING#n.#rost-grasse, grasse culinari#
 DRIVE#n.#promenada, excursion; (road) calech-via, allé#
-DRIVE#v.a.#conducter, far functionar, far avansar, far ear, propulser, promoer; (a horse) ducter; (a machine) mo(v)er, operar, vehicular, choferar; (compel) fortiar#
+DRIVE#v.tr.#conducter, far functionar, far avansar, far ear, propulser, promoer; (a horse) ducter; (a machine) mo(v)er, operar, vehicular, choferar; (compel) fortiar#
 DRIVE TO DISTRACTION#v.#far frenetic#
 DRIVEL#v.#radotar, parlar ínepties; (slaver) bavar#
 DRIVER#n.#cochero, chofero, conductor#
@@ -5126,7 +5129,8 @@ EXPIRE#v.#expirar (-ation), exhalar, morir; (to end) terminar#
 EXPLAIN#v.#explicar (-ation)#
 EXPLETIVE#n.#maledition#
 EXPLICIT#adj.#explicit, precisi, distint, clar#
-EXPLODE#v.#exploDer (-sion, -siv, -sive); (tr.) explodentar#
+EXPLODE#v.intr.#exploDer (-sion, -siv, -sive)#
+EXPLODE#v.tr.#explodentar#
 EXPLOIT#n.#grand, heroic action#
 EXPLOIT#v.#explotar (-ation, -ero)#
 EXPLORE#v.#explorar (-ation, -ator)#
@@ -5324,7 +5328,7 @@ FEDERAL#adj.#federal (-isme)#
 FEDERATE#v.#federar (-ation)#
 FEE#n.#honorarie, recompense#
 FEEBLE#adj.#debil (-itá, -isar)#
-FEED#v.a.#nutrir, alimentar; (eat) manjar; (cattle) forragear#
+FEED#v.tr.#nutrir, alimentar; (eat) manjar; (cattle) forragear#
 FEED ON#v.#nutrir se per#
 FEEL#v.#sentir; (by touch) palpar, tastar#
 FEELER#n.#(ent.) antenne#
@@ -5451,8 +5455,8 @@ FINGER PRINT#n.#fingre-print#
 FINGER-POST#n.#pal indicatori, indicator de via#
 FINICKING#adj.#tro precisi, afectat#
 FINISH#n.#fine#
-FINISH#v.a.#finir, terminar; (of stuffs) apretar#
-FINISH#v.n.#cessar#
+FINISH#v.intr.#cessar#
+FINISH#v.tr.#finir, terminar; (of stuffs) apretar#
 FINITE#adj.#finit, limitat#
 FIORD#n.#fiord#
 FIR#n.#abiete#
@@ -6442,15 +6446,15 @@ GROUSE#n.#(bird) tetrix#
 GROUSE#v.#plendir#
 GROVE#n.#boscage#
 GROVEL#v.#repter abjectmen avan alquí#
-GROW#v.a.#producter, cultivar#
-GROW#v.n.#crescer, acrescer; augmentar se; (become) devenir; (grow up) adultijar#
+GROW#v.intr.#crescer, acrescer; augmentar se; (become) devenir; (grow up) adultijar#
+GROW#v.tr.#producter, cultivar#
 GROWL#v.#grunir (-ida)#
 GROWTH#n.#crescentie; (bot.) crescement, crescon; progresse, production; excrescentie#
 GRUB#n.#larve; verme; (food) manjage#
 GRUB#v.#fossar, cavar, scrapar#
 GRUDGE#n.#rancore (-ar)#
-GRUDGE#v.a.#invidiar#
-GRUDGE#v.n.#ne voler, far alquó contra voluntá#
+GRUDGE#v.intr.#ne voler, far alquó contra voluntá#
+GRUDGE#v.tr.#invidiar#
 GRUEL#n.#gruel#
 GRUESOME#adj.#horrid, horribil, macabri#
 GRUFF#adj.#rauc, brusqui, abrupt, desafabil#
@@ -6593,7 +6597,7 @@ HANDSHAKE#n.#manu-pression#
 HANDSOME#adj.#bell, jolli; generosi#
 HANDWRITING#n.#caligrafie, scritura, manu scrite#
 HANDY#adj.#habil, déxteri; (at hand) che manu, proxim; (convenient) convenent#
-HANG#v.a.#apender, acrocar; (wallpaper) tapetar; (to be hanging) pender#
+HANG#v.tr.#apender, acrocar; (wallpaper) tapetar; (to be hanging) pender#
 HANG AROUND#v.#flanar#
 HANG BACK#v.#vacillar, retener se#
 HANG TOGETHER#v.#coherer#
@@ -7111,8 +7115,8 @@ HURL#v.#jettar (violentmen) , lansar#
 HURRAH#interj.#hurrá#
 HURRICANE#n.#uragane#
 HURRY#n.#hasta, urgentie#
-HURRY#v.a.#accelerar#
-HURRY#v.n.#hastar#
+HURRY#v.intr.#hastar#
+HURRY#v.tr.#accelerar#
 HURT#v.#doler, dolorar; (damage) damagear, leDer; (feelings) ofender; (harm) nocer; (injure) vulnerar, injuriar#
 HUSBAND#n.#marito#
 HUSBAND#v.#economisar#
@@ -12328,7 +12332,8 @@ RED TAPE#n.#rutine, burocratie#
 RED-HOT#adj.#ardent#
 RED-TAPE#n.#rutine oficial#
 REDBREAST#n.#rubicol, rubi-péctore#
-REDDEN#v.#rubar; (intr.) rubi jar#
+REDDEN#v.intr.#rubijar#
+REDDEN#v.tr.#rubar#
 REDEEM#v.#(article) degagear; recomprar; (eccl.) redempter (-iv, -or)#
 REDEEMING#adj.#compensatori#
 REDINGOTE#n.#redingote#
@@ -13771,7 +13776,8 @@ SMASH#v.#fracassar, dispezzar; aplastar; (fin.) fallir#
 SMATTERING#n.#conossentie superficial#
 SMEAR#v.#grassar, unguentar; (in writing) sordidar#
 SMELL#n.#odore, malodore, aroma, parfúm; (a sniff) flare#
-SMELL#v.#(with nose) flarar; (intr.) odorar, aromar#
+SMELL#v.intr.#odorar, aromar#
+SMELL#v.tr.#(with nose) flarar#
 SMELLING-BOTTLE#n.#flar-botelle#
 SMELT#v.#fonder, fuser; (fish) eperlane#
 SMILE#n.#subride (-er), ridette#
@@ -14136,7 +14142,8 @@ SQUAMOSE#adj.#squamosi#
 SQUANDER#v.#dissipar, prodigar#
 SQUARE#adj.#quadrat, quadriform; pari; quitt; honest#
 SQUARE#n.#quadrate; (geom.) squadre; (public) plazza#
-SQUARE#v.#quadrar; (set right) adjustar; (bribe) subcomprar; (intr.) acordar se con#
+SQUARE#v.intr..#acordar se con#XXX TODO complete syntax con/with
+SQUARE#v.tr.#quadrar; (set right) adjustar; (bribe) subcomprar#
 SQUARE ROOT#n.#radica quadratic#
 SQUARING#n.#quadratura#
 SQUASH#v.#ecrasar, aplastar#
@@ -14226,7 +14233,8 @@ START#v.#comensar, initiar, activar; departer#
 STARTLE#v.#aterrer, chocar, alarmar#
 STARTLING#adj.#consternant#
 STARVATION#n.#fame, famine#
-STARVE#v.intr.#famear; (tr.) afamar#
+STARVE#v.intr.#famear#
+STARVE#v.tr.#afamar#
 STATE#adj.#statal; ceremonial#
 STATE#n.#(polit.) state; (condition) statu, condition; pompe, gala#
 STATE#v.#dir, narrar, declarar, asserter#
@@ -14313,7 +14321,8 @@ STICK AT#v.#haltar avan#
 STICK OUT#v.#prominer#
 STICKY#adj.#glutinosi, adhesiv#
 STIFF#adj.#rigid, ínflexibil, obstinat; formal; fort#
-STIFFEN#v.#arigidar, far rigid; (intr.) devenir rigid#
+STIFFEN#v.intr.#devenir rigid#XXX TODO -ijar
+STIFFEN#v.tr.#arigidar, far rigid#
 STIFLE#v.#sufocar, represser#
 STIGMA#n.#stigma (-tic, -tisar)#
 STILE#n.#passuore, pontette#
@@ -14732,7 +14741,8 @@ SWIMMING BATH#n.#piscine, svimm-bassine#
 SWINDLE#v.#(de)fraudar, decepter#
 SWINE#n.#svine(s) (-atri, -ero)#
 SWING#n.#(swings) balansuore#
-SWING#v.#pendular, oscillar; (tr.) brandisser; far flirtar#
+SWING#v.intr.#pendular, oscillar#
+SWING#v.tr.#brandisser; far flirtar#
 SWING ROUND#v.#tornar se; (the arms) brassear#
 SWIPE#n.#becasse#
 SWIRL#n.#virle (-ar)#
@@ -15876,7 +15886,8 @@ URBAN#adj.#citean, urban#
 URBANE#adj.#polit, cortesi#
 URCHIN#n.#gamino, pueracho, garsonacho#
 URGE#n.#impulse#
-URGE#v.a.#presser; (be urgent) urger (-ent, -entie)#
+URGE#v.intr.#(be urgent) urger (-ent, -entie)#
+URGE#v.tr.#presser#XXX FIXME improve
 URINAL#n.#urinuore, pissuore#
 URINE#n.#urine (-ari)#
 URN#n.#urne#
@@ -16300,7 +16311,8 @@ WAYSIDE#adj.#rural#
 WAYWARD#adj.#capriciosi, pervers#
 WE#pron.#noi#
 WEAK#adj.#debil (-itá, -on); diluet#
-WEAKEN#v.#debilisar, (intr.) deperir#
+WEAKEN#v.intr.#deperir#
+WEAKEN#v.tr.#debilisar#
 WEAL#n.#bene#
 WEALTH#n.#richesse, abundantie, opulentie#
 WEALTHY#adj.#rich, opulent#
