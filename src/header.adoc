@@ -17,7 +17,7 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net).
 
-// Last modified 20210608T1533+0200.
+// Last modified 20211218T1733+0100.
 
 ifeval::["{format}"=="DICT"]
 :in_other_formats: also in EPUB, PDF and other formats
@@ -69,8 +69,7 @@ http://ie-munde.com[{http}ie-munde.com].
 
 Revision and {format} edition:: Marcos Cruz, 2019, 2020, 2021.
 Available {in_other_formats} in
-http://ne.alinome.net[{http}ne.alinome.net] and
-http://github.com/ne-alinome[{http}github.com/ne-alinome].
+http://ne.alinome.net[{http}ne.alinome.net].
 
 Main changes in this edition::
 
@@ -84,7 +83,7 @@ Main changes in this edition::
 - The notation and the punctuation have been homogenized.
 
 Some changes and improvements are unfinished yet. See the
-http://github.com/ne-alinome/english-interlingue-dictionary/blob/master/TO-DO.adoc[to-do
+http://fossil.ne.alinome.net/english-interlinuge_dictionary/file?name=TO-DO.adoc&ci=tip[to-do
 list in the project repository] for details.
 
 Version of this edition:: {revnumber}.
@@ -98,6 +97,7 @@ https://github.com/asciidoctor/asciidoctor-epub3[Asciidoctor EPUB3],
 https://github.com/asciidoctor/asciidoctor-pdf[Asciidoctor PDF],
 http://manual.calibre-ebook.com/generated/en/ebook-convert.html[ebook-convert],
 http://www.dict.org[dictfmt],
+http://fossil-scm.org[Fossil],
 http://imagemagick.org[ImageMagick],
 http://neovim.org[Neovim],
 https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],

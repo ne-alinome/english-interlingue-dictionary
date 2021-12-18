@@ -1,2 +1,2 @@
 :version-label: Digital edition version
-:revnumber: 0.1.0-pre.142.0+20211217T1646CET
+:revnumber: 0.1.0-pre.143.0+20211218T1733CET
