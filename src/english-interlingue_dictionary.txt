@@ -11137,7 +11137,7 @@ PIONEER#n.#pionero#
 PIOUS#adj.#pie (-tá)#
 PIP#n.#(disease) pips; (fruit) nucleo#
 PIP#v.#pipiar#
-PIPE#n.#(tobacco) pip; (Water etc.) tub; (mus.) sifflette, siffluore, flaute; (bagpipes) cornamuse#
+PIPE#n.#(tobacco) pip; (water etc.) tub; (mus.) sifflette, siffluore, flaute; (bagpipes) cornamuse#
 PIPE#v.#sifflar, luder li cornamuse#
 PIPECIAY#n.#pip-argil#
 PIPER#n.#flautist, cornamusero#
