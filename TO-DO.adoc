@@ -34,8 +34,6 @@
   but "vocosi" is adjective. -> "vocosimen".
 - Fix: FRUMP (n.) oldmodic, feminach, oldmodona". "oldmodic" is not a
   noun.
-- Fix: "GIVEN TO inclinat, disposit". The corresponding prepositions
-  are missing in Interlingue.
 - Fix: "ACCOMPLISHMENT (n.) (aquisit) habilitá". The notation of
   "(aquisit)" is that of the English comments.
 - Fix: "GULLIBLE (adj.) (facil) dupabil".  The notation of "(facil)"
