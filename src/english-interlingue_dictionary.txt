@@ -119,7 +119,7 @@ ACCOMPANY#v.#acompaniar (-ament)#
 ACCOMPLICE#n.#complice, conculpon#
 ACCOMPLISH#v.#acompleer, efectuar, executer, atinger#
 ACCOMPLISHED#adj.#talentat#
-ACCOMPLISHMENT#n.#(aquisit) habilitá#
+ACCOMPLISHMENT#n.#acompleement, atingement; aquisitet habilitá#
 ACCORD#n.#acorde#
 ACCORD#v.#acordar, concordar; (grant) conceder, dar#
 ACCORDANCE#n.#acordantie#
@@ -406,7 +406,7 @@ ALONG#prep.#along#
 ALONG WITH#prep.#junt con#
 ALONGSIDE#adv.#(naut.) bord a borde#
 ALOOF#adj.#reservat#
-ALOUD#adv.#vocosi, con voce, audibilmen#
+ALOUD#adv.#vocosimen, con voce, audibilmen#
 ALP#n.#alpe (-in)#
 ALPACA#n.#alpaca#
 ALPHABET#n.#alfabete (-ic)#
@@ -720,7 +720,7 @@ ARQUEBUS#n.#arcabuse (-ero)#
 ARRACK#n.#aracc#
 ARRAIGN#v.#acusar, inculpar#
 ARRANGE#v.#arangear (-ament), ordinar; disposir#
-ARRANT#adj.#archi-#
+ARRANT#adj.#(intensifier, often pejorative) complet, absolut, archi-#
 ARRAY#n.#órdine, serie; vestes#
 ARRAY#v.#ordinar, arangear; vestir#
 ARREARS#n.#residue, rest, summa ínpayat#
@@ -5885,7 +5885,7 @@ FRUIT#n.#fructe (-iferi, -osi, -iero, -venditor)#
 FRUIT#v.#dar fructe, fructificar#
 FRUITION#n.#maturitá, juida#
 FRUITLESS#adj.#van, ínfertil#
-FRUMP#n.#oldmodic, feminach, oldmodona#
+FRUMP#n.#oldmodic person; oldmodic femina, feminacha, oldmodona#
 FRUSTRATE#v.#frustrar (-ation), vanitar#
 FRY#n.#frite; (fish fry) fraye, pisc-covatura#
 FRY#v.#frir#
@@ -6172,7 +6172,7 @@ GLEAN#v.#colier; stopplar, posrecoltar#
 GLEANER#n.#stopplera#
 GLEE#n.#joya, gayitá; (mus.) harmonic cantada#
 GLEN#n.#valley, ravine#
-GLIB#adj.#(tro) fluent; suavi#
+GLIB#adj.#fluent; suavi#
 GLIDE#v.#glissar#
 GLIMMER#v.#lucettear, jettar un debil luce, lucer intermittentmen#
 GLIMPSE#n.#curt regarde#
@@ -6489,7 +6489,7 @@ GULF#n.#abisse, golfe#
 GULL#n.#movette#
 GULL#v.#dupar#
 GULLET#n.#gurgul, gúttur#
-GULLIBLE#adj.#(facil) dupabil#
+GULLIBLE#adj.#facilmen dupabil#
 GULLY#n.#ravine, cannel, canyonette#
 GULP#v.#glotir#
 GUM#n.#(adhesive) gumme (-ar), colle; (of teeth) gengive#
@@ -8080,9 +8080,10 @@ JIB#v.#paver, esser obstinat#
 JIG#n.#jig (dansa irlandesi)#
 JILT#v.#exsponder se#
 JINGLE#n.#tintinada#
-JINGLE#v.#(far) tintinar#
+JINGLE#v.intr.#tintinar#
+JINGLE#v.tr.#far tintinar#
 JOB#n.#tache, afere; oficie, posto, ocupation, mestiere#
-JOB#v.#(Stock Exchange) agiotar#
+JOB#v.#(stock exchange) agiotar#
 JOBBER#n.#agiotero, curtagero#
 JOCKEY#n.#jokey#
 JOCOSE#adj.#jocosi, amusant#
@@ -10731,9 +10732,10 @@ PASHA#n.#pachá#
 PASQUINADE#n.#pasquinade#
 PASS#n.#(defile) pass, defilé; (state) statu, condition; (permit) passe, permissive#
 PASS#v.#passar (-abil, -ada. -ant), far passar, transdar; (approve) aprobar; (suffice) suficer; (surpass) superar; (pass a test) trapassar, successar#
-PASS AWAY#v.#morir; evanescer#
+PASS AWAY#v.#morir; evanescer; desaparir#
 PASS BY#v.#preterear; (pass a law) votar#
 PASS OFF#v.#far acceptar; forpassar#
+PASS OUT#v.#evanescer; distribuer#XXX NEW
 PASS THE NIGHT#v.#pernoctar#
 PASS-BOOK#n.#bank-libre#
 PASSAGE#n.#passage, trajecte, passada, coridor; (music etc.) excerpte, parte#
@@ -16724,7 +16726,7 @@ YEW#n.#taxuo#
 YIELD#n.#(return) rendiment, producte#
 YIELD#v.#ceder, capitular; conceder; (to temptation) sucumber#
 YIELDING#adj.#cedaci#
-YODEL#n.#(sons) yodle (-ero, -ar)#
+YODEL#n.#(song) yodle (-ero, -ar)#
 YOKE#n.#yug; (of oxen) pare; (for carrying pails) vecte#
 YOKEL#n.#rustico#
 YOLK#n.#vitelle, yelb-ovine#
