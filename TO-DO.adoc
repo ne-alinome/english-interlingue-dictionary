@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-12-19
+:revdate: 2021-12-20
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -8,8 +8,13 @@
 //
 // By Marcos Cruz (programandala.net)
 
-// Fixes and improvements {{{1
-== Fixes and improvements
+// Building fixes and improvements {{{1
+== Building fixes and improvements
+
+- Only the "A" heading is built in the targets.
+
+// Content fixes and improvements {{{1
+== Content fixes and improvements
 
 - Fix colon/semicolon after English uppercase expressions.
 - Homogenize the usage of commas and semicolons.
@@ -51,6 +56,18 @@
 - Improve "expr.": "prep.expr.", "v.expr.", etc.
 - Remove examples and note from prefixes and add "-" to the
   translation?  
+- Why "si" in `HAVE A MIND TO #v.#inclinar, it vell pleser … si#`?
+- Move expression to their main word, e.g. "calculating machine" to
+  "machine".
+- Complete "COUNT" with nouns: "total number counted" and "the act of
+  counting".
+- Complete "SAINT santo (-itá)".
+- Move/copy "TAKE CARE: atention!, garda vos!" from "TAKE" to "TAKE
+  CARE".
+- In "REFRACTORY (n.) infusibile" is missing meaning "A refractory
+  person".
+- Add "(-ie)" to "impertinent" and others. 
+
 
 // Doubts {{{1
 == Doubts
@@ -144,31 +161,16 @@
 - `UMBRELLA#n.#parapluvie, ombrel#`: "ombrel"?!
 - Consultar: "ANNUITY" = "annuitá" vice "annuage"? Ambi ne es usat in Cosmoglotta.
 
-// Notes about the contents {{{1
-== Notes about the contents
-
-- Check: "different" is missing.
-- Move expression to their main word, e.g. "calculating machine" to
-  "machine".
-- "automatic/men" is missing.
-- Complete "COUNT" with nouns: "total number counted" and "the act of
-  counting".
-- Complete "SAINT santo (-itá)".
-- "CLASSIC" is missing.
-- "SUPER-" is missing.
-- "COHERENT" is missing, only "COHERE".
-- "ANYWAY" is missing.
-- "gramofon" is missing, but "fonograf".
-- Move/copy "TAKE CARE: atention!, garda vos!" from "TAKE" to "TAKE
-  CARE".
-- In "REFRACTORY (n.) infusibile" is missing meaning "A refractory
-  person".
-- Why "si" in `HAVE A MIND TO #v.#inclinar, it vell pleser … si#`?
-- Add "(-ie)" to "impertinent" and others. 
-
 // Missing words {{{1
 == Missing words
 
+- "automatic/men".
+- "CLASSIC".
+- "SUPER-".
+- "COHERENT".
+- "ANYWAY".
+- "gramofon" (but "fonograf" is included).
+- "DIFFERENT".
 - "ME".
 - "CLASSROOM": "aula", used only once in Cosmoglotta.
 - "JAPAN": substantive.
