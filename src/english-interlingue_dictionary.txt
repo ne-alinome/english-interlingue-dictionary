@@ -753,7 +753,6 @@ AS A MATTER OF FACT#n.#advere#
 AS A RULE#adv.#generalmen, in general#
 AS FAR AS#prep.#til#
 AS FAR AS I KNOW#adv.#secun quo yo save#
-AS LIEF#adv.#preferer#XXX FIXME
 AS MUCH AS#adv.#tant quant#
 AS RICH AS#adv.#tam rich quam#
 AS SOON AS POSSIBLE#adv.#max bentost possibil#
@@ -7183,6 +7182,7 @@ I WILL NOT STAY ANY LONGER#expr.#yo ne va restar plu long#
 ANY LONGER, I WILL NOT STAY#expr.#yo ne va restar plu long#
 STAY ANY LONGER, I WILL NOT#expr.#yo ne va restar plu long#
 I WOULD AS LIEF#expr.#yo vell preferer#
+AS LIEF, I WOULD#expr.#yo vell preferer#
 LIEF, I WOULD AS#expr.#yo vell preferer#
 I WOULD RATHER#expr.#yo vell preferer#
 RATHER, I WOULD#expr.#yo vell preferer#

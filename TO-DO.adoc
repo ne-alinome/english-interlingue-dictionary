@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-12-17
+:revdate: 2021-12-19
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -30,7 +30,6 @@
 - Fix notation . "AT ONE'S WITS' END esser al fine de su Latin, plu ne
   saver quo far", because the English expression is not a verb.
 - Add "(num.)" to "ONE". Maybe other cases.
-- "AS LIEF (v.) preferer", "I WOULD AS LIEF yo vell preferer".
 - Fix: "ALOUD (adv.) vocosi, con voce, audibilmen". "ALOUD" is adverb,
   but "vocosi" is adjective. -> "vocosimen".
 - Fix: FRUMP (n.) oldmodic, feminach, oldmodona". "oldmodic" is not a
