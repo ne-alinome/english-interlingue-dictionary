@@ -41,13 +41,12 @@
   derivate in "QUESTION (n.)".
 - Fix: "raconta" -> "raconte".
 - Update the list of programs used.
-- Update the list changes done in this edition.
+- Update the list of changes done in this edition.
 - Fix "-ente" -> "-nte", etc.
 - Check that participies are mentioned in the verbal roots.
 - Fix "ad. circa" in "ROUNDABOUT".
 - Add "deputate" to "DEPUTY".
 - Sort the data file at the start of the conversions.
-- Homogenize "forne" (6 in Cosmoglotta) - "forn" (11 in Cosmoglotta).
 - Homogenize commas before "etc".  
 - Improve "expr.": "prep.expr.", "v.expr.", etc.
 

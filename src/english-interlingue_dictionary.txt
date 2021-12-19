@@ -1527,7 +1527,7 @@ BLASE#adj.#blasat#
 BLASPHEME#v.#blasfemar (-ation), maledir#
 BLAST#n.#(wind) burasca, vent-colpe, ventepussa; explosion; (blight) peste); (trumpet) sonad#
 BLAST#v.#ruinar, far exploder, fracassar; (injure) nocer#
-BLAST-FURNACE#n.#fond-forne#
+BLAST-FURNACE#n.#fond-forn#
 BLATANT#adj.#bruient, belant#
 BLAZE#n.#brase#
 BLAZE#v.#flammear; (light) lucer, brilliar#
@@ -6092,7 +6092,7 @@ GET THROUGH#v.#traear; (finish) finir; successar#
 GET UP#v.#(rise) levar se; (arrange) arangear, organisar; (mount) montar#
 GET WELL#v.#resanar se, resanijar, convalescer#
 GEWGAW#n.#juvelache, futilage, talmi, auripelle#
-GEYSER#n.#geyser; balne-forne, terme#
+GEYSER#n.#geyser; balne-forn, terme#
 GHASTLY#adj.#horribil, cadavric#
 GHETTO#n.#ghetto, quartere de hebréos#
 GHOST#n.#fantom, spírite#
@@ -14395,7 +14395,7 @@ STORM#n.#storm (-i, -osi), tempeste , burasca#
 STORM#v.#stormear; (rage) furer; (mil.) assaltar, storm-ataccar#
 STORY#n.#historie, raconta; fabul; (a lie) mentie#
 STOUT#adj.#corpulent; brav; (strong) fort#
-STOVE#n.#forne; (primus stove) forne portabil#
+STOVE#n.#forn; (primus stove) forn portabil#
 STOW#v.#stivar (-ation, -ator), cargar#
 STOWAWAY#n.#ciec passagero#
 STRADDLE#v.#escartar li gambes, star, li gambes furcat#
@@ -14626,7 +14626,7 @@ SUPERFICIES#n.#superficie#
 SUPERFINE#adj.#superfin, finissim#
 SUPERFLUOUS#adj.#superflú (-itá)#
 SUPERIMPOSE#v.#superposir#
-SUPERINTEND#v.#superintender (-nte), supervider, controlar#
+SUPERINTEND#v.#superintender (-ente), supervider, controlar#
 SUPERIOR#adj.#superiori (-tá)#
 SUPERIOR#n.#superiors, chef#
 SUPERLATIVE#adj.#superlativ, bonissim#
