@@ -6141,7 +6141,7 @@ GIVE REIMBURSE TO#v.#efrenar#
 GIVE RISE TO#v.#causar, nascentar#
 GIVE UP#v.#abandonar; (a problem) ne posser soluer; (surrender) capitular, renunciar#
 GIVE WAY#v.#ceder (piazza), ceder terren; cader in ruinas, crular#
-GIVEN TO#adj.#inclinat, disposit#
+GIVEN TO#prep.#inclinat a, disposit a#XXX REMARK originally marked as adjective; changed to preposition because of its function
 GIZZARD#n.#stomac (de avies), croppe#
 GLACIAL#adj.#glacial#
 GLACIER#n.#glaciero, rivere glacial#
