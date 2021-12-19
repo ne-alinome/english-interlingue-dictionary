@@ -49,6 +49,8 @@
 - Sort the data file at the start of the conversions.
 - Homogenize commas before "etc".  
 - Improve "expr.": "prep.expr.", "v.expr.", etc.
+- Remove examples and note from prefixes and add "-" to the
+  translation?  
 
 // Doubts {{{1
 == Doubts
@@ -193,3 +195,4 @@
 - "HIGHWAY".
 - "implementar".
 - "profitabil" in "PROFITABLE".
+- "FLOCK" (v.tr.).

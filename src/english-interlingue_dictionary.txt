@@ -250,7 +250,7 @@ ADZE#n.#curvi hacca#
 AEGIS#n.#egide#
 AERATE#v.#aerar#
 AERIAL#n.#antenne#
-AERO#prefix#aerodinamic, aeronautica, aeroplane etc.#
+AERO#prefix#aerodinamic, aeronautica, aeroplane, etc.#
 AESTHETE#n.#estete (-ic, -ica)#
 AFAR#adv.#lontan, distant, for#
 AFFABLE#adj.#afabil (-itá)#
@@ -549,7 +549,7 @@ ANSWER FOR#v.#responsar#
 ANT#n.#formíca#
 ANTAGONISM#n.#antagonisme, oposition#
 ANTARCTIC#adj.#antarctic#
-ANTE#prefix#antedatar, antenatal etc.#
+ANTE#prefix#antedatar, antenatal, etc.#
 ANTECEDENT#adj.#antecedent, anteyan, anteriori#
 ANTELOPE#n.#antilop#
 ANTENNA#n.#antenne#
@@ -560,8 +560,8 @@ ANTHILL#n.#formiciera#
 ANTHOLOGY#n.#antologie#
 ANTHRACITE#n.#antracite#
 ANTHRAX#n.#antraxe#
-ANTHROPO#prefix#antropologo, antropometric etc.#
-ANTI#prefix#antisemite, antiseptic etc.#
+ANTHROPO#prefix#antropologo, antropometric, etc.#
+ANTI#prefix#antisemite, antiseptic, etc.#
 ANTICIPATE#v.#anticipar (-ation)#
 ANTICS#n.#drolleríe, gestes grotesc#
 ANTIDOTE#n.#antidot, antitoxine#
@@ -915,7 +915,7 @@ AUSTRAL#adj.#sudic#
 AUTHENTIC#adj.#autentic (-itá)#
 AUTHOR#n.#autor (-essa, -isar)#
 AUTHORITY#n.#autoritá; (collect) autorité#
-AUTO#prefix#autocrate, autograf, automobile, autonomie etc.#
+AUTO#prefix#autocrate, autograf, automobile, autonomie, etc.#
 AUTUMN#n.#autun (-al)#
 AUXILIARY#adj.#auxiliari#
 AVAIL#v.#valer#
@@ -1424,12 +1424,12 @@ BEWARE#v.#gardar se (contra)#
 BEWILDER#v.#confuser, inbrolliar#
 BEWITCH#v.#insorciar, fascinar#
 BEYOND#prep.#ultra; trans; (past) préter#
-BI#prefix#biannual, bifurcat, bilateral etc.#
+BI#prefix#biannual, bifurcat, bilateral, etc.#
 BIAS#n.#inclination, partialitá, tendentie, predilection#
 BIASSED AGAINST#prep.#prejudiciat contra#
 BIB#n.#bavette#
 BIBLE#n.#bible (-ic)#
-BIBLIO#prefix#bibliografie, bibliomaniac etc.#
+BIBLIO#prefix#bibliografie, bibliomaniac, etc.#
 BICEPS#n.#biceps#
 BICKER#v.#querellar#
 BICYCLE#n.#bicicle#
@@ -1462,7 +1462,7 @@ BIN#n.#buxe, chest#
 BIND#v.#ligar, bandar; incadernar; (compel) obligar#
 BIND UP#v.#bandagear#
 BINNACLE#n.#bussoliere, compassiere#
-BIO#prefix#biografie, biologie, bioplasma etc.#
+BIO#prefix#biografie, biologie, bioplasma, etc.#
 BIRCH#n.#(tree) betul#
 BIRCH#v.#vergar#
 BIRD#n.#avie#
@@ -2279,7 +2279,7 @@ CASUAL#adj.#casual, hasardal#
 CASUALTY#n.#victime; (war) cadete#
 CASUIST#n.#casuist (-ic)#
 CAT#n.#cat (-o, -in)#
-CATA#prefix#catacombe, catafalco, catalog, catapulte etc.#
+CATA#prefix#catacombe, catafalco, catalog, catapulte, etc.#
 CATARACT#n.#cataracte#
 CATARRH#n.#catarre#
 CATASTROPHE#n.#catastrof (-al)#
@@ -2349,7 +2349,7 @@ CENSURE#n.#blama (-ar), censura (-ar), reprimande (-ar)#
 CENT#n.#centime#
 CENTENARY#adj.#centenari#
 CENTENARY#n.#centenarie#
-CENTI#prefix# (in comp.) centilitre, centimetre, centipede etc.#
+CENTI#prefix# (in comp.) centilitre, centimetre, centipede, etc.#
 CENTRE#n.#centre (-al, -ale, -alisar)#
 CENTRE OF GRAVITY#n.#centre de gravitation, bari centre#
 CENTURY#n.#centennie, secul#
@@ -2589,7 +2589,7 @@ CIRCTULAR#n.#circulare#
 CIRCUIT#n.#districte, viage circulari; (electr.) circuite#
 CIRCUITOTUS#adj.#circumeant, long#
 CIRCULATE#v.#circular (-ation), rotar#
-CIRCUM#prefix#as in English: circumciser, circumferentie, circumflex, circumnavlgar, circumscrir, circumspect, circumstantie etc.#
+CIRCUM#prefix#as in English: circumciser, circumferentie, circumflex, circumnavlgar, circumscrir, circumspect, circumstantie, etc.#
 CIRCUMAMBIENT#adj.#circumdant#
 CIRCUMSTANTIAL EVIDENCE#n.#indicies#
 CIRCUMVENT#v.#circumear, super-rusar#
@@ -3120,7 +3120,7 @@ CONTINUAL#adj.#continui (-tá), íncessant#
 CONTINUE#v.#continuar (-ation), extenDer#
 CONTORT#v.#torDer (-sion)#
 CONTOUR#n.#contur#
-CONTRA#prefix#as in English: contradir, contrabass, contrapunct etc.#
+CONTRA#prefix#as in English: contradir, contrabass, contrapunct, etc.#
 CONTRABAND#n.#contrabande (-ar, -ero)#
 CONTRACT#n.#ocontrate, pacte#
 CONTRACT#v.#contraer (se) (-tion, -tiv); abreviar#
@@ -3257,7 +3257,7 @@ CORYPHAEUS#n.#corifé#
 COSMETIC#adj.#grime, cosmetic#XXX FIXME n./adj., grime?
 COSMETIC#n.#cosmetico#
 COSMIC#adj.#cosmic#
-COSMO#prefix#as in English: cosmogonie, cosmografie, cosmologie, cosmopolit etc.#
+COSMO#prefix#as in English: cosmogonie, cosmografie, cosmologie, cosmopolit, etc.#
 COSMOS#n.#cosmo#
 COSSACK#n.#cosac#
 COSSET#v.#dorlotar (-on)#
@@ -3288,7 +3288,7 @@ COUNT#v.#numerar, contar, calcular#
 COUNTENANCE#n.#facie, visage; aprobation#
 COUNTENANCE#v.#permisser, aprobar#
 COUNTER#n.#contore; (games) chip, jeton#
-COUNTER#prefix# (in comp.) contramesura, contrademande, contrapóndere etc.#
+COUNTER#prefix# (in comp.) contramesura, contrademande, contrapóndere, etc.#
 COUNTER#v.#contra-acter#
 COUNTER-CHECK#n.#centra-control#
 COUNTERFEIT#adj.#fictiv, fals#
@@ -3491,7 +3491,7 @@ CRY OUT#v.#exclamar#
 CRYPT#n.#cripta, tombe#
 CRYPTIC#adj.#secret, ocult, enigmatic#
 CRYSTAL#n.#cristalle (-in. -isar)#
-CUB#n.#(of lion, fox etc.) leonello, foxello; garsonacho#
+CUB#n.#(of lion, fox, etc.) leonello, foxello; garsonacho#
 CUBE#n.#cub (-ic, -ar, -atura, -ist)#
 CUBICLE#n.#cuchatoria, dorm-chambrette#
 CUCKOLD#n.#cocú#
@@ -4683,7 +4683,7 @@ ELECTRICAL#adj.#electric (-itá)#
 ELECTRICIAN#n.#electrico#
 ELECTRICITY WORKS#n.#electrogeneratoria#
 ELECTRIFY#v.#electrisar#
-ELECTRO#prefix#as in English: electrocuter, electrolise, electromagnete, electromotor etc.#
+ELECTRO#prefix#as in English: electrocuter, electrolise, electromagnete, electromotor, etc.#
 ELECTRODE#n.#electrode#
 ELECTRON#n.#electron (-ic)#
 ELECTROPLATE#v.#electro-argentar#
@@ -4933,7 +4933,7 @@ EQUATOR#n.#equator (-al)#
 EQUERRY#n.#stall-mastro, oficero del reyal menage#
 EQUESTRIAN#adj.#cavalcatori#
 EQUESTRIAN#n.#cavalcator#
-EQUI#prefix#as in English: equiangulari, equidistant, equilibrie, equilateral, equinoctie etc.#
+EQUI#prefix#as in English: equiangulari, equidistant, equilibrie, equilateral, equinoctie, etc.#
 EQUINE#adj.#cavallatri#
 EQUIP#v.#equipar, provider (per), munir#
 EQUIPAGE#n.#equipage, suita#
@@ -5045,7 +5045,7 @@ EVOLUTION#n.#evolution (-ari, -ist)#
 EVOLVE#v.#evoluer, developar#
 EWE#n.#agna#
 EWER#n.#aquiere, aqua-cruche#
-EX#prefix#as in English: ex-oficero, ex-presidente etc.#
+EX#prefix#as in English: ex-oficero, ex-presidente, etc.#
 EXACERBATE#v.#exacerbar (-ation), agravar#
 EXACT#adj.#exact (-itá), precisi#
 EXACT#v.#exiger, extorDer, postular#
@@ -5567,9 +5567,8 @@ FLIRT#v.#coquettar, amorettar; flirtar#
 FLIT#v.#translocar; (of birds) glissar, volettar (a ci e ta)#
 FLOAT#n.#flottuore; (angler's) flottette, svimmuore#
 FLOAT#v.#flottar; (hover) planear#
-FLOCK#n.#greg, truppe, gruppe#
-FLOCK#v.#amassar se, gregar se#
-FLOCK#wool etc.#flocc#
+FLOCK#n.#(wool etc.) flocc; greg, truppe, gruppe#
+FLOCK#v.intr.#amassar se, gregar se#
 FLOE#n.#camp de glacie#
 FLOG#v.#flagellar (-ation), knutar, castigar#
 FLOOD#n.#torrent, flut, diluvie#XXX FIXME flut?
@@ -6325,7 +6324,7 @@ GRAMMAR SCHOOL#n.#licéo (-ano), gimnasium#
 GRAMME#n.#gramm#
 GRAMOPHONE#n.#fonograf#
 GRANARY#n.#graniere#
-GRAND#adj.#grandiosi, imposant, superb, magnific, solen; grand- (-due, -vizir etc.)#
+GRAND#adj.#grandiosi, imposant, superb, magnific, solen; grand- (-duc, -vizir, etc.)#
 GRAND PIANO#n.#piano caudat#
 GRANDCHILD#n.#nepote (-o, -a)#
 GRANDEUR#n.#magnificentie#
@@ -6463,7 +6462,7 @@ GUANO#n.#guano#
 GUARANTEE#n.#garantie#
 GUARANTEE#v.#garantir, dar caution#
 GUARANTOR#n.#garante#
-GUARD#n.#watch (-mann), sentinelle; (keeper) gardero; (screen) scren; (mil.) guardie; (rail.) conductor; (protective device) para- (-foy, -vent etc.)#
+GUARD#n.#watch (-mann), sentinelle; (keeper) gardero; (screen) scren; (mil.) guardie; (rail.) conductor; (protective device) para- (-foy, -vent, etc.)#
 GUARD#v.#gardar, protecter; (mar.) watchar; (be on guard) esser in watch#
 GUARDED#adj.#caut, discret#
 GUARDIAN#n.#tutor (-atu), curator, protector, gardator#
@@ -7000,7 +6999,7 @@ HOPELESS#adj.#sin espera(ntie), íncurabil, sin perspectives#
 HORDE#n.#horde#
 HORIZON#n.#horizonte (-al)#
 HORMON#n.#hormon#
-HORN#n.#corn; (horns of stag etc.) cornatura; (ent.) antenne#
+HORN#n.#corn; (horns of stag, etc.) cornatura; (ent.) antenne#
 HORNBEAM#n.#carpine#
 HORNET#n.#calabron#
 HORNY#adj.#callosi#
@@ -7138,7 +7137,7 @@ HYDRANGEA#n.#hortensia#
 HYDRANT#n.#hidrante#
 HYDRATE#n.#hidrate#
 HYDRAULIC#adj.#hidraulic (-ica)#
-HYDRO#prefix#as in English: hidrofobie, hidroterapie, hidrotermal etc.#
+HYDRO#prefix#as in English: hidrofobie, hidroterapie, hidrotermal, etc.#
 HYENA#n.#hien#
 HYGIENE#n.#higiene (-ic)#
 HYMENEAL#adj.#nuptial#
@@ -9411,7 +9410,7 @@ MILL#v.#molinar; (coins) stampar#
 MILL DAM#n.#diga molinari#
 MILLENIUM#n.#millennie (-ari)#
 MILLET#n.#millete#
-MILLI#prefix#milligramme, millilitre, millimetre, millipede etc.#
+MILLI#prefix#milligramme, millilitre, millimetre, millipede, etc.#
 MILLIARD#n.#milliarde#
 MILLINER#n.#chapelera (-ie), modista#
 MILLION#n.#million (-ario)#
@@ -9467,7 +9466,7 @@ MIRE#n.#mudde (-osi), fango#
 MIRROR#n.#spegul#
 MIRROR#v.#reflecter, spegular#
 MIRTHFUL#adj.#gay (-itá, -esse)#
-MIS#prefix#misaplicar, misdir, miscalcular, misprender, misusar, misducter etc.#
+MIS#prefix#misaplicar, misdir, miscalcular, misprender, misusar, misducter, etc.#
 MISADVENTURE#n.#misfortun; accidente#
 MISANTHROPE#n.#misantrop (-ie, -ic)#
 MISAPPREHEND#v.#miscomprender#
@@ -9588,7 +9587,7 @@ MONITORY#adj.#monitiv, monitori#
 MONK#n.#monaco (-al, -allia, -atu)#
 MONKEY#n.#simie (-atri, -esc), macaco#
 MONKSHOOD#n.#aconite#
-MONO#prefix#monocrom, monogarnie, monografie, monogramme, monolite, monolog, monomanie etc.#
+MONO#prefix#monocrom, monogarnie, monografie, monogramme, monolite, monolog, monomanie, etc.#
 MONOCLE#n.#monocul#
 MONOPOLIZE#v.#monopolisar; acaparar#
 MONOPOLY#n.#monopol (-ist, -isar)#
@@ -10894,7 +10893,7 @@ PENNY#n.#pennie#
 PENSION#n.#pension (-ar, -ari, -ario, -ero)#
 PENSIVE#adj.#pensaci, pensativ, trist#
 PENT UP#adj.#restrictet, supresset#
-PENTA#prefix#pentaedre, pentagon, pentagramma, pentacorde, pentametre, pentateuche etc.#
+PENTA#prefix#pentaedre, pentagon, pentagramma, pentacorde, pentametre, pentateuche, etc.#
 PENTAGON#n.#pentagon, quinangul#
 PENTECOST#n.#pentecost (-al)#
 PENULTIMATE#adj.#penultim, ante-ultim#
@@ -11342,7 +11341,7 @@ POLLUTE#v.#polluer (-ution), sordidar#
 POLO#n.#polo#
 POLONAISE#n.#polonese#
 POLTROON#n.#poltron (-eríe), caudard#
-POLY#prefix#poliacustic, poliglott, poligamie, poligon, polifonic. polimerisar, polisíllabe, politecnic, politeist, politeisme etc.#
+POLY#prefix#poliacustic, poliglott, poligamie, poligon, polifonic. polimerisar, polisíllabe, politecnic, politeist, politeisme, etc.#
 POLYP#n.#polip#
 POLYPUS#n.#polip#
 POMADE#n.#pomade#
@@ -11490,7 +11489,7 @@ PRATTLE#v.#babillettar#
 PRAWN#n.#crevette#
 PRAY#v.#pregar, suplicar#
 PRAYER#n.#prega#
-PRE#prefix#prejudicar, premeditar, preponderar etc.#
+PRE#prefix#prejudicar, premeditar, preponderar, etc.#
 PREACH#v.#predicar (-ation, -ator), proner#
 PREAMBLE#n.#introduction, prefacie#
 PREBEND#n.#prebende (-ario)#
@@ -12225,7 +12224,7 @@ RAW#adj.#crud, íncocinat; ínmatur, vulnerosi#
 RAY#n.#radie; (fish) ray#
 RAZOR#n.#rasuore, rasette#
 RAZOR BLADE#n.#lámine rasatori, lamette#
-RE#prefix#recrear, reformar, renovar etc.#
+RE#prefix#recrear, reformar, renovar, etc.#
 RE-ECHO#v.#resonar, re-ecoar#
 REACH#n.#atingement, capacitá#
 REACH#v.#atinger (-ement)#
@@ -13284,7 +13283,7 @@ SELFWILL#n.#self-vole(ntie)#
 SELL#v.#vendir (-itor, -ition)#
 SEMAPHORE#n.#semafore#
 SEMBLANCE#n.#semblantie, similitá#
-SEMI#prefix#semicircul, semicólon etc.#
+SEMI#prefix#semicircul, semicólon, etc.#
 SEMINARY#n.#seminarie#
 SEMIQUAVER#n.#duplic croche#
 SEMITIC#adj.#semitic#
@@ -13795,7 +13794,7 @@ SMOKE#v.#fumar; (of chimney) emisser fum; (bacon etc.) fumicar, infumar#
 SMOKER#n.#fumator; (rail.) cupé o compartiment fumatori#
 SMOKY#adj.#fumosi, fumant, plen de fum#
 SMOOTH#adj.#glatt (-ar), polit; glissid; calm#
-SMOTHER#v.#sufocar (smother rage etc.) supresser#
+SMOTHER#v.tr.#sufocar; (smother rage, etc.) supresser#
 SMOULDER#v.#subbrular, brulettar#
 SMUDGE#v.#sordidar#
 SMUG#adj.#self-satisfat#
@@ -15172,7 +15171,7 @@ THEREBY#adv.#per to#
 THEREFORE#adv.#pro to#
 THEREFORE#conj.#ergo, dunc#
 THEREUPON#adv.#poy#
-THERMO#n.#termometre, -scop etc.#
+THERMO#prefix#termometre, -scop, etc.#
 THESAURUS#n.#tresor#
 THESE#adj.#ti, ti-ci#
 THESE#pron.#tis, tis-ci#
@@ -15785,7 +15784,7 @@ UNDERTAKE TO DO SOMETHING#v.#ingagear#
 UNDERTAKER#n.#interprensor; functionario funebri#
 UNDERWRITE#v.#assecurar; subgarantir#
 UNDIGNIFIED#adj.#poc digni, poc elevat#
-UNDO#v.#anullar; (undo something done) reparar; defar, deligar, debutonar etc.#
+UNDO#v.#anullar; (undo something done) reparar; defar, deligar, debutonar, etc.#
 UNDOING#n.#ruine, perition#
 UNDRESS#v.#devestir (se)#
 UNDUE#adj.#excessiv; exagerat#
@@ -15809,7 +15808,7 @@ UNGROUNDED#adj.#ínfundat#
 UNGUENT#n.#unguente#
 UNHINGE#v.#(mentally) desordinar, alienar#
 UNHORSE#v.#desedlar#
-UNI#prefix#uniformi, unicorne, unilateral, unison etc.#
+UNI#prefix#uniformi, unicorne, unilateral, unison, etc.#
 UNION#n.#union; (trade union) sindicatu; (work-house) institute por povres#
 UNIQUE#adj.#unic, ínegalabil#
 UNIT#n.#unité#
