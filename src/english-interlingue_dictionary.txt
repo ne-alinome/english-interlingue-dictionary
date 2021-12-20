@@ -11695,7 +11695,7 @@ PROFFER#v.#proposir, ofertar#
 PROFICIENT#adj.#habil, competent (-ie), qualificat, expert#
 PROFILE#n.#profil (-ist)#
 PROFIT#n.#profite (-abil, -ar, -osi), ganie, lucre#
-PROFITABLE#adj.#lucrativ, remunerativ, avantageosi#
+PROFITABLE#adj.#profitabil; lucrativ, remunerativ; avantageosi#
 PROFLIGACY#n.#debocheríe#
 PROFLIGATE#adj.#debochant, libertin (-isme, -o)#
 PROFOUND#adj.#profund (-ore, -itá), abstrus#

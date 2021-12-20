@@ -196,5 +196,4 @@
 - "sí".
 - "HIGHWAY".
 - "implementar".
-- "profitabil" in "PROFITABLE".
 - "FLOCK" (v.tr.).
