@@ -185,8 +185,6 @@
 - "BACTERIUM"
 - "BOYFRIEND"
 - "GIRLFRIEND" (in _Interlingue Course in 10 Lessons_: "amata")
-- "BOYFRIEND"
-- "EXIT" (verb)
 - "BOXING" = box, boxada, pugilism
 - "CENTENNIAL".
 - "ARCHIVE", shares a meaning with "ARCHIVES".

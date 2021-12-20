@@ -5104,7 +5104,8 @@ EXIGENCY#n.#exigentie, beson, urgentie#
 EXIGUOUS#adj.#scarsi; litt#
 EXILE#n.#exilie (-ar); (person) exiliate#
 EXIST#v.#exister (-entie)#
-EXIT#n.#exeada, surtida#
+EXIT#n.#(action) exeada, surtida#
+EXIT#v.#exear, surtir#
 EXONERATE#v.#exonerar (-ation)#
 EXORBITANT#adj.#excessiv, exorbitant, ínmoderat#
 EXORCISE#v.#exorcisar, exsorciar#
