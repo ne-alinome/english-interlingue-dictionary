@@ -2636,6 +2636,7 @@ CLASH#v.#desacordar, coliDer#
 CLASP#n.#(of belt) fibul; croc#
 CLASP#v.#(hands) intertener, tener fixmen, acrocar, presser#
 CLASS#n.#categorie, classe (-ic, -ificar)#
+CLASSIC#adj.#classic#
 CLATTER#v.#raslar (-ada), babillar#
 CLAUSE#n.#stipulation, condition; (gramm.) cláusul#
 CLAW#n.#griffe, ungul#

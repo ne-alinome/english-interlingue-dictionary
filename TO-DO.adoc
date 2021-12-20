@@ -165,7 +165,6 @@
 == Missing words
 
 - "automatic/men".
-- "CLASSIC".
 - "SUPER-".
 - "COHERENT".
 - "ANYWAY".
