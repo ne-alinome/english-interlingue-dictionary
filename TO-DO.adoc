@@ -190,7 +190,6 @@
 - "EXIT" (verb)
 - "BOXING" = box, boxada, pugilism
 - "CENTENNIAL".
-- "DEBUTAR".
 - "ARCHIVE", shares a meaning with "ARCHIVES".
 - More translations of quam "tam".
 - "sí".

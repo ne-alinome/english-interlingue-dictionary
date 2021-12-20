@@ -3707,7 +3707,8 @@ DEBONAIR#adj.#galant, benigni, afabil#
 DEBOUCH#v.#exmarchar, exfluer#
 DEBRIS#n.#fragmentes, roccallia#
 DEBT#n.#debite (-or)#
-DEBUT#n.#debut (-ante)#XXX TODO add verb and move "-nte" to it
+DEBUT#n.#debut#
+DEBUT#v.#debutar (-ante)#
 DECADE#n.#decennie (-al)#
 DECADENT#n.#decadent (-ie)#
 DECAMP#v.#departer, secretmen forear, decampar#
