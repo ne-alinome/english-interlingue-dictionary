@@ -174,7 +174,6 @@
 - "CLASSROOM": "aula", used only once in Cosmoglotta.
 - "JAPAN": substantive.
 - "CONFIGURATE (v.)".
-- "EXIT (v.)".
 - "WANT (v.) ... voler".
 - "SORRY" in the sense "pardon".
 - "AKIMBO" (used in "WITH ARMS AKIMBO").
@@ -183,8 +182,6 @@
 - "ADVISED" (used in "ILL-ADVISED").
 - "YORE" (used in "OF YORE").
 - "BACTERIUM"
-- "BOYFRIEND"
-- "GIRLFRIEND" (in _Interlingue Course in 10 Lessons_: "amata")
 - "BOXING" = box, boxada, pugilism
 - "CENTENNIAL".
 - "ARCHIVE", shares a meaning with "ARCHIVES".

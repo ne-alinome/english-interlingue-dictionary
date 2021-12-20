@@ -1731,6 +1731,7 @@ BOX#v.#boxar (-aro)#
 BOX UP#v.#inscatullar; (ears) guanciar#
 BOY#n.#púer, garson, infanto, yuno, boy#
 BOYCOTT#n.#boycotte (-ar)#
+BOYFRIEND#n.#amato#
 BOYSCOUT#n.#boyscout#
 BRACE#carp.#torna-forette; (naut.) brasse; (pair) pare#
 BRACE#v.#tender, infortiar#
@@ -5386,8 +5387,8 @@ FEVER#n.#febre (-osi)#
 FEW#adj.#poc#
 FEZ#n.#fez#
 FIANCE#n.#sponso (-a)#
-FIANCEE#n.#sponso (-a)#
-FIANCÉE#n.#sponso (-a)#
+FIANCEE#n.#sponsa (-o)#
+FIANCÉE#n.#sponsa (-o)#
 FIASCO#n.#fiasco#
 FIAT#n.#decrete#
 FIBRE#n.#fibre (-in, -osi)#
@@ -6123,6 +6124,7 @@ GIRD#v.#cinter; (sneer) ricanar#
 GIRDER#n.#metall-trave, trave portant#
 GIRDLE#n.#cintura, zone#
 GIRL#n.#puella#
+GIRLFRIEND#n.#amata#
 GIRLHOOD#n.#puellesse#
 GIRTH#n.#rondore, circumferentie; (belly-band) cintura, sedle-zone#
 GIST#n.#lu essential, chef-punctu, resumé#
