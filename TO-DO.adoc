@@ -167,7 +167,6 @@
 - "automatic/men".
 - "SUPER-".
 - "COHERENT".
-- "ANYWAY".
 - "gramofon" (but "fonograf" is included).
 - "DIFFERENT".
 - "ME".
@@ -183,7 +182,7 @@
 - "YORE" (used in "OF YORE").
 - "BACTERIUM"
 - "BOXING" = box, boxada, pugilism
-- "CENTENNIAL".
+- "CENTENNIAL" (=1. (n.) centenarie; 2. (adj.) centenari, centenal).
 - "ARCHIVE", shares a meaning with "ARCHIVES".
 - More translations of quam "tam".
 - "sí".
