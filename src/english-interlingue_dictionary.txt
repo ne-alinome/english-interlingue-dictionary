@@ -30,7 +30,7 @@ ABANDON#v.#abandonar, ceder#
 ABANDONED#adj.#abandonat; (morally) ínmoral, depravat#
 ABASE#v.#abassar, degradar, humilar#
 ABASH#v.#confuser, pudentar#
-ABATE#v.#diminuer; (price) rabattar, redacter; (pain etc.) quietar, mitigar, moderar (se)#
+ABATE#v.#diminuer; (price) rabattar, redacter; (pain etc.) quietar, mitigar, moderar (se)#XXX FIXME split tr. and intr.
 ABATTOIR#n.#buchería, abattuore#
 ABBEY#n.#abatia#
 ABBOT#n.#abate (-essa, -ia, -iatu)#
@@ -39,10 +39,10 @@ ABDICATE#v.#abdicar; (office) demisser, demissionar, resignar, renunciar#
 ABDOMEN#n.#ventre, abdómine (-al)#
 ABDUCT#v.#rapter (-or, -ion), forducter#
 ABERRATION#n.#deviation, vagantie; (astr.) aberration; (mental) desórdine mental#
-ABET#v.#incitar, instigar; suportar; (aid) auxiliar#
+ABET#v.#incitar, instigar; suportar; (to aid) auxiliar#
 ABETTOR#n.#complice, incitator#
 ABHOR#v.#abominar, detestar (-ation)#
-ABIDE#v.#sejornar, habitar; (remain) permaner, restar; (abide by) tener, observar; (endure) tolerar, suffrer; (abiding place) domicilie#
+ABIDE#v.#sejornar, habitar; (to remain) permaner, restar; (to abide by) tener, observar; (to endure) tolerar, suffrer; (abiding place) domicilie#
 ABILITY#n.#capabilitá, habilitá, facultate#
 ABJECT#adj.#abject, bass, vil, miserabil, índigni#
 ABJURE#v.#abjurar, renunciar (a), resignar#
@@ -55,7 +55,7 @@ ABNEGATE#v.#abnegar (-ation), renunciar#
 ABNORMAL#adj.#abnormal, ne normal, anormal#
 ABOARD#adv.#a bord#
 ABODE#n.#logí, habitation, domicilie#
-ABOLISH#v.#abolir (-ition); (annul) abrogar, anullar#
+ABOLISH#v.#abolir (-ition); (to annul) abrogar, anullar#
 ABOMINATE#v.#detestar, abominar (-abil, -ation)#
 ABORIGINAL#adj.#primitiv, original#
 ABORIGINES#n.#primitives, aborigines#
@@ -87,7 +87,7 @@ ABSOLVE#v.#absoluer (-tion)#
 ABSORB#v.#absorpter (-ion), insucar#
 ABSTAIN#v.#abstener se (-entie); (from alcohol) abstiner (-ente)#
 ABSTEMIOUS#adj.#abstenent, frugal, moderat#
-ABSTRACT#adj.#abstra(c)t#
+ABSTRACT#adj.#abstra(c)t#XXX TODO update
 ABSTRACT#n.#resumate#
 ABSTRACT#v.#abstraer (-tion)#
 ABSTRUSE#adj.#obscur, profund, ocult, celat#
@@ -114,14 +114,14 @@ ACCIDENT#n.#accidente (-al), chance, hasarde#
 ACCLAIM#v.#aclamar (-ation, -atori)#
 ACCLIMATISE#v.#aclimatisar (-ation)#
 ACCLIVITY#n.#coline, declive#
-ACCOMMODATE#v.#acomodar, adaptar; (oblige) compleser; (put up) albergar#
+ACCOMMODATE#v.#acomodar, adaptar; (to oblige) compleser; (to put up) albergar#
 ACCOMPANY#v.#acompaniar (-ament)#
 ACCOMPLICE#n.#complice, conculpon#
 ACCOMPLISH#v.#acompleer, efectuar, executer, atinger#
 ACCOMPLISHED#adj.#talentat#
 ACCOMPLISHMENT#n.#acompleement, atingement; aquisitet habilitá#
 ACCORD#n.#acorde#
-ACCORD#v.#acordar, concordar; (grant) conceder, dar#
+ACCORD#v.#acordar, concordar; (to grant) conceder, dar#
 ACCORDANCE#n.#acordantie#
 ACCORDING TO#prep.#secun#
 ACCORDINGLY#adv.#ergo, dunc, pro to#
@@ -140,7 +140,7 @@ ACCURACY#n.#precision, corectitá, acuratesse#
 ACCURATE#adj.#acurat, exact, corect, precisi, sin erras#
 ACCURSED#adj.#maledit#
 ACCUSE#v.#acusar (-ation, -ator, -ativ, -ative)#
-ACCUSTOM#v.#acustomar, aclimatar (se a)#
+ACCUSTOM#v.#acustomar, aclimatar (se a)#XXX FIXME split tr. and intr.
 ACCUSTOMED#adj.#usual#
 ACE#n.#ass#
 ACERBITY#n.#acerbitá, aspritá#
@@ -203,7 +203,7 @@ ADIPOSE#adj.#corpulent, obesi#
 ADJACENT#adj.#adjacent, vicin#
 ADJECTIVE#n.#adjective (-al, -ic)#
 ADJOIN#v.#adjacer, vicinar#
-ADJOURN#v.#ajornar; (Parl.) prorogar#
+ADJOURN#v.#ajornar; (parl.) prorogar#
 ADJUDGE#v.#adjudicar (-ation)#
 ADJUNCT#n.#suplement, anexe, adjuntete#
 ADJURE#v.#adjurar, suplicar#
@@ -243,7 +243,7 @@ ADVERT TO#v.#aluder, referer, mentionar#
 ADVERTISE#v.#anunciar, reclamar#
 ADVERTISEMENT#n.#anuncie, reclam#
 ADVICE#n.#consilie#
-ADVISE#v.#consiliar; informar, avisar; (warn) advertir#
+ADVISE#v.#consiliar; informar, avisar; (to warn) advertir#
 ADVOCATE#n.#avocate#
 ADVOCATE#v.#recomandar; (law) pledar#
 ADZE#n.#curvi hacca#
@@ -255,7 +255,7 @@ AESTHETE#n.#estete (-ic, -ica)#
 AFAR#adv.#lontan, distant, for#
 AFFABLE#adj.#afabil (-itá)#
 AFFAIR#n.#afere#
-AFFECT#v.#afecter; (the feelings) emoer, emotionar; (pretend) afectar (-ation), ficter#
+AFFECT#v.#afecter; (the feelings) emoer, emotionar; (to pretend) afectar (-ation), ficter#
 AFFECTION#n.#amore, afection#
 AFFIANCE#v.#sponder#
 AFFIDAVIT#n.#jurat atestation#
@@ -267,7 +267,7 @@ AFFIX#v.#apender, adjunter#
 AFFLATUS#n.#inspiration#
 AFFLICT#v.#aflicter (-ion), vexar, tormentar#
 AFFLUENCE#n.#richesse, abundantie, opulentie#
-AFFORD#v.#haver li medies; (yield) dar, liverar, producter#
+AFFORD#v.#haver li medies; (to yield) dar, liverar, producter#
 AFFOREST#v.#aforestar (-ation)#
 AFFRAY#n.#rixe, lucte#
 AFFRIGHT#v.#aterrer, timentar#
@@ -334,7 +334,7 @@ ALABASTER#n.#alabastre#
 ALACK#interj.#o ve!#
 ALACRITY#n.#promptitá, alegritá, aviditá#
 ALARM#n.#timore#
-ALARM#v.#alarmar; (frighten) aterrer#
+ALARM#v.#alarmar; (to frighten) aterrer#
 ALARMCLOCK#n.#alarmhorloge#
 ALAS#interj.#ve#
 ALBATROSS#n.#albatroz#
@@ -382,7 +382,7 @@ ALLITERATION#n.#alitteration#
 ALLOCATE#v.#distribuer, assignar, portionar#
 ALLOT#v.#distribuer, portionar#
 ALLOTMENT#n.#(share) parte, portion, quote; (of land) parcelle#
-ALLOW#v.#admisser; (grant) conceder, permisser#
+ALLOW#v.#admisser; (to grant) conceder, permisser#
 ALLOW A DISCOUNT#v.#rabattar#
 ALLOWANCE#n.#portion; (due allowance) egarde, consideration; (monetary) assignament; (discount) rabatte#
 ALLOY#n.#mixtura, alliage#
@@ -620,7 +620,7 @@ APPARENT#adj.#aparent (-ie), semblant#
 APPARITION#n.#aparition, fantom, spírite#
 APPEAL#n.#apelle#
 APPEAL#v.#apellar; implorar, suplicar#
-APPEAR#v.#aparir; (seem) aparer (-entie), semblar#
+APPEAR#v.#aparir; (to seem) aparer (-entie), semblar#XXX FIXME -ientie
 APPEARANCE#n.#aspecte, semblantie#
 APPEASE#v.#calmar, quietar, tranquilisar#
 APPELLANT#n.#apellante, acusator#
@@ -629,7 +629,7 @@ APPENDIX#n.#apéndice (-ite)#
 APPERTAIN#v.#apartener#
 APPETISING#adj.#apetitisant#
 APPETITE#n.#apetite#
-APPLAUD#v.#aplauder; (clap) claccar#
+APPLAUD#v.#aplauder; (to clap) claccar#
 APPLAUSE#n.#aplause#
 APPLE#n.#pom (-iero)#
 APPLIANCE#n.#aparate, utensile, expediente, machine#
@@ -693,7 +693,7 @@ AREA#n.#area, superficie, spacie#
 ARENA#n.#arena#
 ARGENT#n.#argente (-in)#
 ARGILLACEOUS#adj.#argilosi, argilatri#
-ARGUE#v.#arguer (-ment); (dispute) argumentar, disputar#
+ARGUE#v.#arguer (-ment); (to dispute) argumentar, disputar#
 ARIA#n.#arie#
 ARID#adj.#arid (-itá)#
 ARIGHT#adv.#just(men)#
@@ -716,7 +716,7 @@ ARMY#n.#armé#
 AROMA#n.#aroma (-tic), odore, parfum#
 AROUND#adv.#(approx.) circa, pluminu#
 AROUND#prep.#circum#
-AROUSE#v.#alarmar, avigilar; (stir up) excitar, iritar#
+AROUSE#v.#alarmar, avigilar; (to stir up) excitar, iritar#
 ARQUEBUS#n.#arcabuse (-ero)#
 ARRACK#n.#aracc#
 ARRAIGN#v.#acusar, inculpar#
@@ -807,7 +807,7 @@ ASSOCIATION#n.#association, societé, club#
 ASSONANCE#n.#assonantie#
 ASSORT#v.#assortir (-iment), classificar#
 ASSUAGE#v.#mitigar, moderar, lenir, aleviar#
-ASSUME#v.#suposir; (usurp) usurpar#
+ASSUME#v.#suposir; (to usurp) usurpar#
 ASSUME A LIKENESS#v.#simular#
 ASSUME AS TRUE#v.#acceptar#
 ASSUMPTION#n.#hipotese#
@@ -875,7 +875,7 @@ ATTAIN#v.#atinger (-ement), obtener#
 ATTAINMENTS#n.#aquisition mental#
 ATTAINT#v.#macular#
 ATTEMPT#v.#(on life) atentar (-ate); provar, penar#
-ATTEND#v.#(wait) atender; (be present) assister, esser present; (pay attention) atenter; (wait on) servir, cuidar#
+ATTEND#v.#(to wait) atender; (to be present) assister, esser present; (to pay attention) atenter; (to wait on) servir, cuidar#
 ATTENDANT#n.#servitor; acompaniator#
 ATTENTION#n.#atention#
 ATTENUATE#v.#atenuar, diluer, rarificar#
@@ -973,7 +973,7 @@ BACHELOR#n.#celibo; (graduate) baccalaureo#
 BACILLUS#n.#bacille#
 BACK#n.#dorse, parte posteriori#
 BACK#v.intr.#retropassuar, retroear#
-BACK#v.tr.#(a horse) retroducter; (a horse) montar; (sails) baccar; (support) suportar, subtener#XXX consult "back sails = baccar"
+BACK#v.tr.#(a horse) retroducter; (a horse) montar; (sails) baccar; (to support) suportar, subtener#XXX consult "back sails = baccar"
 BACKBITE#v.#calumniar#
 BACKBONE#n.#spine dorsal#
 BACKGAMMON#n.#trictrac#
@@ -1007,12 +1007,12 @@ BAIL#n.#garante#
 BAILIFF#n.#economo, intendante; sheriff#
 BAIRN#n.#infante, filie#
 BAIT#n.#lure#
-BAIT#v.#lurar; (annoy) provocar#
+BAIT#v.#lurar; (to annoy) provocar#
 BAIZE#n.#bayette#
-BAKE#v.#cocinar, panificar; (harden) indurar#
+BAKE#v.#cocinar, panificar; (to harden) indurar#
 BAKERY#n.#panería#
 BALANCE#n.#(poise) equilibrie; (of scales) balancie; (comm.) bilancie, saldo; (remainder) reste#
-BALANCE#v.#egalisar, equilibrar; (swing) balansar; (accounts) bilanciar#
+BALANCE#v.#egalisar, equilibrar; (to swing) balansar; (accounts) bilanciar#
 BALCONY#n.#balcon#
 BALD#adj.#nud, calvi#
 BALDACHIN#n.#baldachine#
@@ -1174,7 +1174,7 @@ BE BACKWARD#v.#aprender desfacilmen#
 BE BECALMED#v.#esser haltat de calme#
 BE BORN#v.#nascer#
 BE COGNIZANT OF#v.#saver#
-BE COLD#v.#(feel cold) friger#
+BE COLD#v.#(to feel cold) friger#
 BE CONSCIOUS OF#v.#conscier (pri)#
 BE CONSPICUOUS BY ITS ABSENCE#expr.#brilliar per su tot absentie#
 CONSPICUOUS BY ITS ABSENCE, BE#expr.#brilliar per su tot absentie#
@@ -1245,7 +1245,8 @@ BEAM#n.#radie; (wood) trave; (of scales) brasse#
 BEAM#v.#radiar#
 BEAN#n.#faseol; (broadbean) fabe#
 BEAR#n.#(animal) urso (-a)#
-BEAR#v.#(carry) portar; (give birth to) parturir, dar nascentie a; (endure) suffrer, tolerar, suportar; (fruit) portar#
+BEAR#v.intr.#(to be fruitful) esser fructosi; (fruit) dar fructe, fructificar; (to suffer) suffrer; (to endure with patience, to be patient) esser patient, haver patientie#
+BEAR#v.tr.#(to carry) portar; (to give birth to) parturir, dar nascentie a; (to endure) suffrer, tolerar, suportar#
 BEAR THE BRUNT#v.#suportar li pesa, li max pesant colpe#
 BEAR TO WINDWARD#v.#luvear#
 BEAR WITNESS#v.#atestar#
@@ -1256,7 +1257,7 @@ BEARINGS#n.#(heraldry) insigne#
 BEAST#n.#bestie, animale; (pejor.) brute#
 BEAST OF PREY#n.#bestie predatori, bestie raptaci#
 BEASTLY#adj.#bestial, repugnant, abominabil#
-BEAT#v.#batter, bastonar, frappar; (of pulse) pulsar; (surpass) superar; (conquer) victer; (eggs) quirlar; (heart) palpitar; (beat the air) frappar in vacuitá#
+BEAT#v.#batter, bastonar, frappar; (of pulse) pulsar; (to surpass) superar; (to conquer) victer; (eggs) quirlar; (heart) palpitar; (to beat the air) frappar in vacuitá#
 BEATEN TRACK#n.#batte, grappa; (mus.) tacte; trantran#
 BEATIFIC#adj.#beatific#
 BEATITUDE#n.#beatitá; (beatitudes) beatitude#
@@ -1267,7 +1268,7 @@ BECALM#v.#calmar#
 BECAUSE#conj.#pro que#
 BECAUSE OF#prep.#caus, pro#
 BECK#n.#riverette; (nod) signe#
-BECOME#v.#devenir; (beseem) decer, convener#
+BECOME#v.#devenir; (to beseem) decer, convener#
 BECOME AWARE#v.#percepter#
 BECOME MOULDY#v.#mofar se#
 BED#n.#lette; (hort.) bed; (a layer) strate#
@@ -1298,7 +1299,7 @@ BEFORE HE CAME#expr.#ante que il arivat#
 BEFOREHAND#adv.#in ante, in avanse, antecipatmen#
 BEFOUL#v.#sordidar, macular#
 BEFRIEND#v.#protecter, patronisar#
-BEG#v.#(alms) mendicar; (request) petir, suplicar, implorar#
+BEG#v.#(alms) mendicar; (to request) petir, suplicar, implorar#
 BEGET#v.#geniter, procrear, generar#
 BEGGAR#n.#mendico#
 BEGGAR#v.#apovrar#
@@ -1310,7 +1311,7 @@ BEGONE#interj.#for!, via!#
 BEGONIA#n.#begonie#
 BEGRIME#v.#(in)sordidar, nigrar#
 BEGRUDGE#v.#invidiar#
-BEGUILE#v.#(time) passar, acurtar; (delude) decepter, dupar#
+BEGUILE#v.#(time) passar, acurtar; (to delude) decepter, dupar#
 BEHALF#n.#profite, avantage#
 BEHAVE#v.#conduir se#
 BEHAVIOUR#n.#conduida#
@@ -1335,7 +1336,7 @@ BELEAGUER#v.#assediar#
 BELFRY#n.#cloch-turre, clochiere#
 BELIE#v.#refutar, dementir#
 BELIEF#n.#crede(ntie); conviction#
-BELIEVE#v.#creder; (opine) opiner#
+BELIEVE#v.#creder; (to opine) opiner#
 BELITTLE#v.#depreciar#
 BELL#n.#cloche; (hand bell) tintinette; (of flower) cálice#
 BELL-CLAPPER#n.#battente#
@@ -1386,7 +1387,7 @@ BERTH#n.#lette; (dock) dock; (employment) piazza, oficie#
 BERYL#n.#berille#
 BESEECH#v.#implorar, suplicar#
 BESEEM#v.#decer, convener#
-BESET#v.#circumdar, persecuter; (siege) assediar#
+BESET#v.#circumdar, persecuter; (to siege) assediar#
 BESIDE#prep.#apu, proxim; except, exter#
 BESIDES#adv.#ultra to, in ultra, adplu#
 BESIDES FRENCH HE ALSO SPEAKS SPANISH#expr.#ultra francesi il parla anc hispan#XXX FIXME BESIDE
@@ -1400,17 +1401,17 @@ BESPRINKLE#v.#asperser, surspruzzar#
 BEST#adj.#optim, max bon, bonissim#
 BEST#v.#superar, victer#
 BESTIAL#adj.#bestial (-itá), brutal#
-BESTIR ONESELF#v.#mo(v)er se, activentar se#
+BESTIR ONESELF#v.#mo(v)er se, activentar se#XXX TODO split "(v)"
 BESTOW#v.#(dis)donar, dar; (apply) usar#
 BESTREW#v.#disjettar sur#
 BESTRIDE#v.#surseder con gambes furcat#
 BET#n.#pari (-ar)#
 BETAKE ONESELF TO#v.#ear a#
-BETHINK#v.#pripensar; (call to mind) rememorar#
+BETHINK#v.#pripensar; (to call to mind) rememorar#
 BETIDE#v.#evenir#
 BETIMES#adv.#tost, in bon témpor#
-BETOKEN#v.#signar, indicar; (mean) significar#
-BETRAY#v.#trahir; (show) monstrar, revelar; (seduce) seducter#
+BETOKEN#v.#signar, indicar; (to mean) significar#
+BETRAY#v.#trahir; (to show) monstrar, revelar; (to seduce) seducter#
 BETROTH#v.#sponder#
 BETTER#adj.#melior, plu bon; (health) plu san#
 BETTER#v.#ameliorar#
@@ -1434,7 +1435,7 @@ BIBLIO#prefix#bibliografie, bibliomaniac, etc.#
 BICEPS#n.#biceps#
 BICKER#v.#querellar#
 BICYCLE#n.#bicicle#
-BID#v.#comandar, ordonar; (invite) invitar; desirar; (auction) ofertar; proposir#
+BID#v.#comandar, ordonar; (to invite) invitar; desirar; (auction) ofertar; proposir#
 BIDE#v.#atender; (re)maner#
 BIER#n.#portuore#
 BIFURCATE#v.#bifurcar (-ation)#
@@ -1482,7 +1483,7 @@ BISON#n.#bison#
 BIT#n.#pezze, fragment; (horses) morse; (for brace) fora-pezze#
 BITCH#n.#cana#
 BITE#n.#morsura#
-BITE#v.#morder; (sting) picar; (chew) machar#
+BITE#v.#morder; (to sting) picar; (to chew) machar#
 BITT#n.#(naut.) bitt#
 BITTER#adj.#amari, acerb, acri#
 BITTERN#n.#butor#
@@ -1527,7 +1528,7 @@ BLARE#v.#muir; (of trumpet) sonar, trumpetar#
 BLASE#adj.#blasat#
 BLASPHEME#v.#blasfemar (-ation), maledir#
 BLAST#n.#(wind) burasca, vent-colpe, ventepussa; explosion; (blight) peste); (trumpet) sonad#
-BLAST#v.#ruinar, far exploder, fracassar; (injure) nocer#
+BLAST#v.#ruinar, far exploder, fracassar; (to injure) nocer#
 BLAST-FURNACE#n.#fond-forn#
 BLATANT#adj.#bruient, belant#
 BLAZE#n.#brase#
@@ -1547,7 +1548,8 @@ BLEND#v.#mixter (-ura)#
 BLESS#v.#benedir (-ition)#
 BLESSED#adj.#beat, felici#
 BLIGHT#n.#(plants) peste; degeneration#
-BLIGHT#v.#frustrar; (wither; far marcir#
+BLIGHT#v.intr.#marcir#
+BLIGHT#v.tr.#frustrar; (to wither) far marcir#
 BLIND#adj.#ciec#
 BLIND#n.#persiane, rul-cortine; pretexte#
 BLIND#v.#aciecar; dazlar#
@@ -1584,7 +1586,7 @@ BLOT OUT#v.#extinter, efaciar, destructer#
 BLOTTING-PAPER#n.#papere siccativ#
 BLOUSE#n.#bluse#
 BLOW#n.#colpe, batte, sucusse; (of wind) soffle#
-BLOW#v.#sufflar; (gasp) anhelar#
+BLOW#v.#sufflar; (to gasp) anhelar#
 BLOW ONE'S NOSE#v.#sufflar se li nase#
 BLOW OVER#v.#passar, preterear#
 BLOW PIPE#n.#suffla-tube#
@@ -1599,7 +1601,7 @@ BLUFF#adj.#grossieri, rud, franc; abrupt#
 BLUFF#n.#cliff; (bluffing) bluff#
 BLUFF#v.#decepter, dupar, bluffar#
 BLUNDER#n.#erra, defecte, fals passu#
-BLUNDER#v.#errar; ear inhabilmen; (stumble) mispassuar#
+BLUNDER#v.#errar; ear inhabilmen; (to stumble) mispassuar#
 BLUNT#adj.#obtusi, desacut; abrupt#
 BLUNT#v.#blasar#
 BLUR#v.#nebular#
@@ -1609,7 +1611,7 @@ BLUSTER#v.#tumultuar, bruir; bru-parlar, fanfaronar#
 BOA#n.#boa#
 BOAR#n.#apro, svin savagi#
 BOARD#n.#planca; (naut.) bord; (bookbinding) carton; (blackboard) tabul; (food) nutritura, pension; (governing body) direction, comité, comission#
-BOARD#v.#(a ship) abordar; (put up) albergar#
+BOARD#v.#(a ship) abordar; (to put up, to provide housing for) albergar#
 BOARDER#n.#pensionario#
 BOARDING-HOUSE#n.#pension#
 BOAST#v.#fanfaronar (-ada); glorificar#
@@ -1638,7 +1640,7 @@ BOLLARD#n.#amarruore, bitt#
 BOLSTER#n.#cussine, plum-matrasse#
 BOLSTER#v.#stuffar; suportar#
 BOLT#n.#bolt (of door) clud-bolt#
-BOLT#v.#boltar, fixar per boltes; (abscond) currer for#
+BOLT#v.#boltar, fixar per boltes; (to abscond) currer for#
 BOMB#n.#bombe#
 BOMBARD#v.#bombardar (-ament)#
 BOMBAST#n.#bombast (-ic)#
@@ -1680,7 +1682,7 @@ BOOZE#v.#trine(ach)ar#
 BORAX#n.#borax#
 BORDER#n.#borde, límite, born; (of country) frontiera; (hem) orle; (adjoin) adjacer; (a dress) garnir, bordurar, orlar#
 BORE#n.#(of gun) tube; (person) tedon, enoyanto#
-BORE#v.#(drill) forar, perforar; (weary) enoyar#
+BORE#v.#(to drill) forar, perforar; (to weary) enoyar#
 BORN#adj.#nascet#
 BOROUGH#n.#borgo#
 BORROW#v.#pruntar (-ation, -ator)#
@@ -1706,7 +1708,7 @@ BOULEVARD#n.#bulevard#
 BOUNCE#v.#retrosaltar, ricochettar#
 BOUND#adj.#(obliged) obligat#
 BOUND#n.#(a leap) salta#
-BOUND#v.#saltar; (limit); bornar#
+BOUND#v.#saltar; (to limit) bornar#
 BOUND FOR#prep.#destinat a#
 BOUNDARY#n.#frontiere, límite#
 BOUNDS#n.#límite, born#
@@ -1727,9 +1729,11 @@ BOWLEGGED#adj.#convex-gambat#
 BOWLINE#n.#buline#
 BOWLING-GREEN#n.#bul-gazon#
 BOWSPRIT#n.#busprite#
-BOX#n.#(container) buxe, estuche, chest, seatulle; (trunk) coffre; (theatre) loge; (on ear) guanciade; (tree) busso#
-BOX#v.#boxar (-aro)#
-BOX UP#v.#inscatullar; (ears) guanciar#
+BOX#n.#(container) buxe, estuche, chest, scatulle; (trunk) coffre; (theatre) loge; (on ear) guanciade; (tree) busso#
+BOX#v.intr.#(to fight with the fists) boxar (-ero)#
+BOX#v.tr.#(to inclose in a box) inbuxar, inscatullar; (to strike with the hand or fist) guanciar#
+BOX IN#v.#inscatullar, inbuxar#
+BOX UP#v.#inscatullar, inbuxar; (ears) guanciar#
 BOY#n.#púer, garson, infanto, yuno, boy#
 BOYCOTT#n.#boycotte (-ar)#
 BOYFRIEND#n.#amato#
@@ -2421,7 +2425,7 @@ CHARACTERISTIC#n.#trate#
 CHARADE#n.#charade#
 CHARCOAL#n.#ligni-carbon#
 CHARGE#n.#(abstract) charge; (of a gun) cargament; (price) precie; (to jury) instruction#
-CHARGE#v.#(to rush) assaltar, ataccar; (accuse) acusar. inculpar; (to command) ordonar; (entreat) exhortar; (a gun) cargar; (in payment) postular#
+CHARGE#v.#(to rush) assaltar, ataccar; (to accuse) acusar, inculpar; (to command) ordonar; (to entreat) exhortar; (a gun) cargar; (in payment) postular#
 CHARGER#n.#cavalle de guerre; (dish) plate, vase#
 CHARIOT#n.#triumf-carre; carre de guerre#
 CHARITABLE#n.#beneficent, charitosi#
@@ -2647,7 +2651,7 @@ CLEAN#adj.#pur, nett, chast#
 CLEAN#v.#nettar, demuddar#
 CLEANSE#v.#apurar, purificar, nettar#
 CLEAR#adj.#clar, evident, lucid, limpid; (clear of) líber de#
-CLEAR#v.#(of guilt) exculpar; (to empty) vacuar; (to clear up) aclarar, explicar; (get rid of) desembarassar se de; (throat) tussettar#
+CLEAR#v.#(of guilt) exculpar; (to empty) vacuar; (to clear up) aclarar, explicar; (to get rid of) desembarassar se de; (to throat) tussettar#
 CLEARING#n.#(in forest) clariera#
 CLEAT#n.#clamp#
 CLEAVE#v.#fender; (to stick) adherer, aglutinar se#
@@ -5887,6 +5891,7 @@ FRUCTIFY#v.#fecundar, infructar (se), fructificar#
 FRUGAL#adj.#frugal (-itá)#
 FRUIT#n.#fructe (-iferi, -osi, -iero, -venditor)#
 FRUIT#v.#dar fructe, fructificar#
+FRUITFUL#adj.#fructosi#
 FRUITION#n.#maturitá, juida#
 FRUITLESS#adj.#van, ínfertil#
 FRUMP#n.#oldmodic person; oldmodic femina, feminacha, oldmodona#
@@ -10146,7 +10151,7 @@ OBJECTIONABLE#adj.#ínadmissibil, desagreabil, índesirabil#
 OBJECTIVE#adj.#objectiv (-itá)#
 OBJECTIVE#n.#objective; (gramm.) acusative#
 OBLATION#n.#sacrificie, oblation#
-OBLIGE#v.#(compel) obligar (-ation, -atori, -ativ), fortiar; (do a favour) compleser (-ent)#
+OBLIGE#v.#(to compel) obligar (-ation, -atori, -ativ), fortiar; (to do a favour) compleser (-ent)#
 OBLIQUE#adj.#obliqui (-ta), clini, inclinat#
 OBLITERATE#v.#obliterar (-ation), efaciar#
 OBLIVION#n.#oblivie (-osi)#

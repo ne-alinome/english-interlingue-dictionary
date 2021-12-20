@@ -40,7 +40,8 @@
 - Fix: "STILL ancor" is missing. "ancor" is mentioned only in "YET".
 - Add adv. usages to "NEVERTHELESS" and "HOWEVER".
 - Homogenize usage of "!" in all of the interjections.
-- "THIS WAY|adv.|a ci|" is incomplete: it can mean also "by this method".
+- "THIS WAY|adv.|a ci|" is incomplete: it can mean also "by this
+  method".
 - Fix/improve "BESIDE" and "BESIDES".
 - Fix: "questionar" is missing in "QUESTION (v.)", but mentioned as a
   derivate in "QUESTION (n.)".
@@ -67,6 +68,8 @@
 - In "REFRACTORY (n.) infusibile" is missing meaning "A refractory
   person".
 - Add "(-ie)" to "impertinent" and others. 
+- Split translations that include internal parens, e.g.
+  `BOOZE#v.#trine(ach)ar#`.
 
 
 // Doubts {{{1
@@ -184,7 +187,6 @@
 - "BOXING" = box, boxada, pugilism
 - "CENTENNIAL" (=1. (n.) centenarie; 2. (adj.) centenari, centenal).
 - "ARCHIVE", shares a meaning with "ARCHIVES".
-- More translations of quam "tam".
 - "sí".
 - "HIGHWAY".
 - "implementar".
