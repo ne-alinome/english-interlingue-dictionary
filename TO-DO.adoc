@@ -70,7 +70,7 @@
 - Add "(-ie)" to "impertinent" and others. 
 - Split translations that include internal parens, e.g.
   `BOOZE#v.#trine(ach)ar#`.
-
+- Finish "CROW OVER".
 
 // Doubts {{{1
 == Doubts
