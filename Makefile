@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 20210608T1752+0200.
+# Last modified: 20211223T1731+0100.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -188,12 +188,24 @@ tmp/$(book)._sorted.txt: src/$(book).txt
 # ==============================================================
 # Convert the original data to Asciidoctor {{{1
 
+.SECONDARY: tmp/$(book)._sorted.txt
+.SECONDARY: tmp/$(book)._sorted.txt.adoc
 .SECONDARY: tmp/$(book).txt.adoc
 
-tmp/%.txt.adoc: tmp/%._sorted.txt
-	cp -f $< $@
-	nvim -es -S make/convert_data_to_asciidoctor.vim $@ -c 'wq!'
-	nvim -es -S make/add_letter_headings.vim $@ -c 'wq!'
+tmp/%._sorted.txt.adoc: tmp/%._sorted.txt
+	nvim -es -S make/convert_data_to_asciidoctor.vim $< -c 'w! $@|q!'
+
+tmp/%.txt.adoc: tmp/%._sorted.txt.adoc
+	nvim -S make/add_letter_headings.vim $< -c 'w! $@|q!'
+
+# XXX FIXME Somehow <make/add_letter_headings.vim> does not work fine in ex
+# mode. These commands add only the "A" heading:
+#
+# nvim -es -S make/add_letter_headings.vim $< -c 'w! $@|q!'
+#
+# nvim -es $< -S make/add_letter_headings.vim -c 'w! $@|q!'
+#
+# vim -e -s $< -S make/add_letter_headings.vim -c 'w! $@|q!'
 
 target/$(book).adoc: \
 	src/header.adoc \
@@ -502,3 +514,6 @@ tmp/README.html: README.adoc
 # converters used by the "Diccionario español-interlingüe project, which
 # combine all identical headwords into one single entry. Add the version number
 # to the description. Use Neovim instead of Vim.
+#
+# 2021-12-23: Split into two steps the conversion from the original data into
+# Asciidoctor.

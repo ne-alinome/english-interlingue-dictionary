@@ -11,6 +11,7 @@
 
 " 2019-02-13: Start.
 " 2019-02-24: Update file header.
+" 2021-12-23: Update to the current data format.
 
 let fail=append(0,['// A {{{1','== A',''])
 
@@ -18,10 +19,9 @@ let letters=["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q"
 
 for letter in letters
   let next_letter=nr2char(char2nr(letter)+1)
-  if search('^- \.'.letter.'.\+\n- \.'.next_letter,'W')
-    let fail=append(line('.'),['','// '.next_letter.' {{{1','== '.next_letter,''])
+  if search('^- \.'.letter.'.\+\n\(\*.\{-}\n\)\+'.'- \.'.next_letter,'We')
+    let fail=append(line('.')-1,['','// '.next_letter.' {{{1','== '.next_letter,''])
   endif
 endfor
 
-write!
-quit
+
