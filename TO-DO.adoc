@@ -73,6 +73,7 @@
 - Finish "CROW OVER".
 - Make sure the expressions are included after the proper subentry,
   e.g. noun, adjective, etc.  
+- Mark or copy as example expressions the entries containing more than one word.
 
 // Doubts {{{1
 == Doubts
