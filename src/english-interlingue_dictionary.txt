@@ -286,8 +286,9 @@ AGITATE#v.#agitar (-ation, -ator)#
 AGLOW#adj.#ardent, fervent#
 AGNOSTIC#adj.#agnostic#
 AGNOSTIC#n.#agnostico#
+AGO#adj.#anteyan#
+AGO#adv.#antey#
 AGO#expr.#NOT LONG AGO: ante ne long#
-AGO#n.#ante#
 AGONIZE#v.#tormentar, agonisar#
 AGONY#n.#torment(es), agonie#
 AGRARIAN#adj.#agrari#
