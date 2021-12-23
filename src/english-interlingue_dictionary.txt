@@ -104,6 +104,8 @@ ACCORDINGLY#adv.#ergo, dunc, pro to#
 ACCORDION#n.#acordeon (-ist)#
 ACCOST#v.#adparlar#
 ACCOUCHEUR#n.#acuehera#
+ACCOUNT#expr.#ON ACCOUNT OF: pro, per cause de#
+ACCOUNT#expr.#ON NO ACCOUNT: pro nequel (null) cause, certmen ne#
 ACCOUNT#n.#(bill) calcul, factura; (banking) conto; (importance) importantie; (story) raconta, raporte#
 ACCOUNT FOR#v.#responsar, rendir conto pri#
 ACCOUNTABLE#adj.#responsabil#
@@ -915,6 +917,7 @@ AVARICIOUS#adj.#avari, cupid (-itá)#
 AVENGE#v.#(re)venjar#
 AVENUE#n.#avenúe, allé#
 AVER#v.#afirmar#
+AVERAGE#expr.#ON THE AVERAGE: medialmen#
 AVERAGE#n.#medial valore; (marine insurance) havarie#
 AVERSE#adj.#aversi, desinclinat#
 AVERSION#n.#aversion#
@@ -1300,6 +1303,7 @@ BEGONIA#n.#begonie#
 BEGRIME#v.#(in)sordidar, nigrar#
 BEGRUDGE#v.#invidiar#
 BEGUILE#v.#(time) passar, acurtar; (to delude) decepter, dupar#
+BEHALF#expr.#ON BEHALF OF: in nómine de, por#
 BEHALF#n.#profite, avantage#
 BEHAVE#v.#conduir se#
 BEHAVIOUR#n.#conduida#
@@ -3130,6 +3134,7 @@ CONTRADICT#v.#contradir (-tion), dementir#
 CONTRALTO#n.#contralto#
 CONTRAPUNTAL#adj.#contrapuntal#
 CONTRARY#adj.#contrari, adversi#
+CONTRARY#expr.#ON THE CONTRARY: in contrari#
 CONTRARY#n.#contrarie (-etá)#
 CONTRAST#n.#contraste (-ar)#
 CONTRAVENE#v.#contravenir (-tion); contra-acter, violar#
@@ -3697,6 +3702,7 @@ DEAN#n.#decan (-atu)#
 DEAR#adj.#car, amat; (costly) custosi, car, expensiv#
 DEAR#expr.#OH DEAR: o ve!#
 DEARTH#n.#manca, indigentie, scarsitá#
+DEATH#expr.#ON PAIN OF DEATH: sub pena de morte#
 DEATH#n.#morte (-al, -alitá)#
 DEATH AGONY#n.#agonie#
 DEATH RATTLE#n.#stertorada#
@@ -5674,6 +5680,7 @@ FOOL#n.#follo, idiote, stulton#
 FOOL#v.#decepter, dupar#
 FOOLHARDY#adj.#temerari#
 FOOLISH#adj.#folli, stupid#
+FOOT#expr.#ON FOOT: a pedes#
 FOOT#n.#pede; base#
 FOOT#v.#ear a pede, pedear, vader#
 FOOTBALL#n.#futballe#
@@ -6600,6 +6607,7 @@ HAMMOCK#n.#hamac#
 HAMPER#n.#pacca corbe#
 HAMPER#v.#impedir, retardar#
 HAMSTER#n.#hamstre#
+HAND#expr.#ON THE ONE HAND: ye un látere#
 HAND#n.#manu; (of clock) indicator; (work man) ovrero, mann#
 HAND#v.#manuar; passar, transdar#
 HAND OVER#v.#transdar#
@@ -8425,6 +8433,7 @@ LEER#v.#regardachar, regardar maliciosimen#
 LEES#n.#sediment#
 LEEWAY#n.#drive; témpor perdit#
 LEFT#adj.#levul#
+LEFT#expr.#ON THE LEFT: a levul#
 LEFT-HANDER#n.#levulon#
 LEG#n.#gambe; (of garment) gambale#
 LEGACY#n.#legate#
@@ -10204,10 +10213,13 @@ OMNIPOTENT#adj.#omnipotent (-ie)#
 OMNIPRESENT#adj.#omnipresent (-ie), ubiqui#
 OMNISCIENT#adj.#omnisavent (-ie)#
 ON#adv.#(onwards) adavan#
+ON#expr.#ON ARRIVING: arivante, pos har arivat#XXX TODO -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
+ON#expr.#ON FOOT: a pedes#
+ON#expr.#ON TIME: in just témpor, punctualmen#
 ON#expr.#THE PROGRAMME IS ON: li programma es in action, ha comensat#
 ON#prep.#sur; (on to) (ad)sur#
 ON ACCOUNT OF#prep.#pro, per cause de#
-ON ARRIVING#adv.#arivante, pos har arivat#XXX TODE -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
+ON ARRIVING#adv.#arivante, pos har arivat#XXX TODO -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
 ON BEHALF OF#prep.#in nómine de, por#
 ON FOOT#adv.#a pedes#
 ON NO ACCOUNT#adv.#pro nequel (null) cause, certmen ne#
@@ -11260,6 +11272,7 @@ POET#n.#poete (-ic, -ica, -essa, -astro, -isar)#
 POETRY#n.#poesie#
 POGROM#n.#pogrom#
 POIGNANT#adj.#mordent, acri#
+POINT#expr.#ON THE POINT OF: sur li punctu de#XXX TODO pos "POINT (n.)"
 POINT#n.#punctu; (trait) trate; (aim) scope; (tip) punta#
 POINT#v.#(aim) directer, apuntar; (indicate) monstrar; (sharpen) puntar#
 POINT OF VIEW#n.#vise-punctu#
@@ -12669,6 +12682,7 @@ RIFT#n.#fensura, fissura#
 RIG#v.#taclar#
 RIGGING#n.#taclage, cordage#
 RIGHT#adj.#ver, just; (straight) rect; corect; (right hand) dextri#
+RIGHT#expr.#ON THE RIGHT: a dextre#
 RIGHT#n.#jure; justicie; rason; rectitá#
 RIGHT#v.#rectificar; (set upright) erecter, stantar#
 RIGHT AS A TRIVET#adv.#in bonissim standa#
@@ -13101,6 +13115,7 @@ SCOOP#v.#hauster, excavar#
 SCOPE#n.#oportunitá; cadre, camp de action; (aim) scope#
 SCORBUTIC#adj.#scorbutic#
 SCORCH#v.#ustular (-ation)#
+SCORE#expr.#ON THAT SCORE: pro ti motive#
 SCORE#n.#(notch) incision; cause, motive; (games) calcul, conte; (twenty) duantene; (mus.) partitura#
 SCORE#v.#inciser; (games) marcar; ganiar puntes#
 SCORIA#n.#scorie (-atri, -ificar)#
@@ -14405,6 +14420,7 @@ STREAM#n.#fluvie, riverette#
 STREAMER#n.#banderol#
 STREET#n.#strada, via#
 STREET LAMP#n.#lanterne#
+STRENGTH#expr.#ON THE STRENGTH OF: fidente a#
 STRENGTH#n.#fortie, vigore#
 STRENGTHEN#v.#infortiar, fortificar#
 STRENUOUS#adj.#strapaciosi, vigorosi#
@@ -15212,6 +15228,7 @@ TILLER#n.#cultivator; (naut.) timon#
 TILT#v.#renversar, bascular, inclinar#
 TIMBER#n.#ligne (-ero, -mercante)#
 TIMBRE#n.#timbre#
+TIME#expr.#ON TIME: in just témpor, punctualmen#
 TIME#expr.#SOME TIME: alquande#
 TIME#expr.#WHAT TIME IS IT?: quel hora es?#
 TIME#n.#témpor; epoca, era; (age) etá#
@@ -16393,6 +16410,7 @@ WHIZZ#v.#sibilar, sifflar#
 WHO#pron.#qui#
 WHOEVER#pron.#quicunc#
 WHOLE#adj.#tot, integri, complet; intact#
+WHOLE#expr.#ON THE WHOLE: in general, generalmen#
 WHOLE#n.#lu tot, li totale#
 WHOLESALE#adj.#in gross#
 WHOLESALER#n.#grossist#
