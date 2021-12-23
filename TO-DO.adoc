@@ -58,8 +58,8 @@
 - Remove examples and note from prefixes and add "-" to the
   translation?  
 - Why "si" in `HAVE A MIND TO #v.#inclinar, it vell pleser … si#`?
-- Move expression to their main word, e.g. "calculating machine" to
-  "machine".
+- Copy entries with more than one word to their main word, e.g.
+  "calculating machine" to "machine", "white ant" to "ant".
 - Complete "COUNT" with nouns: "total number counted" and "the act of
   counting".
 - Complete "SAINT santo (-itá)".
@@ -71,6 +71,10 @@
 - Split translations that include internal parens, e.g.
   `BOOZE#v.#trine(ach)ar#`.
 - Finish "CROW OVER".
+- Mark again as example expressions entries like `ON THAT
+  SCORE#adv.#pro ti motive#`.
+- Make sure the expressions are included after the proper subentry,
+  e.g. noun, adjective, etc.  
 
 // Doubts {{{1
 == Doubts
