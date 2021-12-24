@@ -5859,7 +5859,7 @@ FREEDOM#n.#libertá; (of city) borgesie#
 FREEHOLD#n.#líber possedage#
 FREEMASON#n.#francmasson#
 FREETHINKER#n.#liberpensante#
-FREEZE#v.#gelar, glaciar se; (feel cold) friger#
+FREEZE#v.#gelar, glaciar se; (to feel cold) friger#
 FREIGHT#n.#frete, porte; (load) cargo#
 FRENCH BEAN#n.#faseol#
 FRENZY#n.#frenesie (-tic), rabie#
@@ -5891,7 +5891,7 @@ FRISK#v.#saltillar, capreolar#
 FRISKY#adj.#gay, alegri, alert#
 FRITTER AWAY#v.#dissipar, forfrivolar#
 FRIVOLOUS#adj.#frivol, futil, bagetellic, ínseriosi#
-FRIZZLE#v.#friser, crispar; (fry) frir; (of sound) sibilar#
+FRIZZLE#v.#friser, crispar; (to fry) frir; (of sound) sibilar#
 FROCK#n.#robe#
 FROCK-COAT#n.#redingote#
 FROG#n.#ran (-in, -atri, -ello)#
@@ -6060,7 +6060,7 @@ GASTRITIS#n.#gastrite#
 GASTRONOMY#n.#gastronomie (-ic)#
 GATE#n.#porta, barriere#
 GATEWAY#n.#intrada#
-GATHER#v.#colecter, colier; (fester) supurar; (harvest) recoltar; (an opinion) concluder#
+GATHER#v.#colecter, colier; (to fester) supurar; (harvest) recoltar; (an opinion) concluder#
 GATHERING#n.#assemble; abscess; (needlework) ruche#
 GAUDY#adj.#tro ornat, pomposi#
 GAUGE#n.#mesura, scala, dimension; mesurette, indicator#
@@ -6121,7 +6121,7 @@ GET OFF#expr.#THE ACCUSED GOT OFF: on absoluet li acusato#
 GET OFF#v.#(clothes) demetter; (dismount) descender de#
 GET OFF SCOT FREE#v.#escapar sin vúlneres#
 GET ON#v.#prosperar, progresser; proceder; (mount) montar, ascender; (agree) acordar#
-GET OUT#v.#preparar, editer; exear; (get out of) evitar, debrolliar#
+GET OUT#v.#preparar, editer; exear; (to get out of) evitar, debrolliar#
 GET OVER#v.#(overcome) superar, victer; (illness) bon trapassar, recuperar#
 GET THROUGH#v.#traear; (finish) finir; successar#
 GET UP#v.#(rise) levar se; (arrange) arangear, organisar; (mount) montar#
@@ -6224,7 +6224,7 @@ GLORIOUS#adj.#gloriosi, bellissim#
 GLORY#n.#glorie (-ificar)#
 GLORY#v.#exultar#
 GLOSS#n.#politura, lustre; (comment) glosse#
-GLOSS#v.#(gloss over) palliar, mascar, eufemiar; (cloth.) catisser#
+GLOSS#v.#(to gloss over) palliar, mascar, eufemiar; (clothes) catisser#
 GLOSSARY#n.#glossarium#
 GLOVE#n.#gante#
 GLOW#n.#(flame) brase#
@@ -6384,7 +6384,7 @@ GRAPHIC#adj.#vivid, picturesc; (science) grafic (-ica)#
 GRAPHITE#n.#grafite#
 GRAPHOLOGIST#n.#grafolog (-ie, -ic)#
 GRAPNEL#n.#grapon, croc de abordage#
-GRAPPLE#v.#acrocar, cramponar; (grapple with) luctar ye#
+GRAPPLE#v.#acrocar, cramponar; (to grapple with) luctar ye#
 GRASP#v.#inpuniar, capter; (comprehend) capir, comprender#
 GRASPING#adj.#avari, avid#
 GRASS#n.#herbe (-osi, -ari, -iera), grámine#
@@ -6413,7 +6413,7 @@ GRAVITATE#v.#gravitar (-ation)#
 GRAVITY#n.#póndere, gravitá; gravitation#
 GRAVY#n.#carne-suc#
 GRAY#adj.#grisi (-atri)#
-GRAZE#v.#(of cattle) pastar (se); (scrape) scrapar, grattar; tuchettar, frolar#
+GRAZE#v.#(of cattle) pastar (se); (to scrape) scrapar, grattar; tuchettar, frolar#
 GREASE#n.#grasse; (candle grease) sebe, densi oleo; (ointment) unguente#
 GREAT#adj.#grand (-itá, -esse, -ore)#
 GREAT-GRANDFATHER#n.#atavo#
@@ -6472,7 +6472,7 @@ GROSS WEIGHT#n.#brutto#
 GROTESQUE#adj.#grotesc#
 GROTTO#n.#grotte#
 GROUND#n.#(soil) suol, terre; (place) terren; (londer water) bass fund; (basis) base, fundament; (motive) motive, rason, cause; (background) funde#
-GROUND#v.#(ground in the elements) docer li rudimentes; (to run aground) strandar#
+GROUND#v.#(to ground in the elements) docer li rudimentes; (to run aground) strandar#
 GROUND-FLOOR#n.#terr-etage#
 GROUNDNUT#n.#arachide#
 GROUNDS#n.#(dregs) sediment#
@@ -6481,7 +6481,7 @@ GROUSE#n.#(bird) tetrix#
 GROUSE#v.#plendir#
 GROVE#n.#boscage#
 GROVEL#v.#repter abjectmen avan alquí#
-GROW#v.intr.#crescer, acrescer; augmentar se; (become) devenir; (grow up) adultijar#
+GROW#v.intr.#crescer, acrescer; augmentar se; (to become) devenir; (to grow up) adultijar#
 GROW#v.tr.#producter, cultivar#
 GROWL#v.#grunir (-ida)#
 GROWTH#n.#crescentie; (bot.) crescement, crescon; progresse, production; excrescentie#
@@ -6500,7 +6500,7 @@ GUARANTEE#n.#garantie#
 GUARANTEE#v.#garantir, dar caution#
 GUARANTOR#n.#garante#
 GUARD#n.#watch (-mann), sentinelle; (keeper) gardero; (screen) scren; (mil.) guardie; (rail.) conductor; (protective device) para- (-foy, -vent, etc.)#
-GUARD#v.#gardar, protecter; (mar.) watchar; (be on guard) esser in watch#
+GUARD#v.#gardar, protecter; (mar.) watchar; (to be on guard) esser in watch#
 GUARDED#adj.#caut, discret#
 GUARDIAN#n.#tutor (-atu), curator, protector, gardator#
 GUDGEON#n.#gobie#
@@ -9386,7 +9386,7 @@ MINCEMEAT#n.#farce (consistent de fructes haccat)#
 MINCER#n.#(implement) haccuore#
 MIND#expr.#WOULD YOU MIND?: esque vu permisse?#
 MIND#n.#(intellect) mente, intelectu; (soul) spíritu, psiche#
-MIND#v.#(care for) cuidar, atenter pri, gardar#
+MIND#v.#(to care for) cuidar, atenter pri, gardar#
 MINDFUL#adj.#atentiv, cuidosi#
 MINE#n.#mine; (coal) miniera, carboniera#
 MINE#pron.#li mi#
@@ -9491,7 +9491,7 @@ MIZZEN#n.#(naut.) besan (-mast)#
 MIZZENMAST#n.#bisan-mast#
 MNEMONIC#adj.#mnemonic, memorativ#
 MNEMONICS#n.#mnemonica#
-MOAN#v.#gemir (-ida); (moan about) plendir; lamentar#
+MOAN#v.#gemir (-ida); (to moan about) plendir; lamentar#
 MOAT#n.#circumfosse#
 MOB#n.#turbe; populache; canallia#
 MOB#v.#turbular; mal tractar#
@@ -9671,7 +9671,7 @@ MUDDLE#v.#confuser, desordinar#
 MUDGUARD#n.#para-mudde, para-fango#
 MUDSCRAPER#n.#demuddator#
 MUFF#n.#muff#
-MUFFLE#v.#(wrap up) invelopar; (of sound) obtuser (-ion)#
+MUFFLE#v.#(to wrap up) invelopar; (of sound) obtuser (-ion)#
 MUFFLED#adj.#obtus#
 MUFFLER#n.#col-charpe#
 MUFTI#n.#vestiment civil; (title) mufti#
@@ -9723,8 +9723,8 @@ MUSKET#n.#musquete (-ero), fusil#
 MUSLIN#n.#musseline#
 MUSSEL#n.#musle, mitil#
 MUST#expr.#HE MUST GO: il deve ear#
-MUST#n.#most#
-MUST#v.#deve (followed by infinitive)#
+MUST#n.#most#XXX FIXME adjunte aclaration
+MUST#v.#deve (followed by infinitive)#XXX FIXME mal note in anglesi
 MUSTARD#n.#mostarde; (plant) sinap#
 MUSTARDPLASTER#n.#sinapisme#
 MUSTER#n.#assemblé, reunion#
@@ -9954,7 +9954,7 @@ NODE#n.#node (-al), túbere#
 NODULE#n.#nodette#
 NOHOW#adv.#nequalmen, nullmen#
 NOISE#n.#brue (-osi), bruida; cacofonie#
-NOISE#v.#(noise abroad) divulgar, publicar#
+NOISE#v.#(to noise abroad) divulgar, publicar#
 NOISOME#adj.#nociv; abominabil#
 NOM-DE-PLUME#n.#pseudonim, plum-nómine#
 NOMAD#n.#nomade (-isar)#
@@ -9999,7 +9999,7 @@ NOTARY#n.#notario (-atu)#
 NOTATION#n.#notation#
 NOTCH#v.#inciser (-ura), breche#
 NOTE#n.#note; (banknote) billet; (mus.) note, ton#
-NOTE#v.#remarcar; (jot down) notar#
+NOTE#v.#remarcar; (to jot down) notar#
 NOTE PAPER#n.#scri-papere#
 NOTEBOOK#n.#caderne, nota-librette#
 NOTED#adj.#celebri, famosi; mal famat#
@@ -10167,7 +10167,7 @@ OFFEND#v.#ofenDer, incolerar, transgresser#
 OFFENSIVE#adj.#ofensiv, desagreabil#
 OFFENSIVE#n.#(mil.) ofensive#
 OFFER#n.#oferta, proposition#
-OFFER#v.#presentar, ofertar; proposir; (offer up) dedicar#
+OFFER#v.#presentar, ofertar; proposir; (to offer up) dedicar#
 OFFERING#n.#sacrificie; oferta; (eccl.) oblation#
 OFFERTORY#n.#colection pecuniari#
 OFFHAND#adj.#(in manner) sin gena, brusqui, insuciant#XXX TODO -- complete
@@ -10316,7 +10316,7 @@ ORCHID#n.#orchidé#
 ORDAIN#v.#(to decree) decreter; (eccl.) ordinar, consacrar#
 ORDEAL#n.#ordalie#
 ORDER#n.#órdine, arangeament, regulament; condition, statu; (command) comande, decrete; (class) rang, classe; (comm.) comende; (money order) mandate; (decoration & eccl.) órden#
-ORDER#v.#comandar; (comm.) comendar; (set in order) ordinar#
+ORDER#v.#comandar; (comm.) comendar; (to set in order) ordinar#
 ORDERLY#adj.#metodic, in bon órdine#
 ORDERLY#n.#oficero de ordonantie#
 ORDINAL#n.#ordinale#
@@ -10559,7 +10559,7 @@ PALLIATE#v.#palliar (-ativ, -ative)#
 PALLID#adj.#pallid (-itá)#
 PALLOR#n.#pallore#
 PALM#n.#(bot.) palme (-iero); (hand) palme (-at, -iped, -ist), plate del manu#
-PALM#v.#inpalmar; prestidigitar; (palm off) far acceptar per fraude; substituer#
+PALM#v.#inpalmar; prestidigitar; (to palm off) far acceptar per fraude; substituer#
 PALM SUNDAY#n.#palm-soledí#
 PALMIST#n.#chiromant (-ie)#
 PALMY#adj.#prósperi, gloriosi#
@@ -10699,7 +10699,7 @@ PASQUINADE#n.#pasquinade#
 PASS#n.#(defile) pass, defilé; (state) statu, condition; (permit) passe, permissive#
 PASS#v.#passar (-abil, -ada. -ant), far passar, transdar; (to approve) aprobar; (to suffice) suficer; (to surpass) superar; (to pass a test) trapassar, successar#
 PASS AWAY#v.#morir; evanescer; desaparir#
-PASS BY#v.#preterear; (pass a law) votar#
+PASS BY#v.#preterear; (to pass a law) votar#
 PASS OFF#v.#far acceptar; forpassar#
 PASS OUT#v.#evanescer; distribuer#XXX NEW
 PASS THE NIGHT#v.#pernoctar#
@@ -10771,7 +10771,7 @@ PAWN#n.#gage, garantie; (chess) pion#
 PAWN#v.#dar in gage, hipotecar#
 PAWNBROKER#n.#prestator contra gage#
 PAY#n.#salarie#
-PAY#v.#payar (-ation. -ament, -ator, -and, -abil); (a visit) far; (to pay attention) atenter; (be worth while) valer li pena#
+PAY#v.#payar (-ation. -ament, -ator, -and, -abil); (a visit) far; (to pay attention) atenter; (to be worth while) valer li pena#
 PAY OFF BY INSTALMENTS#v.#amortisar#
 PAY OFF INSTALMENTS#v.#amortisar#
 PAY OUT#v.#(naut.) filar, lassar ear#
@@ -11033,7 +11033,7 @@ PIANO#n.#piano (-ist)#
 PICCANINNY#n.#negrelle#
 PICK#n.#(tool) pioche (-ar); (the best) li max bon#
 PICK#v.#selecter (-ion); (with beak) becar; (a fowl) pluccar, deplumar; (a bone) roder#
-PICK AT#v.#demarjar, manjettar; (pick pockets) furter; (a quarrel) serchar#
+PICK AT#v.#demarjar, manjettar; (to pick pockets) furter; (a quarrel) serchar#
 PICK UP#v.#levar; trovar; (to recover) recuperar#
 PICKABACK#adv.#sur li dorse#
 PICKABACK#n.#surdorse#XXX TODO confirm it's also a noun
@@ -11093,7 +11093,7 @@ PINCH#n.#pinceada; (small quantity) prense, dosa#
 PINCH#v.#pincear; restricter (se), privar se; (to steal) furter#
 PINCUSHION#n.#pingle-cussine, agulliero, porta-pingle#
 PINE#n.#pine (-astre)#
-PINE#v.#languir; (pine for) sospirar, desirar fortmen#
+PINE#v.#languir; (to pine for) sospirar, desirar fortmen#
 PINEAPPLE#n.#ananas#
 PINION#n.#(wing) ale; ultim articulation de ale; (mech.) pinion#
 PINION#v.#ligar, catonar (li brasses)#
@@ -11192,7 +11192,7 @@ PLATOON#n.#peloton#
 PLAUDIT#n.#aplause, aprobation#
 PLAUSIBLE#adj.#plausibil (-itá), suavi#
 PLAY#n.#lude; drama, teatrage; function; (freedom of movement) libertá de motion#
-PLAY#v.#luder; (play water) spruzzar#
+PLAY#v.#luder; (to play water) spruzzar#
 PLAY FALSE#v.#perfider#
 PLAY TRUANT#v.#fugir li scola, absentar se#
 PLAYER#n.#lusor; actor#
@@ -11201,7 +11201,7 @@ PLAYGROUND#n.#lud-corte, lud-terren#
 PLAYMATE#n.#lud-camarade (-o, -a)#
 PLAYTHING#n.#ludette#
 PLEA#n.#excusa; pretexte; (legal) pleda#
-PLEAD#v.#pledar; (offer as excuse) pretextar; suplicar#
+PLEAD#v.#pledar; (to offer as excuse) pretextar; suplicar#
 PLEAD GUILTY#v.#confesser su culpa#
 PLEASANT#adj.#agreabil, plesent, afabil#
 PLEASANTRY#n.#joca#
@@ -11213,7 +11213,7 @@ PLEAT#n.#plica#
 PLEBEIAN#n.#plebeyo (-an)#
 PLEBISCITE#n.#plebiscite#
 PLEDGE#n.#garantíe (-ir), gage (-ar)#
-PLEDGE#v.#(pledge oneself) obligar, dar quam gage#
+PLEDGE#v.#(to pledge oneself) obligar, dar quam gage#
 PLENIPOTENTIARY#adj.#plenipotentiari (-o)#
 PLENITUDE#n.#plenitá; abundantie#
 PLENTEOUS#adj.#abundant#
@@ -11246,7 +11246,7 @@ PLUMB#n.#sonde (-ar), perpendicul#
 PLUMBAGO#n.#grafite#
 PLUMBER#n.#plumbero#
 PLUME#n.#plume; (tuft) plum-toffe#
-PLUME#v.#(plume oneself) orgolliar se pri#
+PLUME#v.#(to plume oneself) orgolliar se pri#
 PLUMMET#n.#sonde#
 PLUMP#adj.#grassosi, grassatri#
 PLUNDER#v.#pilliar (-iage, -iard), raubar; marodar#
@@ -11354,7 +11354,7 @@ PORCH#n.#portico, vestibul#
 PORCINE#adj.#svinin, porcin#
 PORCUPINE#n.#histric, porcospine#
 PORE#n.#pore (-osi, -ositá)#
-PORE#v.#(pore over) studiar assiduimen#
+PORE#v.#(to pore over) studiar assiduimen#
 PORK#n.#svinine, porcine#
 PORPHYRY#n.#porfire#
 PORPOISE#n.#marsvine, delfine#
@@ -11498,7 +11498,7 @@ PREDISPOSE#v.#preinclinar, predisposir#
 PREDOMINATE#v.#predominar (-ant, -antie), prevaler#
 PREEMINENT#n.#eminentissim, pre-eminent#
 PREEMPTION#n.#precompration#
-PREEN#v.#nettar; (preen oneself) orgolliar se#XXX TODO split?
+PREEN#v.#nettar; (to preen oneself) orgolliar se#XXX TODO split?
 PREFACE#n.#prefacie (-ar), anteparol#
 PREFECT#n.#prefecte (-ura)#
 PREFER#v.#preferer (-entie, -ibil); promoer#
@@ -11580,7 +11580,7 @@ PRICK#v.#ticlar#
 PRICKLE#n.#spine (-osi)#
 PRICKLE#v.#picar#
 PRIDE#n.#orgollie, fieritá#
-PRIDE#v.#(pride oneself on) orgolliar se pri#
+PRIDE#v.#(to pride oneself on) orgolliar se pri#
 PRIEST#n.#prestro, clerico (-acho, -allia), sacerdote (-al)#
 PRIESTCRAFT#n.#politica clerical#
 PRIG#n.#fatuo, pedanto#
@@ -11683,7 +11683,7 @@ PROGRESS#n.#progresse, avansament#
 PROGRESS#v.#progresser (-iv, -ist, -ion)#
 PROHIBIT#v.#interdicter, prohibir (-ition, -itiv)#
 PROJECT#n.#projecte; dessin#
-PROJECT#v.#projector (-ion, -or, -iv); (jut out) prominer#
+PROJECT#v.#projector (-ion, -or, -iv); (to jut out) prominer#
 PROJECTILE#n.#projectile#
 PROLETARIAN#adj.#proletarian, proletario (-atu)#
 PROLIFIC#adj.#fecund, prolific#
@@ -16001,7 +16001,7 @@ VERY#adv.#tre#
 VESPERS#n.#vespres#
 VESSEL#n.#vase, recipiente; (ship) nave#
 VEST#n.#subcamise#
-VEST#v.#fixar, etablisser; (clothe) vestir#
+VEST#v.#fixar, etablisser; (clothes) vestir#
 VESTIBULE#n.#vestibul#
 VESTIGE#n.#vestigie, tracie#
 VESTMENT#n.#vestiment#
