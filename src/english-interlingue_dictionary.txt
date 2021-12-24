@@ -9934,7 +9934,7 @@ NINETY#adj.#ninanti#XXX FIXME -- ->ninant, +n. (and others)
 NINNY#n.#naivon, stulton#
 NINTH#adj.#ninesim#
 NINTH#n.#ninesim#
-NIP#v.#(pinch) pincear; (bite) morder#
+NIP#v.#(to pinch) pincear; (to bite) morder#
 NIPPERS#n.#pince (-ette)#
 NIPPING#adj.#mordent, penetrant#
 NIPPLE#n.#tette, buton de mamme#
@@ -10109,7 +10109,7 @@ OBSCENE#adj.#obscen (-itá), lasciv#
 OBSCURE#adj.#obscur (-ar, -ant, -antisme, -itá), ínconosset#
 OBSEQUIES#n.#ceremonie funeral#
 OBSEQUIOUS#adj.#servil, reptiv#
-OBSERVE#v.#observar (-ation, -abil, -ant, -antie, -ator, -atoria), remarcar; (celebrate) festar#
+OBSERVE#v.#observar (-ation, -abil, -ant, -antie, -ator, -atoria), remarcar; (to celebrate) festar#
 OBSESS#v.#obseDer (-ssion)#
 OBSIDIAN#n.#obsidian#
 OBSOLESCENT#adj.#quel devenit obsolet, inoldat o desusat#XXX FIXED -- "devenir" -> "quel devenit"
@@ -10264,7 +10264,7 @@ ONWARD#adv.#adavan#
 ONWARD#expr.#THE ONWARD MARCH: li marcha adavan#
 ONYX#n.#onix#
 OOZE#n.#slamm, mudde#
-OOZE#v.#exsudar, exflutar; (leak) liccar#
+OOZE#v.#exsudar, exflutar; (to leak) liccar#
 OPACITY#n.#opacitá#
 OPAL#n.#opale (-esc, -escentie)#
 OPAQUE#adj.#opac, íntransparent#
@@ -10313,7 +10313,7 @@ ORBIT#n.#órbite#
 ORCHARD#n.#fructiera, fruct-jardin#
 ORCHESTRA#n.#orchestre (-al)#
 ORCHID#n.#orchidé#
-ORDAIN#v.#(decree) decreter; (eccl.) ordinar, consacrar#
+ORDAIN#v.#(to decree) decreter; (eccl.) ordinar, consacrar#
 ORDEAL#n.#ordalie#
 ORDER#n.#órdine, arangeament, regulament; condition, statu; (command) comande, decrete; (class) rang, classe; (comm.) comende; (money order) mandate; (decoration & eccl.) órden#
 ORDER#v.#comandar; (comm.) comendar; (set in order) ordinar#
@@ -10334,7 +10334,7 @@ ORGY#n.#orgie (-astic)#
 ORIENT#n.#oriente (-ar, -al, -alist), ost#
 ORIFICE#n.#apertura, bocca#
 ORIGIN#n.#orígine (-ar, -al, -ale, -alitá)#
-ORIGINATE#v.#initiar, originar; crear; (arise) provenir, nascer#
+ORIGINATE#v.#initiar, originar; crear; (to arise) provenir, nascer#
 ORISON#n.#prega, suplication#
 ORNAMENT#n.#ornament (-al, -ar)#
 ORNATE#adj.#ornat, decorat#
@@ -10453,13 +10453,13 @@ OVERFLOW#v.#superabundar; (river) debordar, inundar, superfluer#
 OVERGROWN#adj.#tro crescet; covrit de#
 OVERGROWN#expr.#A BANK OVERGROWN WITH THYME: un banca u luxuria li tim#
 OVERHANG#v.#superpender; projecter#
-OVERHAUL#v.#(overtake) rejunter se con, atinger; (examine) examinar, reparar#
+OVERHAUL#v.#(to overtake) rejunter se con, atinger; (to examine) examinar, reparar#
 OVERHEAD#adv.#supra, in supra#
 OVERHEAR#v.#audir per hasarde#
 OVERLAP#v.#supercovrir, in parte coincider#
 OVERLAY#v.#superposir#
 OVERLOOK#expr.#THE HOUSE OVERLOOKS A PARK: li dom es situat contra un pare, da vista sur un parc#
-OVERLOOK#v.#indulger, pardonar, ignorar; (fail to notice) ne remarcar; (supervise) survigilar, controlar, inspector; (look over) super-regardar#
+OVERLOOK#v.#indulger, pardonar, ignorar; (to fail to notice) ne remarcar; (to supervise) survigilar, controlar, inspector; (to look over) super-regardar#
 OVERNIGHT#adv.#durante li nocte; yer-vésper, li vésper anteyan#
 OVERNIGHT#expr.#STAY OVERNIGHT: pernoctar#
 OVERPOWER#v.#subjugar, victer, dominar#
@@ -10493,7 +10493,7 @@ OWE#v.#debir#
 OWING TO#prep.#pro; mersí a; caus, per cause de#
 OWL#n.#ul; (horned) guf#
 OWN#adj.#propri#
-OWN#v.#posseder, haver; (avow) confesser, aconosser#
+OWN#v.#posseder, haver; (to avow) confesser, aconosser#
 OWNER#n.#proprietario, possessor#
 OX#n.#bove (-allia)#
 OXFLY#n.#tabane#
@@ -10515,7 +10515,7 @@ PACKET#n.#pacca, paquette, paccage, inballage#
 PACKING#n.#stuffage#
 PACT#n.#pacte, contracte#
 PAD#n.#cussinette; blocc; scri-blocc#
-PAD#v.#vattar (-age); (stuff) stuffar (-age)#
+PAD#v.#vattar (-age); (to stuff) stuffar (-age)#
 PADDLE#n.#paddle, pagaye#
 PADDLE#v.#(in water) vadar, barbotar; (a boat) remar, paddlar#
 PADDOCK#n.#cavall-prate, inclusura, padó#
@@ -10638,7 +10638,7 @@ PARCH#v.#siccar, aridar, torrefar#
 PARCHED WITH THIRST#adj.#siccat per sete, havent sete ardent#XXX FIXED -- "haver"->"havent"
 PARCHMENT#n.#pergamen#
 PARDON#n.#pardon (-ar, -abil)#
-PARE#v.#(peel) decorticar; (trim) tonder, oiser#
+PARE#v.#(to peel) decorticar; (to trim) tonder, ciser#
 PARENT#adj.#matrin, principal#
 PARENT#n.#genitor#
 PARENTAGE#n.#orígine, provenientie, descendentie#
@@ -10697,7 +10697,7 @@ PASCHAL#adj.#pascal#
 PASHA#n.#pachá#
 PASQUINADE#n.#pasquinade#
 PASS#n.#(defile) pass, defilé; (state) statu, condition; (permit) passe, permissive#
-PASS#v.#passar (-abil, -ada. -ant), far passar, transdar; (approve) aprobar; (suffice) suficer; (surpass) superar; (pass a test) trapassar, successar#
+PASS#v.#passar (-abil, -ada. -ant), far passar, transdar; (to approve) aprobar; (to suffice) suficer; (to surpass) superar; (to pass a test) trapassar, successar#
 PASS AWAY#v.#morir; evanescer; desaparir#
 PASS BY#v.#preterear; (pass a law) votar#
 PASS OFF#v.#far acceptar; forpassar#
@@ -10811,10 +10811,10 @@ PEDIGREE#n.#genealogie, descendentie#
 PEDLAR#n.#colportero#
 PEDUNCLE#n.#stipite#
 PEEL#n.#cortice, pelle, cruste#
-PEEL#v.#(scale off) desquamar; (fruit) decorticar, depellar#
+PEEL#v.#(to scale off) desquamar; (fruit) decorticar, depellar#
 PEEL THE PULSE#v.#tastar li pulse#
 PEEP#n.#curt regarda#
-PEEP#v.#regardar (secretmen); (peep out) monstrar se; (chirp) pipiar#
+PEEP#v.#regardar (secretmen); (to peep out) monstrar se; (to chirp) pipiar#
 PEER#n.#nobilo (-ite, -itá); (equal) egale#
 PEER#v.#regardar, gapar#
 PEERLESS#adj.#sin egal, íncomparabil#
@@ -10885,7 +10885,7 @@ PERCEPTIBLE#adj.#perceptibil, sentibil#
 PERCH#n.#pal, fust; (fish) perche#
 PERCH#v.#alt-seder#
 PERCHANCE#adv.#fórsan#
-PERCOLATE#v.#filtrar; (leak) liccar#
+PERCOLATE#v.#filtrar; (to leak) liccar#
 PERCUSSION#n.#percussion#
 PERCUSSION CAP#n.#capsul#
 PERDITION#n.#ruine, perition#
@@ -10936,7 +10936,7 @@ PERQUISITE#n.#suplement customal#
 PERRY#n.#pir-cidre#
 PERSECUTE#v.#persecuter (-ion, -or)#
 PERSEVERE#v.#perseverar (-ant, -antie)#
-PERSIST#v.#persister (-ent, -entie); (endure) durar#
+PERSIST#v.#persister (-ent, -entie); (to endure) durar#
 PERSON#n.#person (-al, -alitá, -ificar), individue#
 PERSONABLE#adj.#de bon aspecte#
 PERSONAGE#n.#personage#
@@ -10967,7 +10967,7 @@ PESTILENT#adj.#pestilent (-ie, -ial)#
 PESTLE#n.#pistel (-ar)#
 PET#adj.#preferet#
 PET#n.#favorito, dorloton#
-PET#v.#caressar; (pamper) dorlotar#
+PET#v.#caressar; (to pamper) dorlotar#
 PETAL#n.#petale (-at, -in)#
 PETARD#n.#petarde (-ar, -ero)#
 PETIOLE#n.#petiol, stípite de folie#
@@ -11034,7 +11034,7 @@ PICCANINNY#n.#negrelle#
 PICK#n.#(tool) pioche (-ar); (the best) li max bon#
 PICK#v.#selecter (-ion); (with beak) becar; (a fowl) pluccar, deplumar; (a bone) roder#
 PICK AT#v.#demarjar, manjettar; (pick pockets) furter; (a quarrel) serchar#
-PICK UP#v.#levar; trovar; (recover) recuperar#
+PICK UP#v.#levar; trovar; (to recover) recuperar#
 PICKABACK#adv.#sur li dorse#
 PICKABACK#n.#surdorse#XXX TODO confirm it's also a noun
 PICKAXE#n.#pic, pioche#
@@ -11090,7 +11090,7 @@ PINAFORE#n.#avantale#
 PINCE-NEZ#n.#pince-nase#
 PINCERS#n.#pince#
 PINCH#n.#pinceada; (small quantity) prense, dosa#
-PINCH#v.#pincear; restricter (se), privar se; (steal) furter#
+PINCH#v.#pincear; restricter (se), privar se; (to steal) furter#
 PINCUSHION#n.#pingle-cussine, agulliero, porta-pingle#
 PINE#n.#pine (-astre)#
 PINE#v.#languir; (pine for) sospirar, desirar fortmen#
@@ -11123,10 +11123,10 @@ PISTIL#n.#(bot.) pistille#
 PISTOL#n.#pistol#
 PISTON#n.#piston#
 PIT#n.#puteo, cave, fosse; (coalpit) miniera; abisse; (theatre) parterre#
-PIT#v.#(pit against) oposir; (mark) marcar#
+PIT#v.#(to pit against) oposir; (to mark) marcar#
 PIT-A-PAT#adj.#palpitant; battent#
 PITCH#n.#pech (-ar); (degree) gradu, cúlmine; (mus.) ton; (place) loc, station, terren#
-PITCH#v.#jettar, lansar (-ada); (set up) erecter; (fall) cader; (of ships) tangar (-age); (mus.) acordar, dar li ton#
+PITCH#v.#jettar, lansar (-ada); (to set up) erecter; (to fall) cader; (of ships) tangar (-age); (mus.) acordar, dar li ton#
 PITCH INTO#v.#ataccar, agresser#
 PITCHBLENDE#n.#pechurane#
 PITCHER#n.#cruche, aquiere#
@@ -11205,8 +11205,9 @@ PLEAD#v.#pledar; (offer as excuse) pretextar; suplicar#
 PLEAD GUILTY#v.#confesser su culpa#
 PLEASANT#adj.#agreabil, plesent, afabil#
 PLEASANTRY#n.#joca#
+PLEASE#adv.#(kindly) ples#
 PLEASE#expr.#IF YOU PLEASE: si it plese vos#
-PLEASE#v.#pleser (-ent, -ura); (kindly) ples …#
+PLEASE#v.#pleser (-ent, -ura)#
 PLEASED#adj.#content#
 PLEAT#n.#plica#
 PLEBEIAN#n.#plebeyo (-an)#
@@ -11235,7 +11236,7 @@ PLOT#v.#conspirar (-ation, -ator)#
 PLOUGH#n.#plug (-ar, -ator, -ferre), arar; (Astr.) ursa major#
 PLOVER#n.#vanelle#
 PLUCK#n.#corage, bravore#
-PLUCK#v.#colier; (pull) tirar; (poultry) pluccar, deplumar; (pluck out), eradicar, extirpar#
+PLUCK#v.#colier; (to pull) tirar; (a poultry) pluccar, deplumar; (to pluck out), eradicar, extirpar#
 PLUCKY#adj.#corageosi, brav#
 PLUG#n.#tampon; (bung) tapon (-ar)#
 PLUM#n.#prun (-iero, -iera)#
@@ -11256,7 +11257,7 @@ PLURAL#n.#plurale#
 PLUS#adj.#plus#
 PLUSH#n.#pluche#
 PLUTOCRAT#n.#plutocrat (-ic, -ie)#
-PLY#v.#intercurrer; (a trade etc.) ocupar se pri, exercir; (use) usar; (ply with) furnir; (questions) interrogar#
+PLY#v.#intercurrer; (a trade etc.) ocupar se pri, exercir; (to use) usar; (to ply with) furnir; (questions) interrogar#
 PNEUMATIC#adj.#pneumatic#
 PNEUMATIC#n.#(tyre) pneumatico#
 PNEUMONIA#n.#pneumonie, pulmonite#
@@ -11276,7 +11277,7 @@ POGROM#n.#pogrom#
 POIGNANT#adj.#mordent, acri#
 POINT#expr.#ON THE POINT OF: sur li punctu de#XXX TODO pos "POINT (n.)"
 POINT#n.#punctu; (trait) trate; (aim) scope; (tip) punta#
-POINT#v.#(aim) directer, apuntar; (indicate) monstrar; (sharpen) puntar#
+POINT#v.#(to aim) directer, apuntar; (to indicate) monstrar; (to sharpen) puntar#
 POINT OF VIEW#n.#vise-punctu#
 POINT OUT#v.#signalar, far atention a#
 POINT-BLANK#adj.#direct#XXX TODO -- Also n.
@@ -11287,7 +11288,7 @@ POISE#n.#equilibrie#
 POISE#v.#equilibrar#
 POISON#n.#venen (-ar, -osi); toxine#
 POKE#n.#pussa#
-POKE#v.#pussar; (fire) agitar, inbrasar; (fun) mocar#
+POKE#v.#pussar; (a fire) agitar, inbrasar; (fun) mocar#
 POKER#n.#foy-ferre; (cards) póker#
 POKY#adj.#strett, constrictet, restrictet#
 POLE#n.#pal, palisse; (of vehicle) timon; (astr., elect.) pol (-ari, -aritá, -arisar)#
@@ -11378,7 +11379,7 @@ PORTMANTEAU#n.#porta-mantó, valise, coffre#
 PORTRAIT#n.#portrete (-ar, -ist)#
 PORTRAY#v.#picter; descrir, portretar, representar#
 POSE#n.#posa#
-POSE#v.#(questions) posir; (baffle) perplexar, embarassar; (attitudinize) posar#
+POSE#v.#(questions) posir; (to baffle) perplexar, embarassar; (to attitudinize) posar#
 POSER#n.#question desfacil; (person) positor#
 POSITION#n.#position; (rank) rang; (job) oficie#
 POSITIVE#adj.#cert, absolut, positiv#
@@ -11542,18 +11543,18 @@ PRESENT#v.#donar; presentar#
 PRESENTIMENT#n.#presentiment#
 PRESENTLY#adv.#bentost#XXX TODO add "nu"
 PRESERVE#n.#confitura, conserve; (game preserve) chassería#
-PRESERVE#v.#(protect) preservar (-ation, -ativ); (fruit) confiter, conservar#
+PRESERVE#v.#(to protect) preservar (-ation, -ativ); (fruit) confiter, conservar#
 PRESIDE#v.#presider (-ente, -entie, -ential)#
 PRESS#n.#(newspapers) presse; (machine) pressuore; (printing press) print-machine; (of people) turbe#
-PRESS#v.#presser (-ion, -ura); (insist) insistentmen petir; pussar, urger#
+PRESS#v.#presser (-ion, -ura); (to insist) insistentmen petir; pussar, urger#
 PRESSMAN#n.#jurnalist#
 PRESSURE#n.#pression, pressura#
 PRESTIGE#n.#prestigie, reputation#
-PRESUME#v.#presumpter, suposir; (take liberties) arogar se; profitar de; (dare) audaciar#
+PRESUME#v.#presumpter, suposir; (to take liberties) arogar se; profitar de; (to dare) audaciar#
 PRESUMPTION#n.#audacitá#
 PRESUMPTIVE#adj.#presumptibil#
 PRETENCE#n.#fiction, pretexte; (claim) pretension#
-PRETEND#v.#(claim) pretenDer (-ente, -sion); (feign) ficter, simular; (offer as a pretext) pretextar#
+PRETEND#v.#(to claim) pretenDer (-ente, -sion); (to feign) ficter, simular; (to offer as a pretext) pretextar#
 PRETENTIOUS#adj.#pretensiosi#
 PRETERIT#n.#preterite#
 PRETERNATURAL#adj.#preternatural, preternormal#
@@ -11588,7 +11589,7 @@ PRIMARY#adj.#primari, chef, cardinal#
 PRIMATE#n.#archi-epíscop (-atu); (zool.) primate#XXX TODO -- Add topic to 1st meaning.
 PRIME#adj.#principal, prim, max important; excellent#
 PRIME#n.#(of life) floreada, plen vigore#
-PRIME#v.#(fill) plenar; (a person) preparar; (a pump) cebar#
+PRIME#v.#(to fill) plenar; (a person) preparar; (a pump) cebar#
 PRIME-MINISTER#n.#prim-ministre#
 PRIMER#n.#manuale (elementari)#
 PRIMEVAL#adj.#primitiv, del prim epoca, primeval#
@@ -11660,7 +11661,7 @@ PRODUCE#n.#producte#
 PRODUCE#v.#producter (-ion, -or, -iv), causar, monstrar#
 PROFANE#adj.#profan, seculari, blasfematori#
 PROFANE#v.#profanar (-ation), dessacrar, blasfemar#
-PROFESS#v.#professer, declarar; (avow) confesser; (claim) pretender#
+PROFESS#v.#professer, declarar; (to avow) confesser; (to claim) pretender#
 PROFESSION#n.#mestiere, profession (-al, -alisme); (avowal) confession#
 PROFESSOR#n.#professor (-al, -atu)#
 PROFFER#v.#proposir, ofertar#
@@ -11737,7 +11738,7 @@ PROS AND CONS#n.pl.#por e contra#XXX FIXME -- translation
 PROSAIC#adj.#prosaic#
 PROSCRIBE#v.#proscrir (-it, -ition), interdicter, bannir#
 PROSE#n.#prosa#
-PROSECUTE#v.#processuar (contra); (follow up) persequer#
+PROSECUTE#v.#processuar (contra); (to follow up) persequer#
 PROSECUTOR#n.#acusator#
 PROSELYTE#n.#proselite (-isar)#
 PROSEWRITER#n.#prosaist#
@@ -11825,7 +11826,7 @@ PUERILE#adj.#pueril (-itá), infantil#
 PUERPERAL#adj.#parturitional#
 PUFF#adj.#(pastry) foliat#
 PUFF#n.#(of air) soffle, brise, puss; (powder puff) pudre-quast; (advert.) boniment#
-PUFF#v.#(breathe hard) anhelar; (overpraise) laudachar#
+PUFF#v.#(to breathe hard) anhelar; (to overpraise) laudachar#
 PUFF ONESELF UP#v.#pavonear, inorgolliar se#
 PUFFIN#n.#puffin#
 PUFFY#adj.#inflat; tumid; (pastry) foliat#
@@ -11835,7 +11836,7 @@ PUGILIST#n.#boxero#
 PUGNACIOUS#adj.#combattaci#
 PUISSANCE#n.#possentie, potentie#
 PULL#n.#tira (-ada)#
-PULL#v.#tirar, traer; (rend) lacerar; (tow) remorcar#
+PULL#v.#tirar, traer; (to rend) lacerar; (to tow) remorcar#
 PULL DOWN#v.#demolir#
 PULL ONESELF TOGETHER#v.#recoleer se#
 PULL UP#v.#levar; haltar#
@@ -11916,7 +11917,7 @@ PUT A SPURT#v.#accelerar, hastar#
 PUT ASIDE#v.#escartar#
 PUT DOWN#v.#deposir; inscrir, notar; subjugar#
 PUT OFF#v.#ajornar, procrastinar#
-PUT ON#v.#(sur)metter; (feign) ficter#
+PUT ON#v.#(sur)metter; (to feign) ficter#
 PUT ON MAIL#v.#blindar#
 PUT OUT#v.#extinter; vexar, iritar# XXX TODO anc ejecter?
 PUT OUT FEELERS#v.#sondar#
@@ -12097,14 +12098,14 @@ RAFTER#n.#trave, raftre#
 RAG#n.#chifon, lapp (-allia)#
 RAGAMUFFIN#n.#laceron, crapul, chifonoso#
 RAGE#n.#colere, furie#
-RAGE#v.#furer, furiar; (be rife) reyer#
+RAGE#v.#furer, furiar; (to be rife) reyer#
 RAGGED#adj.#chifonosi#
 RAGOUT#n.#ragú#
 RAGWORT#n.#senecio#
 RAID#n.#razzia, incursion; curr-assalte#
 RAID#v.#invader; irupter#
 RAIL#n.#barre, palisse; (on which things run) rel#
-RAIL#v.#(at) insultar, invectivar; (rail in) palissar#
+RAIL#v.#(to rail at) insultar, invectivar; (to rail in) palissar#
 RAILING#n.#palisse (-ade)#
 RAILLERY#n.#persiflage#
 RAILWAY#adj.#ferroviari, ferrovial#
@@ -12115,12 +12116,12 @@ RAIN-GAUGE#n.#pluviometre#
 RAINBOW#n.#arc-in-ciel, ciel-arc, íris#
 RAINCOAT#n.#ínpermeabile#
 RAINFALL#n.#precipitation#
-RAISE#v.#levar; producter; (bring up) elevar, educar; (give rise to) nascentar; (grow) cultivar; (increase) augmentar; (money) colecter#
+RAISE#v.#levar; producter; (to bring up) elevar, educar; (to give rise to) nascentar; (to grow) cultivar; (to increase) augmentar; (money) colecter#
 RAISIN#n.#rosine#
 RAJAH#n.#rajá#
 RAKE#n.#(implement) rastre (-ar); (person) libertino, debochero#
 RAKE#v.#(artill.) rader#
-RALLY#v.#reunir (-ion); (troops) ralliar; (regain strength) refortijar#
+RALLY#v.#reunir (-ion); (troops) ralliar; (to regain strength) refortijar#
 RAM#n.#agno; (battering ram) ramme#
 RAM#v.#(in)rammar; compresser#
 RAMBLE#n.#promenada#
@@ -12138,7 +12139,7 @@ RANCOUR#n.#rancore (-ar, -osi)#
 RAND#n.#borde, márgine#
 RANDOM#adj.#hasardal, sporadic#
 RANGE#n.#extension; range, selection; (kitchen) forn; (of mountains) montania; (of missile) tir-distantie#
-RANGE#v.#extender se; (set in a row) ordinar, arangear; (wander) migrar#
+RANGE#v.#extender se; (to set in a row) ordinar, arangear; (to wander) migrar#
 RANGER#n.#garda-foreste#
 RANK#adj.#rancid; luxuriant#
 RANK#n.#rang; gradu#
@@ -12172,7 +12173,7 @@ RASP#n.#rasp (-ar), lime#
 RASPBERRY#n.#frambere (-iero)#
 RAT#n.#ratte#
 RATE#n.#rate, percentage, tarif; rapidore; (exchange) valuta; (tax) impost; (death rate) mortalitá#
-RATE#v.#taxar; impostar; evaluar; (scold) reprimandar#
+RATE#v.#taxar; impostar; evaluar; (to scold) reprimandar#
 RATE OF EXCHANGE#n.#curse de exchange, valuta#
 RATHER#adv.#plutost#
 RATHER#expr.#I WOULD RATHER: yo vell preferer#
@@ -12192,7 +12193,7 @@ RAVEL#v.#involuer, inballar#
 RAVEN#n.#corvo#
 RAVENOUS#adj.#voraci, avid#
 RAVINE#n.#ravine#
-RAVISH#v.#rapter, violar; (delight) ravisser (-ment)#
+RAVISH#v.#rapter, violar; (to delight) ravisser (-ment)#
 RAW#adj.#crud, íncocinat; ínmatur, vulnerosi#
 RAY#n.#radie; (fish) ray#
 RAZOR#n.#rasuore, rasette#
@@ -12201,7 +12202,7 @@ RE#prefix#recrear, reformar, renovar, etc.#
 RE-ECHO#v.#resonar, re-ecoar#
 REACH#n.#atingement, capacitá#
 REACH#v.#atinger (-ement)#
-REACH OUT#v.#extender; (pass) passar; (-a place) pervenir a#
+REACH OUT#v.#extender; (to pass) passar; (a place) pervenir a#
 REACT#v.#reacter (-ion, -iv, -ionario)#
 READ#v.#leer#
 READ ALOUD#v.#leer con voce#
@@ -12214,13 +12215,13 @@ READY MONEY#n.#contante, moné contant#
 READY-MADE#adj.#confectet#
 REAL#adj.#real (-itá, -isme, -ist, -isar), ver, genuin#
 REAL ESTATE#n.#imobilie#
-REALIZE#v.#conscier; (understand) comprender#
+REALIZE#v.#conscier; (to understand) comprender#
 REALM#n.#reyia, dominia#
 REAM#n.#risme#
-REAP#v.#recoltar; (cut corn) falcear#
+REAP#v.#recoltar; (to cut corn) falcear#
 REAR#adj.#posteriori#
 REAR#n.#posteriore#
-REAR#v.#elevar, educar; cultivar; (set up) stantar; (as a horse) cabrar se#
+REAR#v.#elevar, educar; cultivar; (to set up) stantar; (as a horse) cabrar se#
 REARGUARD#n.#arrier-guardie#
 REASON#n.#intelectu, rason (-ar), ration; cause, motive#
 REASONABLE#adj.#moderat, just, rasonabil#
@@ -12262,9 +12263,9 @@ RECKONING#n.#calcul; conte#
 RECLAIM#v.#reclamar (-ation), reformar; reganiar#
 RECLINE#v.#inclinar se, apoyar se; reposar#
 RECLUSE#n.#eremite, anacoret; solitario#
-RECOGNISE#v.#reconosser; (acknowledge) aconosser#
+RECOGNISE#v.#reconosser; (to acknowledge) aconosser#
 RECOIL#v.#recular, retrosaltar, ricochettar#
-RECOLLECT#v.#rememorar, revocar in mente; (recollect oneself) recoleer se#
+RECOLLECT#v.#rememorar, revocar in mente; (to recollect oneself) recoleer se#
 RECOLLECTION#n.#memorie, memoration#
 RECOMMEND#v.#recomandar (-ation)#
 RECOMPENSE#n.#recompense (-ar)#
@@ -12280,7 +12281,7 @@ RECOUNT#n.#(check) reconta, control#
 RECOUNT#v.#racontar, narrar#
 RECOUP#v.#indemnisar#
 RECOURSE#n.#recurse#
-RECOVER#v.#recuperar (re)convalescer; (recover from emotion) recoleer se; (retrieve) reganiar; (cover again) recovrir#
+RECOVER#v.#recuperar (se), convalescer; (to recover from emotion) recoleer se; (to retrieve) reganiar; (to cover again) recovrir#
 RECOVERY#n.#resanation, reconvalescentie; reconquesta#
 RECREANT#n.#renegate; caudarde, poltron#
 RECREATE#v.#recrear (-ation, -tiv)#
@@ -12308,7 +12309,7 @@ RED-TAPE#n.#rutine oficial#
 REDBREAST#n.#rubicol, rubi-péctore#
 REDDEN#v.intr.#rubijar#
 REDDEN#v.tr.#rubar#
-REDEEM#v.#(article) degagear; recomprar; (eccl.) redempter (-iv, -or)#
+REDEEM#v.#(to article) degagear; recomprar; (eccl.) redempter (-iv, -or)#
 REDEEMING#adj.#compensatori#
 REDINGOTE#n.#redingote#
 REDOLENT#adj.#bonodorant, amemorant, suggestent#
@@ -12363,7 +12364,7 @@ REGAL#adj.#reyal#
 REGALE#v.#regalar (-ade)#
 REGALIA#n.#insignes, regalie#
 REGARD#n.#regarde; estima, egarda#
-REGARD#v.#regardar; (consider) egardar, opiner#
+REGARD#v.#regardar; (to consider) egardar, opiner#
 REGARDING#prep.#concernent, pri, apropó#
 REGARDLESS#adj., adv.#sin egarda#
 REGATTA#n.#regatta#
@@ -12399,11 +12400,11 @@ REINSTATE#v.#reinstituer, restaurar, retablisser#
 REITERATE#v.#iterar (-ation, -ativ), repetir#
 REJECT#v.#rejecter (-ion), refusar#
 REJOICE#v.#joyar (-ada), jubilar#
-REJOIN#v.#rejunter, reunir; (reply) replicar#
+REJOIN#v.#rejunter, reunir; (to reply) replicar#
 REJOINDER#n.#replica; riposte#
 RELAPSE#n.#(crime) recidive (-ar)#
 RELAPSE#v.#recader; remaladijar#
-RELATE#v.#relater (-ent), referer; (narrate) racontar, narrar#
+RELATE#v.#relater (-ent), referer; (to narrate) racontar, narrar#
 RELATED#adj.#afin, parent#
 RELATION#n.#relation; (relative) parente#
 RELATIONSHIP#n.#parentitá, afinitá#
@@ -12423,7 +12424,7 @@ RELIANCE#n.#fide#
 RELIANT#adj.#confident (-ie)#
 RELIC#n.#reliquie#
 RELIEF#n.#sucurse, aleviation, mitigation; auxilie; (sculpture) relief#
-RELIEVE#v.#aleviar, mitigar, liberar; (the poor) assister; (ease) facilisar#
+RELIEVE#v.#aleviar, mitigar, liberar; (the poor) assister; (to ease) facilisar#
 RELIGION#n.#religion; pietá#
 RELIGIOUS#adj.#religiosi, pie#
 RELINQUISH#v.#renunciar, ceder, abandonar; (an office) demissionar#
@@ -12436,11 +12437,11 @@ REMAINDER#n.#reste, restage, residue; lu céteri; (those remaining) li céteris#
 REMAINS#n.#restage#
 REMAND#v.#suspender li judicie por ulteriori investigation#
 REMARK#n.#remarca, note, comenta#
-REMARK#v.#observar (-ation), remarcar; (say) dir#
+REMARK#v.#observar (-ation), remarcar; (to say) dir#
 REMARKABLE#adj.#remarcabil, extraordinari, notabil#
 REMEDY#n.#remedie; medicament#
 REMEDY#v.#remeder, reparar, rectificar#
-REMEMBER#v.#memorar; (recall) rememorar#
+REMEMBER#v.#memorar; (to recall) rememorar#
 REMIND#v.#amemorar#
 REMINISCENT#adj.#reminiscent (-ie), memorativ#
 REMISS#adj.#negligent, decuidosi#
@@ -12458,14 +12459,14 @@ REMUNERATE#v.#remunerar (-abil, -ativ, -ation)#
 RENAISSANCE#n.#renascentie#
 RENAL#adj.#renal#
 REND#v.#lacerar, raffar#
-RENDER#v.#dar, rendir; (translate) traducter; (perform) presentar, far, performar#
+RENDER#v.#dar, rendir; (to translate) traducter; (to perform) presentar, far, performar#
 RENDER VALID#v.#validar#
 RENDERING#n.#version, traduction, presentation#
 RENDEZVOUS#n.#rendevú#
 RENEGADE#n.#renegate, apostatico#
 RENEW#v.#renovar (-ation); repetir#
 RENNET#n.#coagulative#
-RENOUNCE#v.#renunciar (-ation), abstener se de; (resign) resignar#
+RENOUNCE#v.#renunciar (-ation), abstener se de; (to resign) resignar#
 RENOVATE#v.#renovar (-ation, -ator)#
 RENOWNED#adj.#celebri (-tá), famosi#
 RENT#n.#(tear) lacere, fensura; (income) renta; (of house) luage, lu-precie#
@@ -12569,7 +12570,7 @@ RESPONDENT#n.#respondente#
 RESPONSE#n.#response (-abil, -iv)#
 RESPONSORY#n.#responsorie#
 REST#n.#repose, pause; (remainder) reste, lu céteri#
-REST#v.#reposar; (stay) maner, restar; (lean) apoyar#
+REST#v.#reposar; (to stay) maner, restar; (to lean) apoyar#
 RESTAURANT#n.#restorería, restauration#
 RESTFUL#adj.#tranquil, quiet#
 RESTITUTION#n.#restitution#
@@ -12593,7 +12594,7 @@ RETICENT#adj.#reservat, silentiosi, taciturn#
 RETICULE#n.#reticul, rete-sac#
 RETINA#n.#retine#
 RETINUE#n.#suita#
-RETIRE#v.#retirar se, retraer se; (from a Service) quittar li servicie; demissionar#
+RETIRE#v.#retirar se, retraer se; (from a service) quittar li servicie; demissionar#
 RETIRED#adj.#retirat; emerit#
 RETIREMENT#n.#demission, ocie; retirament; solitá, seclusion#
 RETIRING#adj.#modest#
@@ -12636,7 +12637,7 @@ REVISE#v.#reviser (-ion), amendar#
 REVIVAL#n.#renascentie, retorn del vive; reviventation#
 REVIVE#v.#reviventar, revivificar; restorar#
 REVOKE#v.#revocar (-ation); (at cards) ne observar li suita#
-REVOLT#v.#rebeller (-ion), insurecter; (sicken) nausear, revulser#
+REVOLT#v.#rebeller (-ion), insurecter; (to sicken) nausear, revulser#
 REVOLTING#adj.#degustant, revulsiv, nauseativ#
 REVOLUTION#n.#revolution (-ari, -ario)#
 REVOLVE#v.#revoluer, rotar, girar; meditar#
@@ -12670,7 +12671,7 @@ RID#adj.#liberat, debarassat#
 RID#v.#liberar (se), desembarassar (se) de#
 RIDDLE#n.#enigma, rébus; (sieve) cribelle (-ar); (with shot) perforar#
 RIDE#n.#promena (-ada); cavalca#
-RIDE#v.#promenar a cavalle, cavalcar; (in vehicle) vehicular; (ride at anchor) flottar ye ancre#
+RIDE#v.#promenar a cavalle, cavalcar; (in vehicle) vehicular; (to ride at anchor) flottar ye ancre#
 RIDER#n.#cavalcator; (to a will) codicille#
 RIDGE#n.#creste, sulca, ruga, dorse#
 RIDICULE#v.#deriDer (-sion), ridicular, mocar#
@@ -12686,7 +12687,7 @@ RIGGING#n.#taclage, cordage#
 RIGHT#adj.#ver, just; (straight) rect; corect; (right hand) dextri#
 RIGHT#expr.#ON THE RIGHT: a dextre#
 RIGHT#n.#jure; justicie; rason; rectitá#
-RIGHT#v.#rectificar; (set upright) erecter, stantar#
+RIGHT#v.#rectificar; (to set upright) erecter, stantar#
 RIGHT AS A TRIVET#adv.#in bonissim standa#
 RIGHTANGLE#n.#rectangul (-ari)#
 RIGHTEOUS#adj.#vertuosi, sant, honest#
@@ -12700,7 +12701,7 @@ RIME#n.#pruine, gela crinosi#
 RIND#n.#cruste, pelle, cortice#
 RING#expr.#THERE'S A RING AT THE DOOR: on sona#
 RING#n.#anelle; circul; (sport) arena#
-RING#v.#(bell) sonar, tintinar; (encompass) circumdar; assediar; (echo) resonar#
+RING#v.#(bell) sonar, tintinar; (to encompass) circumdar; assediar; (to echo) resonar#
 RINGLEADER#n.#ductor (chef) de banda#
 RINGLET#n.#bucle#
 RINGWORM#n.#tinea (tonsural)#
@@ -12734,7 +12735,7 @@ ROAR#v.#muir, rugir (-ida); (of applause etc.) eclate#
 ROAST#v.#rostar, grillar; (coffee) torrefacter#
 ROAST MEAT#n.#rostate#
 ROASTBEEF#n.#rostbif#
-ROB#v.#raubar; deprivar; (steal from) furter#
+ROB#v.#raubar; deprivar; (to steal from) furter#
 ROBBER#n.#furtero, furtard, raubero#
 ROBBERY#n.#raube, furte#
 ROBE#n.#robe; (official gown) talare#
@@ -12755,7 +12756,7 @@ ROGUISH#adj.#petulant, jocaci#
 ROLE#n.#rol#
 ROLL#n.#rulage; liste, registre; (of bread) panette#
 ROLL#v.#rular, voluer#
-ROLL UP#v.#involuer, inballar; (pastry) platrular#
+ROLL UP#v.#involuer, inballar; (a pastry) platrular#
 ROLLER#n.#rul; cilindre (de jardin)#
 ROLLING#adj.#(waves) undeant, undatri#
 ROLLING-MILL#n.#laminería#
@@ -12845,7 +12846,7 @@ RUEFUL#adj.#morni, trist#
 RUFF#n.#colarette#
 RUFFIAN#n.#rixard, bandite#
 RUFFLE#n.#manchette; jabot#
-RUFFLE#v.#frossar; desordinar; (discompose) detranquilisar#
+RUFFLE#v.#frossar; desordinar; (to discompose) detranquilisar#
 RUFFLED GROUSE#n.#tetraon#
 RUG#n.#tapisse; (cloth) lan-covritura#
 RUGATE#adj.#rugat, rugosi#
@@ -12853,7 +12854,7 @@ RUGGED#adj.#aspri, sulcosi#
 RUIN#n.#ruine (-osi), perition#
 RUIN#v.#ruinar, damagear; desolar#
 RULE#n.#regul, norme; (regulation) regulament; (for lines), lineale; (of king etc.) regne, regnantie#
-RULE#v.#guvernar; (establish, lay down) statuer; (line) linear#
+RULE#v.#guvernar; (to establish, to lay down) statuer; (to line) linear#
 RULE OUT#v.#excluder#
 RULER#n.#guvernator; (instrument) mesurette, lineale#
 RUM#adj.#strangi, bizarri#
@@ -12888,7 +12889,7 @@ RUPTURE#v.#rupter#
 RURAL#adj.#rural, rustic#
 RUSE#n.#astutie, ruse, tric#
 RUSH#n.#hastada; (reed) cárex#
-RUSH#v.#hastar; (rush at) jettar se vers (contra), precipitar se, adcurrer impetuosimen#
+RUSH#v.#hastar; (to rush at) jettar se vers, jettar se contra, precipitar se, adcurrer impetuosimen#XXX FIXME prepositiones manca in quelc traductiones
 RUSSET#adj.#ross#
 RUSSIA LEATHER#n.#yufte#
 RUSSIAN LEATHER#n.#yufte#
