@@ -14819,8 +14819,8 @@ TAG#n.#puntale#
 TAIL#n.#caude (-al, -at)#
 TAILOR#n.#talliero#
 TAINT#n.#tintura; infection#
-TAINT#v.#corupter; infecter; (poison) invenenar#
-TAKE#v.#prender; capter; ocupar; (require) postular, exiger; (understand) comprender#
+TAINT#v.#corupter; infecter; (to poison) invenenar#
+TAKE#v.#prender; capter; ocupar; (to require) postular, exiger; (to understand) comprender#
 TAKE A HAND IN#v.#partiprender#
 TAKE A PERSON'S PART#v.#defender, suportar#
 TAKE A WHIFF AT ONE'S PIPE#v.#far un tira ex un pipe#
@@ -14835,7 +14835,7 @@ TAKE CARE OF#v.#cuidar#
 TAKE CARE!#interj.#atention!, garda vos!#
 TAKE COLD#v.#refrigidar se, inreumar se#
 TAKE EFFECT#v.#efecter, operar#
-TAKE IN#v.#dupar, (as guest) albergar#
+TAKE IN#v.#(to cheat) dupar, (as guest) albergar#
 TAKE IN GOOD PART#v.#ne ofender se pri#
 TAKE IN HAND#v.#interprender#
 TAKE INTO CUSTODY#v.#arestar#
@@ -14882,7 +14882,7 @@ TAMBOUR#n.#tambur (-ar)#
 TAMBOURINE#n.#tamburine#
 TAME#adj.#mansi, amansat, ne savagi, domestic#
 TAME#v.#amansar, domitar#
-TAMPER#v.#inmixter se; implicar se; (touch) tuchar#
+TAMPER#v.#inmixter se; implicar se; (to touch) tuchar#
 TAN#n.#tanne (-ic)#
 TAN#v.#batter; (leather) tannar (-ero, -ería, -ine); (by weather) brunar, brunijar#
 TANDEM#n.#tandem#
@@ -14897,7 +14897,7 @@ TANKARD#n.#cruche, chop, boccale#
 TANTALISE#v.#tormentar#
 TANTAMOUNT#n.#equivalent#
 TAP#n.#(water) robinete; (blow) un levi colpe; tappa#
-TAP#v.#tappettar, tappar; (barrel) forar#
+TAP#v.#tappettar, tappar; (barrel) forar#XXX TODO consultar
 TAPE#n.#bande; sonbande#
 TAPE RECORDER#n.#son-registrator#
 TAPE-WORM#n.#tenia#XXX TODO -- tapeworm/tape-worm
@@ -14940,7 +14940,7 @@ TAWDRY#adj.#ostentachi; rococó#
 TAWDRY FINERY#n.#flittre#
 TAWNY#adj.#falvi#
 TAX#n.#imposte (-ar, -abil), tribute#
-TAX#v.#(accuse) accusar; (assess) taxar; (test) provar#
+TAX#v.#(to accuse) accusar; (to assess) taxar; (to test) provar#
 TAXICAB#n.#taxi(auto) #
 TAXIMETER#n.#taxametre, contator#
 TEA#n.#té; té-repaste; té-plante#
@@ -14951,7 +14951,7 @@ TEAK#n.#tec#
 TEAM#n.#(sport) truppe; (horses) atelage; (of workers) equip#
 TEAPOT#n.#teiere, té-cruche#
 TEAR#n.#(from eyes) lácrime; (rent) lácere#
-TEAR#v.#lacerar; (rush) precipitar se, currer#
+TEAR#v.#lacerar; (to rush) precipitar se, currer#
 TEARFUL#adj.#lacrimosi#
 TEASE#v.#vexar, tormentar; (wool) cardar, raffar#
 TEASPOON#n.#micri coclare#
@@ -14973,7 +14973,7 @@ TELEPATHY#n.#telepatie (-ic)#
 TELEPHONE#n.#telefon (-ar, -ic, -ie, -ist)#
 TELESCOPE#n.#telescop (-ar, -ic)#
 TELEVISION#n.#television#
-TELL#v.#dir; racontar, narrar; (discern) distinter#
+TELL#v.#dir; racontar, narrar; (to discern) distinter#
 TELL FORTUNES#v.#predir li futur#
 TELL OFF#v.#definir; reprimandar#
 TELL ON#v.#haver su efecte#
@@ -15003,7 +15003,7 @@ TENACIOUS#adj.#tenaci (-tá)#
 TENANCY#n.#ocupantie, ocupation, luation#
 TENANT#n.#luator#
 TENCH#n.#tanche#
-TEND#v.#cuidar, gardar; servir; (incline) tender, inclinar#
+TEND#v.#cuidar, gardar; servir; (to incline) tender, inclinar#
 TENDENCY#n.#tendentie (-iosi)#
 TENDER#adj.#tendri (-ease), moll, dulci, sensibil#
 TENDER#n.#(vehicle) tender; (comm.) oferta#
@@ -15168,7 +15168,7 @@ THOUGHTLESS#adj.#negligent, inatentiv, íncuidosi#
 THOUSAND#adj.#mill (-esim)#
 THOUSAND#n.#millene#
 THRALDOM#n.#servitude#
-THRASH#v.#drachar (-ator, -atoria); (beat) batter, bastonar#
+THRASH#v.#drachar (-ator, -atoria); (to beat) batter, bastonar#
 THREAD#n.#fil#
 THREAD#v.#infilar#
 THREADBARE#adj.#perusat, chifonosi#
@@ -15243,7 +15243,7 @@ TIMETABLE#n.#horarium, hor-tabelle#
 TIMID#adj.#timid (-itá)#
 TIMOROUS#adj.#timorosi, timid#
 TIN#n.#(metal) stanno (-ar)#
-TIN#v.#(pack in tins) inladar#
+TIN#v.#(to pack in tins) inladar#
 TINCTURE#v.#tinter (-ura)#
 TINDER#n.#tindre#
 TINFOIL#n.#stanniol#
@@ -15251,7 +15251,7 @@ TINGE#n.#nuancie#
 TINGE#v.#tinter, colorar#
 TINGLE#v.#ticlar#
 TINKER#n.#suldero#
-TINKER#v.#(botch) bosillar#
+TINKER#v.#(to botch) bosillar#
 TINKLE#v.#tintinar#
 TINPLATE#n.#lade; (receptacle) lad-scatulle#
 TINSEL#n.#flittre, auripelle#
@@ -15259,7 +15259,7 @@ TINSMITH#n.#stannero#
 TINT#n.#color-nuancie (-ar)#
 TINY#adj.#micrissim, diminutiv#
 TIP#n.#(end) punta, extremitá; (gratuity) gratiment, trinc-moné, backshish#
-TIP#v.#dar backshish, dar trinca-moné; (tilt) bascular, inclinar#
+TIP#v.#dar backshish, dar trinca-moné; (to tilt) bascular, inclinar#
 TIPPLE#v.#trincar alcohol#
 TIPSY#adj.#ebri#
 TIRADE#n.#tirade#
@@ -15313,7 +15313,7 @@ TOMORROW#adv.#deman#
 TOMTIT#n.#parú#
 TON#n.#tonne (-age)#
 TONE#n.#ton (-al, -alitá, -ic); accentu; (med.) tónus#
-TONE#v.#harmonisar; (shade) nuanciar#
+TONE#v.#harmonisar; (to shade) nuanciar#
 TONGS#n.#pince#
 TONGUE#n.#lingue, idioma; (of bell) battente#
 TONIC#adj.#tonic#
@@ -15350,12 +15350,12 @@ TORSO#n.#torso#
 TORTOISE#n.#tortug#
 TORTUOUS#adj.#serpentatri, torsiv#
 TORTURE#n.#tortura (-ar, -ator)#
-TOSS#v.#jettar; (shake) sucusser#
+TOSS#v.#jettar; (to shake) sucusser#
 TOTAL#adj.#tot(al) (-itá, -itari, -isar, -isator), plen#
 TOTALLY#adv.#tot(men), totalmen#
-TOTTER#v.#chancelar; vacillar; (collapse) crular#
+TOTTER#v.#chancelar; vacillar; (to collapse) crular#
 TOUCH#n.#tracie, spasma, levi atacca#
-TOUCH#v.#tuchar; palpar; (reach) atinger; (of feelings) emoer#
+TOUCH#v.#tuchar; palpar; (to reach) atinger; (of feelings) emoer#
 TOUCHING#adj.#emotiv; patetic#
 TOUCHING#prep.#concernent, pri#
 TOUCHY#adj.#iritabil#
@@ -15376,7 +15376,7 @@ TOXIC#adj.#toxic, venenosi#
 TOY#n.#ludette; auripelle; talmi#
 TOY#v.#luder con#
 TRACE#n.#tracie, vestigie; marca#
-TRACE#v.#traciar; delinear; (sketch) esquissar#
+TRACE#v.#traciar; delinear; (to sketch) esquissar#
 TRACERY#n.#dentelleríe#
 TRACHEA#n.#traché (-al)#
 TRACK#n.#tracie; (rail.) relage, relvia; (beaten track) trantran; (racecourse) drome#
@@ -15438,7 +15438,7 @@ TRANSPARENT#adj.#transparent (-ie); evident#
 TRANSPIRE#v.#devenir conosset; sudar#
 TRANSPLANT#v.#transplantar (-ation); transponer#
 TRANSPORT#n.#transporte#
-TRANSPORT#v.#transportar; (delight) ravisser (-ement)#
+TRANSPORT#v.#transportar; (to delight) ravisser (-ement)#
 TRANSPOSE#v.#transposir (-ition)#
 TRANSUBSTANTIATION#n.#transsubstantiation#
 TRANSVERSE#adj.#transversal#
@@ -15464,7 +15464,7 @@ TREASURER#n.#cassero, tresorero#
 TREASURES#n.#tresor#
 TREASURY#n.#fisco#
 TREAT#n.#regale; plesura, festine#
-TREAT#v.#(deal with) tractar; negociar; (entertain) regalar; (med.) curar, medicar#
+TREAT#v.#(to deal with) tractar; negociar; (to entertain) regalar; (med.) curar, medicar#
 TREATISE#n.#tractate; tese, dissertation#
 TREATMENT#n.#tractament; (med.) terapie#
 TREATY#n.#tractate; negociation, pacte, tratte#
@@ -15511,14 +15511,14 @@ TRIGGER#n.#clave, detendette#
 TRIGONOMETRY#n.#trigonometrie#
 TRILL#n.#trill (-ar)#
 TRIM#adj.#nett, ornat#
-TRIM#v.#(decorate) garnir#
+TRIM#v.#(to decorate) garnir#
 TRIM WITH LACE#v.#pasmentar; (a beard) tender; (vessels) equilibrar; fassonar#
 TRIMMINGS#n.#garniment, accessories#
 TRINITY#n.#trinitá; trinité#
 TRINKET#n.#breloc, ornament, juvelette#
 TRIO#n.#trio#
 TRIP#n.#excursion, curt viage#
-TRIP#v.#passuar levimen, trottillar; (stumble) mispassuar; far cader#
+TRIP#v.#passuar levimen, trottillar; (to stumble) mispassuar; far cader#
 TRIPARTITE#n.#tripartit#
 TRIPE#n.#tripes#
 TRIPLE#adj.#triplic (-ar)#
@@ -15572,13 +15572,13 @@ TRUNCHEON#n.#baston#
 TRUNK#n.#(tree) trunc; (case) coffre; (probosci) probocide, trompe; (tel.) chef linea#
 TRUSS#n.#cintura herniari; (hay) fasce#
 TRUST#n.#fide, confidentie; eredite; (fin.) truste#
-TRUST#v.#fider; (hope) esperar#
+TRUST#v.#fider; (to hope) esperar#
 TRUSTEE#n.#curator; tutor#
 TRUSTWORTHY#adj.#fidibil, loyal#
 TRUSTY#adj.#fidibil#
 TRUTH#n.#veritá#
 TRUTHFUL#adj.#veraci (-tá)#
-TRY#v.#(test) provar; (endeavour) penar; (judge) judicar; (weary) genar#
+TRY#v.#(to test) provar; (to endeavour) penar; (to judge) judicar; (to weary) genar#
 TRYST#n.#rendevú#
 TUB#n.#tine, cuve#
 TUBE#n.#tube; cilindre; rel-via subterran#
@@ -15615,7 +15615,7 @@ TURF#n.#torfe; (lawn) gazon; (racecourse) turf#
 TURKEY#n.#indie gallino; meleagre#XXX FIXME -- indie!?
 TURMOIL#n.#tumultu#
 TURN#n.#torne; curve; choc#
-TURN#v.#tornar (se); rotar; converter; (become) devenir; -ijar; (make) far#
+TURN#v.#tornar (se); rotar; converter; (to become) devenir, -ijar; (to make) far#
 TURN HEAD OVER HEELS#v.#culbutar#
 TURN PALE#v.#devenir pallid#
 TURN TURTLE#v.#cap-virar#
@@ -15734,7 +15734,7 @@ UNDERTAKE TO DO SOMETHING#v.#ingagear#
 UNDERTAKER#n.#interprensor; functionario funebri#
 UNDERWRITE#v.#assecurar; subgarantir#
 UNDIGNIFIED#adj.#poc digni, poc elevat#
-UNDO#v.#anullar; (undo something done) reparar; defar, deligar, debutonar, etc.#
+UNDO#v.#anullar; (something done) reparar; defar, deligar, debutonar, etc.#XXX TODO far plu bon e clar
 UNDOING#n.#ruine, perition#
 UNDRESS#v.#devestir (se)#
 UNDUE#adj.#excessiv; exagerat#
@@ -15827,7 +15827,7 @@ UPRIGHT#adj.#vertical, erect; honest#
 UPRIGHT#n.#verticale#
 UPRISING#n.#insurection#
 UPROAR#n.#tumultu#
-UPSET#v.#renversar; (grieve) vexar, chagrinar, índisposir#
+UPSET#v.#renversar; (to grieve) vexar, chagrinar, índisposir#
 UPSHOT#n.#resultate, fine#
 UPSTAIRS#adv.#supra, in supra#
 UPSTART#n.#parvenú#
@@ -15837,7 +15837,7 @@ URBAN#adj.#citean, urban#
 URBANE#adj.#polit, cortesi#
 URCHIN#n.#gamino, pueracho, garsonacho#
 URGE#n.#impulse#
-URGE#v.intr.#(be urgent) urger (-ent, -entie)#
+URGE#v.intr.#(to be urgent) urger (-ent, -entie)#
 URGE#v.tr.#presser adavan, incitar, animar, incoragear; presser in argumente o dispute, insister, persister#
 URINAL#n.#urinuore, pissuore#
 URINE#n.#urine (-ari)#
@@ -15869,7 +15869,7 @@ UTTERANCE#n.#enunciation; declaration#
 UVULA#n.#uvul#
 VACANCY#n.#vacantie; lacune#
 VACANT#adj.#vacant; ínocupat#
-VACATE#v.#forlassar; (an office) demiseionar#
+VACATE#v.#forlassar; (an office) demissionar#
 VACATION#n.#vacantie(s)#
 VACCINATE#v.#vaccinar (-ation)#
 VACCINE#n.#vaccine#
@@ -15897,7 +15897,7 @@ VALOUR#n.#bravitá, bravore#
 VALUABLE#adj.#preciosi, valorosi#
 VALUABLES#n.#valorages#
 VALUE#n.#valore, precie#
-VALUE#v.#apreciar; (estimate) taxar, estimar; evaluar#
+VALUE#v.#apreciar; (to estimate) taxar, estimar; evaluar#
 VALVE#n.#valve; (heart) valvul (-ari)#
 VAMPIRE#n.#vampire#
 VAN#n.#furgon; (forefront) avan-guardie#
@@ -15927,7 +15927,7 @@ VAST#adj.#vast, imensi (-itá)#
 VAST MAJORITY#n.#preponderant majorité#
 VAT#n.#tine, cuve#
 VAULT#n.#vulte (-at, -ar)#
-VAULT#v.#(leap) saltar, lansar se, voltiger#
+VAULT#v.#(to leap) saltar, lansar se, voltiger#
 VAUNT#v.#fanfaronar#
 VEAL#n.#carne vaccellin, vaccelline#
 VEER#v.#virar#
@@ -15962,7 +15962,7 @@ VENT#v.#(to give vent to) eversar, far audir#
 VENTILATE#v.#ventilar (-ation, -ator)#
 VENTRILOQUAL#adj.#ventriloqui (-ist, -isme)#
 VENTURE#n.#interprense#
-VENTURE#v.#riscar; (dare) audaciar#
+VENTURE#v.#riscar; (to dare) audaciar#
 VERACIOUS#adj.#veraci (-tá)#
 VERANDA#n.#veranda#
 VERB#n.#verbe (-al, -alisar)#
@@ -16146,7 +16146,7 @@ WAFER#n.#oblate#
 WAFFLE#n.#vaffle#
 WAFT#v.#sofflar#
 WAG#n.#jocon#
-WAG#v.#(tail) caudear; flirtar, far flirtar; (head) sucusser#
+WAG#v.#(to tail) caudear; flirtar, far flirtar; (head) sucusser#XXX TODO ameliorar, separar tr. and intr.
 WAGE#n.#salarie#
 WAGE#v.#(war) guerrear#
 WAGER#n.#parí (-ar); hasardar#
@@ -16172,7 +16172,7 @@ WALK#n.#promenada, marcha; via#
 WALK#v.#vader, pedear, marchar; pronienar se. (in one's sleep) somnainbular#
 WALK GINGERLY#v.#passuar cautmen o circumspectmen#
 WALL#n.#mur; (internal) parete#
-WALL#v.#(wall up) inmurar#
+WALL#v.#(to wall up) inmurar#
 WALL-PAPER#n.#tapete (-ar)#
 WALLET#n.#porta-papere, paperiere#
 WALLFLOWER#n.#gilliflor#
@@ -16186,7 +16186,7 @@ WANDER#v.#migrar, vagabundar, vagar, nomadisar#
 WANDERER#n.#migrator, nomade, vagabunde#
 WANE#v.#decrescer, diminuer#
 WANT#n.#(lack) manca(ntie); (need) beson (-ar), desire (-ar), indigentie#
-WANT#v.#(be short of) indiger, carir#
+WANT#v.#(to be short of) indiger, carir#
 WANTING#adj.#deficient, mancant#
 WANTON#adj.#(sportive) petulant; (purposeless) ínmotivat; (voluptuous) voluptosi#
 WANTON#n.#voluptona#
@@ -16231,7 +16231,7 @@ WASTEPAPER#n.#paperallia#
 WASTREL#n.#vale-necós, pródigo#
 WATCH#n.#tasca-horloge; (guard) garda, guardie; (naut.) watch (-ar); (vigil) vigil(antie)#
 WATCH#v.#regardar, observar; vigilar#
-WATCH OVER#v.#cuidar pri; (take care) atenter#
+WATCH OVER#v.#cuidar pri; (to take care) atenter#
 WATCH-DOG#n.#can de garda#
 WATCHFUL#adj.#vigilant, atentiv#
 WATCHWORD#n.#passa-parol. devise#
@@ -16251,10 +16251,10 @@ WATERLY#adj.#liquid, aquosi, diluet#
 WATERPROOF#adj.#resistent, ínpermeabil, hermetic#
 WATT#n.#watt (-age)#
 WAVE#n.#unde (-atri, -osi, -ear)#
-WAVE#v.#(flutter) flirtar, volettar; (hair) undular#
+WAVE#v.#(to flutter) flirtar, volettar; (hair) undular#
 WAVER#v.#chancelar, vacillar, hesitar#
 WAX#n.#cire (-ar)#
-WAX#v.#(increase) crescer; devenir#
+WAX#v.#(to increase) crescer; devenir#
 WAXWORK#n.#figura cirin#
 WAY#expr.#THIS WAY: a ci#XXX TODO Add the other meaning
 WAY#n.#maniere; metode; distantie; (custom) more; (means) medie; (road) via#
@@ -16272,7 +16272,7 @@ WEALTH#n.#richesse, abundantie, opulentie#
 WEALTHY#adj.#rich, opulent#
 WEAN#v.#demammar, desalactar; desacustomar#
 WEAPON#n.#arme, missil#
-WEAR#v.#portar; (wear away) consumar se; (last) durar; (wear out) perusar#
+WEAR#v.#portar; (to wear away) consumar se; (to last) durar; (to wear out) perusar#
 WEAR AND TEAR#n.#usada#
 WEARISOME#adj.#tedant, enoyant#
 WEARY#adj.#lassi, fatigat; enoyat#
@@ -16318,7 +16318,7 @@ WELL#adj.#san#
 WELL#adv.#bon#
 WELL#interj.#nu, alor#
 WELL#n.#puteo#
-WELL#v.#(well up) efluer#
+WELL#v.#(to well up) efluer#
 WELL BRED#adj.#bon educat#
 WELL OFF#adj.#opulent, benehavent#
 WELL-BEING#n.#well-being, prosperitá, felicitá#XXX TODO -- Confirm "well-being".
@@ -16383,7 +16383,7 @@ WHIN#n.#ulexe#
 WHINE#v.#criachar, gemer, plendiplorar#
 WHINNY#v.#hinnir#
 WHIP#n.#flagelle (-ar, -ation)#
-WHIP#v.#(beat) batter, bastonar#
+WHIP#v.#(to beat) batter, bastonar#
 WHIRL#n.#turbul; cáos#
 WHIRL#v.#piruettar, girar; far girar#
 WHIRLPOOL#n.#virle, vortice de aqua#
@@ -16410,7 +16410,7 @@ WHITHER#adv.#ad u#
 WHITING#n.#crete pulverisat; (fish) merlango#
 WHITLOW#n.#ungul-abscesse, tumore ungulari#
 WHITSUNTIDE#n.#Pentecoste (-al)#
-WHITTLE#v.#(whittle away) reducter poc a poc#
+WHITTLE#v.#(to whittle away) reducter poc a poc#
 WHIZZ#v.#sibilar, sifflar#
 WHO#pron.#qui#
 WHOEVER#pron.#quicunc#
@@ -16453,7 +16453,7 @@ WILDERNESS#n.#deserte, savagia#
 WILE#n.#artificie, astutie, ruse#
 WILFUL#adj.#premeditat, intentional, obstinat#
 WILL#n.#vole(ntie); voluntá; (leg.) testament (-ar, -ari)#
-WILL#v.#voler; (bequeath) legar#
+WILL#v.#voler; (to bequeath) legar#
 WILL O' THE WISP#n.#foy errant#
 WILLING#adj.#pret, voluntari, disposit#
 WILLOW#n.#salice#
@@ -16462,12 +16462,12 @@ WILLY-NILLY#adj.#volente o ne volente, nolens volens#XXX TODO -- Confirm "nolens
 WILT#v.#marcir#
 WILY#adj.#astut#
 WIN#n.#victorie, triumfa, ganie#
-WIN#v.#victer; (gain) ganiar#
+WIN#v.#victer; (to gain) ganiar#
 WINCE#n.#spasmette facial#
 WINCH#n.#winch, manivelle#
 WIND#n.#vente (-osi); (indigestion) flatu; (turn) torne#
-WIND#v.#(turn) tornar, verter; (hoist) vindar; (as road) serpentear; (watch) tender#
-WIND UP#v.#terminar; liquidar; (a watch) tender#
+WIND#v.#(to turn) tornar, verter; (to hoist) vindar; (as road) serpentear; (a watch) tender#XXX TODO consultar "tender un horloge"
+WIND UP#v.#terminar; liquidar; (a watch) tender#XXX TODO consultar "tender un horloge"
 WIND-INSTRUMENT#n.#instrument a sufflar#
 WINDFALL#n.#bon fortune, ganie ínexpectat, felicie; (fruit) fructe cadet#
 WINDING#adj.#sinuosi, serpenteant#
@@ -16480,7 +16480,7 @@ WINDSCREEN#n.#para-vente#
 WINDWARD#adv.#vers li vente, al vente de#
 WINE#n.#vin (-iera, -icultor, -ero, -icultura, -venditor)#
 WING#n.#ale (-ar)#
-WING#v.#(injure) vulnerar#
+WING#v.#(to injure) vulnerar#
 WINGS#n.#(theatre) culisse#
 WINK#v.#palpebrar, oculettar, ocul-slgnar#
 WINKLE#n.#litorine#
@@ -16570,7 +16570,7 @@ WORD FOR WORD#adv.#parol por parol, textualmen#
 WORDING#n.#textu#
 WORDY#adj.#prolix (-itá)#
 WORK#n.#labor (-ar, -ero, -ator, -atoria, -osi); (lit., mus.) ovre#
-WORK#v.#functionar; operar; (take effect) efecter; (exploit) explotar; (mechanism) far functionar, actionar#
+WORK#v.#functionar; operar; (to take effect) efecter; (to exploit) explotar; (mechanism) far functionar, actionar#
 WORK OUT#v.#calcular; elaborar#
 WORKHOUSE#n.#institute por povres#
 WORKMANSHIP#n.#habilitá, dexteritá, bon laborada#
@@ -16583,7 +16583,7 @@ WORM#v.#(one's way) insinuar se#
 WORMWOOD#n.#absinte#
 WORN OUT#adj.#perusat; exhaustet#
 WORRY#n.#tribulation, torment (-ar), truble#
-WORRY#v.#(worry about) despitar pri, suciar pri, ínquietar se pri#
+WORRY#v.#(to worry about) despitar pri, suciar pri, ínquietar se pri#
 WORSE#adj., adv.#plu mal, pejor#
 WORSEN#v.#(a)pejorar, demeliorar, far plu mal, agravar#
 WORSHIP#n.#cultu, adoration; servicie divin#
@@ -16617,7 +16617,7 @@ WREST#v.#eraffar#
 WRESTLE#v.#luctar (contra)#
 WRETCH#n.#miseron#
 WRETCHED#adj.#miserabil; abject#
-WRIGGLE#v.#torder se, serpentear; (crawl) repter#
+WRIGGLE#v.#torder se, serpentear; (to crawl) repter#
 WRIGGLE OUT OF#v.#extricar se, evader#
 WRING#v.#extorder#
 WRINKLE#n.#frunse (-ar), sulca (-ar)#
