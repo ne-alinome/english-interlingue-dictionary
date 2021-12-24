@@ -12908,7 +12908,7 @@ SABRE#n.#sabre (-ar)#
 SACCHARINE#n.#sacarine#
 SACERDOTAL#adj.#sacerdotal (-isme)#
 SACK#n.#sac (-ada)#
-SACK#v.#pilliar; (dismiss) desemployar, desingagear, demisser#
+SACK#v.#pilliar; (to dismiss) desemployar, desingagear, demisser#
 SACK-CLOTH#n.#sacco#
 SACKING#n.#sac-linage#
 SACRAMENT#n.#sacrament (-al)#
@@ -12922,7 +12922,7 @@ SACROSANCT#adj.#sacro-sant#
 SAD#adj.#trist (-esse), morni; (grievous) grav#
 SADDEN#v.#atristar#
 SADDLE#n.#sedle (-ar, -ero, -ería)#
-SADDLE#v.#(burden) chargear#
+SADDLE#v.#(to burden) chargear#
 SAFE#adj.#salv, secur, ínnocet, in bon statu, in bon standa#
 SAFE#n.#moné-scaf, garda-moné; (food) garda-manjage#
 SAFE-CONDUCT#n.#passa-permisse#
@@ -13032,12 +13032,12 @@ SAVAGE#adj.#íncult, savagi (-tá, -eríe), feroci, barbaric#
 SAVAGE#n.#savagio, barbaro#
 SAVE#conj.#except(et)#
 SAVE#prep.#except(et)#
-SAVE#v.#(rescue) salvar; (economise) sparniar, economisar; (keep) conservar; reservar; (protect) gardar; (prevent) preventer#
+SAVE#v.#(to rescue) salvar; (to economise) sparniar, economisar; (to keep) conservar; reservar; (to protect) gardar; (to prevent) preventer#
 SAVELOY#n.#cervelate#
 SAVINGS#n.#sparniage, sparniament#
 SAVIOUR#n.#Salvator#
 SAVOUR#n.#sapore (-osi)#
-SAVOUR#v.#savurar; (savour of) saper#
+SAVOUR#v.#savurar; (to savour of) saper ye#
 SAVOURY#adj.#(spiced) spiceat#
 SAW#n.#sega (-ería); (saying) aforisme#
 SAW#v.#segar#
@@ -13057,7 +13057,7 @@ SCAFFOLD#n.#scafote (-age)#
 SCAFFOLDING#n.#scafalde#
 SCALD#v.#scaldar#
 SCALE#n.#(grade) gradu; (graduated range) scale; (mus.) gamme; (of charges) tarif; (scalepan) platil de balancie; (of animals) squame (-osi)#
-SCALE#v.#climbar; (with ladders) scaladar; (peel off) desquamar#
+SCALE#v.#climbar; (with ladders) scaladar; (to peel off) desquamar#
 SCALES#n.#balancie#
 SCALLOP#n.#feston; (mollusc) péctine#
 SCALP#n.#scalp (-ar, -el)#
@@ -13133,7 +13133,7 @@ SCOUT#v.#deriDer, repulser#
 SCOWL#v.#menaciar per li regarde#
 SCRAGGY#adj.#magri#
 SCRAMBLE#n.#lucte, confusion#
-SCRAMBLE#v.#(climb) grimpar#
+SCRAMBLE#v.#(to climb) grimpar#
 SCRAP#n.#pezze, fragment#
 SCRAPE#n.#embarasse, desfacilitá#
 SCRAPE#v.#scrappar (-allia)#
@@ -13144,9 +13144,9 @@ SCRATCH OUT#v.#forstrecar#
 SCRAWL#v.#scriachar#
 SCREAM#v.#criar, yellar, strider#
 SCREEN#n.#ecran, scren#
-SCREEN#v.#(shield) protector#
+SCREEN#v.#(to shield) protecter#
 SCREW#n.#scruv (-ar); (of ship) helice#
-SCREW#v.#(twist) torDer#
+SCREW#v.#(to twist) torDer#
 SCREW-DRIVER#n.#tira-scruv, scruv-tornator#
 SCREW-JACK#n.#cric#XXX TODO -- Same as "jackscrew", which is missing.
 SCRIBBLE#v.#scriachar#
@@ -13173,7 +13173,7 @@ SCURRILOUS#adj.#vil, calumniosi, scuril#
 SCURVY#adj.#vil, bass#
 SCURVY#n.#scorbute#
 SCUTTLE#n.#(coalscuttle) carboniere#
-SCUTTLE#v.#sabordar, submerser; (run off) forcurrer#
+SCUTTLE#v.#sabordar, submerser; (to run off) forcurrer#
 SCYTHE#n.#falce (-ear)#
 SEA#n.#mare, ocean; multité#
 SEA GREEN#n.#glaucom#
@@ -13233,7 +13233,7 @@ SEE#v.#vider#
 SEE TO#v.#cuidar#
 SEED#n.#seme (-ar, -ero), gérmine#
 SEEDSMAN#n.#sem-venditor#
-SEEK#v.#serchar; (try) penar, provar#
+SEEK#v.#serchar; (to try) penar, provar#
 SEEM#v.#semblar, aparer#
 SEEMLY#adj.#convenent, decent#
 SEER#n.#profete, augur#
@@ -13336,7 +13336,7 @@ SERVITUDE#n.#servitude, solavitá#
 SESSION#n.#session#
 SET#adj.#firm, fix, rigid; formal; regulari; obstinat#
 SET#n.#(collection) colection, complement; serie; (of people) clicca; circul, gruppe#
-SET#v.#arangear, adaptar, fixar, etablisser; assignar; (of liquids) solidijar; (a limb) remetter; (mount) monter; (with gems) garnir; (place) metter, posir, plazzar; (station) locar, postar; (of sun etc.) descenDer; (type) composter; (clock) ajustar#
+SET#v.#arangear, adaptar, fixar, etablisser; assignar; (of liquids) solidijar; (a limb) remetter; (to mount) monter; (with gems) garnir; (to place) metter, posir, plazzar; (station) locar, postar; (of sun etc.) descenDer; (to type) composter; (a clock) ajustar#
 SET ABOUT#v.#ataccar; comensar#
 SET ALIGHT#v.#incendiar, inflammar#
 SET DOWN#v.#notar, adscrir, atribuer; imputar#
@@ -13346,14 +13346,14 @@ SET ON#v.#incitar, ataccar#
 SET ON EDGE#v.#exasperar, iritar#
 SET ON FIRE#v.#incendiar; accender#
 SET OUT#v.#exposir; comensar; departer, demonstrar#
-SET TO#v.#(apply oneself) devoer se, aplicar se#
-SET UP#v.#erecter, etablisser; (give rise to) nascentar, causar#
+SET TO#v.#(to apply oneself) devoer se, aplicar se#
+SET UP#v.#erecter, etablisser; (to give rise to) nascentar, causar#
 SET UP TYPE#v.#composter#
 SETT#n.#pave#
 SETTEE#n.#sofa#
 SETTER#n.#sétter#
 SETTING#n.#colocation; scene, funde#
-SETTLE#v.#fixar, arangear; payar; deciDer; (an account) saldar; (sink) afundar; reposar; (territory) colonisar#
+SETTLE#v.#fixar, arangear; payar; deciDer; (an account) saldar; (to sink) afundar; reposar; (territory) colonisar#
 SETTLED#adj.#tranquil, constant; colonisat#
 SETTLEMENT#n.#saldo; arangeament; assignatura; liquidation; (colony) colonia; (subsidence) subsedentie#
 SEVEN#adj., n.#sett (-anti, -esim)#
@@ -13381,7 +13381,7 @@ SHADY#adj.#ombrosi; deshonest, suspectibil#
 SHAFT#n.#(arrow) fleche; (of vehicle) timon; (of mine) puteo; (of gun) tube#
 SHAGGY#adj.#vellut, vellosi#
 SHAH#n.#chah#
-SHAKE#v.#sucusser; (tremble) tremer#
+SHAKE#v.#sucusser; (to tremble) tremer#
 SHAKE HANDS#v.#presser li manus#
 SHAKY#adj.#ínstabil, labil, chancelant; tremorosi, tremid#
 SHALE#n.#(husk) cortice; (Geol.) schist; (gravel) gravie#
@@ -13432,7 +13432,7 @@ SHELL#n.#(of molluscs) conche; cruste, cortice, shell; (mil.) obus, bombe; (pea 
 SHELL#v.#decorticar; bombardar; exsiliquar#
 SHELTER#n.#asil, fugitoria#
 SHELTER#v.#protecter, gardar; fugir; dar asil a; albergar#
-SHELVE#v.#procrastinar, ajornar; (slope) scarpar#
+SHELVE#v.#procrastinar, ajornar; (to slope) scarpar#
 SHEPHERD#n.#pastero#
 SHEPHERD#v.#ducter#
 SHERBET#n.#sorbete#
@@ -13446,7 +13446,7 @@ SHIFT#v.#mover, changear; vagar#
 SHIFTING#adj.#variabil#
 SHIMMER#v.#lucer tremorosimen, lucettear#
 SHIN#n.#tibia#
-SHINE#v.#brilliar, splender, lucer; (polish) polir#
+SHINE#v.#brilliar, splender, lucer; (to polish) polir#
 SHINGLES#n.#herpes#
 SHIP#n.#nave, barca#
 SHIP#v.#inbarcar, cargar; expedir (-ition)#
@@ -13464,13 +13464,13 @@ SHODDY#n.#stoffach#
 SHOE#n.#sapate (-ero)#
 SHOE#v.#(horses) ferrar#
 SHOOT#n.#(hort.) ramelle, sarment#
-SHOOT#v.#tirar, fusilar ; burgeonar; (fling violently) lansar (se)#
+SHOOT#v.#tirar, fusilar ; burgeonar; (to fling violently) lansar (se)#
 SHOOTING STAR#n.#stelle volant, meteor#
 SHOP#n.#butíca, magasine; (workshop) ateliere#
 SHOP#v.#comprar, far li compras#
 SHOP-KEEPER#n.#buticario#
 SHORE#n.#borde (del mare), costa, rive, plage, litore#
-SHORE#v.#(shore up) subtener per traves, apoyar#
+SHORE#v.#(to shore up) subtener per traves, apoyar#
 SHORN#adj.#tondet; (deprived) privat#
 SHORT#adj.#curt, brevi; mancant; abrupt#
 SHORT STORY#n.#novelle#
@@ -13509,7 +13509,7 @@ SHRIKE#n.#lanie#
 SHRILL#adj.#acut; strident#
 SHRIMP#n.#crevette#
 SHRINE#n.#altare, reliquiere#
-SHRINK#v.#contraer (se); retraer (se); (recoil) recular; (lessen) demeliorar, diminuer; hesitar avan#
+SHRINK#v.#contraer (se); retraer (se); (to recoil) recular; (to lessen) demeliorar, diminuer; hesitar avan#
 SHRIVE#v.#confesser, absoluer#
 SHRIVEL#v.#contraer se, marcir#
 SHROUD#n.#mort-linage; (naut.) vantes#
@@ -13519,7 +13519,7 @@ SHRUB#n.#arbuste, bosco (-age)#
 SHRUG#v.#levar li epoles#
 SHUDDER#n.#frisson (-ar)#
 SHUFFLE#n.#evasion, artificie#
-SHUFFLE#v.#interpussar; (cards) mixter; (shuffle along) trenar li pedes; (shuffle out of) equivocar, far pretextes, extricar se#
+SHUFFLE#v.#interpussar; (cards) mixter; (to shuffle along) trenar li pedes; (to shuffle out of) equivocar, far pretextes, extricar se#
 SHUN#v.#evitar, detornar se#
 SHUNT#v.#bifurcar, rangear, shuntar#
 SHUT#adj.#cludet#
@@ -13605,12 +13605,12 @@ SINFUL#adj.#peccosi, peccaci#
 SING#v.#cantar (-ator)#
 SINGE#v.#ustular#
 SINGLE#adj.#sol, singul, unic; (unmarried) celib (-o)#
-SINGLE#v.#(single out) selecter#
+SINGLE#v.#(to single out) selecter#
 SINGULAR#adj.#singulari (-tá), ínusual, apart; bizarri#
 SINGULAR#n.#(gramm.) singulare#
 SINISTER#adj.#sinistri#
 SINK#n.#(domestic) rinsuore, eversuore, lav-petre#
-SINK#v.#submerser, descenDer, plongear; diminuer; (sink a shaft) excavar#
+SINK#v.#submerser, descenDer, plongear; diminuer; (to sink a shaft) excavar#
 SINK INTO#v.#lassar se cader#
 SINKING-FUND#n.#cassa de amortisation#
 SINUOUS#adj.#sinuosi (-tá)#
@@ -13640,7 +13640,7 @@ SKID#v.#glissar#
 SKIFF#n.#canú#
 SKILFUL#adj.#habil, dexteri (-tá), versat, expert#
 SKILL#n.#habilitá, dexteritá#
-SKIM#v.#(milk) decremar, scumar; (skim through) traleer superficialmen, superglissar#
+SKIM#v.#(milk) decremar, scumar; (to skim through) traleer superficialmen, superglissar#
 SKIM-MILK#n.#lacte decremat#
 SKIN#n.#pelle, pellicul; membrane, derma; shell, cortice#
 SKIN#v.#depellar, decorticar#
@@ -13665,7 +13665,7 @@ SKYLIGHT#n.#tegment-fenestre#
 SKYSCRAPER#n.#gratta-ciel#
 SLAB#n.#platte, tabulette#
 SLACK#adj.#lax; poc rigorosi#
-SLACKEN#v.#alaxar, devenir lax; (slacken speed) desaccelerar, alentar; diminuer#
+SLACKEN#v.#alaxar, devenir lax; (speed) desaccelerar, alentar; diminuer#
 SLAG#n.#scorie#
 SLAKE#v.#calmar, desetar#
 SLAM#v.#cluder bruosimen, cluder per un jetta claccant, far claccar#
@@ -13770,7 +13770,7 @@ SMELL#n.#odore, malodore, aroma, parfúm; (a sniff) flare#
 SMELL#v.intr.#odorar, aromar#
 SMELL#v.tr.#(with nose) flarar#
 SMELLING-BOTTLE#n.#flar-botelle#
-SMELT#v.#fonder, fuser; (fish) eperlane#
+SMELT#v.#fonder, fuser; (fish) eperlane#XXX TODO consultar "eperlane"
 SMILE#n.#subride (-er), ridette#
 SMIRCH#v.#assordidar#
 SMIRK#n.#ridettache, un afectat subride#
@@ -13785,7 +13785,7 @@ SMOKE#v.#fumar; (of chimney) emisser fum; (bacon etc.) fumicar, infumar#
 SMOKER#n.#fumator; (rail.) cupé o compartiment fumatori#
 SMOKY#adj.#fumosi, fumant, plen de fum#
 SMOOTH#adj.#glatt (-ar), polit; glissid; calm#
-SMOTHER#v.tr.#sufocar; (smother rage, etc.) supresser#
+SMOTHER#v.tr.#sufocar; (rage etc.) supresser#
 SMOULDER#v.#subbrular, brulettar#
 SMUDGE#v.#sordidar#
 SMUG#adj.#self-satisfat#
@@ -13798,18 +13798,18 @@ SNAIL#n.#helice#
 SNAIL'S PACE#n.#passu de helice#
 SNAKE#n.#colubre, serpente#
 SNAP#n.#(clasp) agraffe, fibul; (noise) clacca#
-SNAP#v.#(break) rupter, fracter#
+SNAP#v.#(to break) rupter, fracter#
 SNAP AT#v.#happar#
 SNAPDRAGON#n.#antirrine, bocca de leon#
 SNARE#n.#trappe (-ar, -ero), captuore#
 SNARL#v.#grunir#
 SNATCH#n.#(of music) pezzette#
-SNATCH#v.#happar, adcapter, raffar; (snatch away) eraffar#
+SNATCH#v.#happar, adcapter, raffar; (to snatch away) eraffar#XXX TODO consultar "eraffar" -> "araffar"?
 SNEAK#n.#repton#
-SNEAK#v.#(sneak away) furtivmen vadar; (sneak on) trahir#
+SNEAK#v.#(to sneak away) furtivmen vadar; (to sneak on) trahir#
 SNEER#n.#rican (-ar)#
 SNEEZE#v.#sternutar (-ation)#
-SNIFF#v.#snifflar (-ada); (smell) flarar#
+SNIFF#v.#snifflar (-ada); (to smell) flarar#
 SNIPER#n.#celat tirator, franc-tirator#
 SNIVEL#v.#plorachar#
 SNOB#n.#parvenú, snob; (shoemaker) sapatero#
@@ -13947,7 +13947,7 @@ SOUFFLE#n.#suflé#
 SOUL#n.#anim, spíritu; (person) hom#
 SOUND#adj.#san, solid, integri, valid; (of sleep) profund#
 SOUND#n.#son; (straits) strette#
-SOUND#v.#sonar, far sonar; (plumb) sondar; (seem) semblar#
+SOUND#v.#sonar, far sonar; (to plumb) sondar; (to seem) semblar#
 SOUP#n.#sup#
 SOUPTUREEN#n.#supiere#
 SOUR#adj.#acid; rancid; brusqui#
@@ -14039,7 +14039,7 @@ SPIGOT#n.#clove lignin#XXX TODO -- Complete.
 SPIKE#n.#clove; (bot.) spica#
 SPILL#n.#(fall) cade; (paper spill) inflammette de papere#
 SPILL#v.#(dis)versar#
-SPIN#v.#filar (-ator, -ero); (revolve) rotar#
+SPIN#v.#filar (-ator, -ero); (to revolve) rotar#
 SPIN OUT#v.#alongar; demorar#
 SPINACH#n.#spinace#
 SPINDLE#n.#spindle, axe#
@@ -14062,7 +14062,7 @@ SPITE#v.#afrontar#
 SPITEFUL#adj.#malevolent, maliciosi, rancorosi#
 SPITTLE#n.#sputage, saliva#
 SPITTOON#n.#sputuore#
-SPLASH#v.#(noise) plaudar; (in mud etc.) barbotar; (spatter) surspruzzar#
+SPLASH#v.#(noise) plaudar; (in mud etc.) barbotar; (to spatter) surspruzzar#
 SPLASHBACK#n.#para-aqua#
 SPLEEN#n.#splen, bilie#
 SPLENDID#adj.#splendid, magnific, superb#
@@ -14073,7 +14073,7 @@ SPLINTER#n.#splittre (-ar), lignun#
 SPLIT#n.#fension, fensura#
 SPLIT#v.#fenDer (se), fisser (-ion, -ura)#
 SPLUTTER#v.#sputear; (speech) balbutiar#
-SPOIL#v.#bosillar, damagear, ruinar; (despoil) spoliar; (go bad) putrir; (overindulge) dorlotar#
+SPOIL#v.#bosillar, damagear, ruinar; (to despoil) spoliar; (to go bad) putrir; (to overindulge) dorlotar#
 SPOILS#n.#raptallia#
 SPOKE#n.#radion#
 SPOKESMAN#n.#porta-voce#
@@ -14098,7 +14098,7 @@ SPOT#v.#macular; remarcar, detecter#
 SPOTLESS#adj.#ínmaculat, sin macul#
 SPOUSE#n.#marita, marito#
 SPOUT#n.#guttiere; (of vessel) bec#
-SPOUT#v.#spruzzar; (declaim) declamar#
+SPOUT#v.#spruzzar; (to declaim) declamar#
 SPRAIN#n.#tonsura#
 SPRAIN#v.#luxar, torder#
 SPRAT#n.#sprat#
@@ -14110,7 +14110,7 @@ SPREAD OUT FOR SALE#v.#estalar#
 SPRIG#n.#ramette, sarment#
 SPRIGHTLY#adj.#vivaci, alegri#
 SPRING#n.#(water) fonte; (warm spring) terme; (a leap) salta; (season) verne; (mech.) ressor#
-SPRING#v.#fontear; saltar; (originate) provenir#
+SPRING#v.#fontear; saltar; (to originate) provenir#
 SPRINGBOARD#n.#trampline, saltuore#
 SPRINGY#adj.#elastic, spongeatri#
 SPRINKLE#v.#asperser#
@@ -14143,14 +14143,14 @@ SQUANDER#v.#dissipar, prodigar#
 SQUARE#adj.#quadrat, quadriform; pari; quitt; honest#
 SQUARE#n.#quadrate; (geom.) squadre; (public) plazza#
 SQUARE#v.intr..#acordar se con#XXX TODO complete syntax con/with
-SQUARE#v.tr.#quadrar; (set right) adjustar; (bribe) subcomprar#
+SQUARE#v.tr.#quadrar; (to set right) adjustar; (to bribe) subcomprar#
 SQUARE ROOT#n.#radica quadratic#
 SQUARING#n.#quadratura#
 SQUASH#v.#ecrasar, aplastar#
 SQUAT#adj.#stumpi#
 SQUAT#v.#hoccar#
 SQUEAK#v.#crepitar, cracar#
-SQUEAL#v.#strider; (turn informer) denunciar#
+SQUEAL#v.#strider; (to turn informer) denunciar#XXX TODO consultar "turn informer"
 SQUEAMISH#adj.#fastidiosi, scrupulosi, tro delicat#
 SQUEEZE#v.#compresser, serrar#
 SQUINT#v.#strabar (-ator, -isme, -on)#
@@ -14175,12 +14175,12 @@ STAGECOACH#n.#diligence#
 STAGEFRIGHT#n.#timore de estrade#
 STAGEMANAGER#n.#regissor#
 STAGER#n.#actor#
-STAGGER#v.#chancelar; (take aback) consternar#
+STAGGER#v.#chancelar; (to take aback) consternar#
 STAGNANT#adj.#stagnant (-ie)#
 STAGNATE#v.#stagnar (-ation)#
 STAID#adj.#seriosi, sobri, desfrivol#
 STAIN#n.#macul (-ar)#
-STAIN#v.#(dye) tinter (-or, -ura)#
+STAIN#v.#(to dye) tinter (-or, -ura)#
 STAIR#n.#scalun#
 STAIRCASE#n.#scaliere#
 STAKE#n.#pal, palisse (-ade); (pledge) gage; (gambling) riscage#
@@ -14198,13 +14198,13 @@ STAMEN#n.#stámine (-al, -at, -ifer)#
 STAMINA#n.#vigore, fortie vital, vitalitá#
 STAMMER#v.#balbutiar (-ation)#
 STAMP#n.#(postage stamp) postmarca; (instrument) stamp; (brand) stampa, impression; (character) calibre, caractere#
-STAMP#v.#(a letter) afrancar; (impress) stampar; (coins) monetar; (with feet) frappar; (of horses) piaffar#
+STAMP#v.#(a letter) afrancar; (to impress) stampar; (coins) monetar; (with feet) frappar; (of horses) piaffar#
 STAMPEDE#n.#fugida panical#
 STANCHION#n.#pale ferrin#
 STAND#n.#stative, pedestale, suport, porta-; (for spectators) podium#
 STAND#v.#star#
 STAND AGAINST#v.#oposir, resister#
-STAND BACK#v.#retirar se, recular; (as candidate) presentar se; (endure) tolerar; (stand still) haltar, ne mover se#
+STAND BACK#v.#retirar se, recular; (as candidate) presentar se; (to endure) tolerar; (to stand still) haltar, ne mover se#
 STAND ON TIPTOE#v.#star sur li ped-fingres#
 STAND OUT#v.#prominer#
 STAND UP#v.#levar se, stantar se#
@@ -14262,7 +14262,7 @@ STAUNCH#v.#desanguar, far haltar#
 STAVE#n.#baston; (of barrel) doga#
 STAVE IN#v.#brechar#
 STAY#n.#apoy; (naut.) stag; sejorne, restada#
-STAY#v.#restar, remaner; retardar; (uphold) apoyar, subtener; (arrest) haltar#
+STAY#v.#restar, remaner; retardar; (to uphold) apoyar, subtener; (to arrest) haltar#
 STAY OVERNIGHT#v.#pernoctar#
 STAY THE NIGHT#v.#pernoctar#
 STAYS#n.#corsete#
@@ -14314,7 +14314,7 @@ STEW#n.#stovage; (fruit) compot#
 STEW#v.#stovar, compotar#
 STEWARD#n.#intendante, agente, econom, menagero; (ship's steward) servitor#
 STICK#n.#baston, verge; canne#
-STICK#v.#glutinar; (bills) afichar; (adhere) adherer; (remain) restar#
+STICK#v.#glutinar; (bills) afichar; (to adhere) adherer; (to remain) restar#
 STICK AT#v.#haltar avan#
 STICK OUT#v.#prominer#
 STICKY#adj.#glutinosi, adhesiv#
@@ -14371,7 +14371,7 @@ STOMACH#n.#stomac, epigastre, panse; apetite#
 STOMACH#v.#digester#
 STONE#adj.#de petre, petric. petrin, lito-#
 STONE#n.#petre, lápide; (of fruit) nucleo, grane; (gem) juvel. #
-STONE#v.#(pelt) lapidar; (fruit) degranar, denuclear#
+STONE#v.#(to pelt) lapidar; (fruit) degranar, denuclear#
 STONE AGE#n.#epoca de petre#
 STONE QUARRY#n.#petriera#
 STONY#adj.#lapidosi; petratri; cruel#
@@ -14379,7 +14379,7 @@ STOOK#n.#garbage, fasce de garbes#
 STOOL#n.#scabelle, taburette#
 STOOP#v.#clinar se, bassar se; humilar se#
 STOP#n.#halta; (full stop) punctu; (halting place) etape#
-STOP#v.#(cease) cessar; haltar, stoppar; (teeth) plombar#
+STOP#v.#(to cease) cessar; haltar, stoppar; (teeth) plombar#
 STOPPAGE#n.#obstruction, impediment; deduction#
 STOPPER#n.#tampon#
 STORAGE#n.#magasinage#
@@ -14402,7 +14402,7 @@ STRAIGHT#adv.#strax, ínmediatmen#
 STRAIGHT AHEAD#adv.#rect adavan#
 STRAIGHTEN#v.#rectificar#
 STRAIN#n.#tension; (pressure) pression; (race) rasse#
-STRAIN#v.#tenDer, efortiar se; (sieve) cribellar#
+STRAIN#v.#tenDer, efortiar se; (to sieve) cribellar#
 STRAINER#n.#cribelle, filtre#
 STRAIT#adj.#strett#
 STRAIT#n.#strette; desfacilitá#
@@ -14442,14 +14442,14 @@ STRIDENT#adj.#strident#
 STRIFE#n.#lucte, dispute, querelle, conflicte#
 STRIKE#expr.#IT STRUCK HIM THAT …: venit le in mente que …#
 STRIKE#n.#(of workers) bastament (-ar, -ero)#
-STRIKE#v.#batter, dar un colpe; (mint) monetar; (a flag) abassar#
+STRIKE#v.#batter, dar un colpe; (to mint) monetar; (a flag) abassar#
 STRIKING#adj.#remarcabil, frappant, impressiv#
 STRING#n.#corde; serie#
 STRING#v.#incordar, infilar#
 STRINGED INSTRUMENT#n.#cord-instrument#
 STRINGENT#adj.#severi, strict#
 STRIP#n.#strie#
-STRIP#v.#denudar; (undress) devestir; spoliar, privar#
+STRIP#v.#denudar; (to undress) devestir; spoliar, privar#
 STRIPE#n.#strie (-ar); (mil.) galon#
 STRIPLING#n.#yuno#
 STRIVE#v.#penar, luctar#
@@ -14512,10 +14512,10 @@ SUBMERGE#v.#submerser (-ion)#
 SUBMIT#v.#submetter, submisser (-iv, -ion), suggester; presentar#
 SUBORDINATE#v.#subordinar (-at, -ation)#
 SUBPOENA#n.#mandate judical#
-SUBSCRIBE#v.#(to periodical) abonnar (-ator, -ament); (to a society) cotisar? (to contribute) contribuer; (sign) subscrir (-tion)#
+SUBSCRIBE#v.#(to a periodical) abonnar (-ator, -ament); (to a society) cotisar; (to contribute) contribuer; (to sign) subscrir (-tion)#
 SUBSEQUENT#adj.#subsequent#
 SUBSERVIENT#adj.#subservient, auxiliatori#
-SUBSIDE#v.#diminuer; (sink down) afundar se; (of wind) calmar se#
+SUBSIDE#v.#diminuer; (to sink down) afundar se; (of wind) calmar se#
 SUBSIDIARY#adj.#auxiliari#
 SUBSIDIARY#n.#sucursale, filiale#
 SUBSIDY#n.#subsidie (-iar), subvention (-ar)#
@@ -14534,7 +14534,7 @@ SUBURB#n.#suburbe (-an)#
 SUBVENTION#n.#subvention (-ar)#
 SUBVERT#v.#subverTer (-siv, -sion)#
 SUBWAY#n.#via subterran, sub-passage#
-SUCCEED#v.#successar, prosperar; (follow) succeDer, sequer#
+SUCCEED#v.#successar, prosperar; (to follow) succeDer, sequer#
 SUCCEED TO#v.#heredar#
 SUCCESS#n.#successe#
 SUCCESSFUL#adj.#felici, successosi#
@@ -14592,7 +14592,7 @@ SULTAN#n.#sultane (-atu, -essa)#
 SULTANA#n.#micri rosine#
 SULTRY#adj.#sufocant, opressiv#
 SUM#n.#summa, totale; (arith.) calcul, exemple#
-SUM UP#v.#resumar; (add) addir#
+SUM UP#v.#resumar; (to add) addir#
 SUMMARISE#v.#resumar#
 SUMMARY#n.#compendie, summarium#
 SUMMER#n.#estive (-al)#
@@ -14682,14 +14682,14 @@ SURROUND#v.#cernar, circumdar#
 SURROUNDINGS#n.#circumité#
 SURTAX#n.#superimposte#
 SURVEY#n.#super-regarda; expertise#
-SURVEY#v.#explorar; (scan) regardar, supervider; inspecter (-ion); (land) mesurar (-ator, -age); far un expertise#
+SURVEY#v.#explorar; (to scan) regardar, supervider; inspecter (-ion); (land) mesurar (-ator, -age); far un expertise#
 SURVEYOR#n.#agremesurator#
 SURVIVAL#n.#superviventie#
 SURVIVE#v.#perviver, superviver (-ante)#
 SUSCEPTIBLE#adj.#susceptibil (-itá), impressibil, sensibil#
 SUSPECT#adj.#suspect (-er, -ion, -iv)#
 SUSPECT#n.#suspecte#
-SUSPECT#v.#(suspect that) conjecter que#
+SUSPECT#v.#conjecter#
 SUSPEND#v.#suspenDer (-siv, -sion)#
 SUSPENDERS#n.#porta-strumpes#
 SUSPENSE#n.#suspense, íncertitá#

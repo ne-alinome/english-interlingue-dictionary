@@ -76,9 +76,10 @@
   adjective, etc.  
 - Mark or copy as example expressions the entries containing more than
   one word.
-- Add missing "to" to verbal meaning notes (already done in entries A-R).
+- Add missing "to" to verbal meaning notes (already done in entries A-S).
 - Fix: "TO FORCE UPON" is given two different translations.
-- Add "descargar" to "decargar".  
+- Add "descargar" to "decargar".
+- Update: "plomb" -> "plumb".
 
 // Doubts {{{1
 == Doubts
