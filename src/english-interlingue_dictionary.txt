@@ -982,11 +982,11 @@ BACON#n.#larde#
 BACTERIA#n.#bacteries#
 BAD#adj.#mal, malin, maliciosi, putrid#
 BAD WEATHER#n.#grisú#
+BAD-TEMPERED#adj.#malhumorat#
 BADGE#n.#signe, marca; (of rank) insigne#
 BADGER#n.#taxon#
 BADGER#v.#molestar, tormentar#
 BADINAGE#n.#jocada, burleríe#
-BAD-TEMPERED#adj.#malhumorat#
 BAFFLE#v.#confuser, impedir, frustrar#
 BAFFLING#adj.#mocant, confusent#
 BAG#n.#sac; (purse) borse; (lady's handbag) recitul; (valise) valise#
@@ -1030,9 +1030,9 @@ BANAL#adj.#banal (-itá)#
 BANANA#n.#banane#
 BAND#n.#bande; (mus.) capelle, orchestre; (of soldiers etc.) truppe, bande, gruppe#
 BAND#v.#atruppar se, junter se#
+BAND-BOX#n.#chapel-buxe#
 BANDAGE#n.#bandage#
 BANDAGE#v.#bandagear#
-BAND-BOX#n.#chapel-buxe#
 BANDIT#n.#bandite, brigante#
 BANDOLIER#n.#bandoliere#
 BANDY#v.#jettar a ci e ta, exchangear#
@@ -1094,6 +1094,7 @@ BARRIER#n.#barriere#
 BARRISTER#n.#avocate#
 BARROW#n.#(mound) tumul; (wheelbarrow) pussacarrette#
 BARTER#n.#troc (-ar); exchangear#
+BAS-RELIEF#n.#bass-relief#
 BASALT#n.#basalte#
 BASE#adj.#bass, vil, abject#
 BASE#n.#base, funde; (pedestal) socle#
@@ -1106,7 +1107,6 @@ BASIS#n.#base#
 BASK#n.#Basco#
 BASK#v.#insolar se#
 BASKET#n.#corbe (-ero)#
-BAS-RELIEF#n.#bass-relief#
 BASS#n.#(fish) perche; (bast) bast; (mus.) basse; (singer) bassist#
 BASSOON#n.#basson#
 BAST#n.#bast, fibre#
@@ -1193,8 +1193,8 @@ BE LEFT OVER#v.#restar#
 BE MISTAKEN#v.#errar#
 BE OBLIGED#expr.#MUCH OBLIGED TO YOU: grand mersí#
 BE OBLIGED TO#v.#dever#
-BE OFF!#interj.#for!, via!#
 BE OFF FOOD#v.#esser sin apetite, ne haver apetite#
+BE OFF!#interj.#for!, via!#
 BE ON DUTY#v.#dejorar#
 BE OUT OF#v.#esser sin, mancar#
 BE PALE#v.#paller#
@@ -1273,10 +1273,10 @@ BEDRAGGLE#v.#insordidar#
 BEDROOM#n.#lett-chambre, dormitoria#
 BEDSTEAD#n.#lette-frame, lettiere#
 BEE#n.#ape (-iere)#
+BEE-KEEPING#n.#apicultura#
 BEECH#n.#fago#
 BEEF#n.#carne bovin, bovine#
 BEEFSTEAK#n.#bifstec#
-BEE-KEEPING#n.#apicultura#
 BEER#n.#bir#
 BEESWAX#n.#cire apin#
 BEETLE#n.#scarabe; (cockroach) blatte#
@@ -1487,18 +1487,18 @@ BLAB#v.#babillar; revelar#
 BLACK#adj.#nigri#
 BLACK#v.#(boots) cirar#
 BLACK ALDER#n.#frangul#
-BLACKAMOOR#n.#negro#
 BLACK-BEETLE#n.#blatte#
+BLACK-CURRANT#n.#nigri crusbere, cassis (-iero)#
+BLACK-FLY#n.#afise#
+BLACK-LEG#n.#renegate#
+BLACKAMOOR#n.#negro#
 BLACKBERRY#n.#brambere, rúbus#
 BLACKBIRD#n.#merle#
-BLACK-CURRANT#n.#nigri crusbere, cassis (-iero)#
 BLACKEN#v.#(de)nigrar#
-BLACK-FLY#n.#afise#
 BLACKGUARD#n.#fripon, rascale, malard, laceron#
 BLACKHEAD#n.#cometon#
 BLACKING#n.#cire#
 BLACKLEAD#n.#grafite; (pencil) crayon#
-BLACK-LEG#n.#renegate#
 BLACKMAIL#n.#chantage (-ear)#
 BLACKPUDDING#n.#sangue-salsice#
 BLACKSMITH#n.#ferre-forjero, huf-forjero#
@@ -1639,6 +1639,7 @@ BOMB#n.#bombe#
 BOMBARD#v.#bombardar (-ament)#
 BOMBAST#n.#bombast (-ic)#
 BOMBER#n.#bombavion, porta-bombes#
+BON-MOT#n.#esprite, "bon-mot"#
 BONA FIDE#adj.#genuin; in bon fide#
 BOND#n.#(tie) bande; (legal) contracte; (money) obligation#
 BONDAGE#n.#captivitá, sclaveríe, servitude#
@@ -1647,7 +1648,6 @@ BONE#n.#osse (-in, -osi, -ament, -age, -ificar)#
 BONE#v.#desossar#
 BONE OF CONTENTION#n.#pom de discordie#
 BONFIRE#n.#foy, festa-foy#
-BON-MOT#n.#esprite, "bon-mot"#
 BONMOT#n.#esprite, "bon-mot"#
 BONNET#n.#cofie#
 BONNY#adj.#jolli, pretti#
@@ -1863,8 +1863,8 @@ BROOM#n.#balaye; (bot.) genista#
 BROTH#n.#bullion; consommé#
 BROTHEL#n.#bordelle, lupanare#
 BROTHER#n.#fratre#
-BROTHERHOOD#n.#fraternité#
 BROTHER-IN-LAW#n.#bel-fratre#
+BROTHERHOOD#n.#fraternité#
 BROTHERLINESS#n.#fraternitá#
 BROW#n.#fronte; (eyebrow) brove#
 BROWBEAT#v.#intimidar, opresser#
@@ -1915,13 +1915,13 @@ BULGE#v.#protuberar, prominer#
 BULK#n.#pluparte; volúmine (-osi), masse; (size) grandore#
 BULKHEAD#n.#clusion#
 BULL#n.#bovo, tauro (-in, -eator, -ero); (papal) bulle#
+BULL'S EYE#n.#cible-centre#
 BULLDOG#n.#bulldogg#
 BULLET#n.#bul, balle#
 BULLETIN#n.#bulletine#
 BULLFINCH#n.#pírrul#
 BULLION#n.#aure o argente in barres#
 BULLOCK#n.#bove castrat#
-BULL'S EYE#n.#cible-centre#
 BULLY#n.#brute, tiranno, rixard#
 BULRUSH#n.#glatt junc#
 BULWARK#n.#bastion, vall#
@@ -2021,12 +2021,12 @@ BY STEALTH#adv.#furtivmen, insidiosimen#
 BY THE WAY#adv.#apropó, passante#
 BY TURNS#adv.#secun torne#
 BY WAY OF#adv.#quam#
+BY-PRODUCT#n.#sub-producte#
 BYE-ELECTION#n.#election suplemental#
-BYEGONE#adj.#passat, preterit, ancian#
 BYE-LAW#n.#statute local#
 BYE-PLAY#n.#interlude#
 BYE-ROAD#n.#via lateral#
-BY-PRODUCT#n.#sub-producte#
+BYEGONE#adj.#passat, preterit, ancian#
 BYRE#n.#bov-stalle#
 BYSTANDER#n.#spectator, assistente#
 BYWORD#n.#proverbie; moc-nómine#
@@ -2109,10 +2109,10 @@ CAMISOLE#n.#camisol#
 CAMOMILE#n.#camomille#
 CAMOUFLAGE#v.#camuflar (-age)#
 CAMP#n.#camp (-ar)#
+CAMP-BEDSTEAD#n.#plio-lettiere#
 CAMPAIGN#n.#campanie (-al)#
 CAMPANALOGY#n.#clocheation#
 CAMPANULA#n.#campanula#
-CAMP-BEDSTEAD#n.#plio-lettiere#
 CAMPHOR#n.#camfor (-ic)#
 CAMPION#n.#lichnide#
 CAN#expr.#THEY CAN: ili posse#
@@ -2269,10 +2269,10 @@ CASSOWARY#n.#casoare#
 CAST#n.#(worm cast) tumul#
 CAST#v.#lansar, jettar; (metal) fonder; (in the eye) strabe#
 CAST ASPERSIONS#v.#defamar, descreditar#
+CAST-IRON#n.#ferre fondet#
 CASTE#n.#caste#
 CASTER#n.#rulette#
 CASTIGATE#v.#castigar (-ation, -ator), punir#
-CAST-IRON#n.#ferre fondet#
 CASTLE#n.#castelle; (chess) turre#
 CASTOR#n.#castor#
 CASTOR-OIL#n.#ricin-oleo#
@@ -2466,8 +2466,8 @@ CHEMICAL#adj.#chimic#
 CHEMICALS#n.pl.#chimicalies, productes chimic#
 CHEMISE#n.#camis(ett)e#
 CHEMIST#n.#apotecario; (analytical) chimico#
-CHEMISTRY#n.#chimie#
 CHEMIST'S SHOP#n.#apoteca#
+CHEMISTRY#n.#chimie#
 CHEQUE#n.#chec#
 CHERISH#v.#cuidar (tendrimen), estimar; (a hope, a dream, etc.) nutrir#
 CHERRY#n.#cerese (-iero)#
@@ -2626,8 +2626,8 @@ CLANG#v.#sonorar#
 CLANK#v.#raslar (-ada)#
 CLAP#v.#(hands) claccar, clappar, aplauder#
 CLAP OF THUNDER#n.#clapp de tónnere#
-CLAPPER#n.#(of bell) battente#
 CLAP-TRAP#n.#boniment#
+CLAPPER#n.#(of bell) battente#
 CLARET#n.#vin de Bordeaux#
 CLARIFY#v.#aclarar, clarificar (-ation)#
 CLARINET#n.#clarinette#
@@ -2714,6 +2714,9 @@ CLUSTER#n.#(grapes) uve; (trees etc.) gruppe; (flowers) toff#
 CLUTCH#n.#griffe; (motoring) acuplator#
 CLUTCH#v.#capter, tener#
 CLUTCH PEDAL#n.#pedale de acuplage#
+CO-OPERATE#v.#cooperar (-ation, -ativ, -ative)#
+CO-OPT#v.#cooptar (-ation)#
+CO-ORDINATE#v.#coordinar (-ation, -ator, -ates)#
 COACH#n.#coche (-ero), caleche, carosse; (rail.) vagon; (tutor) privat instructor#
 COAGULATE#v.#coagular (-ation)#
 COAL#n.#carbon (-iere, -iera)#
@@ -2725,8 +2728,8 @@ COAST#n.#costa, marborde, líttore, rive#
 COAST#v.#cabotar (-age, -ero)#
 COAT#n.#(jacket) jaque, veston; (dress coat) frac; (of animals) pelisse. (coat of arms) blason#
 COAT OF ARMS#n.#blason, emblema#
-COATED#adj.#stuccat, incrustat#
 COAT-HANGER#n.#veste-croc#
+COATED#adj.#stuccat, incrustat#
 COAX#v.#persuaDer#
 COB#n.#un fort pony; (maize) spica#
 COBALT#n.#cobalt#
@@ -3189,9 +3192,6 @@ COOLING#n.#(mech.) refrigidation#
 COOLNESS#n.#aplombe#
 COOP#n.#cage por volallia#
 COOPER#n.#cuvero#
-CO-OPERATE#v.#cooperar (-ation, -ativ, -ative)#
-CO-OPT#v.#cooptar (-ation)#
-CO-ORDINATE#v.#coordinar (-ation, -ator, -ates)#
 COOT#n.#fulica#
 COPE#n.#(eccl.) sutane; (dome) cupol#
 COPE WITH#v.#luctar contra, mastrisar#
@@ -3453,26 +3453,26 @@ CROSS#adj.#travers, transversal; obliqui, diagonal; iritabil, morosi#
 CROSS#n.#cruce, crucifix; hibride#
 CROSS#v.#transear, transir, passar; (to oppose) oposir; (plants) crucear, hibridisar#
 CROSS OUT#v.#trastrecar; (of streets) intersecter se#
-CROSSBOW#n.#arbalest#
 CROSS-EXAMINE#v.#contra-questionar#
 CROSS-EYED#adj.#strab (-on, -isme)#
 CROSS-GRAINED#adj.#(of persons) obstinat, renitent#
-CROSSING#n.#passage, trajecte; (rail.) nivell-passage#
 CROSS-ROADS#n.#crucevia#
 CROSS-TREES#n.#(naut.) travers-salinga#
+CROSSBOW#n.#arbalest#
+CROSSING#n.#passage, trajecte; (rail.) nivell-passage#
 CROTCHET#n.#(whim) marotte, capricie; (mus.) quart-note#
 CROUCH#v.#ahoccar se, inflexer se, bassar se#
 CROUP#med.#crupp; (animals) crupe#
 CROW#n.#(bird) cornille#
 CROW#v.#cantar quam un gállino#
 CROW OVER#v.tr.#triumfar súper#XXX FIXME
+CROW'S NEST#n.#mast-corb#
 CROWBAR#n.#levuore, ferrin fuste#
 CROWD#expr.#TO CROWD SAILS: presser segles, portar tro mult segles#
 CROWD#n.#hom-amasse, turbe#
 CROWD#v.#presser, amassar, superplenar#
 CROWN#n.#coron, diadem; (wreath) guirlande; (of head) vertice; (of anchor) cruce#
 CROWN#v.#coronar (-ation)#
-CROW'S NEST#n.#mast-corb#
 CRUCIAL#adj.#critic, decisiv#
 CRUCIBLE#n.#fusuore, crusel#
 CRUCIFIX#n.#crucifix#
@@ -3582,13 +3582,13 @@ CUT#adj.#(glass) polit, slifat#
 CUT#n.#cisura; tranchitura; (style) fasson#
 CUT#v.#(hair) tonder; (meat) tranchir; (stone) ciser, sculpter#
 CUT OFF#v.#decupar, deciser#
+CUT-THROAT#n.#assassinator, cise-gurgul#
 CUTANEOUS#adj.#pellic, dermatic, cutin#
 CUTE#adj.#sagaci, astut#
 CUTICLE#n.#epiderma, cuticul#
 CUTLER#n.#cultellero (-íe)#
 CUTLET#n.#cotlette#
 CUTTER#n.#(blade) lame, cupuore; (naut.) cuttre#
-CUT-THROAT#n.#assassinator, cise-gurgul#
 CUTTING#n.#(hort.) demergeon#
 CUTTLEFISH#n.#sepia#
 CYCLAMEN#adv.#ciclamen#
@@ -3777,8 +3777,8 @@ DEED#n.#acte, action; document#
 DEEM#v.#opiner, considerar#
 DEEP#adj.#profund (-ita, -esse, -ore)#
 DEEP#n.#mare, abisse#
-DEEPEN#v.#aprofundar, devenir plu intens#
 DEEP-SEATED#adj.#inradicat#
+DEEPEN#v.#aprofundar, devenir plu intens#
 DEER#n.#cervo (-a); (roe) capreol#
 DEFACE#v.#defigurar, deformar, defecter#
 DEFALCATE#v.#defraudar#
@@ -4345,11 +4345,11 @@ DOG#n.#cane (-in, -allia)#
 DOG ONE'S STEPS#v.#persequer#
 DOG-DAYS#n.#dies caniculari, caniculas#
 DOG-FANCIER#n.#cane-cultor#
+DOG-ROSE#n.#savagi rose#
+DOG-STAR#n.#Sírius#
 DOGGED#adj.#tenaci, obstinat, infatigabil#
 DOGGEREL#n.#versaches, rimallia#
 DOGMA#n.#dogma (-tic)#
-DOG-ROSE#n.#savagi rose#
-DOG-STAR#n.#Sírius#
 DOING#expr.#THAT WAS YOUR DOING: ta vu es culpabil, pri to vu es responsabil#
 DOLE#n.#(share) parte, portion; almosne#
 DOLE#v.#(dole out) partir, distribuer#
@@ -4370,9 +4370,9 @@ DOMINION#n.#hegemonie, soveranitá, regne; (territory) dominia#
 DOMINO#n.#dominó#
 DON#n.#colegial preceptor#
 DON#v.#metter, vestir se per#
+DON'T BUDGE!#interj.#stopp!#
 DONATE#v.#donar (-ation, -ator)#
 DONKEY#n.#ásino (-in)#
-DON'T BUDGE!#interj.#stopp!#
 DOOM#n.#fate, destine, ruine, perition; (law) sententie#
 DOOM#v.#condamnar#
 DOOR#n.#porta#
@@ -4451,8 +4451,8 @@ DRAUGHTSMAN#n.#dessinator; (in game) pezze#
 DRAUGHTY#adj.#ventosi#
 DRAW#n.#(sport) egalitá#
 DRAW#v.#(pull) tirar, traer, atraer; (drag) trenar; (water) hauster; (on paper) dessinar; (lots) lotar; (draw near) aproximar se#
-DRAWBACK#n.#desavantage#
 DRAW-BRIDGE#n.#tir-ponte, ponte levabil#
+DRAWBACK#n.#desavantage#
 DRAWER#n.#tiruore, tirbux, tircheste#
 DRAWERS#n.#calson#
 DRAWING#n.#dessin, li dessination#
@@ -4591,13 +4591,13 @@ EAGER#adj.#zelosi, fervent, fervorosi, ardent; avid#
 EAGLE#n.#áquil (-in)#
 EAR#n.#orel; (of corn) spica; (for music) audie musical#
 EAR-ACHE#n.#orel-dolore#
+EAR-SPLITTING#adj.#assurdant#
 EARL#n.#comto (-atu)#
 EARLY#adj., adv.#tost, temporan#
 EARN#v.#ganiar; meriter#
 EARNEST#adj.#sinceri, fervid, zelosi#
 EARNEST#n.#garantie#
 EARNINGS#n.#ganie#
-EAR-SPLITTING#adj.#assurdant#
 EARTH#n.#terre, suol; (the earth) terra (-an, -estri)#
 EARTHENWARE#n.#potteríe, fayance#
 EARTHQUAKE#n.#sisme, terr-tremore#
@@ -5204,12 +5204,12 @@ EXUDE#v.#exsudar#
 EXULT#v.#exultar, jubilar#
 EYE#n.#ocul#
 EYE#v.#guatar, observar#
+EYE-WITNESS#n.#testimon oculari#
 EYEBROW#n.#brove#
 EYELASH#n.#cilie#
 EYELET#n.#oculette#
 EYELID#n.#palpebre#
 EYESIGHT#n.#visivitá#
-EYE-WITNESS#n.#testimon oculari#
 EYRIE#n.#áquil-nest#
 FABLE#n.#fabul (-ist, -osi), saga, legende#
 FABRIC#n.#edificie, structura; (cloth) stoff, materie, textage#
@@ -5463,6 +5463,7 @@ FILM#n.#membrane, pellícul; (phot.) film (-actor, -stelle)#
 FILTER#n.#filtre (-ar)#
 FILTH#n.#sordidage, sordidallia#
 FIN#n.#pinne, svimmuore#
+FIN-FOOTED#adj.#pinnipedat#
 FINAL#adj.#final, ultim#
 FINALE#n.#final#XXX FIXME -- "final" -> "finale"
 FINANCE#n.#financie (-al, -ero)#
@@ -5475,7 +5476,6 @@ FINE#adj.#bell; (thin) tenui; subtil; (sharp) acut; (delicate) fin, delicat#
 FINE#n.#punition pocuhiari, multa, amende#
 FINERY#n.#ornamentes#
 FINESSE#n.#finesse, astutie, subtilitá; (at cards) finte#
-FIN-FOOTED#adj.#pinnipedat#
 FINGER#n.#fingre#
 FINGER#v.#palpar#
 FINGER PRINT#n.#fingre-print#
@@ -6047,9 +6047,9 @@ GARROT#n.#garot (-ar)#
 GARRULOUS#adj.#babillaci, loquaci#
 GARTER#n.#strump-lace, gartere#
 GAS#n.#gas (-ificar)#
+GAS-METER#n.#gas-metre, contator de gas#
 GASCONADE#n.#gasconada#
 GASH#n.#larg vúlnere, vúlnere beant#
-GAS-METER#n.#gas-metre, contator de gas#
 GASOMETER#n.#gasometre#
 GASP#n.#spasma#
 GASP#v.#anhelar (-ation)#
@@ -6264,15 +6264,15 @@ GO UP#v.#ascender, montar#
 GO UPSTAIRS#v.#ear ad supra#
 GO WITHOUT#v.#carir; poslassar#
 GO WRONG#v.#errar#
+GO-BETWEEN#n.#mediator; (pander) proxenete#
+GO-CART#n.#pussa-carrette#
 GOAD#n.#stimul, picstimul, agullion#
 GOAD#v.#picar, stimular#
 GOAL#n.#scope; (sport) gol, porta#
 GOAT#n.#capre (-o, -a)#
 GOBBLE#v.#glutir, vorar#
-GO-BETWEEN#n.#mediator; (pander) proxenete#
 GOBLET#n.#cope, bocale#
 GOBLIN#n.#cobolde, elf, mal spírite#
-GO-CART#n.#pussa-carrette#
 GOD#n.#deo (-essa)#
 GODCHILD#n.#filie baptismal#
 GODFATHER#n.#compatre, patrino#
@@ -6300,10 +6300,10 @@ GOOD FOR NOTHING#adj.#ínutil, (person) vale-necós#
 GOOD FRIDAY#n.#Sant Venerdí#
 GOOD GRACIOUS!#interj.#Dómino-Deo!#
 GOOD LUCK!#interj.#bon successe!, bon chance!#
-GOODBYE#interj.#adio, til revide#
 GOOD-FELLOWSHIP#n.#camaraderíe#
 GOOD-FOR-NOTHING#n.#vale-necós#
 GOOD-NATURED#adj.#boncordiosi#
+GOODBYE#interj.#adio, til revide#
 GOODS#n.#merces; possedage#
 GOODS IN BOND#n.#merces subject a doane#
 GOODS-TRAIN#n.#merce-tren#
@@ -6414,9 +6414,9 @@ GRAY#adj.#grisi (-atri)#
 GRAZE#v.#(of cattle) pastar (se); (scrape) scrapar, grattar; tuchettar, frolar#
 GREASE#n.#grasse; (candle grease) sebe, densi oleo; (ointment) unguente#
 GREAT#adj.#grand (-itá, -esse, -ore)#
+GREAT-GRANDFATHER#n.#atavo#
 GREATCOAT#n.#surtute, paletó#
 GREATEST#adj.#max grand, optimal#
-GREAT-GRANDFATHER#n.#atavo#
 GREATLY#adv.#mult, fortmen#
 GREEDY#adj.#avari (-tá). voraci; (eager) avid#
 GREEN#adj.#verdi (-atri; (unripe) ínmatur; ínexpert#
@@ -6432,8 +6432,8 @@ GRENADE#n.#grenade (-ero)#
 GREY#adj.#grisi (-atri)#
 GREYHOUND#n.#levriero#
 GRID#n.#(cul.) grill#
-GRIDDLE#n.#padelle#
 GRID-IRON#n.#grill#
+GRIDDLE#n.#padelle#
 GRIEF#n.#grive, afliction#
 GRIEVANCE#n.#plende#
 GRIEVE#v.#chagrinar, grivar#
@@ -6573,8 +6573,8 @@ HAGGARD#adj.#magri, marasmat#
 HAGGLE#v.#mercachar#
 HAIL#n.#grel (-ar, -un)#
 HAIL#v.#aclamar; (summon) advocar; (greet) salutar#
-HAIL!#interj.#salutation!, halló!#
 HAIL FROM#v.#provenir de#
+HAIL!#interj.#salutation!, halló!#
 HAIR#n.#capille (-osi); (animals) crine#
 HAIR DRESSER#n.#frisero#
 HAIRLESS#adj.#calvi#
@@ -6669,8 +6669,8 @@ HARDSHIP#n.#adversitá, penositá#
 HARDWARE#n.#quincallia (-ero)#
 HARDY#adj.#fort, robust#
 HARE#n.#lépor (-in)#
-HAREBRAINED#adj.#folli, stult#
 HARE-LIP#n.#labie leporatri#
+HAREBRAINED#adj.#folli, stult#
 HAREM#n.#harem#
 HARK#v.#escutar#
 HARLEQUIN#n.#arlequin (-ade)#
@@ -6745,8 +6745,8 @@ HEAD#n.#cap; chef, mastro, principale, director; (source) fonte; (on beer) scum#
 HEAD#v.#(lead) ducter, comandar; (a ball) cap-pussar#
 HEAD LAMP#n.#projector#
 HEAD OF HAIR#n.#capillatura#
-HEADACHE#n.#cap-dolore; rupte-cap#
 HEAD-FIRST#adv.#cap-ad-avan#
+HEADACHE#n.#cap-dolore; rupte-cap#
 HEADING#n.#rubrica#
 HEADLAND#n.#promontorie#
 HEADMASTER#n.#mastro, principale#
@@ -6885,14 +6885,14 @@ HIGH#adj.#alt; (meat) desfrisc, infectet; (sea) apert#
 HIGH#prep.#apu#
 HIGH WATER#n.#alt marea#
 HIGH-CLASS#adj.#de alt classe#
-HIGHFLOWN#adj.#inflat, pomposi#
 HIGH-HANDED#adj.#arbitrari, despotic#
+HIGH-MINDED#adj.#de alt anim, nobli#
+HIGH-SPIRITED#adj.#vivaci, audaci#
+HIGHFLOWN#adj.#inflat, pomposi#
 HIGHLAND#n.#alt montania, alt paise#
 HIGHLY#adv.#tre#
-HIGH-MINDED#adj.#de alt anim, nobli#
 HIGHNESS#n.#Altesse, Excellentie#
 HIGHROAD#n.#chossé#
-HIGH-SPIRITED#adj.#vivaci, audaci#
 HIGHWAYMAN#n.#bandite, brigante#
 HILARIOUS#adj.#gayissim, hilari (-tá)#
 HILL#n.#coline; declive#
@@ -6928,10 +6928,10 @@ HITCH#v.#acrocar#
 HITHER#adv.#a ci#
 HITHERTO#adv.#til nu#
 HIVE#n.#apiere#
+HOAR-FROST#n.#gela crinosi, pruine#
 HOARD#n.#provision, stock, amasse#
 HOARD#v.#amassar secretmen, acumular#
 HOARDINGS#n.#planc-palissade#
-HOAR-FROST#n.#gela crinosi, pruine#
 HOARSE#adj.#rauc (-itá, -ore)#
 HOARY#adj.#ancian, blanc pro etá#
 HOAX#v.#mistificar, decepter, dupar#
@@ -7156,9 +7156,9 @@ IAMBIC#n.#iamb#
 IBIS#n.#ibis#
 ICE#n.#glacie (-al); (sweetmeat) gelate#
 ICE#v.#(cool) afrigidar; (cover with sugar) sucrar#
+ICE-CREAM#n.#gelate#
 ICEBERG#n.#iceberg, glacie-monte#
 ICEBREAKER#n.#rupte-glacie#
-ICE-CREAM#n.#gelate#
 ICEFIELD#n.#camp de glacie#
 ICEPLOUGH#n.#glacie-plug#
 ICICLE#n.#candel de glacie#
@@ -7192,23 +7192,23 @@ IGNORE#v.#ignorar; ficter ne vider#
 ILL#adj.#malad, índisposit; (bad) mal#
 ILL#n.#male, lu mal#
 ILL-ADVISED#adj.#ínprudent, íncaut#
+ILL-FEELING#n.#ínamicitá#
+ILL-OMENED#adj.#de mal ómine#
+ILL-USE#v.#mal tractar, misusar#
+ILL-WILL#n.#malevolentie#
 ILLEGAL#adj.#ínlegal (-itá)#
 ILLEGIBLE#adj.#ínleibil (-itá)#
 ILLEGITIMATE#adj.#ínlegitim, bastard#
-ILL-FEELING#n.#ínamicitá#
 ILLICIT#adj.#illicit, ínpermisset, ínlicet#
 ILLIMITABLE#adj.#ínlimitabil#
 ILLITERATE#adj.#analfabetic, ignorant, íneducat#
 ILLNESS#n.#maladie#
 ILLOGICAL#adj.#ínlogic#
-ILL-OMENED#adj.#de mal ómine#
 ILLUMINATE#v.#iluminar (-ation), elucidar; (books) adornar#
-ILL-USE#v.#mal tractar, misusar#
 ILLUSION#n.#ilusion (-ist)#
 ILLUSORY#adj.#ilusori#
 ILLUSTRATE#v.#ilustrar (-ation, -ator)#
 ILLUSTRIOUS#adj.#famosi, celebri#
-ILL-WILL#n.#malevolentie#
 IMAGE#n.#image; icone, statue; figura, portrete#
 IMAGERY#n.#images (retoric)#
 IMAGINE#v.#imaginar (-ari, -ation), suposir#
@@ -7953,11 +7953,11 @@ JAB AT#v.#pussar contra (per punta de alquo), picar#
 JABBER#v.#jargonar, carcarear#
 JACK#n.#(at cards) valet; (spit) torn-pica; (screwjack) cric#
 JACK OF ALL TRADES#n.#(naut.) flagga de proa#
+JACK-IN-THE-BOX#n.#diabolette-in-buxe#
 JACKAL#n.#chacale#
 JACKASS#n.#ásino#
 JACKDAW#n.#monedul#
 JACKET#n.#jaquette#
-JACK-IN-THE-BOX#n.#diabolette-in-buxe#
 JADE#n.#cavallacha; feminach; (min.) jade#
 JADED#adj.#fatigat, lassi#
 JAGGED#adj.#con inregulari bordes#
@@ -8179,9 +8179,9 @@ KNEE-BREECHES#n.#curt culotte#
 KNEE-CAP#n.#rotul; (med.) patella#
 KNEEL#v.#genuflexer (-ion), agenuar se#
 KNELL#n.#funeral clocheada#
+KNICK-KNACK#n.#bagatelle, ornette#
 KNICKERBOCKERS#n.#culotte#
 KNICKERS#n.#calson#
-KNICK-KNACK#n.#bagatelle, ornette#
 KNIFE#n.#cultelle#
 KNIFE BOARD#n.#slifuore#
 KNIGHT#n.#cavalliero (-esc)#
@@ -8236,9 +8236,9 @@ LADEN#adj.#cargat; (abstract sense) chargeat, opresset#
 LADLE#n.#coclaron, coclare haustiv#
 LADY#n.#dama, seniora#
 LADY DAY#n.#Anunciation#
+LADY-LOVE#adj.#amata#
 LADYBIRD#n.#coccinelle#
 LADYLIKE#adj.#de bon manieres, de seniora#
-LADY-LOVE#adj.#amata#
 LAG#n.#retardation#
 LAG#v.#lentear, restar retro, tardar, lentardear#
 LAGGARD#n.#lentarde#
@@ -8376,8 +8376,8 @@ LAY SIEGE#v.#assediar (-ation)#
 LAY SIEGE TO#v.#assediar#
 LAY UP#v.#amassar, aprovisionar#
 LAY WASTE#v.#devastar#
-LAYER#hort.#marcotte; (geol.) strate; (de)positor#
 LAY-FIGURE#n.#marionette, figura#
+LAYER#hort.#marcotte; (geol.) strate; (de)positor#
 LAZY#adj.#pigri, índolent#
 LEA#n.#herbiera, prate#
 LEAD#n.#(conduct) duction, direction; (in front) precedentie; (metal) plumbe; (for pencils) grafite; (naut.) sonde#
@@ -8488,9 +8488,9 @@ LET OUT#v.#(clothes) extender, alargar; (divulge) divulgar; (free) lassar surtir
 LETHAL#adj.#mortific, mortatori#
 LETHARGY#n.#letargie (-ic)#
 LETTER#n.#lettre (-bux); (of alphabet) líttere#
+LETTER-RACK#n.#lettriere, porta-lettre#
 LETTERED#n.#litterat; erudit, doct#
 LETTERPRESS#n.#textu#
-LETTER-RACK#n.#lettriere, porta-lettre#
 LETTERS#expr.#A MAN OF LETTERS: litterato#
 LETTERS#n.#litteratura#
 LETTUCE#n.#latug#
@@ -8543,13 +8543,13 @@ LIEGE#adj.#vassali#
 LIEUTENANT#n.#leutenante#
 LIFE#n.#vive, existentie; vivacitá; aferes homan; (biography) biografie#
 LIFE-ANNUITY#n.#rente vive-durant#
+LIFE-SIZE#n.#grandore natural#
 LIFEBELT#n.#cintura salvatori#
 LIFEBOAT#n.#bote salvatori#
 LIFEBUOY#n.#boye salvatori#
 LIFELESS#adj.#sin vive, ínanimat, mort#
 LIFELIKE#adj.#natural#
 LIFELONG#adj.#vive-durant, por li tot vive#
-LIFE-SIZE#n.#grandore natural#
 LIFETIME#n.#vive-témpor#
 LIFT#n.#lift, elevator; auxilie#
 LIFT#v.#levar; (fog) disperser se#
@@ -8560,9 +8560,9 @@ LIGHT#n.#luce, lúmine; foy#
 LIGHT#v.#accenDer, inflammar#
 LIGHT ON#v.#incontrar; decovrir#
 LIGHT UP#v.#iluminar#
+LIGHT-FOOTED#adj.#agil (-ita)#
 LIGHTEN#v.#aclarar; iluminar, lucidar; (ease) aleviar; (lightning) fulminar#
 LIGHTER#n.#(boat) chalande, chalupe; (cigarette lighter) accendette#
-LIGHT-FOOTED#adj.#agil (-ita)#
 LIGHTHEADED#adj.#deliriosi#
 LIGHTHEARTED#adj.#gay, joyosi, de levi anim#
 LIGHTHOUSE#n.#fare#
@@ -8725,12 +8725,12 @@ LONG#adv.#long(men)#
 LONG#expr.#NOT LONG AGO: ante ne long#
 LONG#v.#desirar fortmen, sospirar#
 LONG SINCE#adv.#ante long témpor, ja de longmen; de tande#
-LONGEVITY#n.#long-viventie#
-LONGING#n.#fort desire#
-LONGITUDE#n.#longitúdine (-al)#
 LONG-LIVED#adj.#long-vivent#
 LONG-SIGHTED#adj.#presbit, long-vident#
 LONG-SUFFERING#adj.#long-anim, patient#
+LONGEVITY#n.#long-viventie#
+LONGING#n.#fort desire#
+LONGITUDE#n.#longitúdine (-al)#
 LONGWAYS#adv.#secun li longore#
 LONGWINDED#adj.#tedant, tedosi#
 LOOK#v.#regardar, spectar#
@@ -8742,9 +8742,9 @@ LOOK INTO#v.#investigar#
 LOOK LIKE#v.#similar, aspecter#
 LOOK OUT!#interj.#garda!, atention!#
 LOOK TO#v.#fider a, contar sur#
-LOOKING-GLASS#n.#spegul#
 LOOK-OUT#n.#perspective; observator#
 LOOK-OUT TOWER#n.#belvedere#
+LOOKING-GLASS#n.#spegul#
 LOOM#n.#textuore#
 LOOM#v.#aparir lentmen in lontanie#
 LOOP#n.#lace, node current#
@@ -8886,9 +8886,9 @@ MAGGOT#n.#larve, verme#
 MAGI#n.pl.#magos#
 MAGIC#n.#magie#
 MAGIC LANTERN#n.#optic lanterne, lanterne magic#XXX TODO -- In the original data this entry was part of "lanterne"
+MAGIC-LANTERN#n.#lanterne magic, optic lanterne#XXX TODO --
 MAGICAL#adj.#magic#
 MAGICIAN#n.#magico#
-MAGIC-LANTERN#n.#lanterne magic, optic lanterne#XXX TODO --
 MAGISTERIAL#adj.#magistral#
 MAGISTRACY#n.#magistratura#
 MAGISTRATE#n.#magistrate, justiciario#
@@ -8984,6 +8984,7 @@ MAMMON#n.#mammon#
 MAMMOTH#n.#mámmut#
 MAN#n.#hom; (male) mann; (at draughts) pion#
 MAN#v.#equipar, mannar#
+MAN-OF-WAR#n.#nave de guerre#
 MANACLE#n.#manu-catene, manacle#
 MANAGE#v.#administrar, gerer, directer, guvernar; successar, far; (a household) menagear#
 MANAGEMENT#n.#administration, gerentie#
@@ -9023,7 +9024,6 @@ MANNERLY#adj.#polit, cortesi, bon educat#
 MANNERS#n.#mores; manieres#
 MANNISH#adj.#mannatri#
 MANOEUVRE#n.#manovre (-ar, -ada)#
-MAN-OF-WAR#n.#nave de guerre#
 MANOR#n.#(estate) domene senioral#
 MANSION#n.#grand dom, palace#
 MANSLAUGHTER#n.#homicidie#
@@ -9072,8 +9072,8 @@ MARKED#adj.#marcat; distint, sentibil#
 MARKET#n.#mercate; bazar#
 MARKET#v.#vendir (-ition)#
 MARKET PLACE#n.#plazza del mercate#
-MARKETABLE#adj.#vendibil#
 MARKET-TOWN#n.#borgo#
+MARKETABLE#adj.#vendibil#
 MARKSMAN#n.#tirator#
 MARL#n.#marne#
 MARMALADE#n.#marmalade#
@@ -9088,9 +9088,9 @@ MARRIAGEABLE#adj.#maritabil#
 MARROW#n.#(of bones) medulle; (vegetable) cucurbite#
 MARRY#v.#maritar (se)#
 MARSH#n.#palude (-osi), morasse#
+MARSH-MALLOW#n.#altéa#
 MARSHAL#n.#marchale#
 MARSHAL#v.#ordinar, arangear#
-MARSH-MALLOW#n.#altéa#
 MARSUPIAL#n.#marsupiale#
 MART#n.#mercate#
 MARTEN#n.#martre#
@@ -9293,10 +9293,10 @@ MESH#v.#(mech.) ingagear#
 MESMERISE#v.#mesmerisar#
 MESS#n.#confusion; sordidage; (mil.) mess#
 MESS#v.#(bungle) bosillar; (to soil) sordidar#
+MESS-MATE#n.#camarado de mess#
 MESSAGE#n.#missage (-ero), comunication#
 MESSENGER#n.#missagero, curriero#
 MESSIAH#n.#messía#
-MESS-MATE#n.#camarado de mess#
 MESTIZO#n.#mestisse#
 METAL#n.#metalle (-io, -in, -isar, -iferi)#
 METAL WEIGHT#n.#póndere#
@@ -9612,10 +9612,10 @@ MOTH#n.#tinea#
 MOTHEATEN#adj.#rodet de tineas#
 MOTHER#n.#matre#
 MOTHER WIT#n.#esprite natural#
-MOTHERHOOD#n.#matrinitá#
 MOTHER-IN-LAW#n.#bel-matre#
-MOTHERLY#adj.#maternal, matrin#
 MOTHER-OF-PEARL#n.#perlematre, nacre (-in)#
+MOTHERHOOD#n.#matrinitá#
+MOTHERLY#adj.#maternal, matrin#
 MOTHERWIT#n.#sagiesse natural#
 MOTION#n.#motion; movida; proposition#
 MOTIONLESS#adj.#ínmobil, ínmo(v)ent#
@@ -9624,8 +9624,8 @@ MOTIVE#adj.#motiv; motori#
 MOTIVE#n.#motive, rason#
 MOTLEY#adj.#heterogen, diversachi, pluricolori; color-maculat#
 MOTOR#n.#motor#
-MOTORCAR#n.#automobile (-isme)#
 MOTOR-CYCLE#n.#motorcicle#
+MOTORCAR#n.#automobile (-isme)#
 MOTTLED#adj.#de varie colores, color-maculat#
 MOTTO#n.#motto, devise#
 MOULD#n.#(soil) humo; (fungus) mofa, mofatura; (for casting) forme, modelle, matricie#
@@ -9807,12 +9807,13 @@ NAVIGATE#v.#navigar (-ation, -ator, -abil, -abilitá)#
 NAVVY#n.#foss-ovrero#
 NAVY#n.#marine, flotte#
 NAY#adv.#no#
+NE'ER-DO-WELL#n.#vale-necós#
 NEAP-TIDE#n.#micri marea#
 NEAR#adj.#proxim (-itá), vicin; (related) parent; intim#
 NEAR#prep.#apu#
 NEAR#v.#aproximar se#
-NEARLY#adv.#presc#
 NEAR-SIGHTED#adj.#miop (-ie)#
+NEARLY#adv.#presc#
 NEAT#adj.#nett, jolli; simplic; (clever) habil; (undiluted) índiluet#
 NEBULA#astr.#nebulose#
 NEBULOUS#adj.#nebulosi (-tá)#
@@ -9833,7 +9834,6 @@ NEEDLESS#adj.#van, ínutil, superflú#
 NEEDLEWOMAN#n.#sutora#
 NEEDS#adv.#necessimen#
 NEEDY#adj.#povri, indigent#
-NE'ER-DO-WELL#n.#vale-necós#
 NEFARIOUS#adj.#criminal, abominabil#
 NEGATION#n.#negation#
 NEGATIVE#adj.#negativ#
@@ -9954,8 +9954,8 @@ NOHOW#adv.#nequalmen, nullmen#
 NOISE#n.#brue (-osi), bruida; cacofonie#
 NOISE#v.#(noise abroad) divulgar, publicar#
 NOISOME#adj.#nociv; abominabil#
-NOMAD#n.#nomade (-isar)#
 NOM-DE-PLUME#n.#pseudonim, plum-nómine#
+NOMAD#n.#nomade (-isar)#
 NOMENCLATURE#n.#nomenclatura, terminologie#
 NOMINAL#adj.#nominal#
 NOMINATE#v.#nominar (-ator, -ation, -ativ, -ative)#
@@ -10189,14 +10189,14 @@ OGRE#n.#ogre (-essa)#
 OH DEAR#interj.#o ve!#
 OHM#n.#ohm#
 OIL#n.#oleo (-ar, -ari, -osi, -iere, -iferi, -iera)#
-OILCLOTH#n.#linoleum#
 OIL-PAINTING#n.#oleo-pictura#
+OILCLOTH#n.#linoleum#
 OILSTONE#n.#slif-petre#
 OINTMENT#n.#unguente#
 OLD#adj.#old (-esse, -on), etosi; (former) ancian; antiqui#
 OLD#expr.#HOW OLD ARE YOU?: quel etá vu have?, quant annus vu have?#
-OLDAGE#n.#oldesse#
 OLD-FASHIONED#adj.#old-modic#
+OLDAGE#n.#oldesse#
 OLDMAID#n.#celib(atari)a#
 OLEAGINOUS#adj.#oleatri, oleosi#
 OLEANDER#n.#oleandre#
@@ -10301,8 +10301,8 @@ OR#adv.#(otherwise) altrimen#
 OR#conj.#o#
 ORACLE#n.#oracul (-ari)#
 ORAL#adj.#oral, boccal#
-ORANGE#n.#orange (-iero, -ería)#
 ORANG-OUTANG#n.#orangutan#
+ORANGE#n.#orange (-iero, -ería)#
 ORATION#n.#oration, discurse#
 ORATOR#n.#orator (-ic, -io)#
 ORATORY#n.#retorica#
@@ -10688,8 +10688,8 @@ PARTNERSHIP#n.#association#
 PARTRIDGE#n.#perdrice#
 PARTURITION#n.#parturition, acuchament#
 PARTY#n.#gruppe, truppe, bande; (faction) partise, clan; (person) person, complice, partiprensor; (entertainment) festa, soaré; (of travellers) caravane#
-PARTYCOLOURED#adj.#mixtcolori, pluricolori#XXX FIXED -- strange typo; XXX TODO -- hyphen
 PARTY-WALL#n.#mur intercomun#
+PARTYCOLOURED#adj.#mixtcolori, pluricolori#XXX FIXED -- strange typo; XXX TODO -- hyphen
 PARVENU#n.#parvenú#
 PASCHAL#adj.#pascal#
 PASHA#n.#pachá#
@@ -10701,8 +10701,8 @@ PASS BY#v.#preterear; (pass a law) votar#
 PASS OFF#v.#far acceptar; forpassar#
 PASS OUT#v.#evanescer; distribuer#XXX NEW
 PASS THE NIGHT#v.#pernoctar#
-PASSAGE#n.#passage, trajecte, passada, coridor; (music etc.) excerpte, parte#
 PASS-BOOK#n.#bank-libre#
+PASSAGE#n.#passage, trajecte, passada, coridor; (music etc.) excerpte, parte#
 PASSENGER#n.#passagero, viageator#
 PASSER-BY#n.#passante, pretereante#
 PASSING#adj.#efemeri#
@@ -10825,9 +10825,9 @@ PEJORATIVE#adj.#pejorativ (-e)#
 PELARGONIUM#n.#pelargonium#
 PELICAN#n.#pelican#
 PELISSE#n.#pelisse (-ero, -eríe, -ería, -age)#
+PELL-MELL#n.#pelmel#
 PELLET#n.#bulette#
 PELLICLE#n.#pellicul, membrane#
-PELL-MELL#n.#pelmel#
 PELLUCID#adj.#clar, limpid#
 PELT#v.#bombardar, lapidar; (of rain) torrentear#
 PELVIS#n.#pelve (-ic)#
@@ -11335,8 +11335,8 @@ POOR#expr.#THE POOR: li povres#
 POORLY#adj.#indisposit#
 POORLY#adv.#mal#
 POP#v.#exploder#
-POP!#n.#crac!#XXX TODO -- Specify the usages.
 POP IN OR OUT#v.#intrar o exear subitmen#
+POP!#n.#crac!#XXX TODO -- Specify the usages.
 POPE#n.#papa (-atu, -isme); (fish) pope#
 POPINJAY#n.#papagaye; dandy#
 POPLAR#n.#pople#
@@ -11357,6 +11357,7 @@ PORPHYRY#n.#porfire#
 PORPOISE#n.#marsvine, delfine#
 PORRIDGE#n.#aven-sup#
 PORT#n.#portu (-ari); (fig.) asil; (naut.) bacbord; (opening) apertura#
+PORT-WINE#n.#vin de Oporto#
 PORTABLE#adj.#portabil#
 PORTAL#n.#portale#
 PORTCULLIS#n.#herse de porta, ponte levabil#
@@ -11374,7 +11375,6 @@ PORTLY#adj.#corpulent#
 PORTMANTEAU#n.#porta-mantó, valise, coffre#
 PORTRAIT#n.#portrete (-ar, -ist)#
 PORTRAY#v.#picter; descrir, portretar, representar#
-PORT-WINE#n.#vin de Oporto#
 POSE#n.#posa#
 POSE#v.#(questions) posir; (baffle) perplexar, embarassar; (attitudinize) posar#
 POSER#n.#question desfacil; (person) positor#
@@ -11386,17 +11386,19 @@ POSSESSION#n.#possession#
 POSSIBLE#adj.#possibil (-itá)#
 POST#n.#(pole) pal; (letters) posta (-al); (mil. etc.) posto; (employment) oficie#
 POST#v.#(letters) inpostar, expedir; (mil.) postar; (accounts) inscrir; (bill-post) afichar, placatar#
+POST-DATE#v.#posdatar#
+POST-FREE#adj., adv.#porte-franc, porte payat#XXX FIXME -- split adj. and adv. and fix the translations
+POST-OFFICE#n.#oficia postal, post-oficia#
+POST-PAID#adj., adv.#afrancat, porte payat#XXX FIXME -- adj. and adv.
 POSTAGE#n.#porte#
 POSTAGE STAMP#n.#post-marca, marca postal#
 POSTAL-ORDER#n.#mandate postal#
 POSTCARD#n.#post-carte, carte postal#
-POST-DATE#v.#posdatar#
-POSTER#n.#placate, afiche#
 POSTE-RESTANTE#n.#posta-restant#
+POSTER#n.#placate, afiche#
 POSTERIOR#adj.#posteriori#
 POSTERIOR#n.#posteriore, cul#
 POSTERITY#n.#posterité#
-POST-FREE##porte-franc, porte payat#XXX FIXME -- adj. and adv.
 POSTHUMOUS#adj.#posthum#
 POSTILLION#n.#postilion#
 POSTMAN#n.#postmann; porta-lettre, lettrero#
@@ -11404,8 +11406,6 @@ POSTMARK#n.#stampa, obliteration#
 POSTMERIDIAN#adj.#posmidían#
 POSTMORTUM#adj.#pos morte#XXX FIXME adv. in Occ.
 POSTMORTUM#n.#(inquest) necroscopie; (examination) autopsie#
-POST-OFFICE#n.#oficia postal, post-oficia#
-POST-PAID##afrancat, porte payat#XXX FIXME -- adj. and adv.
 POSTPONE#v.#ajornar, procrastinar#
 POSTSCRIPT#n.#posscrite#
 POSTULATE#v.#postular (-ation, -ativ, -ate)#
@@ -11413,12 +11413,12 @@ POSTURE#n.#positura, posa, attitude#
 POSY#n.#buquete#
 POT#n.#potte, vase; marmite#
 POT#v.#inpottar#
+POT-BELLIED#adj.#ventrut#
 POTABLE#adj.#trincabil#
 POTASH#n.#potasse#
 POTASSIUM#n.#kalium#
 POTATION#n.#tisane#
 POTATO#n.#potate, terr-pom#
-POT-BELLIED#adj.#ventrut#
 POTENT#adj.#potent (-ie, -ial, -iale)#
 POTENTATE#n.#potentate; soverano#
 POTENTILLA#n.#potentilla#
@@ -11979,7 +11979,7 @@ QUARRY#n.#petriera; (hunting) preda#
 QUARRY#v.#minar, exeavar; fracter#
 QUARRYMAN#n.#petrero#
 QUART#n.#un quart gallon#
-QUARTER#(one fourth) quart; (of year etc.) quartale, trimestre; (district) quartere, region; (mercy) indulgentie#
+QUARTER#n.#(one fourth) quart; (of year etc.) quartale, trimestre; (district) quartere, region; (mercy) indulgentie#
 QUARTER#v.#divider in quartes; (troops) logiar, quarterar#
 QUARTERLY#adj.#trimensual#XXX TODO -- Add missing meanings.
 QUARTERLY#adv.#trimensualmen#
@@ -12109,10 +12109,10 @@ RAILWAY#adj.#ferroviari, ferrovial#
 RAILWAY#n.#ferrovia, relvia#
 RAIMENT#n.#vestiment#
 RAIN#n.#pluvie (-al, -osi, -ar)#
+RAIN-GAUGE#n.#pluviometre#
 RAINBOW#n.#arc-in-ciel, ciel-arc, íris#
 RAINCOAT#n.#ínpermeabile#
 RAINFALL#n.#precipitation#
-RAIN-GAUGE#n.#pluviometre#
 RAISE#v.#levar; producter; (bring up) elevar, educar; (give rise to) nascentar; (grow) cultivar; (increase) augmentar; (money) colecter#
 RAISIN#n.#rosine#
 RAJAH#n.#rajá#
@@ -12196,6 +12196,7 @@ RAY#n.#radie; (fish) ray#
 RAZOR#n.#rasuore, rasette#
 RAZOR BLADE#n.#lámine rasatori, lamette#
 RE#prefix#recrear, reformar, renovar, etc.#
+RE-ECHO#v.#resonar, re-ecoar#
 REACH#n.#atingement, capacitá#
 REACH#v.#atinger (-ement)#
 REACH OUT#v.#extender; (pass) passar; (-a place) pervenir a#
@@ -12300,12 +12301,13 @@ RED#adj.#rubi#
 RED#n.#rubore, rubie#
 RED PEPPER#n.#paprica, rubi pipre#
 RED TAPE#n.#rutine, burocratie#
+RED-HOT#adj.#ardent#
+RED-TAPE#n.#rutine oficial#
 REDBREAST#n.#rubicol, rubi-péctore#
 REDDEN#v.intr.#rubijar#
 REDDEN#v.tr.#rubar#
 REDEEM#v.#(article) degagear; recomprar; (eccl.) redempter (-iv, -or)#
 REDEEMING#adj.#compensatori#
-RED-HOT#adj.#ardent#
 REDINGOTE#n.#redingote#
 REDOLENT#adj.#bonodorant, amemorant, suggestent#
 REDOUBT#n.#redute#
@@ -12314,11 +12316,9 @@ REDOUND#expr.#IT REDOUNDS TO HIS CREDIT: to honora le#
 REDRESS#v.#amendar, reparar, remediar a#
 REDSKIN#n.#rubipelle#
 REDSTART#n.#rubi-caude#
-RED-TAPE#n.#rutine oficial#
 REDUCE#v.#reducter (-ion, -or), diminuer, abassar#
 REDUCED PRICE#n.#rabatte#
 REDUNDANT#adj.#superflú (-itá)#
-RE-ECHO#v.#resonar, re-ecoar#
 REED#n.#canne; (of mus. instrument) bec#
 REEF#n.#riff; (naut.) reff (-ar)#
 REEK#n.#fum, vapor#
@@ -12936,9 +12936,9 @@ SAIL#v.#navigar#
 SAILOR#n.#marinero#
 SAINFOIN#n.#esparsette#
 SAINT#n.#santo (-itá)#
+SAL-AMMONIAC#n.#sal-amoniac#
 SALAD#n.#salade (-iere)#
 SALAMANDER#n.#salamandre#
-SAL-AMMONIAC#n.#sal-amoniac#
 SALARY#n.#salarie (-ar)#
 SALE#n.#vende, rendition, vendida; realisation#
 SALESMAN#n.#venditor#
@@ -13175,12 +13175,14 @@ SCYTHE#n.#falce (-ear)#
 SEA#n.#mare, ocean; multité#
 SEA GREEN#n.#glaucom#
 SEA-GULL#n.#movette#
+SEA-MEW#n.#movette#
+SEA-URCHIN#n.#ursine#
+SEA-WEED#n.#alga#
 SEAL#n.#cane marin, foca; (impression) sigille (-ar)#
 SEAL#v.#(letters) cluder#
 SEALING-WAX#n.#sigill-cire#
 SEAM#n.#sutura; (of minerals) strate, vene#
 SEAMAN#n.#marinero#
-SEA-MEW#n.#movette#
 SEANCE#n.#session#
 SEAR#v.#cauterisar#
 SEARCH#v.#serchar, examinar; (leg.) perquisir#
@@ -13194,8 +13196,6 @@ SEASONABLE#adj.#oportun, secun seson#
 SEASONING#n.#condiment#
 SEAT#n.#sede, stul, banca#
 SEAT#v.tr.#sedentar#
-SEA-URCHIN#n.#ursine#
-SEA-WEED#n.#alga#
 SEBACIOUS#adj.#sebosi, sebic#
 SECEDE#v.#retraer se; dissider (-ente)#
 SECLUDE#v.#secluDer (-sion)#
@@ -13203,9 +13203,9 @@ SECOND#adj.#duesim, secund (-ari); inferiori#
 SECOND#n.#(of time) seconde; (duel) secundante#
 SECOND#v.#subtener, secundar#
 SECOND IN COMMAND#n.#sub-comandante#
-SECONDARY SCHOOL#n.#licéo (-an, -ano)#
 SECOND-HAND#adj.#de secund manu#
 SECOND-HAND DEALER#n.#antiquario#
+SECONDARY SCHOOL#n.#licéo (-an, -ano)#
 SECRET#adj.#secret, ocult, arcan#
 SECRET#n.#secrete (-esse)#
 SECRETARY#n.#secretario (-al)#
@@ -13586,12 +13586,14 @@ SIMPLY#adv.#absolutmen; (merely) solmen#
 SIMULATE#v.#simular (-ation)#
 SIMULTANEOUS#adj.#simultan (-itá)#
 SIN#n.#pecca (sinar, -ator, -ard)#
+SINCE#adv.# #XXX REMARK the empty definition must contain a space, otherwise `msort` will exclude this entry
+SINCE#adv.-example#IT IS A WEEK SINCE I SAW HER: ja de un semane yo plu ne ha videt la#
+SINCE#adv.-example#LONG SINCE: ante long témpor, ja de longmen#
+SINCE#adv.-example#TWO YEARS SINCE: ante du annus#
 SINCE#conj.#pro que#
-SINCE#expr.#IT IS A WEEK SINCE I SAW HER: ja de un semane yo plu ne ha videt la#
-SINCE#expr.#SINCE HE HAS COME I WILL LEAVE: pro que il ha venit yo va departer#XXX TODO confirmar que ti es adjuntet al "since (conj.)"
-SINCE#expr.#SINCE THAT TIME: desde ti témpor#XXX TODO confirmar que ti es adjuntet al "since (adv.)"
-SINCE#prep.#desde#
-SINCE THAT TIME#adv.#desde ti témpor#
+SINCE#conj.-example#SINCE HE HAS COME I WILL LEAVE: pro que il ha venit yo va departer#
+SINCE#prep.#(time) desde, de#
+SINCE#prep.-example#SINCE THAT TIME: desde ti témpor, de tande#
 SINCERE#adj.#sinceri (-tá)#
 SINE#Geom.#sinus#
 SINECURE#n.#sinecura#
@@ -13689,13 +13691,13 @@ SLEDGE-HAMMER#n.#martelle#
 SLEEK#adj.#glatt#
 SLEEP#n.#somnie (-ar, -aci, -on), dorme (-ida)#
 SLEEP#v.#dormir#
+SLEEP-WALKING#n.#somnambulisme#
 SLEEPER#n.#(rail.) lette-vagon#
 SLEEPINESS#n.#somnolentie, dormientie#
 SLEEPING PARTNER#n.#comanditario#
 SLEEPING SICKNESS#n.#maladie somnial#
 SLEEPING-CAR#n.#lette-vagon#
 SLEEPLESSNESS#n.#ínsomnie#
-SLEEP-WALKING#n.#somnambulisme#
 SLEEPY#adj.#dormaci, letargic#
 SLEET#n.#nivpluvie#
 SLEEVE#n.#manche#
@@ -13812,18 +13814,18 @@ SNORE#n.#ronca (-ar, -ada, -ator)#
 SNORT#v.#sofflar#
 SNOUT#n.#musel#
 SNOW#n.#nive (-ear)#
+SNOW-PLOUGH#n.#nive-plug#
 SNOWBALL#n.#bul de nive#
 SNOWDROP#n.#flor de nive; clochette nival#
 SNOWED UP#adj.#innivat#
 SNOWFLAKE#n.#flor de nive#
-SNOW-PLOUGH#n.#nive-plug#
 SNOWY#adj.#nivosi, nivatri#
 SNUB#v.#repulser, ignorar#
 SNUB-NOSED#adj.#stumpnasat#
 SNUFF#n.#sniffle-tabac#
 SNUG#adj.#comod, comfortabil#
-SO#adv., conj.#(therefore) dunc, ergo#
 SO#adv.#talmen#
+SO#adv., conj.#(therefore) dunc, ergo#
 SO#expr.#NOT SO RICH AS: minu rich quam#
 SO FAR#adv.#til nu, til ti punctu#
 SO MUCH#adv.#tant#
@@ -13905,10 +13907,10 @@ SOMEWHERE#adv.#alcú#
 SOMNAMBULIST#n.#somnambulist#
 SOMNOLENT#adj.#somnolent (-ie), dormaci#
 SON#n.#filio#
+SON-IN-LAW#n.#bel-filio#
 SONATA#n.#sonata#
 SONG#n.#cante, canzon; arie#
 SONGSTER#n.#eant-avie#
-SON-IN-LAW#n.#bel-filio#
 SONNET#n.#sonetto#
 SONOROUS#adj.#sonori (-tá)#
 SOON#adv.#bentost; (early) tost#
@@ -14203,9 +14205,9 @@ STAND BACK#v.#retirar se, recular; (as candidate) presentar se; (endure) tolerar
 STAND ON TIPTOE#v.#star sur li ped-fingres#
 STAND OUT#v.#prominer#
 STAND UP#v.#levar se, stantar se#
+STAND-BY#n.#reserve, suporte#
 STANDARD#adj.#uniform#
 STANDARD#n.#(ensign) standarte (-ario); (measure) norme, standarde (-isar), criterie, mesura; (of knowledge) gradu; (weights and measures) etalon#
-STAND-BY#n.#reserve, suporte#
 STANDING#adj.#permanent, constant#
 STANDING#n.#rang, reputation; duration#
 STANDPOINT#n.#vis-punctu, sta-punctu#
@@ -14350,12 +14352,12 @@ STOAT#n.#hermeline#
 STOCK#n.#trunc; (race) rasse; (comm.) capitale; (of wares) stock; assortiment; (flower) levcoye, gilliflor#
 STOCK#v.#furnir, provisionar#
 STOCK EXCHANGE#n.#bursa#
+STOCK-JOBBER#n.#agiotator, bursero#
+STOCK-PIECE#n.#pezze de repertorie; (gun) clopp#
 STOCKADE#n.#palissade#
 STOCKBROKER#n.#curtagero#
 STOCKHOLDER#n.#rentero, actionario#
 STOCKING#n.#strumpe#
-STOCK-JOBBER#n.#agiotator, bursero#
-STOCK-PIECE#n.#pezze de repertorie; (gun) clopp#
 STOCKS#fin.#actiones; (for ships) staple; (for punishment) pilorie#
 STOIC#n.#stoico#
 STOICAL#adj.#stoic#
@@ -14465,8 +14467,8 @@ STUBBLE#n.#stopple#
 STUBBORN#adj.#obstinat, ínflexibil, renitent#
 STUCCO#n.#stucca (-ar)#
 STUD#n.#buton#
-STUDENT#n.#studiante; scolero#
 STUD-FARM#n.#cavall-elevatoria#
+STUDENT#n.#studiante; scolero#
 STUDIED#adj.#premeditat, intentet#
 STUDIO#n.#ateliere#
 STUDY#n.#studie (-osi); (room) scritoria, studia(toria)#
@@ -14784,14 +14786,15 @@ SYRINGA#n.#lila#
 SYRINGE#v.#spruzzar (-uore), injecter#
 SYRUP#n.#sirop (-osi), melasse#
 SYSTEM#n.#sistema (-tic, -tisar)#
+T-SQUARE#n.#quadrette#
 TAB#n.#(of shoelace) lace-punta, puntale#
 TABBY#adj.#striat#
 TABERNACLE#n.#tabernacle#
 TABLE#n.#table; (list) tabelle, índex, sinoptica#
 TABLE FORK#n.#furcette#
-TABLEAU#n.#tabló, scene#
 TABLE-CLOTH#n.#table-toale#
 TABLE-LAND#n.#plató#
+TABLEAU#n.#tabló, scene#
 TABLET#n.#plaquette; (med.) tabulette#
 TABOO#n.#tabú#
 TABULAR#adj.#tabellari#
@@ -14825,8 +14828,8 @@ TAKE AMISS#v.#esser ofendet per, prender in male#
 TAKE AN OATH#v.#jurar#
 TAKE BEARINGS#v.#orientar se#
 TAKE CARE#v.#atenter#
-TAKE CARE!#interj.#atention!, garda vos!#
 TAKE CARE OF#v.#cuidar#
+TAKE CARE!#interj.#atention!, garda vos!#
 TAKE COLD#v.#refrigidar se, inreumar se#
 TAKE EFFECT#v.#efecter, operar#
 TAKE IN#v.#dupar, (as guest) albergar#
@@ -14894,11 +14897,11 @@ TAP#n.#(water) robinete; (blow) un levi colpe; tappa#
 TAP#v.#tappettar, tappar; (barrel) forar#
 TAPE#n.#bande; sonbande#
 TAPE RECORDER#n.#son-registrator#
+TAPE-WORM#n.#tenia#XXX TODO -- tapeworm/tape-worm
 TAPER#n.#candel de cire#
 TAPER#v.#atenuar (se), terminar se in punta#
 TAPERING#adj.#conic#
 TAPESTRY#n.#tapisseríe, textage#
-TAPE-WORM#n.#tenia#XXX TODO -- tapeworm/tape-worm
 TAPEWORM#n.#tenia; (intestinal worm) ascaride#XXX TODO -- tapeworm/tape-worm
 TAPIOCA#n.#tapioca#
 TAR#n.#gudron (-ar), (sailor) marinero#
@@ -14939,6 +14942,7 @@ TAXICAB#n.#taxi(auto) #
 TAXIMETER#n.#taxametre, contator#
 TEA#n.#té; té-repaste; té-plante#
 TEA-CADDY#n.#té-buxe#
+TEA-URN#n.#té-urne#
 TEACH#v.#docer (-ente), instructer (-or, -ion)#
 TEAK#n.#tec#
 TEAM#n.#(sport) truppe; (horses) atelage; (of workers) equip#
@@ -14949,7 +14953,6 @@ TEARFUL#adj.#lacrimosi#
 TEASE#v.#vexar, tormentar; (wool) cardar, raffar#
 TEASPOON#n.#micri coclare#
 TEAT#n.#tette, buton de mamme#
-TEA-URN#n.#té-urne#
 TECHNICAL#adj.#tecnic(al)#
 TECHNICIAN#n.#tecnico#
 TECHNICS#n.#tecnica#
@@ -14971,8 +14974,8 @@ TELL#v.#dir; racontar, narrar; (discern) distinter#
 TELL FORTUNES#v.#predir li futur#
 TELL OFF#v.#definir; reprimandar#
 TELL ON#v.#haver su efecte#
-TELLING#adj.#efectiv#
 TELL-TALE#n.#denunciator (-i)#
+TELLING#adj.#efectiv#
 TELLURIUM#n.#tellur#
 TEMERARIOUS#adj.#temerari (-tá)#
 TEMPER#n.#(anger) colere; (metal) tempre (-ar)#
@@ -15033,8 +15036,8 @@ TERMINOLOGY#n.#terminologie (-ic)#
 TERMINUS#n.#terminus, station terminal#
 TERMITE#n.#termite#
 TERMS#n.#precie, condition#
-TERRACE#n.#terasse; rampe#
 TERRA-COTTA#n.#terracotta#
+TERRACE#n.#terasse; rampe#
 TERRAIN#n.#terren#
 TERRESTRIAL#adj.#terrestri, terral#
 TERRIBLE#adj.#terribil#
@@ -15170,8 +15173,8 @@ THREAT#n.#menacie (-iar)#
 THREE#adj., n.#tri#
 THREE DAYS RUNNING#adv.#tri dies successivmen#
 THREE-CORNERED#adj.#triangulari#
-THREEFOLD#adj.#triplic#
 THREE-LEGGED#adj.#tripedat#
+THREEFOLD#adj.#triplic#
 THRESH#v.#drachar (-ator)#
 THRESHOLD#n.#sill#
 THRICE#adv.#trivez#
@@ -15279,6 +15282,7 @@ TO THE FORE#expr.#in avan#XXX TODO an actual expression, no "FORE"
 TO THE POINT#adj.#pertinent#
 TO THE PURPOSE#adj.#scope-conform#
 TO WIT#adv.#a saver#
+TO-NIGHT#adv.#ho-véspere, ho-nocte#
 TOAD#n.#rospe#
 TOADSTOOL#n.#fungo#
 TOADY#n.#leccard, adulator#
@@ -15297,9 +15301,9 @@ TOKEN#n.#signe; simbol; (pledge) gage#
 TOLERATE#v.#tolerar (-abil, -ant, -antie, -ation)#
 TOLL#n.#imposte (de via)#
 TOLL#v.#sonar; clochear#
+TOM-CAT#n.#cato#
 TOMATO#n.#tomate#
 TOMB#n.#tombe, sepultura#
-TOM-CAT#n.#cato#
 TOME#n.#tom#
 TOMFOOLERY#n.#non-sense; arlequinade#
 TOMORROW#adv.#deman#
@@ -15311,7 +15315,6 @@ TONGS#n.#pince#
 TONGUE#n.#lingue, idioma; (of bell) battente#
 TONIC#adj.#tonic#
 TONIC#n.#invigorative#
-TO-NIGHT#adv.#ho-véspere, ho-nocte#
 TONSIL#n.#tonsille (-ite)#
 TONSURE#n.#tonsura (-ar)#
 TOO#adv.#tro; (also) anc#
@@ -15574,7 +15577,6 @@ TRUTH#n.#veritá#
 TRUTHFUL#adj.#veraci (-tá)#
 TRY#v.#(test) provar; (endeavour) penar; (judge) judicar; (weary) genar#
 TRYST#n.#rendevú#
-T-SQUARE#n.#quadrette#
 TUB#n.#tine, cuve#
 TUBE#n.#tube; cilindre; rel-via subterran#
 TUBER#n.#túbere (-osi)#
@@ -15654,7 +15656,6 @@ TWITCH#n.#spasmette#
 TWITTER#v.#pipiar (-ada)#
 TWO#adj., n.#du#
 TWO MONTHS AGO#adv.#ante du mensus#
-TWO YEARS SINCE#adv.#ante du annus#
 TWOFOLD#adj., n.#duplic#
 TYMPANUM#n.#timpane#
 TYPE#n.#tip (-ic); specie; (print.) líttere(s), tip#
@@ -15805,6 +15806,7 @@ UP STREAM#adv.#a monte#
 UP TO#conj., prep.#til#
 UP TO DATE#adj.#modern, hodial, til hodie#
 UP TO DATE#adv.#til hodíe#
+UP-TO-DATE#adj.#modern, hodial, til hodie#
 UPBRAID#v.#reprochar#
 UPBRINGING#n.#education#
 UPHEAVAL#n.#eruption, tumultu#
@@ -15826,7 +15828,6 @@ UPSET#v.#renversar; (grieve) vexar, chagrinar, índisposir#
 UPSHOT#n.#resultate, fine#
 UPSTAIRS#adv.#supra, in supra#
 UPSTART#n.#parvenú#
-UP-TO-DATE#adj.#modern, hodial, til hodie#
 UPWARDS#adv.#ad supra#
 UPWARDS OF#prep.#plu quam#
 URBAN#adj.#citean, urban#
@@ -16067,9 +16068,9 @@ VIRTUE#n.#vertú (-osi); chastitá; merite#
 VIRTUOSO#n.#virtuoso#
 VIRULENT#adj.#virulent (-ie)#
 VIRUS#n.#vírus#
+VIS-A-VIS#n.#vis-a-vis#XXX TODO -- n./adv.
 VISA#n.#visa#
 VISAGE#n.#visage, facie#
-VIS-A-VIS#n.#vis-a-vis#XXX TODO -- n./adv.
 VISCERA#n.#visceres#
 VISCOUNT#n.#vicomto (-essa, -atu)#
 VISCOUS#adj.#viscosi (-ta)#
@@ -16169,10 +16170,10 @@ WALK#v.#vader, pedear, marchar; pronienar se. (in one's sleep) somnainbular#
 WALK GINGERLY#v.#passuar cautmen o circumspectmen#
 WALL#n.#mur; (internal) parete#
 WALL#v.#(wall up) inmurar#
+WALL-PAPER#n.#tapete (-ar)#
 WALLET#n.#porta-papere, paperiere#
 WALLFLOWER#n.#gilliflor#
 WALLOW#v.#rular se#
-WALL-PAPER#n.#tapete (-ar)#
 WALNUT#n.#nuce; (tree) juglande, nuciero#
 WALRUS#n.#cavalle marin#
 WALTZ#n.#valse (-ar, -ator)#
@@ -16188,8 +16189,8 @@ WANTON#adj.#(sportive) petulant; (purposeless) ínmotivat; (voluptuous) voluptos
 WANTON#n.#voluptona#
 WAR#n.#guerre, hostilitá#
 WAR#v.#guerrear#
-WARBLE#v.#trillar#
 WAR-CRY#n.#cri de guerre#
+WARBLE#v.#trillar#
 WARD#n.#pupillo, tutelata; (of lock) barrette#
 WARD#v.#gardar, protecter#
 WARD OFF#v.#detornar, defender, parar#
@@ -16214,9 +16215,9 @@ WARRIOR#n.#guerrero#
 WART#n.#veruca (-osi)#
 WARY#adj.#caut, circumspect#
 WASH#v.#lavar (se); (glasses etc.) rinsar#
+WASH-STAND#n.#table lavatori#
 WASHER#n.#(mech.) rondelle, scruve-disco#
 WASHING#n.#(activity) lavage; (clothes) linage#
-WASH-STAND#n.#table lavatori#
 WASP#n.#vespe (-iere)#
 WASTE#adj.#superflú, ínutil; (of land) íncultivat, desert#
 WASTE#n.#deserte; (product) jettallia; maculatura#
@@ -16233,16 +16234,16 @@ WATCHFUL#adj.#vigilant, atentiv#
 WATCHWORD#n.#passa-parol. devise#
 WATER#n.#aqua (-ar, -tic)#
 WATER#v.#(horses) far trincar; (land) irigar; (plants) arosear#
-WATERCOLOUR#n.#aquarelle#
 WATER-COURSE#n.#curse de aqua#
-WATERFALL#n.#cascade, cataracte#
 WATER-GLASS#n.#natrium-silicate#
-WATERLILY#n.#nenufare; (white) nimfea#
 WATER-LOGGED#adj.#saturat#
 WATER-LOGGEDMARK#n.#filigrane#
 WATER-LOGGEDPROOF#adj.#ínpermeabil, aqua-resistent, hermetic#
 WATER-LOGGEDSPOUT#n.#trombe#
 WATER-LOGGEDWHEEL#n.#rot hidraulic#
+WATERCOLOUR#n.#aquarelle#
+WATERFALL#n.#cascade, cataracte#
+WATERLILY#n.#nenufare; (white) nimfea#
 WATERLY#adj.#liquid, aquosi, diluet#
 WATERPROOF#adj.#resistent, ínpermeabil, hermetic#
 WATT#n.#watt (-age)#
@@ -16275,6 +16276,7 @@ WEARY#adj.#lassi, fatigat; enoyat#
 WEARY#v.#tedar, enoyar, fatigar#
 WEASEL#n.#putorette#
 WEATHER#n.#tempe#
+WEATHER#n.-example#BAD WEATHER: grisú#
 WEATHER#v.#perviver; superar#
 WEATHER-COCK#n.#girette#
 WEATHER-GLASS#n.#barometre#
@@ -16293,8 +16295,8 @@ WEED#n.#malherbe#
 WEED#v.#sarclar (-age, -uore)#
 WEEDY#adj.#plen de malherbes; magri, debil#
 WEEK#n.#semane (-al, -ale)#
-WEEKDAY#n.#die ordinari#
 WEEK-END#n.#fine-de-semane#
+WEEKDAY#n.#die ordinari#
 WEEP#v.#plorar, lacrimar#
 WEEVIL#n.#gran-scarabé#
 WEIGH#v.#pesar, ponderar#
@@ -16463,9 +16465,9 @@ WINCH#n.#winch, manivelle#
 WIND#n.#vente (-osi); (indigestion) flatu; (turn) torne#
 WIND#v.#(turn) tornar, verter; (hoist) vindar; (as road) serpentear; (watch) tender#
 WIND UP#v.#terminar; liquidar; (a watch) tender#
+WIND-INSTRUMENT#n.#instrument a sufflar#
 WINDFALL#n.#bon fortune, ganie ínexpectat, felicie; (fruit) fructe cadet#
 WINDING#adj.#sinuosi, serpenteant#
-WIND-INSTRUMENT#n.#instrument a sufflar#
 WINDLASS#n.#vinde#
 WINDMILL#n.#vent-moline#
 WINDOW#n.#fenestre (-al); (shop window) vitrine#
@@ -16488,12 +16490,12 @@ WIPE#v.#essuyar; siccar#
 WIPE OUT#v.#exterminar, obliterar, anullar, efaciar#
 WIRE#n.#metall-fil, ferrofil; telegramma#
 WIRE#v.#ligar per ferrofil; telegrafar#
+WIRE-PULLING#n.#intrigas, manipulation#
 WIRELESS#adj.#sin ferrofiles, sin metall-files, sin fil#
 WIRELESS#n.#(short for wireless telegraphy) telegrafie sin fil, radio; (short for wireless telephony) telefonie sin fil, radio#
 WIRELESS SET#n.#radio-receptor#
 WIRELESS TELEGRAPHY#n.#telegrafie sin fil, radio#
 WIRELESS TELEPHONY#n.#telefonie sin fil, radio#
-WIRE-PULLING#n.#intrigas, manipulation#
 WIRY#adj.#filatri; (sinewy) tendonosi#
 WISDOM#n.#sagiesse, sapientie, prudentie#
 WISE#adj.#sagi, sapient, prudent; doct; discret#
@@ -16533,8 +16535,8 @@ WIZARD#n.#mago, sorciero#
 WIZENED#adj.#exsiccat, marcid#
 WOBBLE#v.#chancelar#
 WOE#n.#misere (-abil); grive, afliction, misfortun#
-WOE!#interj.#ve!#
 WOE BETIDE HIM!#interj.#ve a il!#
+WOE!#interj.#ve!#
 WOEFUL#adj.#trist, aflictet#
 WOLF#n.#lupo (-a)#
 WOLFISH#adj.#lupatri#
@@ -16549,13 +16551,13 @@ WONT#n.#custom, hábitu#
 WOO#v.#cortesar; solicitar (-ante)#
 WOOD#n.#ligne; (trees) boscage#
 WOOD PIGEON#n.#palumbe#
+WOOD-LOUSE#n.#onisco#
+WOOD-PIGEON#n.#palumbe, forest-columbe#
 WOODCOCK#n.#becasse#
 WOODCUT#n.#lignogravura#
 WOODED#adj.#arborat#
 WOODEN#adj.#lignin#
-WOOD-LOUSE#n.#onisco#
 WOODPECKER#n.#pico#
-WOOD-PIGEON#n.#palumbe, forest-columbe#
 WOODWORK#n.#carpenteríe, ligneríe#
 WOOF#n.#trama#
 WOOL#n.#lane (-at, -in, -atri, -osi, -age, -eríe)#

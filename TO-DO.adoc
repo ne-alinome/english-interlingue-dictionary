@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-12-23
+:revdate: 2021-12-24
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -71,9 +71,12 @@
 - Split translations that include internal parens, e.g.
   `BOOZE#v.#trine(ach)ar#`.
 - Finish "CROW OVER".
-- Make sure the expressions are included after the proper subentry,
-  e.g. noun, adjective, etc.  
-- Mark or copy as example expressions the entries containing more than one word.
+- Make all of the expressions with the proper "-example" type to make
+  sure they are included after their right subentry, e.g. noun,
+  adjective, etc.  
+- Mark or copy as example expressions the entries containing more than
+  one word.
+- Add missing "to" to verbal meaning notes (done in entries A-C).
 
 // Doubts {{{1
 == Doubts

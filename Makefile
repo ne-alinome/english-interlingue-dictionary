@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 20211223T1731+0100.
+# Last modified: 20211224T1240+0100.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -41,14 +41,14 @@
 # img2pdf (by Johannes 'josch' Schauer)
 #   https://gitlab.mister-muffin.de/josch/img2pdf
 
+# msort (by Bill Poser)
+#   http://www.billposer.org/Software/msort.html
+
 # Neovim (by Justin M. Keyes)
 #   http://neovim.org
 
 # Pandoc (by John MaFarlane)
 #   http://pandoc.org
-
-# sort (by Mike Haertel and Paul Eggert)
-#   https://www.gnu.org/software/coreutils/
 
 # sponge (by Colin Watson and Tollef Fog Heen)
 #   https://joeyh.name/code/moreutils/
@@ -180,10 +180,26 @@ thumb: target/$(cover)_thumb.jpg
 
 .PHONY: sort
 sort:
-	sort -t# -k1,1 src/$(book).txt | sponge src/$(book).txt
+	msort \
+		--line \
+		--field-separators '#' \
+		--position 1.1 \
+		--position 2.1 \
+		--position 3.1 \
+		--comparison-type lexicographic \
+		--in src/$(book).txt \
+		--out tmp/$(book).MSORT.txt
 
 tmp/$(book)._sorted.txt: src/$(book).txt
-	sort -t# -k1,1 $< > $@
+	msort \
+		--line \
+		--field-separators '#' \
+		--position 1.1 \
+		--position 2.1 \
+		--position 3.1 \
+		--comparison-type lexicographic \
+		--in $< \
+		--out $@
 
 # ==============================================================
 # Convert the original data to Asciidoctor {{{1
@@ -517,3 +533,5 @@ tmp/README.html: README.adoc
 #
 # 2021-12-23: Split into two steps the conversion from the original data into
 # Asciidoctor.
+#
+# 2021-12-24: Use msort instead of sort.
