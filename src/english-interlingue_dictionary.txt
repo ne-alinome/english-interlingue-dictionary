@@ -3656,10 +3656,10 @@ DARLING#adj.#car, amat#
 DARLING#n.#carissim (-o), favorita (-o)#
 DARN#v.#reparar, lappar#
 DART#n.#micri fleche, lansette, darde#
-DART#v.#(a look) jettar regard sur#
+DART#v.#(a look) jettar regard sur#XXX TODO consultar; mult significationes manca
 DART AT#v.#precipitar se a#
 DASH#n.#strec; (quantity) un poc; admixtura; (spirit) elan#
-DASH#v.#(hurl) lansar, jettar(se) ; (smash) fracassar; (one's hopes) forprender li esperantie; (dash against) chocar contra#
+DASH#v.#(to hurl) lansar, jettar(se) ; (to smash) fracassar; (one's hopes) forprender li esperantie; (to dash against) chocar contra#
 DASHING#adj.#frappant, evocant atention, audaci, galant#
 DASTARD#n.#caudard, poltron (-eríe)#
 DASTARDLY#adj.#abominabil, caudardi#
@@ -3679,7 +3679,7 @@ DAY#expr.#THE OTHER DAY: recentmen, ante quelc dies#
 DAY#n.#die; (opposed to night) jorne#
 DAYDREAM#n.#reve (-ar)#
 DAYLIGHT#n.#luce diari#
-DAZE#v.#aturdir, stupefar; (dazzle) ciecar#
+DAZE#v.#aturdir, stupefar; (to dazzle) (a)ciecar#
 DAZZLE#v.#(a)ciecar, fascinar, dazlar#
 DEACON#n.#diacon (-atu, -essa); (church officer) presbitero#
 DEAD#adj.#mort (-al), ínanimat; (dead to) ínsensibil por; (accurate) exact#
@@ -3695,7 +3695,7 @@ DEAF-MUTE#adj.#surdimut#
 DEAF-MUTE#n.#surdimuto#
 DEAL#expr.#A GOOD DEAL: mult, sat mult#
 DEAL#n.#parte, portion; (timber) planca#
-DEAL#v.#(cards) distribuer, dar; (trade) mercar, negociar; (trade with) comprar che; (a blow) far, inflicter; (deal with) liquidar, executer#
+DEAL#v.#(cards) distribuer, dar; (to trade) mercar, negociar; (to trade with) comprar che; (a blow) far, inflicter; (to deal with) liquidar, executer#
 DEALER#n.#comerciante, mercator, mercero, negociant#
 DEALINGS#n.#interrelationes, tráfic, negociationes#
 DEAN#n.#decan (-atu)#
@@ -3732,10 +3732,10 @@ DECANTER#n.#caraffe#
 DECAPITATE#v.#decap(it)ar (-ation)#
 DECARBONISE#v.#decarbonisar#
 DECAY#n.#caducitá, putrition#
-DECAY#v.#devenir caduc, decrepir, deperir, decader; (rot) putrir; decomposir se#
+DECAY#v.intr.#devenir caduc, decrepir, deperir, decader; (to rot) putrir; decomposir se#
 DECEASE#n.#morte, decesse#
 DECEIT#n.#duperíe, fraude#
-DECEIVE#v.#decepter (-ion, -iv); (mislead) seducter, dupar#
+DECEIVE#v.#decepter (-ion, -iv); (to mislead) seducter, dupar#
 DECEMBER#n.#decembre#
 DECENNIAL#adj.#decennial, deci-annual#
 DECENT#adj.#decent (-ie), pudic; suficent#
@@ -3758,7 +3758,8 @@ DECLIVITY#n.#declive#
 DECOCT#v.#decocter (-ion)#
 DECODE#v.#deciffrar, decodificar#
 DECOLLETE#n.#decolté, decoltat#
-DECOMPOSE#v.#decomposir (se) (-ition)#
+DECOMPOSE#v.intr.#decomposir se#
+DECOMPOSE#v.tr.#decomposir (-ition)#
 DECONTROL#v.#decontrolar, liberar de control#
 DECORATE#v.#ornar; decorar (-ation, -ativ, -ator)#
 DECOROUS#adj.#decent, convenent#
@@ -3770,7 +3771,7 @@ DECREASE#v.#(di)minuer (-tion), decrescer (-entie)#
 DECREE#n.#decrete (-er), ordon (-ar)#
 DECREPIT#adj.#decrepit, caduc#
 DECRY#v.#decreditar, depreciar#
-DEDICATE#v.#dedicar (-ation, -atori), consacrar, devoer (se)#
+DEDICATE#v.#dedicar (-ation, -atori), consacrar, devoer (se)#XXX TODO consultar, divider
 DEDUCE#v.#deducter (-ion, -iv), concluDer, derivar#
 DEDUCT#v.#subtraer (-tion)#
 DEED#n.#acte, action; document#
@@ -3793,7 +3794,7 @@ DEFECTION#n.#desertion, abandon#
 DEFENCE#n.#defense, defension, protection#
 DEFEND#v.#defenDer (-siv), gardar, protecter; (law) pledar#
 DEFENDANT#n.#acusato, inculpato#
-DEFER#v.#procrastinar, ajornar; submisser se; (yield) ceder#
+DEFER#v.#procrastinar, ajornar; submisser se; (to yield) ceder#
 DEFERENCE#n.#respecte, consideration#
 DEFIANCE#n.#bravade, defiation#
 DEFICIENT#adj.#mancant, ínsuficent, defectiv, ínperfect#
@@ -3835,12 +3836,12 @@ DELIGHT#n.#delicie, plesura, joya#
 DELIGHT#v.#charmar, injoyar, pleser, delectar#
 DELIGHT IN#v.#juir#
 DELIMIT#v.#definir, delimitar#
-DELINEATE#v.#delinear; (sketch out) esquissar, dessinar#
+DELINEATE#v.#delinear; (to sketch out) esquissar, dessinar#
 DELINQUENCY#n.#delicte, culpabilitá#
 DELINQUENT#n.#delinquente, culpon#
 DELIQUESCE#v.#liquificar se#
 DELIRIUM#n.#delire#
-DELIVER#v.#(free) liberar, emancipar; (rescue) salvar; (goods) liverar; (hand over) transdar; (an opinion) enunciar; (confinement) acuchar#
+DELIVER#v.#(to free) liberar, emancipar; (to rescue) salvar; (goods) liverar; (to hand over) transdar; (an opinion) enunciar; (confinement) acuchar#
 DELL#n.#valleyette#
 DELPHINIUM#n.#delfinium#
 DELTA#n.#delta#
@@ -3855,7 +3856,7 @@ DEMAGOGUE#n.#demagog (-ic)#
 DEMAND#n.#demande, beson#
 DEMAND#v.#exiger, demandar, postular#
 DEMARCATE#v.#delimitar, demarcar#
-DEMEAN#v.#abassar, degradar; (behave) conduir se#
+DEMEAN#v.#abassar, degradar; (to behave) conduir se#
 DEMEANOUR#n.#conduida, atitude, maniere#
 DEMENTED#adj.#folli, rabiat, rabiosi, frenetic, dement#
 DEMERIT#n.#culpe, defecte, demerite#
@@ -3899,7 +3900,7 @@ DEPARTMENT#n.#branche, profession, division, section, departement, rayon#
 DEPARTURA#n.#departe#
 DEPEND#v.#depender (de) (-ent, -entie)#
 DEPENDABLE#adj.#pruvat, cert, secur, fidibil#
-DEPICT#v.#(paint) picter; (describe) descrir, caracterisar, portretar#
+DEPICT#v.#(to paint) picter; (to describe) descrir, caracterisar, portretar#
 DEPLETE#v.#exhauster (-ion), desplenar, vacuar#
 DEPLORE#v.#deplorar (-abil)#
 DEPOLARISE#v.#depolarisar#
@@ -3931,7 +3932,7 @@ DERVISH#n.#dervish#
 DESCANT#n.#(mus.) soprano#
 DESCANT#v.#trillar; (fig.) discurrer pri#
 DESCEND#v.#descenDer (-se, -sion, -dente, -dentie)#
-DESCRIBE#v.#descrir (-ition, -itiv); (draw) dessinar#
+DESCRIBE#v.#descrir (-ition, -itiv); (to draw) dessinar#
 DESCRY#v.#spiar, vider, decovrir#
 DESECRATE#v.#desacrar, profanar#
 DESERT#adj.#desert#
@@ -3943,7 +3944,7 @@ DESHABILLE#n.#negligé#
 DESICCATE#v.#(ex)siccar (-ation)#
 DESIDERATUM#n.#beson, manca#
 DESIGN#n.#dessine, plan, projecte#
-DESIGN#v.#(draw) dessinar, esquissar; (plan out) projector, designar; (intend) intenter#
+DESIGN#v.#(to draw) dessinar, esquissar; (to plan out) projecter, designar; (to intend) intenter#
 DESIGNATE#v.#designar (-ation, -abil), destinar, nominar#
 DESIGNING#adj.#perfid, astut#
 DESIRE#n.#desire (-ar, -abil)#
@@ -3953,7 +3954,7 @@ DESOLATE#adj.#desert, desolat, isolat#
 DESOLATE#v.#devastar (-ation)#
 DESPAIR#v.#desesperar (-antie)#
 DESPATCH#n.#celeritá; (mil.) depeche#
-DESPATCH#v.#inviar, expedir, misser; (kill) mortar#
+DESPATCH#v.#inviar, expedir, misser; (to kill) mortar#
 DESPATCH RIDER#n.#estafet#
 DESPERADO#n.#desperado#
 DESPERATE#adj.#desperat, desesperat#
@@ -3979,9 +3980,9 @@ DESULTORY#adj.#superficial, cursori, incoherent#
 DETACH#v.#separar, deligar#
 DETACHMENT#mil.#section; (aloofness) isolation#
 DETAIL#n.#detallie (-ar, -at)#
-DETAIL#v.#(tell off) selecter, definir#
+DETAIL#v.#(to tell off) selecter, definir#
 DETAIN#v.#arestar, stoppar, retener#
-DETECT#v.#(notice) remarcar; (discover) decovrir, detecter (-or, -ion, -iv, -ive)#
+DETECT#v.#(to notice) remarcar; (to discover) decovrir, detecter (-or, -ion, -iv, -ive)#
 DETER#v.#impedir#
 DETERGENT#adj.#detergent, purificant#
 DETERIORATE#adj.#deteriorat (-ation), pejorat#
@@ -4038,7 +4039,7 @@ DICTIONARY#n.#lexico, dictionarium#
 DICTUM#n.#dictum#
 DIDACTIC#adj.#didactic (-a)#
 DIE#n.#cube, stamp#
-DIE#v.#morir; (perish) perir; (die out) extinter se#
+DIE#v.#morir; (to perish) perir; (to die out) extinter se#
 DIET#n.#diete (-ari, -ic, -ica)#
 DIFFER#v.#diferer (-ent, -entie, -entiar, -ential, -entiale)#
 DIFFICULT#adj.#desfacil (-itá), penosi#
@@ -4080,7 +4081,7 @@ DINT#n.#impression#
 DIOCESE#n.#diocese, (-an)#
 DIOPTRIC#adj.#(phys.) dioptric#
 DIORAMA#n.#diorama#
-DIP#v.#(immerse) (in)merser, plongear; (sun) descenDer; (magnet) declinar#
+DIP#v.#(to immerse) (in)merser, plongear; (sun) descenDer; (magnet) declinar#
 DIP INTO A BOOK#v.#percurrer#
 DIP OUT OF#v.#hauster#
 DIP THE FLAG#v.#(naut.) salutar per li flagga#
@@ -4100,7 +4101,7 @@ DIRK#n.#puniale#
 DIRT#n.#crasse, sordidallia, sordidage; (mud) fango, mudde#
 DIRTY#adj.#sordid, ínpur#
 DIRTY#v.#incrassar#
-DISABLE#v.#far íncapabil, debilisar, desvalidar; (cripple) mutilar#
+DISABLE#v.#far íncapabil, debilisar, desvalidar; (to cripple) mutilar#
 DISABUSE#v.#desilusionar#
 DISADVANTAGE#n.#desavantage, detriment, damage#
 DISAFFECT#v.#desloyalisar, descontentar#
@@ -4123,7 +4124,7 @@ DISC#n.#disco#
 DISCARD#v.#rejecter, escartar#
 DISCERN#v.#discerner, percepter, distinter#
 DISCERNMENT#n.#sagacitá#
-DISCHARGE#v.#demisser, congediar; executer; (a prisoner) aquittar, absoluer; (ship) decargar; (matter) supurar#
+DISCHARGE#v.#demisser, congediar; executer; (a prisoner) aquittar, absoluer; (ship) decargar; (matter) supurar#XXX TODO consultar "(matter) supurar"
 DISCIPLE#n.#disciple (-a, -o), adepte, adherente, partisan#
 DISCIPLINE#n.#discipline (-ar, -ari)#
 DISCLAIM#v.#repudiar, negar, dementir#
@@ -4146,7 +4147,7 @@ DISCOURAGE#v.#decoragear#
 DISCOURSE#n.#discurse, parlada#
 DISCOURSE#v.#discurrer#
 DISCOURTEOUS#adj.#descortesi, ínpolit#
-DISCOVER#v.#decovrir, revelar; (find) trovar#
+DISCOVER#v.#decovrir, revelar; (to find) trovar#
 DISCREDIT#n.#descredite, honte, mal repu tation#
 DISCREDIT#v.#defamar, dubitar pri#
 DISCREDITABLE#adj.#hontosi, infam#
@@ -4230,7 +4231,7 @@ DISPLEASE#v.#depleser (-ura), ofender#
 DISPORT ONESELF#v.#amusar se, divertisser se#
 DISPOSAL#n.#disposition, arbitrie, usa#
 DISPOSE#v.#disposir, arangear#
-DISPOSE OF#v.#disponer, vendir, alienar; (deal with) tractar#
+DISPOSE OF#v.#disponer, vendir, alienar; (to deal with) tractar#
 DISPOSITION#n.#disposition; temperament#
 DISPOSSESS#v.#deposseder, privar de, expulser#
 DISPROPORTION#n.#desproportion (-al)#
@@ -4267,7 +4268,7 @@ DISSIPATED#adj.#deboehat#
 DISSOCIATE#v.#dissociar#
 DISSOLUTE#adj.#debochant, libertin#
 DISSOLUTION#n.#dissolution#
-DISSOLVE#v.#(melt) dissoluer, evaporar se; anullar#
+DISSOLVE#v.#(to melt) dissoluer, evaporar se; anullar#
 DISSONANT#adj.#dissonant (-ie)#
 DISSUADE#v.#dissuaDer (-sion, -siv), deconsiliar#
 DISTAFF#n.#spindle#
@@ -4291,7 +4292,7 @@ DISTRESS#v.#trublar, tormentar#
 DISTRIBUTE#v.#distribuer (-tion, -tiv, -tor), disdar#
 DISTRICT#n.#districte, region#
 DISTRUST#v.#misfider (-entie)#
-DISTURB#v.#(dis)turbar, genar, ínquietar; (disarrange) desordinar, íncomodar#
+DISTURB#v.#(dis)turbar, genar, ínquietar; (to disarrange) desordinar, íncomodar#
 DISUNITE#v.#desunir, divider#
 DISUSE#n.#desusu#
 DISUSED#adj.#ne plu usat#
@@ -4352,7 +4353,7 @@ DOGGEREL#n.#versaches, rimallia#
 DOGMA#n.#dogma (-tic)#
 DOING#expr.#THAT WAS YOUR DOING: ta vu es culpabil, pri to vu es responsabil#
 DOLE#n.#(share) parte, portion; almosne#
-DOLE#v.#(dole out) partir, distribuer#
+DOLE#v.#(to dole out) partir, distribuer#
 DOLEFUL#adj.#morni, trist#
 DOLL#n.#pupé#
 DOLLAR#n.#dóllar#
@@ -4400,7 +4401,7 @@ DOUCHE#n.#duche#
 DOUGH#n.#pasta#
 DOUGHTY#adj.#brav, corageosi#
 DOUR#adj.#obstinaci, dur, ínflexibil#
-DOUSE#v.#(dip) merser#
+DOUSE#v.#(to dip) merser#
 DOVE#n.#columbe#
 DOVECOT#n.#columbiera#
 DOVETAIL#v.#mortesar#
@@ -4431,9 +4432,9 @@ DOZEN#n.#dozene, deciduene#
 DRAB#adj.#monoton, brun-grisi; ínatrativ#
 DRAB#n.#salopa#
 DRAFT#n.#(money) tratte; (mil.) section; (lit.) esquisse, plan, concepte, cladde#
-DRAFT#v.#(draw up) redacter; (mil.) misser, selecter, expedir#
+DRAFT#v.#(to draw up) redacter; (mil.) misser, selecter, expedir#
 DRAG#n.#dragg; impediment#
-DRAG#v.#trenar, tirar; (dredge) draggar#
+DRAG#v.#trenar, tirar; (to dredge) draggar#
 DRAGGLE#v.#trenar in mudde#
 DRAGON#n.#dracon#
 DRAGON-FLY#n.#libellul#
@@ -4450,7 +4451,7 @@ DRAUGHTS#n.#dama-lude#
 DRAUGHTSMAN#n.#dessinator; (in game) pezze#
 DRAUGHTY#adj.#ventosi#
 DRAW#n.#(sport) egalitá#
-DRAW#v.#(pull) tirar, traer, atraer; (drag) trenar; (water) hauster; (on paper) dessinar; (lots) lotar; (draw near) aproximar se#
+DRAW#v.#(to pull) tirar, traer, atraer; (to drag) trenar; (water) hauster; (on paper) dessinar; (lots) lotar; (to draw near) aproximar se#
 DRAW-BRIDGE#n.#tir-ponte, ponte levabil#
 DRAWBACK#n.#desavantage#
 DRAWER#n.#tiruore, tirbux, tircheste#
@@ -4471,14 +4472,14 @@ DREDGER#n.#mudd-haustor, dragg-machine; (ship) draggator#
 DREGS#n.#sediment#
 DRENCH#v.#saturar (per aqua), balnear#
 DRESS#n.#vestiment, costume, robe#
-DRESS#v.#vestir; (garnish) ornar, decorar; (wound) bandagear; (food) preparar, apretar#
+DRESS#v.#vestir; (to garnish) ornar, decorar; (to wound) bandagear; (food) preparar, apretar#
 DRESS-COAT#n.#frac#
 DRESSING-TABLE#n.#toilette-table#
 DRESSMAKER#n.#tallier(ess)a#
 DRIBBLE#v.#guttear; (as child) bavar; (football) dribblar#
 DRIED CURRANT#n.#corinte#
 DRIFT#n.#tendentie, impulse, scope; (naut.) drive (-ar); (snowdrift) nive-banca#
-DRIFT#v.#(naut.) drivar, flottar con li currente; (wander) vagar#
+DRIFT#v.#(naut.) drivar, flottar con li currente; (to wander) vagar#
 DRILL#n.#exercida; (tool) drill; (hort.) sulca#
 DRILL#v.#(per)forar, drillar; (mil.) dresser, exercir (-ida, -itie)#
 DRINK#v.#trincar (-age)#
@@ -4486,15 +4487,15 @@ DRINK TO#v.#tostar#
 DRIP#v.#guttear#
 DRIPPING#n.#rost-grasse, grasse culinari#
 DRIVE#n.#promenada, excursion; (road) calech-via, allé#
-DRIVE#v.tr.#conducter, far functionar, far avansar, far ear, propulser, promoer; (a horse) ducter; (a machine) mo(v)er, operar, vehicular, choferar; (compel) fortiar#
+DRIVE#v.tr.#conducter, far functionar, far avansar, far ear, propulser, promoer; (a horse) ducter; (a machine) mo(v)er, operar, vehicular, choferar; (to compel) fortiar#
 DRIVE TO DISTRACTION#v.#far frenetic#
-DRIVEL#v.#radotar, parlar ínepties; (slaver) bavar#
+DRIVEL#v.#radotar, parlar ínepties; (to slaver) bavar#
 DRIVER#n.#cochero, chofero, conductor#
 DRIZZLE#n.#pluviette (-ar, -ada)#
 DROLL#adj.#drolli (-eríe), comic#
 DROMEDARY#n.#dromedare#
 DRONE#n.#(bee) drone; (hum) murmurada, burdonament#
-DROOP#v.#pender, clinar se; (wither) marcir#
+DROOP#v.#pender, clinar se; (to wither) marcir#
 DROP#n.#gutte; (fall) cade#
 DROP#v.#(let fall) lassar cader#
 DROPSY#n.#hidropsie#
@@ -4524,7 +4525,7 @@ DUCAL#adj.#ducal#
 DUCAT#n.#ducate#
 DUCHESS#n.#ducessa#
 DUCK#n.#(bird) anate#
-DUCK#v.#clinar se, bassar se; (immerse) merser#
+DUCK#v.#clinar se, bassar se; (to immerse) merser#
 DUCKWEED#n.#lemna#
 DUCT#n.#tub, canale#
 DUCTILE#adj.#ductil (-itá), malleabil#
@@ -4566,7 +4567,7 @@ DUSK#n.#crepuscul; (morning) aurora#
 DUSKY#adj.#obscur, nigratri#
 DUST#expr.#IT IS DUSTY: it polvea#
 DUST#n.#polve (-osi)#
-DUST#v.#(remove dust) terger, essuyar, depolvar; (to powder) surpluverar#
+DUST#v.#(to remove dust) terger, essuyar, depolvar; (to powder) surpluverar#
 DUSTER#n.#tergette, polv-linage, essuyette#
 DUSTPAN#n.#cindriere#
 DUTY#n.#deve(ntie); (on goods) impost, tribute#
