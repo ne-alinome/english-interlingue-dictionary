@@ -1,5 +1,4 @@
 A#art.#un#
-A ONE#n.#unene#
 ABAFT#adj.#vers li sterne#
 ABANDON#n.#licentie#
 ABANDON#v.#abandonar, ceder#
@@ -42,6 +41,7 @@ ABOUT#adv.#(approx.) circa#
 ABOUT#prep.#concernent, pri; (around) circum#
 ABOVE#adv.#supra, ad-supra; (more than) plu quam#
 ABOVE#prep.#súper#
+ABOVE#prep.-example#ABOVE ALL: precipue, ante omnicos#
 ABOVE ALL#adv.#precipue, ante omnicos#
 ABOVE-BOARD#adj.#franc, apert, sinceri#
 ABRASION#n.#abrasion#
@@ -155,7 +155,7 @@ ACTUAL#adj.#factic, real, efectiv#
 ACTUATE#v.#instigar, motivar, far functionar, impulser#
 ACUMEN#n.#sagacitá, perception#
 ACUTE#adj.#acut, sagaci#
-AD LIBITUM#adv.#ad libitum#
+AD LIBITUM#adv.#ad libitum#XXX TODO adjunter alternatives
 AD NAUSEAM#adv.#a nausea#
 ADAGE#n.#proverbie#
 ADAMANT#n.#adamant#
@@ -164,7 +164,8 @@ ADD#v.#adjunter; (arith.) addir, summar#
 ADDENDUM#n.#addendum#
 ADDER#n.#vípere#
 ADDICT#n.#sclave#
-ADDICT ONESELF TO#v.#habituar se a#
+ADDICT#v.# #
+ADDICT#v.-example#ADDICT ONESELF TO: habituar se a#
 ADDLE#v.#confuser, putrir#
 ADDLEBRAINED#adj.#stult, stupid#
 ADDRESS#n.#adresse (-ate, -arium); (speech) discurse, parlation#
@@ -188,8 +189,8 @@ ADJURE#v.#adjurar, suplicar#
 ADJUST#v.#adjustar, ordinar, corecter, rectificar#
 ADJUSTABLE#adj.#adjustabil, variabil#
 ADJUTANT#n.#adjutante#
-ADMINISTER#v.#administrar (-ation, -ativ, -ator); gerer#
-ADMINISTER THE SACRAMENT#v.#comunier#
+ADMINISTER#v.#administrar (-ation, -ativ, -ator); (sacrament) comunier; gerer#XXX TODO consultar "gerer"
+SACRAMENT#n.-example#ADMINISTER THE SACRAMENT: comunier#
 ADMIRAL#n.#amirale#
 ADMIRE#v.#admirar (-abil, -ation, -ator)#
 ADMISSIBLE#adj.#admissibil (-itá)#
@@ -262,6 +263,7 @@ AFRESH#adv.#denov#
 AFT#adv.#in detra; in li stern#
 AFTER#conj.#posque#
 AFTER#prep.#pos#
+AFTER#prep.-example#AFTER ALL: in fine, pos omno, in summa#
 AFTER ALL#adv.#in fine, pos omno, in summa#
 AFTERBIRTH#n.#placenta#
 AFTERNOON#n.#posmidí#
@@ -353,8 +355,8 @@ ALL#adj.-example#ALL THE YEAR ROUND: li tot annu#
 ALL#adj.-example#IT'S ALL THE SAME TO ME: it es me egal#
 ALL#adv.# #XXX TODO
 ALL#n.#(everything) omnicos; (the whole) li totalité, lu tot#
-ALL BUT#adv.#presc#
-ALL BUT#prep.#omni except(et), omnes except(et)#
+ALL#adv.-example#ALL BUT: presc#
+BUT#conj.-example#ALL BUT: presc#
 ALLAY#v.#calmar, aleviar, moderar, quietar, mitigar#
 ALLEGE#v.#afirmar, asserter#
 ALLEGIANCE#n.#loyalitá, fidelitá, homage, deventie#
@@ -369,7 +371,8 @@ ALLOCATE#v.#distribuer, assignar, portionar#
 ALLOT#v.#distribuer, portionar#
 ALLOTMENT#n.#(share) parte, portion, quote; (of land) parcelle#
 ALLOW#v.#admisser; (to grant) conceder, permisser#
-ALLOW A DISCOUNT#v.#rabattar#
+ALLOW#v.-example#ALLOW A DISCOUNT: rabattar#
+DISCOUNT#n.-example#ALLOW A DISCOUNT: rabattar#
 ALLOWANCE#n.#portion; (due allowance) egarde, consideration; (monetary) assignament; (discount) rabatte#
 ALLOY#n.#mixtura, alliage#
 ALLOY#v.#alligar#
@@ -389,7 +392,9 @@ ALOFT#adv.#supra, in supra#
 ALONE#adj.#sol, solitari#
 ALONE#adv.#(only) solmen#
 ALONG#prep.#along#
-ALONG WITH#prep.#junt con#
+ALONG#adv.# #XXX TODO
+ALONG#adv.-example#ALONG WITH: junt con#
+WITH#prep.-example#ALONG WITH: junt con#
 ALONGSIDE#adv.#(naut.) bord a borde#
 ALOOF#adj.#reservat#
 ALOUD#adv.#vocosimen, con voce, audibilmen#
@@ -482,7 +487,8 @@ ANCHOVY#n.#anchove#
 ANCIENT#adj.#ancian, antiqui, old#
 ANCILLARY#adj.#suplementari, auxiliari#
 AND#conj.#e#
-AND SO ON#adv.#etcéteri#
+AND#conj.-example#AND SO ON: etcéteri#XXX TODO
+AND SO ON#adv.#etcéteri#XXX TODO acresce e ameliora li traduction; adjunte "and so forth"
 ANECDOTE#n.#anecdote#
 ANEMOMETER#n.#anemometre#
 ANEMONE#n.#anemone#
@@ -531,7 +537,7 @@ ANOTHER#adj., pron.#altri, ancor un#
 ANSERINE#adj.#gansin; stult#
 ANSWER#n.#replica, response#
 ANSWER#v.#responder#
-ANSWER FOR#v.#responsar#
+ANSWER#v.-example#TO ANSWER FOR: responsar#
 ANT#n.#formíca#
 ANTAGONISM#n.#antagonisme, oposition#
 ANTARCTIC#adj.#antarctic#
@@ -572,11 +578,12 @@ ANY#adj., pron.-example#I WILL NOT STAY ANY LONGER: yo ne va restar plu long#
 ANYBODY#n.#(interr.) alcun, alquí, alquem; (no matter who(m)) quicunc, quemcunc#
 ANYHOW#adv.#alquam; (no matter how) quamcunc; (in spite of everything) malgré omnicos#
 ANYTHING#n.#(interr.) alquó; (no matter what) quocunc#
-ANYTHING BUT#prep.#omno except#
+ANYTHING BUT#prep.#omno except#XXX TODO
 ANYWAY#adv.#in omni casu; alquam; (no matter how) quamcunc#
 ANYWHERE#adv.#(interr.) alcú; (no matter where) ucunc#
 APACE#adv.#rapidmen, hastosimen#
 APART#adj.#apart, separat, isolat, desunit#
+APART#adj.-example#APART FROM THAT: ultra to#
 APART FROM THAT#adv.#ultra to#
 APATHETIC#adj.#apátic#
 APATHY#n.#apatie#
@@ -624,8 +631,8 @@ APPLE#n.#pom (-iero)#
 APPLIANCE#n.#aparate, utensile, expediente, machine#
 APPLICABLE#adj.#aplicábil (-itá)#
 APPLY#v.#aplicar (-abil, -ation)#
-APPLY ONESELF TO#v.#devoer se a#
-APPLY TO#v.#tornar se a#
+APPLY#v.-example#TO APPLY ONESELF TO: devoer se a#
+APPLY#v.-example#TO APPLY TO: tornar se a#
 APPOINT#v.#fixar, destinar, etablisser; (a person) nominar, electer#
 APPOINTMENT#n.#rendevú, nomination, oficie#
 APPORTION#v.#partir, aportionar, divider#
@@ -688,7 +695,7 @@ ARIA#n.#arie#
 ARID#adj.#arid (-itá)#
 ARIGHT#adv.#just(men)#
 ARISE#v.#levar se#
-ARISE OUT OF#v.#nascer ex, provenir#
+ARISE#v.-example#ARISE OUT OF: nascer ex, provenir#
 ARISTOCRAT#n.#aristocrate (-ie, -ic)#
 ARITHMETIC#n.#aritmetica#
 ARITHMETICIAN#n.#aritmetico#
@@ -726,7 +733,8 @@ ARSENAL#n.#arsenale, armería#
 ARSENIC#n.#arsenic#
 ARSON#n.#incendiation#
 ART#n.#arte (-ist, -istic)#
-ART GALLERY#n.#pinacoteca#
+ART#n.-example#ART GALLERY: pinacoteca#
+GALLERY#n.-example#ART GALLERY: pinacoteca#
 ARTERY#n.#arterie (-osclerose)#
 ARTFUL#adj.#astut (-ie)#
 ARTHRITIS#n.#artrite#
@@ -736,19 +744,39 @@ ARTICULATE#v.#articular (-ation)#
 ARTIFICE#n.#artificie#
 ARTIFICIAL#adj.#artificial (-itá)#
 ARTIFICIAL SILK#n.#rayonne#
+SILK#n.-example#ARTIFICIAL SILK: rayonne#
 ARTILLERY#n.#artillerie#
 ARTISAN#n.#artisian (-al, -atu)#
 ARTLESS#adj.#naiv, ínafectat, simplic, ingenui (-tá)#
-AS#adv., conj.#(because) proque; (manner) quam#
-AS A MATTER OF FACT#n.#advere#
+AS#adv..#(manner) quam#
+AS#conj.#(because) proque#
+MATTER#n.-example#AS A MATTER OF FACT: advere#
+FACT#n.-example#AS A MATTER OF FACT: advere#
+AS#adv.-example#AS A MATTER OF FACT: advere#
+AS A MATTER OF FACT#adv.#advere#
+RULE#n.-example#AS A RULE: generalmen, in general#
 AS A RULE#adv.#generalmen, in general#
+AS#adv.-example#AS A RULE: generalmen, in general#
 AS FAR AS#prep.#til#
+AS#adv.-example#AS FAR AS: til#
+FAR#adv.-example#AS FAR AS: til#
+AS#adv.-example#AS FAR AS I KNOW: secun quo yo save#
 AS FAR AS I KNOW#adv.#secun quo yo save#
+FAR#adv.-example#AS FAR AS I KNOW: secun quo yo save#
 AS MUCH AS#adv.#tant quant#
-AS RICH AS#adv.#tam rich quam#
+AS#adv.-example#AS MUCH AS: tant quant#
+MUCH#adj.-example#AS MUCH AS: tant quant#
+AS#adv.-example#AS RICH AS: tam rich quam#
 AS SOON AS POSSIBLE#adv.#max bentost possibil#
+AS#adv.-example#AS SOON AS POSSIBLE: max bentost possibil#
+SOON#adv.-example#AS SOON AS POSSIBLE: max bentost possibil#
+POSSIBLE#adj.-example#AS SOON AS POSSIBLE: max bentost possibil#
 AS THOUGH#adv.#quam si, quasi#
+THOUGH#conj.-example#AS THOUGH: quam si, quasi#
+AS#adv.-example#AS THOUGH: quam si, quasi#
 AS TO#prep.#concernent#
+AS#adv.-example#AS TO: concernent#
+TO#prep.-example#AS TO: concernent#
 ASBESTOS#n.#asbeste#
 ASCEND#v.#ascender (-Sion), montar#
 ASCENDANCY#n.#superioritá#
@@ -761,7 +789,7 @@ ASHTRAY#n.#cindriere#
 ASIDE#adv.#ad-látere#
 ASININE#adj.#asinin#
 ASK#v.#questionar, interrogar#
-ASK FOR#v.#petir, demandar#
+ASK#v.-example#TO ASK FOR: petir, demandar#
 ASKEW#adj.#obliqui#
 ASLANT#adj.#obliqui, inclinat, clin#
 ASLEEP#adj.#dormient, indormit#
@@ -799,7 +827,11 @@ ASSORT#v.#assortir (-iment), classificar#
 ASSUAGE#v.#mitigar, moderar, lenir, aleviar#
 ASSUME#v.#suposir; (to usurp) usurpar#
 ASSUME A LIKENESS#v.#simular#
+ASSUME#v.-example#TO ASSUME A LIKENESS: simular#
+LIKENESS#n.-example#TO ASSUME A LIKENESS: simular#
 ASSUME AS TRUE#v.#acceptar#
+ASSUME#v.-example#TO ASSUME AS TRUE: acceptar#
+TRUE#adj.-example#ASSUME AS TRUE: acceptar#
 ASSUMPTION#n.#hipotese#
 ASSURANCE#n.#(insurance) assecurantie (self-confidence) aplombe#
 ASSURE#v.#assecurar, afirmar#
@@ -818,35 +850,90 @@ ASUNDER#adj.#apart, separat; dis-#
 ASYLUM#n.#asil, hospicie por alienates#
 AT#prep.#(place) in (London), a; (time) ye; (house, shop) che; (towards) vers, contra, a; (at the rate of) tri horloges a Fr. 100#XXX FIXME improve, split
 AT A PREMIUM#adv.#súper pari, súper nominale#
+PREMIUM#n.-example#AT A PREMIUM: súper pari, súper nominale#
 AT A STRETCH#adv.#sin intermittentie#
+STRETCH#n.-example#AT A STRETCH: sin intermittentie#
 AT ALL EVENTS#adv.#in omni casu#
+AT#prep.-example#AT ALL EVENTS: in omni casu#
+EVENTS#n.-example#AT ALL EVENTS: in omni casu#
 AT ANY RATE#adv.#in omni casu#
+RATE#n.-example#AT ANY RATE: in omni casu#
+AT#prep.-example#AT ANY RATE: in omni casu#
 AT EASE#adv.#sin gena#
+EASE#n.-example#AT EASE: sin gena#
+AT#prep.-example#AT EASE: sin gena#
 AT FIRST#adv.#in prim#
+AT#prep.-example#AT FIRST: in prim#
+FIRST#adj.-example#AT FIRST: in prim#
 AT FIRST SIGHT#adv.#ye prim vise#
-AT HALFMAST#adv.#ye demí-mast#
+AT#prep.-example#AT FIRST SIGHT: ye prim vise#
+FIRST#adj.-example#AT FIRST SIGHT: ye prim vise#
+SIGHT#n.-example#AT FIRST SIGHT: ye prim vise#
+AT#n.-example#AT HALFMAST: ye demí-mast#
 AT HAND#adv.#che manu, proxim#
+AT#prep.-example#AT HAND: che manu, proxim#
+HAND#n.-example#AT HAND: che manu, proxim#
 AT HOME#adv.#in hem#
+AT#prep.-example#AT HOME: in hem#
+HOME#n.-example#AT HOME: in hem#
 AT ISSUE#adv.#in dispute, in question#
-AT LARGE#adj.#líber#
+AT#prep.-example#AT ISSUE: in dispute, in question#
+ISSUE#n.-example#AT ISSUE: in dispute, in question#
+AT LARGE#adv.#líber#
+AT#prep.-example#AT LARGE: líber#
+LARGE#adj.-example#AT LARGE: líber#
 AT LAST#adv.#in fine#
+AT#prep.-example#AT LAST: in fine#
+LAST#adj.-example#AT LAST: in fine#
 AT LEAST#adv.#adminim, alminu#
+AT#prep.-example#AT LEAST: adminim, alminu#
+LEAST#adj.-example#AT LEAST: adminim, alminu#
 AT LENGTH#adv.#in fine; detalliatmen#
+AT#prep.-example#AT LENGTH: in fine; detalliatmen#
+LENGTH#n.-example#AT LENGTH: in fine; detalliatmen#
 AT MOST#adv.#admaxim#
+AT#prep.-example#AT MOST: admaxim#
+MOST#adj., adv.-example#AT MOST: admaxim#
 AT ONCE#adv.#strax; simultanmen#
+AT#prep.-example#AT ONCE: strax; simultanmen#
+ONCE#adv.-example#AT ONCE: strax; simultanmen#
 AT ONE'S WITS' END#adv.#esser al fine de su Latin, plu ne saver quo far#XXX FIXME --
+AT#prep.-example#AT ONE'S WITS' END: esser al fine de su Latin, plu ne saver quo far#XXX FIXME --
+WIT#n.-example#AT ONE'S WITS' END: esser al fine de su Latin, plu ne saver quo far#XXX FIXME --
 AT PAR#adv.#al pari#
+AT#prep.-example#AT PAR: al pari#
+PAR#adj.-example#AT PAR: al pari#
 AT PRESENT#adv.#in presente, nu#
+AT#prep.-example#AT PRESENT: in presente, nu#
+PRESENT#n.-example#AT PRESENT: in presente, nu#
 AT RANDOM#adv.#in hasarde#
+AT#prep.-example#AT RANDOM: in hasarde#
+RANDOM#adj.-example#AT RANDOM: in hasarde#
 AT SIGHT#adv.#che vise#
+AT#prep.-example#AT SIGHT: che vise#
+SIGHT#n.-example#AT SIGHT: che vise#
 AT THE BACK OF#prep.#detra#
-AT THE BARBER'S#adv.#che li barbero#
+AT#prep.-example#AT THE BACK OF: detra#
+BACK#n.-example#AT THE BACK OF: detra#
+AT#prep.-example#AT THE BARBER'S: che li barbero#
 AT THE END OF ONE'S TETHER#adv.#al fine de su corde#
+AT#prep.-example#AT THE END OF ONE'S TETHER: al fine de su corde#
+END#n.-example#AT THE END OF ONE'S TETHER: al fine de su corde#
+TETHER#n.-example#AT THE END OF ONE'S TETHER: al fine de su corde#
 AT THE OUTSET#adv.#in prim linea#
-AT THREE O'CLOCK#adv.#ye tri horas#
+AT#prep.-example#AT THE OUTSET: in prim linea#
+OUTSET#n.-example#AT THE OUTSET: in prim linea#
+AT#prep.-example#AT THREE O'CLOCK: ye tri horas#
 AT TIMES#adv.#a vezes#
-AT VARIANCE#adj., adv.#discordant, in dissension#
+AT#prep.-example#AT TIMES: a vezes#
+TIME#n.-example#AT TIMES: a vezes#
+AT VARIANCE#adv.#in discordantie, in dissension#
+AT#prep.-example#AT VARIANCE: in discordantie, in dissension#
+VARIANCE#n.# #XXX TODO
+VARIANCE#n.-example#AT VARIANCE: in discordantie, in dissension#
 AT WILL#adv.#secun arbitrie#
+AT#prep.-example#AT WILL: secun arbitrie#
+WILL#n.-example#AT WILL: secun arbitrie#
 ATHEISM#n.#ateisme#
 ATHEIST#n.#ateo#
 ATHLETE#n.#atlete (-ic)#
@@ -874,7 +961,7 @@ ATTIC#n.#mansarde#
 ATTIRE#n.#vestiment, costume#
 ATTITUDE#n.#atitude, position, posa, postura#
 ATTORNEY#n.#avocate, mandatario; agente, jurist#
-ATTORNEY GENERAL#n.#procurator#
+ATTORNEY#n.-example#ATTORNEY GENERAL: procurator#
 ATTRACT#v.#atraer (-tion, -tiv)#
 ATTRIBUTE#n.#qualitá, caracteristicum#
 ATTRIBUTE#v.#atribuer#
@@ -937,7 +1024,8 @@ AWAKEN#adj.#vigil#
 AWAKEN#v.#avigilar (se)#
 AWARD#n.#judicament, sententie; (prize) premie#
 AWARD#v.#adjudicar#
-AWARD A PRIZE TO#v.#premiar#
+AWARD#v.-example#AWARD A PRIZE TO: premiar#
+PRIZE#n.-example#AWARD A PRIZE TO: premiar#
 AWAY#adj.#absent#
 AWAY#adv.#for#XXX TODO mult diferent significationes manca
 AWE#n.#timore, veneration, reverentie#
@@ -1348,8 +1436,10 @@ BELONGINGS#n.#possedage, proprieté#
 BELOVED#adj.#car, amat, carissim#
 BELOVED#n.#cara, caro#
 BELOW#adv.#infra, in infra#
-BELOW#prep.#sub#
+BELOW#prep.#sub, infra#
 BELOW PAR#adv.#infra pari#
+BELOW#prep.-example#BELOW PAR: infra pari#
+PAR#adj.-example#BELOW PAR: infra pari#
 BELT#n.#cintura#
 BELVEDERE#n.#belvedere#
 BEMOAN#v.#deplorar, regretar, lamentar#
@@ -6602,7 +6692,7 @@ HALE#v.#trenar#
 HALF#adj.#demí#
 HALF#adv.#demímen#
 HALF BROTHER#n.#mi-fratre#
-HALFMAST#n.#(at) ye demí-mast#
+HALFMAST#n.#demí-mast#
 HALL#n.#hall, sala, salon#
 HALL-MARK#n.#stamps (sur juveles); marca de qualitá#
 HALLOW#v.#santificar, consacrar#
@@ -14456,6 +14546,7 @@ STRENGTH#n.-example#ON THE STRENGTH OF: fidente a#
 STRENGTHEN#v.#infortiar, fortificar#
 STRENUOUS#adj.#strapaciosi, vigorosi#
 STRESS#n.#emfase (-ar); accentu (-ar); tension, fatiga#
+STRETCH#n.# #
 STRETCH#v.#tenDer; alongar (se); extenDer se; exagerar#
 STRETCHER#n.#portuore#
 STREW#v.#(dis)jettar, (dis)semar, disperser#
@@ -15261,7 +15352,7 @@ TILLER#n.#cultivator; (naut.) timon#
 TILT#v.#renversar, bascular, inclinar#
 TIMBER#n.#ligne (-ero, -mercante)#
 TIMBRE#n.#timbre#
-TIME#n.#témpor; epoca, era; (age) etá#
+TIME#n.#témpor; epoca, era; (age) etá; (plural) vezes#
 TIME#n.-example#ON TIME: in just témpor, punctualmen#
 TIME#n.-example#SOME TIME: alquande#
 TIME#n.-example#WHAT TIME IS IT?: quel hora es?#
