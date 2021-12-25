@@ -19,10 +19,9 @@
 - Fix colon/semicolon after English uppercase expressions.
 - Homogenize the usage of commas and semicolons.
 - Add "COME ON", which was at the end of "COME", without translation.
-- Separate "LIMB membre; tranche; LIMB (astr.) limbe" and similar
-  cases.
 - Add a list of abbreviations used in the dictionary.
-- Separate all variants into independent headwords.
+- Split the different meanings of the same type into independent
+  headwords, in order to make it easy to reuse and manipulate the data.
 - Fix: "punte" is mentioned in "SCORE", but not in "POINT".
 - Fix "TO LOOK UP TO", which was at the end of "LOOK" without
   translation.
@@ -35,8 +34,6 @@
 - Fix notation . "AT ONE'S WITS' END esser al fine de su Latin, plu ne
   saver quo far", because the English expression is not a verb.
 - Add "(num.)" to "ONE". Maybe other cases.
-- "POLICY (plan) plan de action; (politics) political; (insur.)
-  police". "political" -> "politica".
 - Fix: "STILL ancor" is missing. "ancor" is mentioned only in "YET".
 - Add adv. usages to "NEVERTHELESS" and "HOWEVER".
 - Homogenize usage of "!" in all of the interjections.
@@ -45,19 +42,12 @@
 - Fix/improve "BESIDE" and "BESIDES".
 - Fix: "questionar" is missing in "QUESTION (v.)", but mentioned as a
   derivate in "QUESTION (n.)".
-- Fix: "raconta" -> "raconte".
 - Update the list of programs used.
 - Update the list of changes done in this edition.
 - Fix "-ente" -> "-nte", etc.
 - Check that participies are mentioned in the verbal roots.
 - Fix "ad. circa" in "ROUNDABOUT".
-- Add "deputate" to "DEPUTY".
 - Sort the data file at the start of the conversions.
-- Homogenize commas before "etc".  
-- Improve "expr.": "prep.expr.", "v.expr.", etc.
-- Remove examples and note from prefixes and add "-" to the
-  translation?  
-- Why "si" in `HAVE A MIND TO #v.#inclinar, it vell pleser … si#`?
 - Copy entries with more than one word to their main word, e.g.
   "calculating machine" to "machine", "white ant" to "ant".
 - Complete "COUNT" with nouns: "total number counted" and "the act of
@@ -75,9 +65,9 @@
   one word.
 - Fix: "TO FORCE UPON" is given two different translations.
 - Add "descargar" to "decargar".
-- Update: "plomb" -> "plumb".
 - Add "WILL (v.aux.)".
 - Homogenize "(flag)" and "(flags)".  
+- Add the missing meanings of "AWAY (adv.)".
 
 // Doubts {{{1
 == Doubts
@@ -145,16 +135,11 @@
 - "ALTO alto", also n./adj. in Interlingue?
 - "ANARCHY anarchic (-ist)".
 - "BATTLEDORE AND SHUTTLECOCK rácket e volante".
-- "AFAR lontan, distant, for". translations are adj. and adv., but
-  "AFAR" is adv.
-- "ALTO alto", n. or adj.
-- "AWAY (adv.) for, absent", adv./adj.
 - "AFT detra; in li stern", adj./adv. -> prep./adv.
 - "BAROQUE baroc" adj./n.?
 - "BEACON fares turre lucent; (on a hill) fanale; (at sea) boye,
   signal-marca, mar-signe"
 - Meaning of "(rel.)".
-- "infam/ínfam".
 - Confirm correction "contra" -> "contra unaltru" in "FACE TO FACE".
 - Why note "(in comp.)" (in compounds?) is used in sufixes "CENTI" and
   "COUNTER"?
@@ -170,6 +155,7 @@
   cortice". Maybe it's English in the original.
 - `UMBRELLA#n.#parapluvie, ombrel#`: "ombrel"?!
 - Consultar: "ANNUITY" = "annuitá" vice "annuage"? Ambi ne es usat in Cosmoglotta.
+- Why "si" in `HAVE A MIND TO #v.#inclinar, it vell pleser … si#`?
 
 // Missing words {{{1
 == Missing words
@@ -200,3 +186,4 @@
 - "FLOCK" (v.tr.).
 - "CAN" (v.), "(possibility) posser; (power) potter"  
 - "HERSELF", etc.
+- Add "deputate" to "DEPUTY".

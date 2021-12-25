@@ -230,7 +230,7 @@ AERATE#v.#aerar#
 AERIAL#n.#antenne#
 AERO#prefix#aerodinamic, aeronautica, aeroplane, etc.#
 AESTHETE#n.#estete (-ic, -ica)#
-AFAR#adv.#lontan, distant, for#
+AFAR#adv.#in lontan, in lontanie, in distantie, for#
 AFFABLE#adj.#afabil (-itá)#
 AFFAIR#n.#afere#
 AFFECT#v.#afecter; (the feelings) emoer, emotionar; (to pretend) afectar (-ation), ficter#
@@ -405,7 +405,7 @@ ALTERNATE#adj.#alternant#
 ALTERNATE#v.#alternar (-ation, -ative, -ator)#
 ALTHOUGH#conj.#benque, etsi#
 ALTITUDE#n.#altore, altitá; (geogr.) altitudine#
-ALTO#n.#alto#
+ALTO#adj., n.#alto#
 ALTOGETHER#adv.#(as a whole) in tot; (wholly) totmen, absolutmen#
 ALTRUISM#n.#altruisme#
 ALUM#n.#alune#
@@ -938,7 +938,8 @@ AWAKEN#v.#avigilar (se)#
 AWARD#n.#judicament, sententie; (prize) premie#
 AWARD#v.#adjudicar#
 AWARD A PRIZE TO#v.#premiar#
-AWAY#adv.#for, absent#
+AWAY#adj.#absent#
+AWAY#adv.#for#XXX TODO mult diferent significationes manca
 AWE#n.#timore, veneration, reverentie#
 AWEARY#adj.#lassi, fatigat#
 AWFUL#adj.#terribil, horribil#
@@ -4156,7 +4157,7 @@ DISCOURTEOUS#adj.#descortesi, ínpolit#
 DISCOVER#v.#decovrir, revelar; (to find) trovar#
 DISCREDIT#n.#descredite, honte, mal repu tation#
 DISCREDIT#v.#defamar, dubitar pri#
-DISCREDITABLE#adj.#hontosi, infam#
+DISCREDITABLE#adj.#hontosi, ínfam#
 DISCREET#adj.#discret, prudent, caut, circumspect#
 DISCREPANCY#n.#diferentie, discrepantie#
 DISCRETION#n.#discretion; (judgment) bon trova, judicie, arbitrie#
@@ -7292,7 +7293,7 @@ IMPERVIOUS#adj.#ínpermeabil#
 IMPETUOUS#adj.#impetuosi#
 IMPETUS#n.#ímpetu, impulse#
 IMPINGE#v.#chocar, colider, frappar#
-IMPIOUS#adj.#ínpie, infam, depravat#
+IMPIOUS#adj.#ínpie, ínfam, depravat#
 IMPISH#adj.#maliciosi, coboldatri#
 IMPLACCABLE#adj.#ínconciliabil, ínflexibil#
 IMPLANT#v.#inplantar#
@@ -7592,7 +7593,7 @@ INEXPRESSIBLE#adj.#ínexpressibil#
 INEXTINGUISHABLE#adj.#ínextintibil#
 INEXTRICABLE#adj.#índebrolliabil#
 INFALLIBLE#adj.#ínfallibil (-itá)#
-INFAMOUS#adj.#infam (-ie)#
+INFAMOUS#adj.#ínfam (-ie)#
 INFANCY#n.#infantie#
 INFANT#n.#infant (-o, -a, -il)#
 INFANTRY#n.#infanterie#
@@ -10311,7 +10312,7 @@ OPPOSITE#n.#lu contrari, lu oposit#
 OPPOSITE#prep.#contra, vis-a-vis#
 OPPRESS#v.#opresser (-ion, -or, -iv)#
 OPPROBRIOUS#adj.#injuriesi, insultant#
-OPPROBRIUM#n.#ignominie, honte, infamie#
+OPPROBRIUM#n.#ignominie, honte, ínfamie#
 OPTATIVE#gramm.#optative#
 OPTIC#adj.#optic (-a, -o)#
 OPTIMISM#n.#optimisme#
@@ -11320,7 +11321,7 @@ POLEMICS#n.#polemica (-ar)#
 POLICE#adj.#policial#
 POLICE#n.#policie#
 POLICEMAN#n.#policist#
-POLICY#n.#(plan) plan de action; (politics) political; (insur.) police#
+POLICY#n.#(plan) plan de action; (politics) politica; (insurance) police#
 POLIOMYELITIS#n.#poliomielite#
 POLISH#n.#(shine) politura, lustre; (substance) cire; (fig.) elegantie, fin manieres#
 POLISH#v.#polir (-ition), vernissar#
@@ -13418,7 +13419,7 @@ SHAM#v.#ficter, simular, pretexter#
 SHAME#n.#pudore, honte; desgracie#
 SHAME#v.#pudentar, deshonorar, hontar#
 SHAME-FACED#adj.#pudic, confuset, hontosi#
-SHAMEFUL#adj.#hontosi, infam#
+SHAMEFUL#adj.#hontosi, ínfam#
 SHAMELESS#adj.#impudent, cinic#
 SHAMPOO#n.#shampun (-ar)#
 SHAMPOO#v.#lavar li cap#
@@ -14404,7 +14405,7 @@ STOOK#n.#garbage, fasce de garbes#
 STOOL#n.#scabelle, taburette#
 STOOP#v.#clinar se, bassar se; humilar se#
 STOP#n.#halta; (full stop) punctu; (halting place) etape#
-STOP#v.#(to cease) cessar; haltar, stoppar; (teeth) plombar#
+STOP#v.#(to cease) cessar; haltar, stoppar; (teeth) plumbar#
 STOPPAGE#n.#obstruction, impediment; deduction#
 STOPPER#n.#tampon#
 STORAGE#n.#magasinage#
@@ -15651,7 +15652,7 @@ TURNSPIT#n.#torna-pica#
 TURNSTILE#n.#torn-harriere#
 TURNTABLE#n.#platte tornant#
 TURPENTINE#n.#terebintine#
-TURPITUDE#n.#infamie#
+TURPITUDE#n.#ínfamie#
 TURQUOISE#n.#turkise#
 TURRET#n.#turrette#
 TURTLE#n.#tortug; (turtledove) turtur#
