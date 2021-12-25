@@ -71,9 +71,6 @@
 - Split translations that include internal parens, e.g.
   `BOOZE#v.#trine(ach)ar#`.
 - Finish "CROW OVER".
-- Make all of the expressions with the proper "-example" type to make
-  sure they are included after their right subentry, e.g. noun,
-  adjective, etc.  
 - Mark or copy as example expressions the entries containing more than
   one word.
 - Fix: "TO FORCE UPON" is given two different translations.
