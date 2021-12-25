@@ -578,7 +578,7 @@ ANY#adj., pron.-example#I WILL NOT STAY ANY LONGER: yo ne va restar plu long#
 ANYBODY#n.#(interr.) alcun, alquí, alquem; (no matter who(m)) quicunc, quemcunc#
 ANYHOW#adv.#alquam; (no matter how) quamcunc; (in spite of everything) malgré omnicos#
 ANYTHING#n.#(interr.) alquó; (no matter what) quocunc#
-ANYTHING BUT#prep.#omno except#XXX TODO
+ANYTHING BUT#prep.#omnicos exceptet#XXX FIXME un comma es besonat: "omnicos, exceptet"
 ANYWAY#adv.#in omni casu; alquam; (no matter how) quamcunc#
 ANYWHERE#adv.#(interr.) alcú; (no matter where) ucunc#
 APACE#adv.#rapidmen, hastosimen#

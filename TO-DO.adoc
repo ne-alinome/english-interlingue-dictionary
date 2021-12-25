@@ -68,6 +68,8 @@
 - Add "WILL (v.aux.)".
 - Homogenize "(flag)" and "(flags)".  
 - Add the missing meanings of "AWAY (adv.)".
+- Replace commas and semicolons with other characters in order to
+  allow commas in the translations, e.g. `ANYTHING BUT#prep.#omnicos, exceptet#`
 
 // Doubts {{{1
 == Doubts
