@@ -1065,13 +1065,16 @@ BACKSIDE#n.#cul#
 BACKSLIDE#v.#rebeller, apostasiar#
 BACKSLIDER#n.#apostatico#
 BACKSTAIRS#n.#detra-scaliere#
+BACKWARD#adv.# #
 BACKWARDS#adv.#a retro, retro-#
+BACKWARDS#adv.-example#BACKWARDS AND FORWARDS: a ci e ta#
+FORWARDS#adv.-example#BACKWARDS AND FORWARDS: a ci e ta#
 BACKWARDS AND FORWARDS#adv.#a ci e ta#
 BACKWATER#n.#aqua barrat#
 BACON#n.#larde#
 BACTERIA#n.#bacteries#
 BAD#adj.#mal, malin, maliciosi, putrid#
-BAD WEATHER#n.#grisú#
+BAD WEATHER#n.#grisú#XXX TODO confirmar, e ligar a "weather"
 BAD-TEMPERED#adj.#malhumorat#
 BADGE#n.#signe, marca; (of rank) insigne#
 BADGER#n.#taxon#
@@ -1130,7 +1133,8 @@ BANDYLEGGED#adj.#convex-gambat#
 BANE#n.#venen, ruine#
 BANEFUL#adj.#venenosi, desutil#
 BANG#n.#crac, detonation; (blow) colpe, batte#
-BANG ONE ABOUT#v.#mal tractar#
+BANG#v.# #
+BANG#v.-example#BANG ONE ABOUT: maltractar#
 BANGLE#n.#brasselette#
 BANISH#v.#bannir (-iment), proscrir, exiliar; (sorrow) forchassar#
 BANISTER#n.#balustre (-ade)#
@@ -1233,87 +1237,99 @@ BAY#v.#aboyar, beyar#
 BAYONET#n.#bayonette#
 BAZAAR#v.#bazar#
 BE#v.#esser, exister; (of health) standar#
-BE ABASHED#v.#hontar, esser confuset, embarassat#
-BE ABLE#v.#posser#
-BE ABOUT SOMETHING#v.#ocupar se pri#XXX FIXME
-BE ABOUT TO#v.#esser sur li punctu de#
-BE ADRIFT#v.#drivar, esser flott#
-BE AFRAID#v.#timer#
-BE AHEAD OF#v.#esser in avan de, esser in facie de#
-BE ALARMED#v.#anxiar se#
-BE ALIVE WITH#v.#formicar ye#
-BE AMISS WITH#v.#mancar#
-BE AN OLD STAGER#v.#saver li trantran#
-BE APPREHENSIVE OF#v.#esser ínquiet pri, timer pri#
-BE APT TO#v.#tender#XXX TODO improve
-BE ASHAMED#v.#hontar#
-BE AT A LOSS#v.#ne saver#
-BE AT LOGGERHEADS#v.#querellar#
-BE AT ONE#v.#concordar#
-BE AT THE HEAD OF#v.#esser ye li punta de, preceder#
-BE AWARE#v.#saver; (conscious of) conscier#
-BE BACKWARD#v.#aprender desfacilmen#
-BE BECALMED#v.#esser haltat de calme#
-BE BORN#v.#nascer#
-BE COGNIZANT OF#v.#saver#
-BE COLD#v.#(to feel cold) friger#
-BE CONSCIOUS OF#v.#conscier (pri)#
-BE CONVENIENT#v.#convener#
-BE DEFUNCT#v.#ne plu exister#
-BE DELIRIOUS#v.#delirar#
-BE DESIROUS#v.#desirar#
-BE DISENGAGED#v.#esser líber, esser ínocupat#
-BE DISPOSED#v.#esser inclinat#
-BE EQUIVALENT#v.#equivaler#
-BE FACED WITH#v.#star avan#
-BE FAMISHED#v.#famear#
-BE FOND OF#v.#amar, apreciar#
-BE FURIOUS#v.#furer#
-BE GLIB#v.#parlar suavimen, parlar volubilmen#
-BE HOPEFUL#v.#esperar#
-BE IDLE#v.#ne esser ocupat; ne functionar#
-BE IN A HUFF#v.#budar#
-BE IN A QUANDARY#v.#ne saver quo far#
-BE IN THE HABIT#v.#esser acustomat#
-BE IN THE SAME BOAT#v.#navigar in li sam bote#
-BE IN THE WAY#v.#obstructer, impedir#
-BE INTERMITTENT#v.#intermitter#
-BE LACKING#v.#mancar#
-BE LEFT OVER#v.#restar#
-BE MISTAKEN#v.#errar#
-BE OBLIGED TO#v.#dever#
-BE OBLIGED TO#v.-example#MUCH OBLIGED TO YOU: grand mersí#
-BE OFF FOOD#v.#esser sin apetite, ne haver apetite#
-BE OFF!#interj.#for!, via!#
-BE ON DUTY#v.#dejorar#
-BE OUT OF#v.#esser sin, mancar#
-BE PALE#v.#paller#
-BE PARTIAL TO#v.#haver un predilection por#
-BE PLEASED#v.#joyar, esser content#
-BE PRESENT#v.#assister#
-BE PRIVY TO#v.#haver conossentie de#
-BE QUITS#v.#esser quitt#
-BE RAMPANT#v.#exuberar, luxuriar; reyer#
-BE REPUTED#v.#haver li reputation#
-BE RESPONSIBLE#v.#responsar#
-BE SENSIBLE OF#v.#conscier (pri)#
-BE SHORT OF#v.#besonar, mancar#
-BE SICK#v.#(vomit) vomir#
-BE SICK OF#v.#esser sat de#
-BE SLOW#v.#(of clock) retardar#XXX FIXME
-BE STRANDED#v.#misviar, misviagear#
-BE SURE#v.#comprende se#XXX FIXME
-BE TAKEN UNAWARES#v.#esser surprisat#
+ABASH#v.-example#TO BE ABASHED: hontar, esser confuset, embarassat#
+ABLE#adj.-example#TO BE ABLE: posser#
+ABOUT#prep.-example#TO BE ABOUT SOMETHING: ocupar se pri#XXX FIXME
+ABOUT#prep.-example#TO BE ABOUT TO: esser sur li punctu de#
+ADRIFT#adj.# #XXX TODO, anc adverbie
+ADRIFT#adj.-example#BTO E ADRIFT: drivar, esser flott#
+AFRAID#adj.-example#TO BE AFRAID: timer#
+AHEAD#adv.# #
+AHEAD#adv.-example#TO BE AHEAD OF: esser in avan de, esser in facie de#
+ALARM#v.-example#TO BE ALARMED: anxiar se#
+ALIVE#adj.-example#TO BE ALIVE WITH: formicar ye#
+AMISS#adj.-example#TO BE AMISS WITH: mancar#
+STAGER#n.-example#TO BE AN OLD STAGER: saver li trantran#XXX TODO consultar "trantran"
+APPREHENSIVE#adj.-example#TO BE APPREHENSIVE OF: esser ínquiet pri, timer pri#
+APT#adj.-example#TO BE APT TO: tender#XXX TODO improve
+ASHAMED#adj.-example#TO BE ASHAMED: hontar#
+LOSS#n.-example#TO BE AT A LOSS: ne saver#
+BE AT LOGGERHEADS#v.#querellar#XXX TODO consultar
+ONE#adj., n.-example#TO BE AT ONE: concordar#
+HEAD#n.-example#TO BE AT THE HEAD OF: esser ye li punta de, preceder#
+AWARE#adj.# #XXX TODO
+AWARE#adj.-example#TO BE AWARE: saver; (conscious of) conscier#
+BACKWARD#adv.-example#TO BE BACKWARD: aprender desfacilmen#
+BECALM#v.-example#TO BE BECALMED: esser haltat de calme#
+BORN#adj.-example#TO BE BORN: nascer#
+COGNIZANT#adj.#savent, conossent#
+COGNIZANT#adj.-example#TO BE COGNIZANT OF: saver pri#
+COLD#adj.-example#TO BE COLD: (to feel cold) friger#
+CONSCIOUS#adj.-example#TO BE CONSCIOUS OF: conscier (pri)#
+CONVENIENT#adj.-example#TO BE CONVENIENT: convener#
+DEFUNCT#n.-example#TO BE DEFUNCT: ne plu exister#
+DELIRIOUS#adj.# #XXX TODO
+DELIRIOUS#adj.-example#TO BE DELIRIOUS: delirar#
+DESIROUS#adj.# #XXX TODO
+DESIROUS#adj.-example#TO BE DESIROUS: desirar#
+DISENGAGE#v.-example#TO BE DISENGAGED: esser líber, esser ínocupat#
+DISPOSE#v.-example#TO BE DISPOSED: esser inclinat#
+EQUIVALENT#adj.-example#TO BE EQUIVALENT: equivaler#
+FACE#v.-example#TO BE FACED WITH: star avan#
+FAMISH#v.-example#TO BE FAMISHED: famear#
+FOND#adj.-example#TO BE FOND OF: amar, apreciar#
+FURIOUS#adj.-example#TO BE FURIOUS: furer#
+GLIB#adj.-example#TO BE GLIB: parlar suavimen, parlar volubilmen#
+HOPEFUL#adj.-example#TO BE HOPEFUL: esperar#
+IDLE#adj.-example#TO BE IDLE: ne esser ocupat; ne functionar#
+HUFF#n.-example#TO BE IN A HUFF: budar#XXX TODO consultar: in Cosmoglatta hay solmen un "buda"
+QUANDARY#n.-example#TO BE IN A QUANDARY: ne saver quo far#
+HABIT#n.-example#TO BE IN THE HABIT: esser acustomat#
+BOAT#n.-example#TO BE IN THE SAME BOAT: navigar in li sam bote#
+WAY#n.-example#TO BE IN THE WAY: obstructer, impedir#
+INTERMITTENT#adj.-example#TO BE INTERMITTENT: intermitter#
+LACK#v.-example#TO BE LACKING: mancar#
+LEAVE#v.-example#TO BE LEFT OVER: restar#
+MISTAKE#v.-example#TO BE MISTAKEN: errar#
+OBLIGE#v.-example#TO BE OBLIGED TO: dever#
+OBLIGE#v.-example#MUCH OBLIGED TO YOU: grand mersí#
+FOOD#n.-example#TO BE OFF FOOD: esser sin apetite, ne haver apetite#
+OFF#prep.-example#TO BE OFF FOOD: esser sin apetite, ne haver apetite#
+OFF#adv.-example#BE OFF!: for!, via!#
+DUTY#n.-example#TO BE ON DUTY: dejorar#
+OUT OF#v.-example#TO BE OUT OF: esser sin, mancar#
+PALE#adj.-example#TO BE PALE: paller#
+PARTIAL#adj.-example#TO BE PARTIAL TO: haver un predilection por#
+PLEASED#adj.-example#TO BE PLEASED: joyar, esser content#
+PRESENT#adj.-example#TO BE PRESENT: assister#
+PRIVY#adj.-example#TO BE PRIVY TO: haver conossentie de#
+QUITS#adj.# #
+QUITS#adj.-example#TO BE QUITS: esser quitt#
+RAMPANT#adj.# #
+RAMPANT#adj.-example#TO BE RAMPANT: exuberar, luxuriar; reyer#
+REPUTED#adj.-example#TO BE REPUTED: haver li reputation#
+RESPONSIBLE#adj.# #
+RESPONSIBLE#adj.-example#TO BE RESPONSIBLE: responsar#
+SENSIBLE#adj.-example#TO BE SENSIBLE OF: conscier (pri)#
+SHORT#adj.-example#TO BE SHORT OF: besonar, mancar#
+SICK#adj.-example#TO BE SICK: (vomit) vomir#
+SICK#adj.-example#TO BE SICK OF: esser sat de#
+SLOW#adj.-example#TO BE SLOW: (clock) retardar#XXX TODO consultar; antey "of clock"!
+STRAND#v.-example#TO BE STRANDED: misviar, misviagear#
+BE SURE#adv.#certmen, sin dúbite#
+SURE#adj.-example#(TO) BE SURE: certmen, sin dúbite#
+UNAWARES#adv.-example#TO BE TAKEN UNAWARES: esser surprisat#
 BE UNABLE#v.#ne posser#
-BE UNAWARE#v.#ne saver#
-BE UNWILLING#v.#ne voler, ne esser pret#
-BE VACANT#v.#vacar#
-BE WANTING#v.#mancar#XXX TODO confirm, improve
-BE WELL#v.#standar bon#
-BE WONT#v.#customar#
-BE WORTH#v.#valer#
-BE WORTHY OF#v.#meriter (-osi, -ori)#
-BE ZEALOUS#v.#zelar (-ator, -ation)#
+UNAWARE#adj.-example#TO BE UNAWARE: ne saver#
+UNWILLING#adj.-example#TO BE UNWILLING: ne voler, ne esser pret#
+VACANT#adj.-example#TO BE VACANT: vacar#
+WANTING#adj.-example#TO BE WANTING: mancar#XXX TODO confirm, improve
+WELL#adj.-example#TO BE WELL: standar bon#
+WONT#n.-example#TO BE WONT: customar#
+WORTH#adj.-example#TO BE WORTH: valer#
+WORTHY#adj.-example#TO BE WORTHY OF: meriter (-osi, -ori)#
+ZEALOUS#adj.# #
+ZEALOUS#adj.-example#TO BE ZEALOUS: zelar (-ator, -ation)#
 BEACH#n.#plage, borde#
 BEACH#v.#strandar#
 BEACON#n.#fares turre lucent; (on a hill) fanale; (at sea) boye, signal-marca, mar-signe#
@@ -1328,18 +1344,22 @@ BEAN#n.#faseol; (broadbean) fabe#
 BEAR#n.#(animal) urso (-a)#
 BEAR#v.intr.#(to be fruitful) esser fructosi; (fruit) dar fructe, fructificar; (to suffer) suffrer; (to endure with patience, to be patient) esser patient, haver patientie#
 BEAR#v.tr.#(to carry) portar; (to give birth to) parturir, dar nascentie a; (to endure) suffrer, tolerar, suportar#
-BEAR THE BRUNT#v.#suportar li pesa, li max pesant colpe#
+BRUNT#n.# #
+BEAR#v.-example#TO BEAR THE BRUNT: suportar li pesa, li max pesant colpe#
+BRUNT#n.-example#TO BEAR THE BRUNT: suportar li pesa, li max pesant colpe#
 BEAR TO WINDWARD#v.#luvear#
-BEAR WITNESS#v.#atestar#
+BEAR#v.-example#TO BEAR WITNESS: atestar#
+WITNESS#n.-example#TO BEAR WITNESS: atestar#
 BEARD#n.#barbe#
 BEARDED#adj.#barbat#
 BEARING#n.#statura, postura; (mech.) suporte#
 BEARINGS#n.#(heraldry) insigne#
 BEAST#n.#bestie, animale; (pejor.) brute#
-BEAST OF PREY#n.#bestie predatori, bestie raptaci#
+BEAST#n.-example#BEAST OF PREY: bestie predatori, bestie raptaci#
+PREY#n.-example#BEAST OF PREY: bestie predatori, bestie raptaci#
 BEASTLY#adj.#bestial, repugnant, abominabil#
 BEAT#v.#batter, bastonar, frappar; (of pulse) pulsar; (to surpass) superar; (to conquer) victer; (eggs) quirlar; (heart) palpitar; (to beat the air) frappar in vacuitá#
-BEATEN TRACK#n.#batte, grappa; (mus.) tacte; trantran#
+BEATEN TRACK#n.#batte, grappa; (mus.) tacte; trantran#XXX TODO consultar, specialmen "trantran"
 BEATIFIC#adj.#beatific#
 BEATITUDE#n.#beatitá; (beatitudes) beatitude#
 BEAU#n.#dandy, eleganto, amanto; cortesan#
@@ -1347,11 +1367,12 @@ BEAUTIFUL#adj.#bell (-ar, -itá)#
 BEAVER#n.#castor; (helmet) visiere#
 BECALM#v.#calmar#
 BECAUSE#conj.#pro que#
+BECAUSE#conj.-example#BECAUSE OF: caus, pro#
 BECAUSE OF#prep.#caus, pro#
 BECK#n.#riverette; (nod) signe#
 BECOME#v.#devenir; (to beseem) decer, convener#
-BECOME AWARE#v.#percepter#
-BECOME MOULDY#v.#mofar se#
+AWARE#adj.-example#TO BECOME AWARE: percepter#
+MOULDY#adj.-example#TO BECOME MOULDY: mofar se#
 BED#n.#lette; (hort.) bed; (a layer) strate#
 BED#v.#plantar, inbedar#
 BEDAUB#v.#pictachar, sordidar#
@@ -1385,7 +1406,7 @@ BEG#v.#(alms) mendicar; (to request) petir, suplicar, implorar#
 BEGET#v.#geniter, procrear, generar#
 BEGGAR#n.#mendico#
 BEGGAR#v.#apovrar#
-BEGGAR ALL DESCRIPTION#v.#superar omni descrition#
+BEGGAR#v.-example#TO BEGGAR ALL DESCRIPTION: superar omni descrition#
 BEGGARLY#adj.#miserabil#
 BEGIN#v.#comensar, iniciar#
 BEGINNING#n.#comense#
@@ -1403,7 +1424,8 @@ BEHEST#n.#ordon, decrete, comanda#
 BEHIND#adv.#in detra#
 BEHIND#n.#cul, posteriore#
 BEHIND#prep.#detra#
-BEHIND THE SCENES#adv.#detra li culisse#
+BEHIND#prep.-example#BEHIND THE SCENES: detra li culisse#
+SCENE#n.-example#BEHIND THE SCENES: detra li culisse#
 BEHOLD#v.#vider, spectar, regardar#
 BEHOLD!#interj.#vi!#
 BEHOVE#v.#convener#
@@ -1413,7 +1435,7 @@ BELATED#adj.#retardat#
 BELAUD#v.#laudar, glorificar#
 BELAY#v.#securar, amarrar#
 BELCH#v.#ructar#
-BELCH OUT#v.#expulser, erupter, exsputar#
+BELCH#v.-example#TO BELCH OUT: expulser, erupter, exsputar#
 BELDAME#n.#sorciarda#
 BELEAGUER#v.#assediar#
 BELFRY#n.#cloch-turre, clochiere#
@@ -1446,7 +1468,8 @@ BEMOAN#v.#deplorar, regretar, lamentar#
 BENCH#n.#banca; (leg) tribunale; (carp.) rabotuore#
 BEND#n.#curve, node#
 BEND#v.#flexer; inclinar#
-BEND A SAIL#v.#ligar un segle al yarde#
+BEND#v.-example#TO BEND A SAIL: ligar un segle al yarde#
+SAIL#n.-example#TO BEND A SAIL: ligar un segle al yarde#
 BENEATH#prep. sub. adv.#(in)infra; (unworthy of) índigni de#
 BENEDICTION#n.#benedition#
 BENEFACTION#n.#beneficie, bon action#
@@ -1486,12 +1509,14 @@ BESPRINKLE#v.#asperser, surspruzzar#
 BEST#adj.#optim, max bon, bonissim#
 BEST#v.#superar, victer#
 BESTIAL#adj.#bestial (-itá), brutal#
-BESTIR ONESELF#v.#mo(v)er se, activentar se#XXX TODO split "(v)"
+BESTIR#v.# #
+BESTIR#v.-example#BESTIR ONESELF: mo(v)er se, activentar se#
 BESTOW#v.#(dis)donar, dar; (apply) usar#
 BESTREW#v.#disjettar sur#
 BESTRIDE#v.#surseder con gambes furcat#
 BET#n.#pari (-ar)#
-BETAKE ONESELF TO#v.#ear a#
+BETAKE#v.# #
+BETAKE#v.-example#TO BETAKE ONESELF TO: ear a#
 BETHINK#v.#pripensar; (to call to mind) rememorar#
 BETIDE#v.#evenir#
 BETIMES#adv.#tost, in bon témpor#
@@ -1513,8 +1538,9 @@ BEWILDER#v.#confuser, inbrolliar#
 BEWITCH#v.#insorciar, fascinar#
 BEYOND#prep.#ultra; trans; (past) préter#
 BI#prefix#biannual, bifurcat, bilateral, etc.#
+BIAS#v.# #
 BIAS#n.#inclination, partialitá, tendentie, predilection#
-BIASSED AGAINST#prep.#prejudiciat contra#
+BIAS#v.-example#BIASSED AGAINST: prejudiciat contra#
 BIB#n.#bavette#
 BIBLE#n.#bible (-ic)#
 BIBLIO#prefix#bibliografie, bibliomaniac, etc.#
@@ -1526,7 +1552,7 @@ BIDE#v.#atender; (re)maner#
 BIER#n.#portuore#
 BIFURCATE#v.#bifurcar (-ation)#
 BIG#adj.#grand, gross, imensi, vast#
-BIG TOE#n.#pollice#
+TOE#n.-example#BIG TOE: pollice#
 BIGAMY#n.#bigamie (-ist)#
 BIGHT#n.#golfe; (of rope) baya#
 BIGOT#n.#bigott (-eríe)#
@@ -1535,27 +1561,34 @@ BILE#n.#bilie (-ari, -osi)#
 BILGE#n.#ventre (de baril); (naut.) bilge#
 BILK#v.#fraudar; evader#
 BILL#n.#(account) conto, factura; (beak) bee; (Parl.) lege-projecte; (poster) afiche#
-BILL OF CREDIT#n.#credit-lettre#
-BILL OF EXCHANGE#n.#tratte, lettre de cambio#
-BILL OF FARE#n.#menú#
-BILL OF LADING#n.#certificate de carga#
+BILL#n.-example#BILL OF CREDIT: credit-lettre#
+CREDIT#n.-example#BILL OF CREDIT: credit-lettre#
+BILL#n.-example#BILL OF EXCHANGE: tratte, lettre de cambio#
+EXCHANGE#n.-example#BILL OF EXCHANGE: tratte, lettre de cambio#
+BILL#n.-example#BILL OF FARE: menú#
+FARE#n.-example#BILL OF FARE: menú#
+BILL#n.-example#BILL OF LADING: certificate de carga#
+LADE#v.# #
+LADE#v.-example#BILL OF LADING: certificate de carga#
 BILLET#n.#(office) oficie; (lodging) logiment, quartere#
 BILLIARDS#n.#billiarde#
-BILLIARDS BALL#n.#billiard-bul#
-BILLIARDS CUE#n.#baston#
+BILLIARDS#n.-example#BILLIARDS BALL: billiard-bul#
+BALL#n.-example#BILLIARDS BALL: billiard-bul#
+BILLIARDS#n.-example#BILLIARDS CUE: baston#
 BILLION#n.#billion#
 BILLOW#n.#unde#
 BILLOW#v.#undear#
 BIN#n.#buxe, chest#
 BIND#v.#ligar, bandar; incadernar; (compel) obligar#
-BIND UP#v.#bandagear#
+BIND#v.-example#TO BIND UP: bandagear#
 BINNACLE#n.#bussoliere, compassiere#
 BIO#prefix#biografie, biologie, bioplasma, etc.#
 BIRCH#n.#(tree) betul#
 BIRCH#v.#vergar#
 BIRD#n.#avie#
-BIRD OF PASSAGE#n.#avie migratori, avie passatori#
-BIRD OF PREY#n.#avie predatori, avie raptaci#
+BIRD#n.-example#BIRD OF PASSAGE: avie migratori, avie passatori#
+BIRD#n.-example#BIRD OF PREY: avie predatori, avie raptaci#
+PREY#n.-example#BIRD OF PREY: avie predatori, avie raptaci#
 BIRDCAGE#n.#aviere#
 BIRDLIME#n.#avie-colla#
 BIRTH#n.#nascentie#
@@ -1579,10 +1612,13 @@ BIZARRE#adj.#bizarri (-eríe), grotesc#
 BLAB#v.#babillar; revelar#
 BLACK#adj.#nigri#
 BLACK#v.#(boots) cirar#
-BLACK ALDER#n.#frangul#
+ALDER#n.-example#BLACK ALDER: frangul#
 BLACK-BEETLE#n.#blatte#
+BEETLE#n.-example#BLACK-BEETLE: blatte#
 BLACK-CURRANT#n.#nigri crusbere, cassis (-iero)#
+CURRANT#n.-example#BLACK-CURRANT: nigri crusbere, cassis (-iero)#
 BLACK-FLY#n.#afise#
+FLY#n.-example#BLACK-FLY: afise#
 BLACK-LEG#n.#renegate#
 BLACKAMOOR#n.#negro#
 BLACKBERRY#n.#brambere, rúbus#
@@ -1612,6 +1648,8 @@ BLANK#adj.-example#BLANK VERSE: verse sin rimes#
 BLANK#n.# #XXX TODO
 BLANK#n.-example#HIS MEMORY HAS BECOME A BLANK: il ha totmen perdit su memorie#
 BLANK VERSE#n.#verse sin rimes#
+BLANK#adj.-example#BLANK VERSE: verse sin rimes#
+VERSE#n.-example#BLANK VERSE: verse sin rimes#
 BLANKET#n.#lett-covritura, lanin covriment (de lette)#
 BLARE#v.#muir; (of trumpet) sonar, trumpetar#
 BLASE#adj.#blasat#
@@ -1643,6 +1681,8 @@ BLIND#adj.#ciec#
 BLIND#n.#persiane, rul-cortine; pretexte#
 BLIND#v.#aciecar; dazlar#
 BLIND ALLEY#n.#ciec-via, sac-strade#
+BLIND#adj.-example#BLIND ALLEY: ciec-via, sac-strade#
+ALLEY#n.-example#BLIND ALLEY: ciec-via, sac-strade#
 BLINK#n.#palpebrada; (naut.) blinc#
 BLINK#v.#palpebrar, oculettar#
 BLINKERS#n.#para-ocul, garda-ocul#
@@ -1662,7 +1702,11 @@ BLOND#a.#blond#
 BLONDE#n.#blonda#
 BLOOD#n.#sangue; (lineage) rasse, devenientie#
 BLOOD VESSEL#n.#vene#
+BLOOD#n.-example#BLOOD VESSEL: vene#
+VESSEL#n.-example#BLOOD VESSEL: vene#
 BLOOD-HOUND#n.#cane flaratori#
+BLOOD#n.-example#BLOOD-HOUND: cane flaratori#
+HOUND#n.-example#BLOOD-HOUND: cane flaratori#
 BLOODTHIRSTY#adj.#sangue-avid, feroci#
 BLOODY#adj.#sanguin, sanguinari#
 BLOOM#n.#flor; (on fruit) pruine; (freshness) friscore#
@@ -1671,15 +1715,18 @@ BLOSSOM#n.#flor#
 BLOSSOM#v.#florescer#
 BLOT#n.#macul (-ar)#
 BLOT#v.#(letter) siccar#
-BLOT OUT#v.#extinter, efaciar, destructer#
+BLOT#v.-example#TO BLOT OUT: extinter, efaciar, destructer#
 BLOTTING-PAPER#n.#papere siccativ#
+PAPER#n.-example#BLOTTING-PAPER: papere siccativ#
 BLOUSE#n.#bluse#
 BLOW#n.#colpe, batte, sucusse; (of wind) soffle#
 BLOW#v.#sufflar; (to gasp) anhelar#
-BLOW ONE'S NOSE#v.#sufflar se li nase#
-BLOW OVER#v.#passar, preterear#
-BLOW PIPE#n.#suffla-tube#
-BLOW UP#v.#exploder#
+BLOW#v.-example#TO BLOW ONE'S NOSE: sufflar se li nase#
+NOSE#n.-example#TO BLOW ONE'S NOSE: sufflar se li nase#
+BLOW#v.-example#TO BLOW OVER: passar, preterear#
+BLOW#n.-example#BLOW PIPE: suffla-tube#
+PIPE#n.-example#BLOW PIPE: suffla-tube#
+BLOW#v.-example#BLOW UP: exploder#
 BLUBBER#n.#balen-grasse#
 BLUBBER#v.#plorachar#
 BLUDGEON#n.#clobbe#
@@ -1694,7 +1741,8 @@ BLUNDER#v.#errar; ear inhabilmen; (to stumble) mispassuar#
 BLUNT#adj.#obtusi, desacut; abrupt#
 BLUNT#v.#blasar#
 BLUR#v.#nebular#
-BLURT OUT#v.#parlar íncautmen, revelar#
+BLURT#v.# #
+BLURT#v.-example#TO BLURT OUT: parlar íncautmen, revelar#
 BLUSH#v.#rubijar#
 BLUSTER#v.#tumultuar, bruir; bru-parlar, fanfaronar#
 BOA#n.#boa#
@@ -1720,7 +1768,7 @@ BOGUS#adj.#fals, fictiv, pretextat#
 BOIL#n.#furuncul, tumore#
 BOIL#v.intr..#bollir#
 BOIL#v.tr.#bollientar, cocinar#
-BOIL OVER#v.#sputar in (li) foy#
+BOIL#v.tr.-example#BOIL OVER: sputar in (li) foy#XXX TODO consultar
 BOILER#n.#caldron, caldiere, bolliere#
 BOISTEROUS#adj.#tumultuosi, vehement, impetuosi, rud#
 BOLD#adj.#audaci, corageosi; temerari, insolent#
@@ -1735,13 +1783,13 @@ BOMBARD#v.#bombardar (-ament)#
 BOMBAST#n.#bombast (-ic)#
 BOMBER#n.#bombavion, porta-bombes#
 BON-MOT#n.#esprite, "bon-mot"#
-BONA FIDE#adj.#genuin; in bon fide#
+BONA FIDE#adj., adv.#genuin; in bon fide#
 BOND#n.#(tie) bande; (legal) contracte; (money) obligation#
 BONDAGE#n.#captivitá, sclaveríe, servitude#
 BONDS#n.#catenes#
 BONE#n.#osse (-in, -osi, -ament, -age, -ificar)#
 BONE#v.#desossar#
-BONE OF CONTENTION#n.#pom de discordie#
+BONE#n.-example#BONE OF CONTENTION: pom de discordie#
 BONFIRE#n.#foy, festa-foy#
 BONMOT#n.#esprite, "bon-mot"#
 BONNET#n.#cofie#
@@ -1749,6 +1797,7 @@ BONNY#adj.#jolli, pretti#
 BONUS#n.#premie, extra dividende#
 BOOBY#n.#plumpon, rustico#
 BOOK#n.#libre, tom#
+MARKER#n.#(book marker) marca-págine#
 BOOK MARKER#n.#marca-págine#
 BOOKBINDER#n.#ligator, brochator#
 BOOKCASE#n.#librescaf#
@@ -1783,9 +1832,9 @@ BOTANIC#adj.#botanic (-o)#
 BOTANY#n.#botanica (-al)#
 BOTCH#v.#bosillar (-atura, -age)#
 BOTH#adj.#ambi#
-BOTH … AND …#conj.#é … é …#
+BOTH#adj.-example#BOTH … AND …: é … é …#
 BOTHER#v.#vexar, íncomodar, trublar, tedar#
-BOTHER ABOUT#v.#suciar#
+BOTHER#v.-example#TO BOTHER ABOUT: suciar pri#
 BOTTLE#n.#botelle#
 BOTTLE#v.#inbotellar#
 BOTTOM#n.#funde, base; (ground) suol, grunde; (of depth) profundage; (chair etc.) sede#
@@ -1798,7 +1847,7 @@ BOUNCE#v.#retrosaltar, ricochettar#
 BOUND#adj.#(obliged) obligat#
 BOUND#n.#(a leap) salta#
 BOUND#v.#saltar; (to limit) bornar#
-BOUND FOR#prep.#destinat a#
+BOUND#adj.-example#BOUND FOR: destinat a#
 BOUNDARY#n.#frontiere, límite#
 BOUNDS#n.#límite, born#
 BOUNTEOUS#adj.#generosi, liberal#
@@ -1821,8 +1870,8 @@ BOWSPRIT#n.#busprite#
 BOX#n.#(container) buxe, estuche, chest, scatulle; (trunk) coffre; (theatre) loge; (on ear) guanciade; (tree) busso#
 BOX#v.intr.#(to fight with the fists) boxar (-ero)#
 BOX#v.tr.#(to inclose in a box) inbuxar, inscatullar; (to strike with the hand or fist) guanciar#
-BOX IN#v.#inscatullar, inbuxar#
-BOX UP#v.#inscatullar, inbuxar; (ears) guanciar#
+BOX#n.-example#TO BOX IN: inscatullar, inbuxar#
+BOX#n.-example#TO BOX UP: inscatullar, inbuxar; (ears) guanciar#XXX FIXME li punctu-comma es confusent quando altri usation seque li exemple
 BOY#n.#púer, garson, infanto, yuno, boy#
 BOYCOTT#n.#boycotte (-ar)#
 BOYFRIEND#n.#amato#
@@ -1852,7 +1901,8 @@ BRANCH#n.#branche, rame; (business) filiale, sucursale#
 BRANCH#v.#ramificar se, bifurcar se#
 BRAND#n.#stigma (-tisar); (comm.) marca, signe; (kind) sorte, specie; (burning wood) brandon#
 BRAND#v.#brul-marcar, inbrular#
-BRAND NEW#adj.#blanc-nov#
+NEW#adj.-example#BRAND NEW: blanc-nov#
+BRAND#n.-example#BRAND NEW: blanc-nov#
 BRANDISH#v.#brandisser (-ement)#
 BRANDY#n.#brandie, aquavite#
 BRASS#n.#latune#
@@ -1870,8 +1920,10 @@ BREAD#n.#pane (-ero, -iere)#
 BREADTH#n.#largore, amplore#
 BREAK#n.#ruptura; (gap) lacune, intersticie#
 BREAK#v.#rupter, fracter; (as day) aparir, comensar#
-BREAK IN PIECES#v.#fracassar, dispezzar#
-BREAK OF DAY#n.#aurora; (from work) pause#
+BREAK#v.-example#TO BREAK IN PIECES: fracassar, dispezzar#
+PIECE#n.-example#TO BREAK IN PIECES: fracassar, dispezzar#
+BREAK#n.-example#BREAK OF DAY: aurora; (from work) pause#
+DAY#n.-example#BREAK OF DAY: aurora; (from work) pause#
 BREAKDOWN#n.#panne#
 BREAKER#n.#(wave) fractente#
 BREAKFAST#n.#dejuné#
@@ -1900,13 +1952,16 @@ BRIBE#v.#subcomprar; corupter (-tion)#
 BRICK#n.#brique#
 BRIDE#n.#sponsa#XXX FIXME description of BRIDE doesn't match that of FIANCE
 BRIDEGROOM#n.#sponso#
-BRIDES MAID#n.#sponsaria#
+BRIDE#n.-example#BRIDES MAID: sponsaria#
+MAID#n.-example#BRIDES MAID: sponsaria#
 BRIDGE#n.#ponte; (of nose) dorse; (of violin) cavallette; (card game) bridge#
 BRIDGE#v.#transportar#
 BRIDLE#n.#bride#
 BRIEF#adj.#curt, brevi, efemeri#
 BRIEF#n.#scrit comanda#
-BRIEF CASE#n.#porta-documentes#
+BRIEF CASE#n.#porta-documentes#XXX TODO consultar, "BRIEFCASE"
+BRIEF#n.-example#BRIEF CASE: porta-documentes#XXX TODO consultar, "BRIEFCASE"
+CASE#n.-example#BRIEF CASE: porta-documentes#XXX TODO consultar, "BRIEFCASE"
 BRIG#n.#brigg#
 BRIGADE#n.#brigade (-ero)#
 BRIGAND#n.#brigante, bandite#
@@ -1920,12 +1975,12 @@ BRIMSTONE#n.#súlfur#
 BRINDLED#adj.#maculat#
 BRINE#n.#salaqua; solution de sale, murie#
 BRING#v.#aportar#
-BRING ABOUT#v.#causar, obtener#
-BRING FORTH#v.#parturir; producter, crear#
-BRING FORWARD#v.#introducter; alegar#
-BRING ROUND#v.#(a patient) restaurar#
-BRING TO PASS#v.#causar, far evenir#
-BRING UP#v.#educar#
+BRING#v.-example#TO BRING ABOUT: causar, obtener#
+BRING#v.-example#TO BRING FORTH: parturir; producter, crear#
+BRING#v.-example#TO BRING FORWARD: introducter; alegar#
+BRING#v.-example#TO BRING ROUND: (a patient) restaurar#
+BRING#v.-example#TO BRING TO PASS: causar, far evenir#
+BRING#v.-example#TO BRING UP: educar#
 BRINK#n.#borde; (of river) rive#
 BRISK#adj.#vivosi, vivaci, alegri, agil#
 BRISTLE#n.#setul, borste#
@@ -1964,24 +2019,26 @@ BROTHERLINESS#n.#fraternitá#
 BROW#n.#fronte; (eyebrow) brove#
 BROWBEAT#v.#intimidar, opresser#
 BROWN#adj.#brun (-atri)#
-BROWN PAPER#n.#pacc-papere#
-BROWNPAPER#n.#pacc-papere#
+BROWN#adj.-example#BROWN PAPER: pacc-papere#
+PAPER#n.-example#BROWN PAPER: pacc-papere#
 BROWSE#v.#paster se#
 BRUISE#n.#contusion#
 BRUISE#v.#contuser; aplastar#
-BRUIT ABROAD#v.#divulgar, rumorar#
+BRUIT#v.# #
+BRUIT#v.-example#BRUIT ABROAD: divulgar, rumorar#
 BRUNETTE#adj.#brunetti#
 BRUNETTE#n.#brunetta#
 BRUSH#n.#brosse; (painting brush) pinsel; (skirmish) scaramuche#
 BRUSHWOOD#n.#densallia#
 BRUSQUE#adj.#brusqui (-tá, -eríe)#
-BRUSSELS SPROUT#n.#caul de Bruxelles#
+SPROUT#n.-example#BRUSSELS SPROUT: caul de Bruxelles#
 BRUTE#n.#brute (-al -alitá, -alisar)#
 BUBBLE#n.#bul; vessic; (comm.) fraude#
 BUBBLE#v.#brodular (-ation)#
 BUCCANEER#n.#pirate, corsare, bucanero#
 BUCK#n.#buc; (male deer) cervo#
-BUCK UP#v.#prender corage#
+BUCK#v.# #
+BUCK#v.-example#TO BUCK UP: prender corage#
 BUCKET#n.#sitelle#
 BUCKLE#n.#fible (-ar)#
 BUCKLER#n.#scude#
@@ -2002,7 +2059,7 @@ BUG#n.#címice#
 BUGBEAR#n.#cochemare, fantom#
 BUGLE#n.#chass-corn, clarinette, bugle#
 BUILD#v.#constructer (-or, -ion)#
-BUILD UP#v.#edificar#
+BUILD#v.-example#TO BUILD UP: edificar#
 BUILDING#n.#edificie, construction#
 BULB#n.#(bot.) bulbe, túbere; (elect.) ampulle electric; lampe#
 BULGE#n.#bosse, protuberantie#
@@ -2063,7 +2120,7 @@ BURROW#v.#excavar, fossar, tunnelar#
 BURSAR#n.#tresorero, cassero; (student) stipendiate#
 BURST#n.#ruptura, fensura#
 BURST#v.#fender (se), crevar, crepar, exploder#
-BURST INTO A ROOM#v.#irupter in un chambre#
+BURST#v.-example#TO BURST INTO A ROOM: irupter in un chambre#
 BURY#v.#interrar, sepulter, inhumar#
 BUS#n.#autobus, omnibus#
 BUSH#n.#bosco, arbuste; (copse) boscage#
@@ -2103,20 +2160,32 @@ BY#prep.-example#BY MEANS OF: per#
 BY#prep.-example#BY THE TIME WE ARRIVE: til quande noi va arivar#XXX TODO confirmar traduction
 BY ALL MEANS#adv.#advere#
 BY DEGREES#adv.#gradualmen#
+DEGREE#n.-example#BY DEGREES: gradualmen#
 BY DINT OF#prep.#per, mersí a#
+DINT#n.-example#BY DINT OF: per, mersí a#
 BY FORCE#adv.#per fortie, violentmen#
-BY HEARSAY#adv.#per rumore#
+FORCE#n.-example#BY FORCE: per fortie, violentmen#
+BY HEARSAY#adv.#rumore#
+HEARSAY#n.-example#BY HEARSAY: per rumore#
 BY HEART#adv.#ye memorie#
-BY INCHES#adv.#gradualmen#
+HEART#n.-example#BY HEART: ye memorie#
+INCH#n.-example#BY INCHES: gradualmen#
 BY MEANS OF#prep.#per#
 BY NIGHT#adv.#in nocte#
+NIGHT#n.-example#BY NIGHT: in nocte#
 BY NO MEANS#adv.#nequalmen#
 BY RETURN OF POST#adv.#per retroposta#
-BY ROTE#adv.#per memorie#
-BY STEALTH#adv.#furtivmen, insidiosimen#
+RETURN#n.-example#BY RETURN OF POST: per retroposta#
+POST#n.-example#BY RETURN OF POST: per retroposta#
+ROTE#n.# #
+ROTE#n.-example#BY ROTE: per memorie#
+STEALTH#n.# #
+STEALTH#n.-example#BY STEALTH: furtivmen, insidiosimen#
 BY THE WAY#adv.#apropó, passante#
+WAY#n.-example#BY THE WAY: apropó, passante#
 BY TURNS#adv.#secun torne#
-BY WAY OF#adv.#quam#
+TURNS#n.-example#BY TURNS: secun torne#
+WAY#n.-example#BY WAY OF: quam#
 BY-PRODUCT#n.#sub-producte#
 BYE-ELECTION#n.#election suplemental#
 BYE-LAW#n.#statute local#
@@ -3174,7 +3243,7 @@ CONSONANT#n.#consonante#
 CONSORT#n.#consort, socio#
 CONSORT WITH#v.#associar se con#
 CONSPICUOUS#adj.#prominent, clar, salient, frappant#
-CONSPICUOUS#adj.-example#BE CONSPICUOUS BY ITS ABSENCE: brilliar per su tot absentie#
+CONSPICUOUS#adj.-example#TO BE CONSPICUOUS BY ITS ABSENCE: brilliar per su tot absentie#
 CONSPIRE#v.#conspirar (-ation, -ator), complotar#
 CONSTABLE#n.#policist, conestable#
 CONSTANT#adj.#constant (-e, -ie), frequent#
@@ -5898,6 +5967,7 @@ FORUM#n.#forum#
 FORWARD#adj.#avansat, tosti, parat; impertinent, obtrusiv#
 FORWARD#adv.#adavan#
 FORWARD#v.#promoer, accelerar, expedir, inviar, transmisser#
+FORWARDS#adv.#adavan#
 FOSSE#n.#fosse, tranché#
 FOSSIL#adj.#fossil (-e, -isar, -iferi)#
 FOSSILIZE#v.#petrificar (se), fossilisar#
@@ -7107,7 +7177,7 @@ HOP#n.#(bot.) lupul (-iera)#
 HOP#v.#saltear, saltillar#
 HOPE#n.#espera, esperantie#
 HOPE#v.#esperar#
-HOPEFUL#adj.#incorageant#
+HOPEFUL#adj.#incorageant#XXX TODO consultar, ameliorar
 HOPELESS#adj.#sin espera(ntie), íncurabil, sin perspectives#
 HORDE#n.#horde#
 HORIZON#n.#horizonte (-al)#
@@ -7525,7 +7595,7 @@ INCERTITUDE#n.#íncertitá#
 INCESSANT#adj.#íncessant#
 INCEST#n.#incestu (-al, -osi)#
 INCH#n.#inch#
-INCH BY INCH#adv.#poc a poc#
+INCH#n.-example#INCH BY INCH: poc a poc#
 INCHOATE#adj.#rudimentari#
 INCIDENCE#phys.#incidentie#
 INCIDENT#n.#incidente (-al)#
@@ -9302,9 +9372,7 @@ MEAN#v.-example#BY THAT HE MEANS: il vole dir per to que…#
 MEANDER#v.#serpentear#
 MEANS#n.#medie, remedie; (money) pecunie#
 MEANS#n.-example#BY ALL MEANS: advere#
-MEANS#n.-example#BY ALL MEANS: advere#
 MEANS#n.-example#BY MEANS OF: per#
-MEANS#n.-example#BY NO MEANS: nequalmen#
 MEANS#n.-example#BY NO MEANS: nequalmen#
 MEANS OF SUPPORT#n.#victuales; revenú#
 MEANWHILE#adv.#ínterim#
@@ -10269,6 +10337,7 @@ OF YORE#adj.#antiqui#
 OF YORE#adv.#antey, in anteyan témpor#
 OFF#prefix# (to run) forcurrer, (carry off) forportar#
 OFF#prep.#for#
+OFF#adv.#for#
 OFF AND ON#adv.#ocasionalmen, a vezes#
 OFF THE COAST#adv.#avan li rive, avan li costa#
 OFFAL#n.#carnallia#
@@ -15812,7 +15881,9 @@ UNAPFECTED#adj.#ingenui, naiv, natural#
 UNASHAMED#adj.#sin honte#
 UNASSUMING#adj.#modest#
 UNAVAILING#adj.#van#
-UNAWARES#adj.#sin advertiment, ínexpectatmen#
+UNAWARE#adj.# #XXX TODO
+UNAWARE#adv.#sin advertiment, ínexpectatmen#
+UNAWARES#adv.#sin advertiment, ínexpectatmen#
 UNBELIEF#n.#scepticisme, íncredulitá, defide, íncredentie#
 UNBEND#v.#erecter; condesecnder, relaxar#
 UNBIASSED#adj.#ínpartial#
@@ -15919,6 +15990,7 @@ UNWARRANTABLE#adj.#ínjustificabil#
 UNWAVERING#adj.#constant, ínhesitant#
 UNWELCOME#adj.#ínoportun, desagreabil#
 UNWIELDY#adj.#pesant, ínmanipulabil#
+UNWILLING#adj.# #
 UNWILLINGLY#adv.#ne-volentmen, contra volentie#
 UP#adv.#ad-supra#
 UP AND DOWN#adv.#a ci e ta, ad supra e infra#

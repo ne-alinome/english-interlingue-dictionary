@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-12-25
+:revdate: 2021-12-26
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -12,6 +12,8 @@
 == Building fixes and improvements
 
 - Fix: <make/add_letter_headings.vim> does not work fine in ex mode.
+- Enclose the examples into curly brackets, in order to make clear
+  their internal semicolons.
 
 // Content fixes and improvements {{{1
 == Content fixes and improvements
@@ -189,3 +191,4 @@
 - "CAN" (v.), "(possibility) posser; (power) potter"  
 - "HERSELF", etc.
 - Add "deputate" to "DEPUTY".
+- "BOARDING SCHOOL", "internatoria"?  
