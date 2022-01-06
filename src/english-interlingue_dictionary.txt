@@ -1052,6 +1052,7 @@ BACCHALAUREATE#adj.#baccalaureat#
 BACCHANAL#adj.#debochant#
 BACHELOR#n.#celibo; (graduate) baccalaureo#
 BACILLUS#n.#bacille#
+BACK#adv.# #
 BACK#n.#dorse, parte posteriori#
 BACK#v.intr.#retropassuar, retroear#
 BACK#v.tr.#(a horse) retroducter; (a horse) montar; (sails) baccar; (to support) suportar, subtener#XXX consult "back sails = baccar"
@@ -1297,7 +1298,7 @@ FOOD#n.-example#TO BE OFF FOOD: esser sin apetite, ne haver apetite#
 OFF#prep.-example#TO BE OFF FOOD: esser sin apetite, ne haver apetite#
 OFF#adv.-example#BE OFF!: for!, via!#
 DUTY#n.-example#TO BE ON DUTY: dejorar#
-OUT OF#v.-example#TO BE OUT OF: esser sin, mancar#
+OUT OF#prep.-example#TO BE OUT OF: esser sin, mancar#
 PALE#adj.-example#TO BE PALE: paller#
 PARTIAL#adj.-example#TO BE PARTIAL TO: haver un predilection por#
 PLEASED#adj.-example#TO BE PLEASED: joyar, esser content#
@@ -2199,7 +2200,8 @@ CAB#n.#fiacre (-ero)#
 CABAL#n.#cabale, intriga, conspiration#
 CABBAGE#n.#caul#
 CABIN#n.#cabane, baracca; (on ship) cayute, cabine#
-CABIN BOY#n.#elev de nave#
+CABIN#n.-example#CABIN BOY: elev de nave#
+BOY#n.-example#CABIN BOY: elev de nave#
 CABINET#n.#cabinette, chambrette; (cupboard) scaf; (pol.) consilie, ministerie#
 CABINET-MAZER#n.#fin-carpentero#
 CABLE#n.#cable, fune#
@@ -2233,7 +2235,8 @@ CALAMITY#n.#calamitá, catastrofe#
 CALCAREOUS#adj.#calcin, calcic, calciferi#
 CALCIUM#n.#calcium#
 CALCULATE#v.#calcular (-ation, -ator), evaluar#
-CALCULATING MACHINE#n.#machine calculatori#
+CALCULATE#v.-example#CALCULATING MACHINE: machine calculatori#
+MACHINE#n.-example#CALCULATING MACHINE: machine calculatori#
 CALCULUS#n.#calcul#
 CALDRON#n.#caldron, bolliere#
 CALEFACTION#n.#calentation#
@@ -2246,11 +2249,12 @@ CALICO#n.#calicó; (glazed) percalline#
 CALIPH#n.#calif (-atu)#
 CALL#n.#demande, exigentie#
 CALL#v.#vocar, clamar; (to cry) criar; (to name) nominar; (a meeting) convocar; (to visit) visitar#
-CALL AT#v.#haltar che#
-CALL FOR#v.tr.#ear prender, venir prender#
-CALL IN#v.#far venir#
-CALL OUT#v.#exclamar#
-CALL TO MIND#v.#rememorar#
+CALL#v.-example#TO CALL AT: haltar che#
+CALL#v.tr.-example#TO CALL FOR: ear prender, venir prender#
+CALL#v.-example#TO CALL IN: far venir#
+CALL#v.-example#TO CALL OUT: exclamar#
+CALL#v.-example#TO CALL TO MIND: rememorar#
+MIND#n.-example#TO CALL TO MIND: rememorar#
 CALLING#n.#profession, mestiere, artise#
 CALLIPERS#n.#calibre-compasse#
 CALLOSITY#n.#calle#
@@ -2332,8 +2336,10 @@ CAPERS#n.#(bot.) cáppare#
 CAPILLARY#adj.#capillari#
 CAPITAL#adj.#(all senses) capital (-ist)#
 CAPITAL#n.#capitale#
-CAPITAL LETTER#n.#majuscul#
-CAPITAL PUNISHMENT#n.#condamnation al morte#
+CAPITAL#adj.-example#CAPITAL LETTER: majuscul#
+LETTER#n.-example#CAPITAL LETTER: majuscul#
+CAPITAL#adj.-example#CAPITAL PUNISHMENT: condamnation al morte#
+PUNISHMENT#n.-example#CAPITAL PUNISHMENT: condamnation al morte#
 CAPITULAR#adj.#capitulari#
 CAPITULATE#v.#capitular (-ation)#
 CAPON#n.#capon (-isar)#
@@ -2358,7 +2364,9 @@ CARAVAN#n.#caravane (-serái)#
 CARAVEL#n.#caravelle#
 CARAWAY#n.#cúmine#
 CARBINE#n.#carabine (-ero)#
-CARBOLIC ACID#n.#carbol#
+ACID#n.-example#CARBOLIC ACID: carbol#
+CARBOLIC#adj.# #
+CARBOLIC#adj.-example#CARBOLIC ACID: carbol#
 CARBON#n.#carbonio (-ic, -iferi)#
 CARBORUNDUM#n.#carborunde#
 CARBOY#n.#corbe-botelle#
@@ -2390,7 +2398,9 @@ CARNATION#n.#(bot.) diante#
 CARNIVAL#n.#carnevale#
 CARNIVORE#n.#carnivore#
 CARNIVOROUS#adj.#carnivori#
-CAROB BEAN#n.#carube#
+CAROB#n.# #
+CAROB#n.-example#CAROB BEAN: carube#
+BEAN#n.-example#CAROB BEAN: carube#
 CAROL#n.#cristfest-cante#
 CAROUSAL#n.#orgie, baccanale#
 CARP#n.#carpe, carasse#
@@ -2402,9 +2412,9 @@ CARRIER#n.#(of goods) carrero; (messenger) missagero, curriero, portator; (shipp
 CARRION#n.#putrallia, cadavre#
 CARROT#n.#carotte#
 CARRY#v.#portar, suportar#
-CARRY INTO EFFECT#v.#executer, efectivar; (to accomplish) efectuar#
-CARRY OUT#v.#executer#
-CARRY OVER#v.#transferter#
+EFFECT#n.-example#TO CARRY INTO EFFECT: executer, efectivar; (to accomplish) efectuar#
+CARRY#v.-example#TO CARRY OUT: executer#
+CARRY#v.-example#TO CARRY OVER: transferter#
 CART#n.#carre#
 CARTEL#n.#cartelle#
 CARTILAGE#n.#cartilágine#
@@ -2421,7 +2431,8 @@ CASEIN#n.#caseine#
 CASEMATE#n.#casemate#
 CASEMENT#n.#ale de fenestre#
 CASH#n.#moné, pecunie#
-CASH BOX#n.#cassette#
+CASH#n.-example#CASH BOX: cassette#
+BOX#n.-example#CASH BOX: cassette#
 CASHIER#n.#cassero#
 CASHIER#v.#demisser#
 CASHMERE#v.#cachemir#
@@ -2434,7 +2445,7 @@ CASSOCK#n.#sutane#
 CASSOWARY#n.#casoare#
 CAST#n.#(worm cast) tumul#
 CAST#v.#lansar, jettar; (metal) fonder; (in the eye) strabe#
-CAST ASPERSIONS#v.#defamar, descreditar#
+ASPERSION#n.-example#CAST ASPERSIONS: defamar, descreditar#
 CAST-IRON#n.#ferre fondet#
 CASTE#n.#caste#
 CASTER#n.#rulette#
@@ -2452,10 +2463,13 @@ CATARACT#n.#cataracte#
 CATARRH#n.#catarre#
 CATASTROPHE#n.#catastrof (-al)#
 CATCH#v.#capter, prender; (to grasp mentally) capir#
-CATCH A CHILL#v.#refrigidar se#
-CATCH COLD#v.#afrigidar se, inreumar se, refrigidar se#
-CATCH SIGHT OF#v.#percepter#
-CATCH UP WITH#v.#atinger#
+CHILL#n.-example#TO CATCH A CHILL: refrigidar se#
+CATCH#v.-example#TO CATCH A CHILL: refrigidar se#
+CATCH#v.-example#TO CATCH COLD: afrigidar se, inreumar se, refrigidar se#
+COLD#n.-example#TO CATCH COLD: afrigidar se, inreumar se, refrigidar se#
+CATCH#v.-example#TO CATCH SIGHT OF: percepter#
+SIGHT#n.-example#TO CATCH SIGHT OF: percepter#
+CATCH#v.-example#TO CATCH UP WITH: atinger#
 CATECHISM#n.#catechisme#
 CATEGORY#n.#categorie (-ic)#
 CATER#v.#provisionar; cuidar#
@@ -2485,7 +2499,7 @@ CAVALCADE#n.#cavalcade#
 CAVALIER#n.#cavaliero, paladino#
 CAVALRY#n.#cavalleríe#
 CAVE#n.#cava, caverne#
-CAVE IN#v.#crular#
+CAVE#n.-example#TO CAVE IN: crular#
 CAVEAT#n.#veto; protestation#
 CAVERN#n.#caverne (-al)#
 CAVIARE#n.#caviare#
@@ -2519,7 +2533,8 @@ CENTENARY#adj.#centenari#
 CENTENARY#n.#centenarie#
 CENTI#prefix# (in comp.) centilitre, centimetre, centipede, etc.#
 CENTRE#n.#centre (-al, -ale, -alisar)#
-CENTRE OF GRAVITY#n.#centre de gravitation, bari centre#
+CENTRE#n.-example#CENTRE OF GRAVITY: centre de gravitation, bari centre#
+GRAVITY#n.-example#CENTRE OF GRAVITY: centre de gravitation, bari centre#
 CENTURY#n.#centennie, secul#
 CERAMIC#adj.#ceramic#
 CERAMICS#n.pl.#ceramica#
@@ -2643,12 +2658,15 @@ CHESS#n.#chac#
 CHESSBOARD#n.#chac-tabul#
 CHESSPIECE#n.#chac-figura#
 CHEST#n.#tórax (-ic), péctor; (box) buxe, cheste#
-CHEST OF DRAWERS#n.#comode#
+CHEST#n.-example#CHEST OF DRAWERS: comode#
+DRAWER#n.-example#CHEST OF DRAWERS: comode#
 CHESTNUT#n.#castanie (-iero), naron#
 CHEVALIER#n.#cavaliero; galanthom#
 CHEVRON#n.#chevron; (carp.) raftre#
 CHEW#v.#machar#
-CHEW THE CUD#v.#remachar, ruminar#
+CUD#n.# #
+CHEW#v.-example#TO CHEW THE CUD: remachar, ruminar#
+CUD#n.-example#TO CHEW THE CUD: remachar, ruminar#
 CHIC#adj.#chic#
 CHICANERY#n.#chicane#
 CHICK#n.#gallinelle#
@@ -2672,9 +2690,10 @@ CHILL#n.#frigore; (shudder) frisson#
 CHIME#n.#clocheada; sonoritá, unison#
 CHIMERA#n.#chimere (-ic), ilusion#
 CHIMNEY#n.#chimené#
-CHIMNEY SWEEPER#n.#chimené-balayero#
-CHIMNEY-PIECE#n.#camin-corniche#
-CHIMNEY-SWEEP#n.#chimenero#
+CHIMNEY#n.-example#CHIMNEY SWEEPER: chimenero, chimené-balayero#
+SWEEP#v.-example#CHIMNEY SWEEPER: chimenero, chimené-balayero#
+CHIMNEY#n.-example#CHIMNEY-PIECE: camin-corniche#
+CHIMNEY#n.-example#CHIMNEY-SWEEP: chimenero, chimené-balayero#
 CHIMPANZEE#n.#chimpansé#
 CHIN#n.#menton#
 CHINA#n.#porcelane#
@@ -2758,7 +2777,7 @@ CIRCUITOTUS#adj.#circumeant, long#
 CIRCULATE#v.#circular (-ation), rotar#
 CIRCUM#prefix#as in English: circumciser, circumferentie, circumflex, circumnavlgar, circumscrir, circumspect, circumstantie, etc.#
 CIRCUMAMBIENT#adj.#circumdant#
-CIRCUMSTANTIAL EVIDENCE#n.#indicies#
+EVIDENCE#n.-example#CIRCUMSTANTIAL EVIDENCE: indicies#
 CIRCUMVENT#v.#circumear, super-rusar#
 CIRCUS#n.#circo#
 CISTERN#n.#cisterne#
@@ -2770,7 +2789,8 @@ CITRON#n.#citron, limon#
 CITY#n.#cité (-an)#
 CIVIC#adj.#civic#
 CIVIL#adj.#civil; (polite) cortesi, polit, galant#
-CIVIL WAR#n.#guerre intern#
+CIVIL#adj.-example#CIVIL WAR: guerre intern#
+WAR#n.-example#CIVIL WAR: guerre intern#
 CIVILIAN#adj.#civil#
 CIVILISE#v.#civilisar (-ation)#
 CLACK#v.#claccar, cliquettar#
@@ -2791,7 +2811,8 @@ CLANG#n.#son, ton#
 CLANG#v.#sonorar#
 CLANK#v.#raslar (-ada)#
 CLAP#v.#(hands) claccar, clappar, aplauder#
-CLAP OF THUNDER#n.#clapp de tónnere#
+CLAP#n.-example#CLAP OF THUNDER: clapp de tónnere#
+THUNDER#n.-example#CLAP OF THUNDER: clapp de tónnere#
 CLAP-TRAP#n.#boniment#
 CLAPPER#n.#(of bell) battente#
 CLARET#n.#vin de Bordeaux#
@@ -2823,7 +2844,8 @@ CLENCH#v.#(to gripe with the fist) serrar#
 CLERGY#n.#clero, clerical partise, clericallia#
 CLERGYMAN#n.#clerico, prestro#
 CLERICAL#adj.#clerical#
-CLERICAL ERROR#n.#scrit-erra, erra de plum#
+CLERICAL#adj.-example#CLERICAL ERROR: scrit-erra, erra de plum#
+ERROR#n.-example#CLERICAL ERROR: scrit-erra, erra de plum#
 CLERK#n.#commí, secretario, oficiario, employato, scritor, copist#
 CLEVER#adj.#habil, capabil, astut, talentat#
 CLEW#n.#scot-angul#
@@ -2862,7 +2884,7 @@ CLOT#n.#masse, glom#
 CLOT#v.#coagular (-ation)#
 CLOTH#n.#drap; (a cloth) linage; (naut.) seglage#
 CLOTHE#v.#vestir (-iment)#
-CLOTHES HOOK#n.#patere#
+HOOK#n.-example#CLOTHES HOOK: patere#
 CLOTHIER#n.#drapero, vestimentero#
 CLOUD#n.#nube (-at, -osi)#
 CLOUDLESS#adj.#sin nubes, clar, seren#
@@ -2879,7 +2901,8 @@ CLUMSY#adj.#ínhabil, pesant, plump#
 CLUSTER#n.#(grapes) uve; (trees etc.) gruppe; (flowers) toff#
 CLUTCH#n.#griffe; (motoring) acuplator#
 CLUTCH#v.#capter, tener#
-CLUTCH PEDAL#n.#pedale de acuplage#
+CLUTCH#n.-example#CLUTCH PEDAL: pedale de acuplage#
+PEDAL#n.-example#CLUTCH PEDAL: pedale de acuplage#
 CO-OPERATE#v.#cooperar (-ation, -ativ, -ative)#
 CO-OPT#v.#cooptar (-ation)#
 CO-ORDINATE#v.#coordinar (-ation, -ator, -ates)#
@@ -2892,8 +2915,9 @@ COAMINGS#n.pl.#sill#
 COARSE#adj.#rud, vulgari, índelicat, gross, crud#
 COAST#n.#costa, marborde, líttore, rive#
 COAST#v.#cabotar (-age, -ero)#
-COAT#n.#(jacket) jaque, veston; (dress coat) frac; (of animals) pelisse. (coat of arms) blason#
-COAT OF ARMS#n.#blason, emblema#
+COAT#n.#(jacket) jaque, veston; (dress coat) frac; (of animals) pelisse#
+ARM#n.-example#COAT OF ARMS: blason, emblema#
+COAT#n.-example#COAT OF ARMS: blason, emblema#
 COAT-HANGER#n.#veste-croc#
 COATED#adj.#stuccat, incrustat#
 COAX#v.#persuaDer#
@@ -2906,7 +2930,8 @@ COCAINE#n.#coca#
 COCBOAT#n.#yoll, chalupe#
 COCHINEAL#n.#cochenill#
 COCK#n.#(fowl) gallino; (of gun) clave; (tap) robinete, tornette#
-COCK A GUH#v.#tender li clave#
+COCK#v.-example#TO COCK A GUN: tender li clave#
+GUN#n.-example#TO COCK A GUN: tender li clave#
 COCKADE#n.#cocarde#
 COCKATOO#n.#cacatú#
 COCKATRICE#n.#basilisco#
@@ -2956,7 +2981,8 @@ COLD#n.#frigore; (med.) catarre, refrigidation#
 COLIC#adj.#colica#
 COLLABORATE#v.#colaborar (-ation, -ator)#
 COLLAPSE#v.#crular, cader in ruinas, coruir, discader#
-COLLAPSIBLE BOAT#n.#bote plicabil#
+COLLAPSE#v.-example#COLLAPSIBLE BOAT: bote plicabil#
+BOAT#n.-example#COLLAPSIBLE BOAT: bote plicabil#
 COLLAR#n.#colare, coliere#
 COLLAR#v.#capter#
 COLLAR-BONE#n.#clavicul#
@@ -2994,18 +3020,24 @@ COMBINE#v.#combinar (-ation, -ator), ligar, junter, unir, unionar#
 COMBUSTIBLE#adj.#combustibil#
 COMBUSTION#n.#combustion#
 COME#v.#venir#
-COME ABOUT#v.#evenir#
-COME ACROSS#v.#incontrar, trovar#
-COME AFTER#v.#sequer#
-COME BACK#v.#revenir, retornar#
-COME BY#v.#obtener#
-COME IN FOR#v.#heredar, reciver#
-COME OFF#v.#successar, evenir#
-COME TO AN UNDERSTANDING#v.#acordar se#
-COME TO PASS#v.#evenir#
-COME TO TERM#v.#interacordar#
-COME TO THE HELP OF#v.#venir al sucurse de#
-COME UNDONE#v.#deligar se#
+COME#v.-example#TO COME ABOUT: evenir#
+COME#v.-example#TO COME ACROSS: incontrar, trovar#
+COME#v.-example#TO COME AFTER: sequer#
+COME#v.-example#TO COME BACK: revenir, retornar#
+BACK#adv.-example#TO COME BACK: revenir, retornar#
+COME#v.-example#TO COME BY: obtener#
+COME#v.-example#TO COME IN FOR: heredar, reciver#
+COME#v.-example#TO COME OFF: successar, evenir#
+COME#v.-example#TO COME TO AN UNDERSTANDING: acordar se#
+UNDERSTANDING#n.-example#TO COME TO AN UNDERSTANDING: acordar se#
+COME#v.-example#TO COME TO PASS: evenir#
+PASS#v.-example#TO COME TO PASS: evenir#
+COME#v.-example#TO COME TO TERM: interacordar#
+TERM#n.-example#TO COME TO TERM: interacordar#
+COME#v.-example#TO COME TO THE HELP OF: venir al sucurse de#
+HELP#n.-example#TO COME TO THE HELP OF: venir al sucurse de#
+COME#v.-example#TO COME UNDONE: deligar se#
+UNDO#v.-example#TO COME UNDONE: deligar se#
 COMEDIAN#n.#comico, comediante#
 COMEDY#n.#comedie#
 COMELY#adj.#pretti, graciosi#
@@ -3035,8 +3067,10 @@ COMMISSARIAT#mil.#comissariatu, intendantura#
 COMMISSARY#n.#comissario#
 COMMISSION#n.#comission (-ario), charge, mandate, comende#
 COMMIT#v.#cometter, far; (to entrust) confider#
-COMMIT ADULTERY#v.#adulterar#
-COMMIT SUICIDE#v.#suicidiar#
+COMMIT#v.-example#TO COMMIT ADULTERY: adulterar#
+ADULTERY#n.-example#COMMIT ADULTERY: adulterar#
+COMMIT#v.-example#COMMIT SUICIDE: suicidiar#
+SUICIDE#n.-example#COMMIT SUICIDE: suicidiar#
 COMMITTEE#n.#comité#
 COMMODE#n.#comode#
 COMMODIOUS#adj.#comod, spaciosi, vast, ampli#
@@ -3051,7 +3085,8 @@ COMMONWEAL#n.#bene public#
 COMMONWEALTH#n.#comunalité#
 COMMOTION#n.#tumultu, comotion#
 COMMUNE#n.#comunité, publica, municipie#
-COMMUNE WITH#v.#conferer con#
+COMMUNE#v.# #
+COMMUNE#v.-example#TO COMMUNE WITH: conferer con#
 COMMUNICANT#n.#comunient#
 COMMUNICATE#v.#comunicar (-ation, -ativ), informar, advertir, dar avise#
 COMMUNION#eccles.#comunion, eucaristie#
@@ -3101,8 +3136,10 @@ COMPOTE#n.#compotte#
 COMPOUND#adj.#complex#
 COMPOUND#n.#mixtura, combination#
 COMPOUND#v.#mixter, combinar, junter#
-COMPOUND INTEREST#n.#intereste acumulativ#
-COMPOUND WITH ONE'S CREDITORS#v.#atinger un arangeament con su creditores#
+COMPOUND#adj.-example#COMPOUND INTEREST: intereste acumulativ#
+INTEREST#n.-example#COMPOUND INTEREST: intereste acumulativ#
+COMPOUND#v.-example#TO COMPOUND WITH ONE'S CREDITORS: atinger un arangeament con su creditores#
+CREDITOR#n.-example#TO COMPOUND WITH ONE'S CREDITORS: atinger un arangeament con su creditores#
 COMPREHEND#v.#comprenDer (-sion, -sibil), percepter, capir, incluDer#
 COMPREHENSIVE#adj.#inbrassant, vast, extensiv#
 COMPRESS#v.#compresser (-ion, -or, -ibil)#
@@ -3241,7 +3278,8 @@ CONSOLIDATE#v.#consolidar (-ation)#
 CONSONANT#adj.#consonant#
 CONSONANT#n.#consonante#
 CONSORT#n.#consort, socio#
-CONSORT WITH#v.#associar se con#
+CONSORT#v.# #
+CONSORT#v.-example#TO CONSORT WITH: associar se con#
 CONSPICUOUS#adj.#prominent, clar, salient, frappant#
 CONSPICUOUS#adj.-example#TO BE CONSPICUOUS BY ITS ABSENCE: brilliar per su tot absentie#
 CONSPIRE#v.#conspirar (-ation, -ator), complotar#
@@ -3360,10 +3398,11 @@ COOP#n.#cage por volallia#
 COOPER#n.#cuvero#
 COOT#n.#fulica#
 COPE#n.#(eccl.) sutane; (dome) cupol#
-COPE WITH#v.#luctar contra, mastrisar#
+COPE#v.# #
+COPE#v.-example#TO COPE WITH: luctar contra, mastrisar#
 COPIOUS#adj.#ampli, rich, abundant, numerosi#
 COPPER#n.#cupre; (vessel) cuve#
-COPPER WORKS#n.#cuprería#
+COPPER#n.-example#COPPER WORKS: cuprería#
 COPPICE#n.#boscage#
 COPULATE#v.#copular (-ation, -ativ), coiter#
 COPY#n.#copie (-ar, -ist), modelle, duplicate, specimen; (of a book) exemplare; (art) reproduction#
@@ -3372,7 +3411,8 @@ COPY-BOOK#n.#caderne#
 COPYRIGHT#n.#jure editorial#
 COQUETTISH#adj.#coquet (-ar, -eríe)#
 CORAL#n.#coralle (-in)#
-CORAL ISLAND#n.#atoll#
+CORAL#n.-example#CORAL ISLAND: atoll#
+ISLAND#n.-example#CORAL ISLAND: atoll#
 CORD#n.#corde (-age)#
 CORDIAL#adj.#cordial (-itá)#
 CORDIAL#n.#cordiale#
@@ -3381,7 +3421,8 @@ CORDON#mil.#cordon#
 CORE#n.#nucleo, cordie; quintessentie#
 CORK#n.#corc; (bung) tapon#
 CORK#v.#corcar#
-CORK TREE#n.#corciere#
+CORK#n.-example#CORK TREE: corciere#
+TREE#n.-example#CORK TREE: corciere#
 CORKSCREW#n.#tira-corc#
 CORMORANT#n.#cormoran#
 CORN#n.#(on foot) calle; (grain) frument, cereales, mais, grane#
@@ -3389,7 +3430,8 @@ CORNCRAKE#n.#crex#
 CORNEA#n.#cornea#
 CORNER#n.#angul#
 CORNER#v.#(comm.) acaparar#
-CORNER STONE#n.#lápid angulari#
+CORNER#n.-example#CORNER STONE: lápid angulari#
+STONE#n.-example#CORNER STONE: lápid angulari#
 CORNET#n.#cornette (-ist)#
 CORNFLOWER#n.#centaurea, cianette#
 CORNICE#n.#corniche#
@@ -3411,7 +3453,7 @@ CORRECT#adj.#corect, just#
 CORRECT#v.#corecter (-ion, -iv, -ura); punir#
 CORRELATE#v.#corelater (-ion, -iv)#
 CORRESPOND#v.#coresponder (-ent, -entie)#
-CORRESPONDING TO#prep.#conform a, secun#
+CORRESPOND#v.-example#CORRESPONDING TO: conform a, secun#
 CORRIDOR#n.#coridor#
 CORRIGENDUM#n.#un erra a corecter, corectende#
 CORROBORATE#v.#coroborar (-ation, -ativ), confirmar#
@@ -3483,7 +3525,8 @@ COURSE#n.#(lessons) cursu; (race) curse; (of water) fluida; (of life) carriera, 
 COURSING#n.#lepor-chassada, chass-currida#
 COURT#n.#corte; (law) corte, tribunale#
 COURT#v.#cortesar; (disaster) invitar#XXX FIXME "(disaster)"?
-COURT USHER#n.#bedello#
+COURT#n.-example#COURT USHER: bedello#
+USHER#n.-example#COURT USHER: bedello#
 COURTEOUS#adj.#cortesi (-esie)#
 COURTESAN#n.#curtisana, hetera#
 COURTIER#n.#cortesan#
@@ -3527,7 +3570,8 @@ CRAMP#n.#spasma, crampe; (iron) crampon#
 CRAMPED#adj.#strett, rigid, confinat#
 CRANBERRY#n.#oxicocco, rubi mirtille#
 CRANE#n.#(bird) grue; (mech.) cran#
-CRANE THE NECK#v.#extender li col#
+CRANE#v.# #
+CRANE#v.-example#TO CRANE THE NECK: extender li col#
 CRANIUM#n.#cranie (-al)#
 CRANK#adj.#(naut.) instabil#
 CRANK#n.#(mech.) manivelle; (a turn) torsion; (person) maniac#
@@ -3618,7 +3662,7 @@ CROQUET#n.#croquete#
 CROSS#adj.#travers, transversal; obliqui, diagonal; iritabil, morosi#
 CROSS#n.#cruce, crucifix; hibride#
 CROSS#v.#transear, transir, passar; (to oppose) oposir; (plants) crucear, hibridisar#
-CROSS OUT#v.#trastrecar; (of streets) intersecter se#
+CROSS#v.-example#TO CROSS OUT: trastrecar; (of streets) intersecter se#
 CROSS-EXAMINE#v.#contra-questionar#
 CROSS-EYED#adj.#strab (-on, -isme)#
 CROSS-GRAINED#adj.#(of persons) obstinat, renitent#
@@ -3631,7 +3675,7 @@ CROUCH#v.#ahoccar se, inflexer se, bassar se#
 CROUP#med.#crupp; (animals) crupe#
 CROW#n.#(bird) cornille#
 CROW#v.#cantar quam un gállino#
-CROW OVER#v.tr.#triumfar súper#XXX FIXME
+CROW#v.tr.-example#TO CROW OVER: triumfar súper#XXX FIXME
 CROW'S NEST#n.#mast-corb#
 CROWBAR#n.#levuore, ferrin fuste#
 CROWD#n.#hom-amasse, turbe#
@@ -3663,7 +3707,7 @@ CRUTCH#n.#cruca (-on)#
 CRUX#n.#desfacilitá#
 CRY#n.#cri#
 CRY#v.#criar, clamar; (to weep) lacrimar, plorar (-ada)#
-CRY OUT#v.#exclamar#
+CRY#v.-example#CRY OUT: exclamar#
 CRYPT#n.#cripta, tombe#
 CRYPTIC#adj.#secret, ocult, enigmatic#
 CRYSTAL#n.#cristalle (-in. -isar)#
@@ -3723,7 +3767,8 @@ CURRENT#adj.#current, fluent, circulant#
 CURRICULUM#n.#currículum#
 CURRIER#n.#preparator de cute#
 CURRY#n.#carri#
-CURRY FAVOUR#v.#insinuar se#
+CURRY#v.# #
+CURRY#v.-example#TO CURRY FAVOUR: insinuar se#
 CURRY-COMB#n.#strigul (-ar)#
 CURSE#n.#anatema, blasfema#
 CURSE#v.#maledir (-ition), blasfemar#
@@ -3747,7 +3792,7 @@ CUSTOMS#n.pl.#doane (-ero), tribute#
 CUT#adj.#(glass) polit, slifat#
 CUT#n.#cisura; tranchitura; (style) fasson#
 CUT#v.#(hair) tonder; (meat) tranchir; (stone) ciser, sculpter#
-CUT OFF#v.#decupar, deciser#
+CUT#v.-example#CUT OFF: decupar, deciser#
 CUT-THROAT#n.#assassinator, cise-gurgul#
 CUTANEOUS#adj.#pellic, dermatic, cutin#
 CUTE#adj.#sagaci, astut#
@@ -7524,6 +7569,7 @@ IN DETAIL#adv.#detalliatmen#
 IN DUE TIME#adv.#in just témpor#
 IN EARNEST#adj.#seriosi#
 IN EFFECT#adv.#in realitá#
+EFFECT#n.-example#IN EFFECT: in realitá#
 IN EXCHANGE#adv.#in revancha#
 IN FACT#adv.#in facte, efectivmen#
 IN FORCE#adj.#valid, valent#
@@ -7960,7 +8006,7 @@ INTERCEPT#v.#intercepter (-ion, -or), (a blow) parar; obstructer#
 INTERCHANGE#n.#interchange (-ear), cambiar#
 INTERCOURSE#n.#(inter)relation, association; coition#
 INTERDICT#v.#interdicter (-ion), prohibir#
-INTEREST#n.#interesse (-ar, -ant); (on money) interest#
+INTEREST#n.#interesse (-ar, -ant); (on money) intereste#
 INTERFERE#v.#interferer (-entie), intervenir, inmixter se#
 INTERIM#n.#ínterim#
 INTERIOR#adj.#interiori, intern#
@@ -16039,7 +16085,9 @@ USED TO#adj.#acustomat#XXX FIXME -- adj./prep., acustomat ye
 USEFUL#adj.#util (-itá, -isar)#
 USELESS#adj.#ínutil#
 USELESS#adj.-example#IT IS USELESS TO …: it es van pena …#
-USHER IN#v.#preluder, introducter#
+USHER#n.# #
+USHER#v.# #
+USHER#v.-example#TO USHER IN: preluder, introducter#
 USUAL#adj.#usual, ordinari#
 USURP#v.#usurpar (-ation, -ator)#
 USURY#n.#usure (-ari, -ero)#
@@ -16593,7 +16641,7 @@ WHITE#adj.#blanc; pallid#
 WHITE#n.#(egg) albúmine, blanc ovine; (person) blanco#
 WHITE ANT#n.#termite#
 WHITE OF EGG#n.#albúmine#
-WHITEN#v.#blancar, ablanoar; devenir blanc#
+WHITEN#v.#blancar, ablancar; devenir blanc#
 WHITENESS#n.#blancore#
 WHITEWASH#n.#murcalce#
 WHITEWASH#v.#calcear; deculpar#
