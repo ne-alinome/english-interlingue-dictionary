@@ -253,7 +253,7 @@ AFFOREST#v.#aforestar (-ation)#
 AFFRAY#n.#rixe, lucte#
 AFFRIGHT#v.#aterrer, timentar#
 AFFRONT#v.#insultar, ofender, afrontar#
-AFIELD#adv.#in lontanie#
+AFIELD#adv.# #
 AFLOAT#a.#flott, flottant#
 AFOOT#adv.#in eada#
 AFOOT#adv.-example#WHAT'S AFOOT: quo eveni#
@@ -5464,7 +5464,7 @@ FABRICATE#v.#fabricar, inventer#
 FACADE#n.#fassade#
 FACE#n.#facie (-al), visage; (of clock) disco; (of coins etc.) averse; (surface) superficie#
 FACE#v.#frontar#
-FACE TO FACE#adj., adv.#vis-a-vis, contra unaltru#
+FACE#n.-example#FACE TO FACE: vis-a-vis, contra unaltru#
 FACET#n.#facette#
 FACETIOUS#adj.#jocosi#
 FACILE#adj.#facil (-itá)#
@@ -5495,8 +5495,8 @@ FAIR-COPY#n.#nettage#
 FAIRLY#adv.#honestmen, justmen; (enough) sat, passabilmen, alquant#
 FAIRY#adj.#feeric#
 FAIRY#n.#fea, silf(a), elf#
-FAIRY ART#n.#feeríe#
-FAIRY TALE#n.#fiaba#
+FAIRY#adj.-example#FAIRY ART: feeríe#
+FAIRY#adj.-example#FAIRY TALE: fiaba#
 FAITH#n.#fide, crede, confidentie; confession#
 FAITHFUL#adj.#fidel (-itá)#
 FAITHLESS#adj.#ínfidel, perfid (-ie)#
@@ -5506,12 +5506,14 @@ FALCHION#n.#gladie, sabre#
 FALCON#n.#falcon (-ero)#
 FALL#n.#cade, cadida#
 FALL#v.#cader#
-FALL ASLEEP#v.#indormir#
-FALL AWAY#v.#deserter#
-FALL DUE#v.#(on exchange) scader#
-FALL IN#v.#crular, cader in ruinas; (mil.) formar se in ranges, stantar se#
-FALL IN LOVE#v.#inamorar se#
-FALL OUT#v.#querellar; ocurrer#
+FALL#v.-example#TO FALL ASLEEP: indormir#
+ASLEEP#adj.-example#TO FALL ASLEEP: indormir#
+FALL#v.-example#TO FALL AWAY: deserter#
+FALL#v.-example#TO FALL DUE: (on exchange) scader#
+FALL#v.-example#TO FALL IN: crular, cader in ruinas; (mil.) formar se in ranges, stantar se#
+FALL#v.-example#TO FALL IN LOVE: inamorar se#
+LOVE#n.-example#TO FALL IN LOVE: inamorar se#
+FALL#v.-example#TO FALL OUT: querellar; ocurrer#
 FALLACIOUS#adj.#ilusiv, deceptiv, sofistic#
 FALLACY#n.#sofisme, fals conclusion, erra#
 FALLIBLE#adj.#fallibil (-itá)#
@@ -5539,8 +5541,10 @@ FANTASTIC#adj.#fantastic#
 FANTASY#n.#fantasie#
 FAR#adj.#lontan, distant#
 FAR#adv.#mult#
-FAR AFIELD#adv.#in lontanie#
-FAR TOO MUCH#adj.#mult tro mult#
+FAR#adv.-example#FAR AFIELD: in lontanie#
+AFIELD#adv.-example#FAR AFIELD: in lontanie#
+FAR#adv.-example#FAR TOO MUCH: mult tro mult#
+MUCH#adj.-example#FAR TOO MUCH: mult tro mult#
 FARCE#n.#farse, buffa, comedie; (cul.) farce#
 FARE#n.#nutriment; passagero; precie#
 FARE#n.-example#HOW MUCH IS THE FARE?: quant custa li viage?#
@@ -5582,7 +5586,8 @@ FAVOUR#n.#favore (-ar, -abil)#
 FAVOURITE#adj.#favorit (-e, -isme), preferet#
 FAWN#adj.#cervin#
 FAWN#n.#cervello#
-FAWN UPON#v.#repter avan, flattachar#
+FAWN#v.# #
+FAWN#v.-example#TO FAWN UPON: repter avan, flattachar#
 FAWNING#adj.#servil, reptiv#
 FAY#n.#fea, nimfa#
 FEALTY#n.#fidelitá#
@@ -5593,7 +5598,8 @@ FEAST#n.#festine, banquette, regale#
 FEAST#v.#festinar, regalar (se)#
 FEAT#n.#(of agility etc.) artificie, habilitá; heroic action#
 FEATHER#n.#plum#
-FEATHER WEIGHT#n.#(sport) plum-póndere#
+FEATHER#n.-example#FEATHER WEIGHT: (sport) plum-póndere#
+WEIGHT#n.-example#FEATHER WEIGHT: (sport) plum-póndere#
 FEATHERED#adj.#plumat#
 FEATURE#n.#trate, caracteristica#
 FEBRUARY#n.#februar#
@@ -5602,8 +5608,9 @@ FEDERAL#adj.#federal (-isme)#
 FEDERATE#v.#federar (-ation)#
 FEE#n.#honorarie, recompense#
 FEEBLE#adj.#debil (-itá, -isar)#
+FEED#v.intr.#(to eat) manjar, nutrir se, alimentar se; 
 FEED#v.tr.#nutrir, alimentar; (to eat) manjar; (cattle) forragear#
-FEED ON#v.#nutrir se per#
+FEED#v.intr.-example#TO FEED ON: nutrir se per#
 FEEL#v.#sentir; (by touch) palpar, tastar#
 FEEL#v.-example#HOW DO YOU FEEL?: qualmen vu standa?#
 FEELER#n.#(ent.) antenne#
@@ -5616,7 +5623,8 @@ FELL#adj.#terribil, cruel#
 FELL#v.#abatter, cadentar#
 FELLOE#n.#felga#
 FELLOW#n.#compane, socio, membre, co-; (individual) chap, homacho#
-FELLOW COUNTRYMAN#n.#compatriot#
+FELLOW#n.-example#FELLOW COUNTRYMAN: compatriot#
+COUNTRYMAN#n.-example#FELLOW COUNTRYMAN: compatriot#
 FELLOWSHIP#n.#membratu; (brotherhood) fraternité#
 FELON#n.#criminard, malefator#
 FELT#n.#feltre (-in)#
@@ -5626,14 +5634,16 @@ FEN#n.#palude, morasse#
 FENCE#n.#palissade#
 FENCE#v.#palissar, inhagar; (sport) escrimar, parar#
 FENCING#n.#(sport) escrime (-ero)#
-FEND FOR#v.#provider por, cuidar#
+FEND#v.# #
+FEND#v.-example#TO FEND FOR: provider por, cuidar#
 FENDER#n.#para-foy; (naut.) garda-látere#
 FENNEL#n.#fenicul#
 FERMENT#n.#ferment (-ar, -ation), maichar#
 FERN#n.#filice#
 FEROCIOUS#adj.#feroci, savagi#
 FERRET#n.#furette#
-FERRET ABOUT#v.#furettar#
+FERRET#v.# #
+FERRET#v.-example#TO FERRET ABOUT: furettar#
 FERRULE#n.#virol#
 FERRY#n.#pram#
 FERTILE#adj.#fertil, fecund (-itá)#
@@ -5669,14 +5679,17 @@ FICKLE#adj.#ínconstant, capriciosi#
 FICTION#n.#(feigning) fiction; (novels) romanes#
 FICTITIOUS#adj.#fictiv, fals, inventet#
 FIDDLE#n.#violine#
-FIDDLE BOW#n.#arc#
-FIDDLE STRING#n.#corde#
+FIDDLE#n.-example#FIDDLE BOW: arc#
+BOW#n.-example#FIDDLE BOW: arc#
+FIDDLE#n.-example#FIDDLE STRING: corde#
+STRING#n.-example#FIDDLE STRING: corde#
 FIDDLESTICKS#n.#nonsense#
 FIDELITY#n.#fidelitá#
 FIDGET#v.#esser desquiet, movettar se nervosimen#
 FIE#interj.#fi!#
 FIELD#n.#agre, prate, camp#
-FIELD HOSPITAL#n.#ambulantia#
+FIELD#n.-example#FIELD HOSPITAL: ambulantia#
+HOSPITAL#n.-example#FIELD HOSPITAL: ambulantia#
 FIELD-GLASS#n.#binocul#
 FIEND#n.#diábol (-ic)#
 FIERCE#adj.#furiosi, feroci, violent#
@@ -5690,7 +5703,8 @@ FIGHT#v.#combatter; (with sword) escrimar, gladiar; (with fist) boxar#
 FIGMENT#n.#fiction#
 FIGURE#n.#figura (-ar, -ant), forme, statura; (number) ciffre#
 FIGURE#v.#calcular#
-FIGURE OF SPEECH#n.#metáfor, trope
+FIGURE#n.-example#FIGURE OF SPEECH: metáfor, trope#
+SPEECH#n.-example#FIGURE OF SPEECH: metáfor, trope#
 FIGUREHEAD#n.#antefigura; (person) comparse#
 FILAMENT#n.#fil, fibre, filament#
 FILCH#v.#furter#
@@ -5718,7 +5732,8 @@ FINANCE#n.#financie (-al, -ero)#
 FINCH#n.#pinson#
 FIND#n.#trova, trovage#
 FIND#v.#trovar; constatar; (to supply with) provider#
-FIND FAULT#v.#criticar#
+FIND#v.-example#TO FIND FAULT: criticar#
+FAULT#n.-example#TO FIND FAULT: criticar#
 FINDING#n.#sententie, verdicte, judicie#
 FINE#adj.#bell; (thin) tenui; subtil; (sharp) acut; (delicate) fin, delicat#
 FINE#n.#punition pocuhiari, multa, amende#
@@ -5726,7 +5741,8 @@ FINERY#n.#ornamentes#
 FINESSE#n.#finesse, astutie, subtilitá; (at cards) finte#
 FINGER#n.#fingre#
 FINGER#v.#palpar#
-FINGER PRINT#n.#fingre-print#
+FINGER#n.-example#FINGER PRINT: fingre-print#
+PRINT#n.-example#FINGER PRINT: fingre-print#
 FINGER-POST#n.#pal indicatori, indicator de via#
 FINICKING#adj.#tro precisi, afectat#
 FINISH#n.#fine#
@@ -5737,8 +5753,10 @@ FIORD#n.#fiord#
 FIR#n.#abiete#
 FIRE#n.#foy; incendie#
 FIRE#v.#incendiar, far foy; (a gun) tirar, dar foy; (to heat) calentar#
-FIRE ALARM#n.#foy-alarmaparate#
-FIRE BRAND#n.#incendiard, impetuoso#
+FIRE#n.-example#FIRE ALARM: foy-alarmaparate#
+ALARM#n.-example#FIRE ALARM: foy-alarmaparate#
+FIRE#n.-example#FIRE BRAND: incendiard, impetuoso#
+BRAND#n.-example#FIRE BRAND: incendiard, impetuoso#
 FIREBRIGADE#n.#incendie-brigade#
 FIRECONE#n.#pin-fructa#
 FIREESCAPE#n.#salv-aparate#
@@ -5755,7 +5773,8 @@ FIRSTLING#n.#primicie#
 FIRTH#n.#estuarie, inboccatura#
 FISCAL#adj.#fiscal#
 FISH#n.#pise (-ar, -ator, -iera)#
-FISH HOOK#n.#pisca-croc#
+FISH#n.-example#FISH HOOK: pisca-croc#
+HOOK#n.-example#FISH HOOK: pisca-croc#
 FISHING-LINE#n.#pisc-fil#
 FISHING-LINEROD#n.#canne a piscar#
 FISHMONGER#n.#pisc-venditor, piscero#
@@ -5790,7 +5809,8 @@ FLAMBEAU#n.#torche#
 FLAMBOYANT#adj.#florid, flammeant#
 FLAME#n.#flamme; ardore#
 FLAME#v.#flammar#
-FLAME THROWER#n.#lansa-flamme#
+FLAME#n.-example#FLAME THROWER: lansa-flamme#
+THROW#v.-example#FLAME THROWER: lansa-flamme#
 FLAMINGO#n.#flamingo#
 FLANGE#n.#flange#
 FLANK#n.#flanca (-ar), látere#
@@ -5799,7 +5819,7 @@ FLAP#n.#clappe; (of wing) batte#
 FLAP#v.#clappar; frappar, batter#
 FLARE#n.#torche#
 FLARE#v.#flammear, flagrar#
-FLARE UP#v.#(fig.) incolerar se#
+FLARE#v.-example#TO FLARE UP: (fig.) incolerar se#
 FLASH#n.#scintille, fúlmine#
 FLASH#v.#lucer, fulminar, eclatar#
 FLASK#n.#botelle, flacon#
@@ -5871,7 +5891,8 @@ FLOW#n.#currente, flution#
 FLOW#v.#fluer#
 FLOWER#n.#flor#
 FLOWER#v.#florar, florescer#
-FLOWER BED#n.#flor-bed#
+FLOWER#n.-example#FLOWER BED: flor-bed#
+BED#n.-example#FLOWER BED: flor-bed#
 FLUCTUATE#v.#fluctuar (-ation), variar#
 FLUE#n.#fum-tube#
 FLUENT#adj.#fluent (-ie)#
@@ -5894,7 +5915,8 @@ FLUVIAL#adj.#fluvial#
 FLUX#n.#fluentie; (soldering) medie a suldar, suldage#
 FLY#n.#(insect) mosca#
 FLY#v.#volar; (in aeroplane) aviar; (fig.) hastar; (flag) far flirtar#
-FLYING BUTTRESS#n.#suporte arcat#
+FLY#v.-example#FLYING BUTTRESS: suporte arcat#
+BUTTRESS#n.-example#FLYING BUTTRESS: suporte arcat#
 FOAL#n.#cavallello#
 FOAM#n.#scum (-ar)#
 FOCUS#n.#foco (-al)#
@@ -5907,7 +5929,8 @@ FOGSIGNAL#n.#nebul-petarde#
 FOIBLE#n.#capricie, debilesse#
 FOIL#n.#florete, rapiere; (metal) folie#
 FOIL#v.#frustrar, vanificar#
-FOIST UPON#v.#obtruder#
+FOIST#v.# #
+FOIST#v.-example#TO FOIST UPON: obtruder#
 FOLD#n.#plica; (sheep) corrale, hagatura#
 FOLD#v.#plicar; (hands) junter; (sheep) inhagar, incorralar#
 FOLDING#adj.#plicabil#
@@ -5943,14 +5966,24 @@ FOOTSTOOL#n.#scabelle#
 FOP#adj.#dandy, fatuo#
 FOPPISH#adj.#afectat, dandyatri#
 FOR#prep.#por; (because) pro que; (during) durante; (in exchange for) por, contra; (in spite of) malgre; (on account of) pro; (on behalf of) por; (towards) a#
-FOR A WHILE#adv.#durante quelc témpor#
-FOR AYE#adv.#por sempre#
-FOR EVER#adv.#por sempre#
-FOR GOOD#adv.#por sempre#
-FOR MY PART#adv.#quo concerne me#
-FOR THE MOST PART#adv.#in general, max sovente#
-FOR THE PRESENT#adv.#ínterim#
-FOR THE SAKE OF#prep.#pro, por, pro egarde a#
+FOR#prep.-example#FOR A WHILE: durante quelc témpor#
+WHILE#adv.-example#FOR A WHILE: durante quelc témpor#
+AYE#adv.#sempre#
+FOR#prep.-example#FOR AYE: por sempre#
+AYE#adv.-example#FOR AYE: por sempre#
+EVER#adv.-example#FOR EVER: por sempre#
+FOR#prep.-example#FOR EVER: por sempre#
+GOOD#adj.-example#FOR GOOD: por sempre#
+FOR#prep.-example#FOR GOOD: por sempre#
+FOR#prep.-example#FOR MY PART: quo concerne me#
+PART#n.-example#FOR MY PART: quo concerne me#
+FOR#prep.-example#FOR THE MOST PART: in general, max sovente#
+PART#n.-example#FOR THE MOST PART: in general, max sovente#
+FOR#prep.-example#FOR THE PRESENT: ínterim#
+PRESENT#n.-example#FOR THE PRESENT: ínterim#
+SAKE#n.# #
+FOR#prep.-example#FOR THE SAKE OF: pro, por, pro egarde a#
+SAKE#n.-example#FOR THE SAKE OF: pro, por, pro egarde a#
 FORAGE#n.#forrage#
 FORAGE#v.#serchar forrage#
 FORAY#n.#razzia, raubatori excurse#
@@ -6013,7 +6046,8 @@ FORGET-ME-NOT#n.#miosótis#
 FORGIVE#v.#pardonar, excusar#
 FORK#n.#furca (-at)#
 FORK#v.#bifurcar, fender se; ramificar#
-FORKED LIGHTNING#n.#zigzag de fúlmine#
+FORK#v.-example#FORKED LIGHTNING: zigzag de fúlmine#XXX TODO consultar, confirmar
+LIGHTNING#n.-example#FORKED LIGHTNING: zigzag de fúlmine#XXX TODO consultar, confirmar
 FORLORN#adj.#abandonat, sin auxilie, solitari#
 FORM#n.#forme, figura; fasson; (bench) banca; classe; (schedule) formul#
 FORM#v.#formar (se)#
@@ -6052,7 +6086,8 @@ FOSTER#adj.#adoptiv#
 FOSTER#v.#nutrir; cuidar, elevar#
 FOUL#adj.#sordid, inpur, fetid, abominabil, desbell, mal#
 FOUL#v.#sordidar; (to become entangled) implicar se#
-FOUL PLAY#n.#perfidie#
+FOUL#adj.-example#FOUL PLAY: perfidie#
+PLAY#n.-example#FOUL PLAY: perfidie#
 FOULARD#n.#fularde#
 FOUND#v.#fundar, instituer, etablisser; (to smelt) fonder#
 FOUNDATION#n.#fundation; (basis) fundament#
@@ -6094,15 +6129,18 @@ FRATERNITY#n.#fraternitá; (society) fraternité#
 FRATERNIZE#v.#fraternisar (-ation)#
 FRAUD#n.#fraude, dupada, deception#
 FRAUDULENT#adj.#fraudatori#
-FRAUGHT WITH#prep.#chargeat per#
+FRAUGHT#v.# #
+FRAUGHT#v.-example#FRAUGHT WITH: chargeat per#
 FRAY#n.#conflicte, combatte#
 FRAY#v.#fricter, forfricter#
 FREAK#n.#singularitá, monstruositá; (whim) marotte#
 FRECKLE#n.#lentige#
 FREE#adj.#líber; gratuit; franc#
 FREE#v.#liberar#
-FREE FROM BIAS#adj.#ínpartial#
-FREE OF TAX#adj.#exempt de tribute#
+FREE#adj.-example#FREE FROM BIAS: ínpartial#
+BIAS#n.-example#FREE FROM BIAS: ínpartial#
+FREE#adj.-example#FREE OF TAX: exempt de tribute#
+TAX#n.-example#FREE OF TAX: exempt de tribute#
 FREEBOOTER#n.#marodero#
 FREEDOM#n.#libertá; (of city) borgesie#
 FREEHOLD#n.#líber possedage#
@@ -6110,12 +6148,13 @@ FREEMASON#n.#francmasson#
 FREETHINKER#n.#liberpensante#
 FREEZE#v.#gelar, glaciar se; (to feel cold) friger#
 FREIGHT#n.#frete, porte; (load) cargo#
-FRENCH BEAN#n.#faseol#
+BEAN#n.-example#FRENCH BEAN: faseol#XXX TODO ligar a "FRENCH"
 FRENZY#n.#frenesie (-tic), rabie#
 FREQUENT#adj.#frequent (-ie, -ar), sovente#
 FRESCO#n.#fresco#
 FRESH#adj.#frisc (-ore), pur, recent; (another) altri; (not salt) ne salat#
-FRESH WATER#n.#dulci aqua, aqua#
+FRESH#adj.-example#FRESH WATER: dulci aqua, aqua#
+WATER#n.-example#FRESH WATER: dulci aqua, aqua#
 FRESHEN#v.#refriscar#
 FRET#v.#(worry) chagrinar; consumar se; (rub) fricter#
 FRETSAW#n.#ret-sega#
@@ -6138,7 +6177,8 @@ FRILL#n.#jabot, colarette, crispat bordura#
 FRINGE#n.#frange#
 FRISK#v.#saltillar, capreolar#
 FRISKY#adj.#gay, alegri, alert#
-FRITTER AWAY#v.#dissipar, forfrivolar#
+FRITTER#v.# #
+FRITTER#v.-example#FRITTER AWAY: dissipar, forfrivolar#
 FRIVOLOUS#adj.#frivol, futil, bagetellic, ínseriosi#
 FRIZZLE#v.#friser, crispar; (to fry) frir; (of sound) sibilar#
 FROCK#n.#robe#
@@ -6147,8 +6187,11 @@ FROG#n.#ran (-in, -atri, -ello)#
 FROLIC#v.#luder, capreolar, saltillar#
 FROLICSOME#adj.#gay, alegri, ludaci#
 FROM#prep.#(place) de, fro, ex; (time) desde; (cause) pro, caus; (means) per#
-FROM AMONG#prep.#ex#
-FROM TOP TO BOTTOM#adv.#de alt a bass#
+FROM#prep.-example#FROM AMONG: ex#
+AMONG#prep.-example#FROM AMONG: ex#
+FROM#prep.-example#FROM TOP TO BOTTOM: de alt a bass#
+TOP#n.-example#FROM TOP TO BOTTOM: de alt a bass#
+BOTTOM#n.-example#FROM TOP TO BOTTOM: de alt a bass#
 FROND#n.#folie de filice#
 FRONT#adj.#anteriori, antean, frontal#
 FRONT#n.#fronte, facie; (of building) fassade#
