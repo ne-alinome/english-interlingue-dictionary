@@ -3817,8 +3817,8 @@ CZAR#n.#tsar (-essa)#
 DAB#n.#tappa#
 DAB#v.#tappar#
 DABBLE#v.#barbotar, spruzzar#
-DABBLE IN#v.#laborachar ye, dilettantar#
-DABBLER IN PHILOSOPHY#n.#filosofastro#
+DABBLE#v.-example#TO DABBLE IN: laborachar ye, dilettantar ye#
+DABBLE#v.-example#DABBLER IN PHILOSOPHY: filosofastro#
 DACHSHUND#n.#bassete#
 DACTYL#n.#dactile (-ic, -ologie)#
 DAD#n.#papá#
@@ -3831,7 +3831,8 @@ DAILY#n.#diale#
 DAINTY#adj.#delicat (-esse), fin, pretti#
 DAINTY#n.#gurmandage#
 DAIRY#n.#lactería#
-DAIRY MAID#n.#lactera#
+DAIRY#n.-example#DAIRY MAID: lactera#
+MAID#n.-example#DAIRY MAID: lactera#
 DAIS#n.#estrade, tribune#
 DAISY#n.#margarita#
 DALE#n.#valléy(ette)#
@@ -3844,7 +3845,8 @@ DAME#n.#dama#
 DAMN#v.#(con)damnar (-ation, -abil), anatemar#
 DAMNED#adj.#maledit#
 DAMP#adj.#humid (-ar, -itá)#
-DAMP PROOF#adj.#inpermeabil#
+DAMP#adj.-example#DAMP PROOF: ínpermeabil#
+PROOF#n.-example#DAMP PROOF: ínpermeabil#
 DAMPER#n.#(for fires) camin-clappe#
 DAMSEL#n.#senioretta, puella#
 DAMSON#n.#prune damascin#
@@ -3868,7 +3870,7 @@ DARLING#n.#carissim (-o), favorita (-o)#
 DARN#v.#reparar, lappar#
 DART#n.#micri fleche, lansette, darde#
 DART#v.#(a look) jettar regard sur#XXX TODO consultar; mult significationes manca
-DART AT#v.#precipitar se a#
+DART#v.-example#TO DART AT: precipitar se a#
 DASH#n.#strec; (quantity) un poc; admixtura; (spirit) elan#
 DASH#v.#(to hurl) lansar, jettar(se) ; (to smash) fracassar; (one's hopes) forprender li esperantie; (to dash against) chocar contra#
 DASHING#adj.#frappant, evocant atention, audaci, galant#
@@ -3895,12 +3897,16 @@ DAZZLE#v.#(a)ciecar, fascinar, dazlar#
 DEACON#n.#diacon (-atu, -essa); (church officer) presbitero#
 DEAD#adj.#mort (-al), ínanimat; (dead to) ínsensibil por; (accurate) exact#
 DEAD#adj.-example#THE DEAD: li mortes#
-DEAD HEAT#n.#egalitá#
-DEAD MARCH#n.#marcha funebri#
+DEAD#adj.-example#DEAD HEAT: egalitá#
+HEAT#n.-example#DEAD HEAT: egalitá#
+DEAD#adj.-example#DEAD MARCH: marcha funebri#
+MARCH#n.-example#DEAD MARCH: marcha funebri#
 DEADEN#v.#obtuser, moderar, narootisar#
 DEADLOCK#n.#stagnation, cessation#
 DEADLY#adj.#mortal, fatal#
-DEADLY NIGHTSHADE#n.#belladonna#
+DEADLY#adj.-example#DEADLY NIGHTSHADE: belladonna#
+NIGHTSHADE#n.# #
+NIGHTSHADE#n.-example#DEADLY NIGHTSHADE: belladonna#
 DEAF#adj.#surd (-ar)#
 DEAF-MUTE#adj.#surdimut#
 DEAF-MUTE#n.#surdimuto#
@@ -3915,8 +3921,10 @@ DEAR#adj.-example#OH DEAR: o ve!#
 DEARTH#n.#manca, indigentie, scarsitá#
 DEATH#n.#morte (-al, -alitá)#
 DEATH#n.-example#ON PAIN OF DEATH: sub pena de morte#
-DEATH AGONY#n.#agonie#
-DEATH RATTLE#n.#stertorada#
+DEATH#n.-example#DEATH AGONY: agonie#
+AGONY#n.-example#DEATH AGONY: agonie#
+DEATH#n.-example#DEATH RATTLE: stertorada#
+RATTLE#n.-example#DEATH RATTLE: stertorada#
 DEATHBED#n.#lette de morte#
 DEATHLESS#adj.#ínmortal#
 DEBACLE#n.#catastrof, debacle#
@@ -4045,7 +4053,7 @@ DELICATE#adj.#delicat, fin, tendri#
 DELICIOUS#adj.#deliciosi, ravissent; (of taste) saporosi#
 DELIGHT#n.#delicie, plesura, joya#
 DELIGHT#v.#charmar, injoyar, pleser, delectar#
-DELIGHT IN#v.#juir#
+DELIGHT#v.-example#TO DELIGHT IN: juir#
 DELIMIT#v.#definir, delimitar#
 DELINEATE#v.#delinear; (to sketch out) esquissar, dessinar#
 DELINQUENCY#n.#delicte, culpabilitá#
@@ -4057,7 +4065,7 @@ DELL#n.#valleyette#
 DELPHINIUM#n.#delfinium#
 DELTA#n.#delta#
 DELUDE#v.#dupar, decepter#
-DELUDE ONE INTO#v.#seducter#
+DELUDE#v.-example#TO DELUDE ONE INTO: seducter#
 DELUGE#n.#diluvie (-al)#
 DELUGE#v.#inundar (-ation)#
 DELUSION#n.#fals notion, halucination, deception#
@@ -4166,7 +4174,8 @@ DESOLATE#v.#devastar (-ation)#
 DESPAIR#v.#desesperar (-antie)#
 DESPATCH#n.#celeritá; (mil.) depeche#
 DESPATCH#v.#inviar, expedir, misser; (to kill) mortar#
-DESPATCH RIDER#n.#estafet#
+DESPATCH#n.-example#DESPATCH RIDER: estafet#XXX TODO "estafet" not used in Cosmoglotta
+RIDER#n.-example#DESPATCH RIDER: estafet#XXX TODO "estafet" not used in Cosmoglotta
 DESPERADO#n.#desperado#
 DESPERATE#adj.#desperat, desesperat#
 DESPICABLE#adj.#despectibil#
@@ -4178,7 +4187,8 @@ DESPONDENCY#n.#depression#
 DESPOT#n.#despot (-ic, -isme)#
 DESQUAMATE#v.#desquamar#
 DESSERT#n.#dessert#
-DESSERT SPOON#n.#coclare a dessert#
+DESSERT#n.-example#DESSERT SPOON: coclare a dessert#
+SPOON#n.-example#DESSERT SPOON: coclare a dessert#
 DESTINATION#n.#destination, adresse#
 DESTINE#v.#destinar#
 DESTINY#n.#destine, fate#
@@ -4214,8 +4224,10 @@ DEVICE#n.#remedie, plan, projecte, invention, expediente; simbol, devise#
 DEVIL#n.#diábol (-ic, -eríe)#
 DEVIOUS#adj.#deviatori, índirect#
 DEVISE#v.#imaginar, inventer; (legal) legar#
-DEVOID OF#prep.#sin, vacui de, ne havent#
-DEVOLVE UPON#v.#scader sur#
+DEVOID#adj.#vacui (-tá)#
+DEVOID#adj.-example#DEVOID OF: sin, vacui de, ne havent#
+DEVOLVE#v.# #
+DEVOLVE#v.-example#TO DEVOLVE UPON: scader sur#
 DEVOTE#v.#devoer, consacrar, dedicar#
 DEVOTEE#n.#entusiaste, adepte, adorator, disciple#
 DEVOTION#n.#devotion#
@@ -4283,7 +4295,7 @@ DIMENSION#n.#dimension (-al), mesura#
 DIMINISH#v.#(di)minuer (-tion, -tiv), decrescer#
 DIMPLE#n.#cavette#
 DIN#n.#bruida#
-DIN INTO OUR EARS#v.#tamburar a nor oreles#
+DIN#n.-example#TO DIN INTO OUR EARS: tamburar a nor oreles#
 DINGHY#n.#yoll#
 DINGY#adj.#morni, sordid, obscur#
 DINING-ROOM#n.#manjatoria#
@@ -4293,9 +4305,9 @@ DIOCESE#n.#diocese, (-an)#
 DIOPTRIC#adj.#(phys.) dioptric#
 DIORAMA#n.#diorama#
 DIP#v.#(to immerse) (in)merser, plongear; (sun) descenDer; (magnet) declinar#
-DIP INTO A BOOK#v.#percurrer#
-DIP OUT OF#v.#hauster#
-DIP THE FLAG#v.#(naut.) salutar per li flagga#
+DIP#v.-example#TO DIP INTO A BOOK: percurrer#
+DIP#v.-example#TO DIP OUT OF: hauster#
+DIP#v.-example#TO DIP THE FLAG: (naut.) salutar per li flagga#
 DIPHTHERIA#n.#difterite#
 DIPHTHONG#n.#diftongo (-al)#
 DIPLOMA#n.#diploma#
@@ -4432,17 +4444,18 @@ DISPEL#v.#forchassar, dissipar, disperser#
 DISPENSARY#n.#apoteca, farmacia#
 DISPENSATION#n.#(of Providence) disposition#
 DISPENSE#v.#rendir, administrar; preparar medicamentes#
-DISPENSE WITH#v.#carir, indiger#
+DISPENSE#v.-example#TO DISPENSE WITH: carir, indiger#
 DISPERSE#v.#disperser (-ion), dissipar#
 DISPIRIT#v.#decoragear, desanimar#
 DISPLACE#v.#deplazzar; (from office) demisser, deposir, deposseder#
 DISPLAY#n.#exposition, etalation, spectacul, ostentation; (mil.) parade#
 DISPLAY#v.#(de)monstrar, exposir, paradar#
 DISPLEASE#v.#depleser (-ura), ofender#
-DISPORT ONESELF#v.#amusar se, divertisser se#
+DISPORT#v.# #
+DISPORT#v.-example#TO DISPORT ONESELF: amusar se, divertisser se#
 DISPOSAL#n.#disposition, arbitrie, usa#
 DISPOSE#v.#disposir, arangear#
-DISPOSE OF#v.#disponer, vendir, alienar; (to deal with) tractar#
+DISPOSE#v.-example#TO DISPOSE OF: disponer, vendir, alienar; (to deal with) tractar#XXX TODO consultar
 DISPOSITION#n.#disposition; temperament#
 DISPOSSESS#v.#deposseder, privar de, expulser#
 DISPROPORTION#n.#desproportion (-al)#
@@ -4535,9 +4548,9 @@ DIZZINESS#n.#vertígine (-osi)#
 DO#v.#far, acter, executer; (of health) standar#
 DO#v.-example#HOW DO YOU DO?: qualmen vu standa?#
 DO#v.-example#WILL THAT DO?: esque to es apt, esque to sufice?#
-DO PENANCE#v.#peniter, far penitentie#
-DO SOMEONE A SERVICE#v.#compleser (-ntie)#
-DO WITHOUT#v.#carir, dispensar se de#
+PENANCE#n.-example#TO DO PENANCE: peniter, far penitentie#
+SERVICE#n.-example#TO DO SOMEONE A SERVICE: compleser (-ntie)#
+DO#v.-example#TO DO WITHOUT: carir, dispensar se de#
 DOCILE#adj.#docil (-itá), obedient#
 DOCK#n.#(bot.) oxale; (naut.) dock, bassine (-ero); (law) piazza por acusatos#
 DOCK#v.#acurtar li caude; (a ship) inbassinar#
@@ -4554,7 +4567,8 @@ DODO#n.#dronte#
 DOE#n.#cerva, capreola#
 DOFF#v.#demetter#
 DOG#n.#cane (-in, -allia)#
-DOG ONE'S STEPS#v.#persequer#
+DOG#n.-example#TO DOG ONE'S STEPS: persequer#
+STEP#n.-example#TO DOG ONE'S STEPS: persequer#
 DOG-DAYS#n.#dies caniculari, caniculas#
 DOG-FANCIER#n.#cane-cultor#
 DOG-ROSE#n.#savagi rose#
@@ -4589,7 +4603,8 @@ DONKEY#n.#ásino (-in)#
 DOOM#n.#fate, destine, ruine, perition; (law) sententie#
 DOOM#v.#condamnar#
 DOOR#n.#porta#
-DOOR BELL#n.#sonette#
+DOOR#n.-example#DOOR BELL: sonette#
+BELL#n.-example#DOOR BELL: sonette#
 DOORKEEPER#n.#portero#
 DOPE#v.#narcotisar#
 DORMANT#adj.#dormient#
@@ -4602,7 +4617,7 @@ DOT#n.#punctu#
 DOTAGE#n.#imbecilitá, radotage#
 DOTARD#n.#oldastro, caduco#
 DOTE#v.#radotar#
-DOTE ON#v.#esser inamorat in#
+DOTE#v.-example#TO DOTE ON: esser inamorat in#
 DOUBLE#adj.#duplic (-ar)#
 DOUBLE#n.#duplicon#
 DOUBLE-BARRELLED#adj.#con du tubes#
@@ -4622,7 +4637,7 @@ DOWDY#adj.#oldmodic, ínelegant#
 DOWER#n.#dot (-ar)#
 DOWN#adv.#(below) infra#
 DOWN#n.#lanuge#
-DOWN STREAM#adv.#a valley#
+STREAM#n.-example#DOWN STREAM: a valley#
 DOWNCAST#adj.#depresset, decorageat#
 DOWNFALL#n.#ruina, perition, cade#
 DOWNGRADE#n.#declive#
@@ -4669,7 +4684,8 @@ DRAWBACK#n.#desavantage#
 DRAWER#n.#tiruore, tirbux, tircheste#
 DRAWERS#n.#calson#
 DRAWING#n.#dessin, li dessination#
-DRAWING BOARD#n.#dessinuore#
+DRAWING#n.-example#DRAWING BOARD: dessinuore#
+BOARD#n.-example#DRAWING BOARD: dessinuore#
 DRAWING-ROOM#n.#salon#
 DRAWL#n.#tren parlada#
 DRAWL#v.#trenar li paroles#
@@ -4689,18 +4705,19 @@ DRESS-COAT#n.#frac#
 DRESSING-TABLE#n.#toilette-table#
 DRESSMAKER#n.#tallier(ess)a#
 DRIBBLE#v.#guttear; (as child) bavar; (football) dribblar#
-DRIED CURRANT#n.#corinte#
+CURRANT#n.-example#DRIED CURRANT: corinte#
 DRIFT#n.#tendentie, impulse, scope; (naut.) drive (-ar); (snowdrift) nive-banca#
 DRIFT#v.#(naut.) drivar, flottar con li currente; (to wander) vagar#
 DRILL#n.#exercida; (tool) drill; (hort.) sulca#
 DRILL#v.#(per)forar, drillar; (mil.) dresser, exercir (-ida, -itie)#
 DRINK#v.#trincar (-age)#
-DRINK TO#v.#tostar#
+DRINK#v.-example#TO DRINK TO: tostar#
 DRIP#v.#guttear#
 DRIPPING#n.#rost-grasse, grasse culinari#
 DRIVE#n.#promenada, excursion; (road) calech-via, allé#
 DRIVE#v.tr.#conducter, far functionar, far avansar, far ear, propulser, promoer; (a horse) ducter; (a machine) mo(v)er, operar, vehicular, choferar; (to compel) fortiar#
-DRIVE TO DISTRACTION#v.#far frenetic#
+DRIVE#v.-example#TO DRIVE TO DISTRACTION: far frenetic#
+DISTRACTION#n.-example#TO DRIVE TO DISTRACTION: far frenetic#
 DRIVEL#v.#radotar, parlar ínepties; (to slaver) bavar#
 DRIVER#n.#cochero, chofero, conductor#
 DRIZZLE#n.#pluviette (-ar, -ada)#
@@ -4784,12 +4801,13 @@ DUSTPAN#n.#cindriere#
 DUSTY#adj.#polvosi#
 DUSTY#adj.-example#IT IS DUSTY: it polvea#
 DUTY#n.#deve(ntie); (on goods) impost, tribute#
-DUTY FREE#adj.#exempt de doane#
+DUTY#n.-example#DUTY FREE: exempt de doane#
+FREE#adj.-example#DUTY FREE: exempt de doane#
 DWARF#n.#pigmé, nan#
 DWARF#v.#far aspecter quam un nano, nanisar#
 DWARF#v.-example#HE DWARFED HIS COMPANION: su compane aspectet apu il quam un nano, il nanisat su compane#
 DWELL#v.#logiar, habitar#
-DWELL UPON#v.#emfasar, tractar detalliatmen#
+DWELL#v.-example#TO DWELL UPON: emfasar, tractar detalliatmen#
 DWELLING#n.#logí, logiment, domicilie, habitation#
 DWINDLE#v.#decrescer, diminuer#
 DYE#n.#tinctura, pigment (-ar), color#
