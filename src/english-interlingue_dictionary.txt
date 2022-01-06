@@ -3334,8 +3334,8 @@ CONTORT#v.#torDer (-sion)#
 CONTOUR#n.#contur#
 CONTRA#prefix#as in English: contradir, contrabass, contrapunct, etc.#
 CONTRABAND#n.#contrabande (-ar, -ero)#
-CONTRACT#n.#ocontrate, pacte#
-CONTRACT#v.#contraer (se) (-tion, -tiv); abreviar#
+CONTRACT#n.#contrate, pacte#
+CONTRACT#v.#contraer (se) (-tion, -tiv); abreviar#XXX TODO contratar
 CONTRACTOR#n.#interprendero#
 CONTRADICT#v.#contradir (-tion), dementir#
 CONTRALTO#n.#contralto#
@@ -4819,7 +4819,8 @@ DYSENTERY#n.#disenterie#
 DYSPEPSIA#n.#dispepsie#
 DYSPEPTIC#adj.#dispeptic#
 EACH#adj.#chascun, singul#
-EACH OTHER#pron.#unaltru#
+EACH#adj.-example#EACH OTHER: unaltru#
+OTHER#adj.-example#EACH OTHER: unaltru#
 EAGER#adj.#zelosi, fervent, fervorosi, ardent; avid#
 EAGLE#n.#áquil (-in)#
 EAR#n.#orel; (of corn) spica; (for music) audie musical#
@@ -4845,13 +4846,14 @@ EASY#adj.#facil (-itá), levi, tranquil#
 EASY-CHAIR#n.#fotel#
 EASY-GOING#adj.#indulgent, benigni, tolerant#
 EAT#v.#manjar, vorar#
-EAT INTO#v.#coroder#
+EAT#v.-example#TO EAT INTO: coroder#
 EATABLES#n.pl.#comestibles, victuales, manjages#
 EAU-DE-COLOGNE#n.#aqua de Colonia#
 EAVES#n.pl.#bord de tegment, guttiere#
 EAVESDROP#v.#subescutar (-ard)#
 EBB#n.#bass marea, reflut#
-EBB AND FLOW#n.#flut e reflut#
+EBB#n.-example#EBB AND FLOW: flut e reflut#
+FLOW#n.-example#EBB AND FLOW: flut e reflut#
 EBONY#n.#eben#
 EBULLIENT#adj.#bolllent#
 ECCENTRIC#adj.#excentric (-itá)#
@@ -4901,7 +4903,8 @@ EFFRONTERY#n.#impertinentie#
 EFFULGENT#adj.#splendent, radiant#
 EFFUSE#v.#efuser (-ion, -iv)#
 EGG#n.#ove#
-EGG ON#v.#incitar, instigar#
+EGG#v.# #
+EGG#v.-example#TO EGG ON: incitar, instigar#
 EGG-GUP#n.#oviero#
 EGG-SHELL#n.#cortice de ove#
 EGLANTINE#n.#rose savagi#
@@ -4914,10 +4917,11 @@ EIGHTEEN#adj., n.#deci-ott#
 EIGHTH#adj., n.#ottesim#
 EIGHTY#adj.#ottanti#
 EITHER#adj., pron.#alcun; (each) chascun; (both) ambi#
-EITHER … OR …#conj.#sive … sive …, o … o …#
+EITHER#adj., pron.-example#EITHER … OR …: sive … sive …, o … o …#
 EJACULATE#v.#exclamar, ejacular#
 EJECT#v.#ejecter (-ion, -or), expulser#
-EKE OUT#v.#prolongar, supleer#
+EKE#v.# #
+EKE#v.-example#TO EKE OUT: prolongar, supleer#
 ELABORATE#v.#elaborar (-ation)#
 ELAPSE#v.#passar, expirar, preterir#
 ELASTIC#adj.#elastic (-itá)#
@@ -4925,7 +4929,8 @@ ELASTIC#n.#gumme; elasticage#
 ELATE#v.#exaltar, far gay, far fieri#
 ELBOW#n.#cude#
 ELBOW#v.#pussar per li cude#
-ELBOW REST#n.#cuduore#
+ELBOW#n.-example#ELBOW REST: cuduore#
+REST#n.-example#ELBOW REST: cuduore#
 ELDER#adj.#plu old#
 ELDER#eccl.#presbitero#
 ELDER#n.#(bot.) sambuc#
@@ -4937,7 +4942,9 @@ ELECTOR#n.#elector (-al, -atu)#
 ELECTRIC#adj.#electric (-itá)#
 ELECTRICAL#adj.#electric (-itá)#
 ELECTRICIAN#n.#electrico#
-ELECTRICITY WORKS#n.#electrogeneratoria#
+ELECTRICITY#n.#electricitá#
+ELECTRICITY#n.-example#ELECTRICITY WORKS: electrogeneratoria#
+WORK#n.-example#ELECTRICITY WORKS: electrogeneratoria#
 ELECTRIFY#v.#electrisar#
 ELECTRO#prefix#as in English: electrocuter, electrolise, electromagnete, electromotor, etc.#
 ELECTRODE#n.#electrode#
@@ -4979,7 +4986,7 @@ EMBANK#v.#circumdigar, invallar#
 EMBANKMENT#n.#diga, vail#
 EMBARGO#n.#embargo, barre#
 EMBARK#v.#inbarcar#
-EMBARK UPON#v.#interprender#
+EMBARK#v.-example#TO EMBARK UPON: interprender#
 EMBARRASS#v.#embarassar (-ament)#
 EMBASSY#n.#ambassade (-or), legation#
 EMBATTLED#adj.#pret por battallie, ordinat por battallie; crenellat#
@@ -5005,7 +5012,8 @@ EMEND#v.#emendar (-ation, -abil)#
 EMERALD#n.#smeralde#
 EMERGE#v.#emerser, aparir#
 EMERGENCY#n.#casu inprevidet, casu urgent#
-EMERGENCY EXIT#n.#porta de securitá#
+EMERGENCY#n.-example#EMERGENCY EXIT: porta de securitá#
+EXIT#n.-example#EMERGENCY EXIT: porta de securitá#
 EMERITUS#adj.#emerit#
 EMERY#n.#smeril#
 EMETIC#adj.#vomitiv#
@@ -5051,7 +5059,8 @@ ENCOMPASS#v.#includer, cernar, inbrassar#
 ENCORE#interj.#denove!, bis!, da capo!#
 ENCOUNTER#n.#incontra (-ar); combatte#
 ENCOURAGE#v.#incoragear, stimular#
-ENCROACH ON#v.#trader se a, inmixter se in; (of sea) eroDer#
+ENCROACH#v.# #
+ENCROACH#v.-example#TO ENCROACH ON: trader se a, inmixter se in; (of sea) eroDer#
 ENCRUST#v.#incrustar#
 ENCUMBER#v.#genar, surchargear, impedir, incombrar#
 ENCYCLOPEDIA#n.#enciclopedie#
@@ -5111,7 +5120,7 @@ ENRAPTURE#v.#delectar, charmar, rarisser, entusiasmar#
 ENRICH#v.#arichar, inrichar#
 ENROL#v.#inscrir, (in)registrar, inrolar (se)#
 ENSCONCE#v.#installar se#
-ENSCONCED IN HIS CHAIR#adj.#plongeat in su fotel#
+ENSCONCE#v.-example#ENSCONCED IN HIS CHAIR: plongeat in su fotel#
 ENSHRINE#v.#conservar quam reliquie#
 ENSHROUD#v.#invelopar, velar#
 ENSIGN#n.#standarte, baniere#
@@ -5123,8 +5132,9 @@ ENTAIL#n.#ínalienabil heredage#
 ENTAIL#v.#involuer, implicar, necessitar, imposir#
 ENTANGLE#v.#implicar, involuer, capter, inbrolliar#
 ENTER#v.#intrar, inear; (in a book) inscrir, registrar#
-ENTER INTO A CONTRACT#v.#contratar#
-ENTER UPON#v.#comensar, interprender#
+ENTER#v.-example#TO ENTER INTO A CONTRACT: contratar#
+CONTRACT#n.-example#TO ENTER INTO A CONTRACT: contratar#
+ENTER#v.-example#TO ENTER UPON: comensar, interprender#
 ENTERPRISE#n.#interprense, iniciative#
 ENTERTAIN#v.#intertener, divertisser, amusar; acceptar, dar hospedalitá, regalar#
 ENTERTAINMENT#n.#divertissement, hospedalitá#
@@ -5203,8 +5213,11 @@ EQUIVOCAL#adj.#ambigui, equivoc#
 ERA#n.#era#
 ERADICATE#v.#eradicar, extirpar#
 ERASE#v.#efaciar, exscrapar, eraser (-ura)#
+ERE#adv.#antey#
+ERE#conj.#ante que#
 ERE#prep.#ante#
-ERE LONG#adv.#bentost, pos ne long (témpor)#
+ERE#adv.-example#ERE LONG: bentost, pos ne long (témpor)#
+LONG#adj.-example#ERE LONG: bentost, pos ne long (témpor)#
 ERECT#v.#erecter (-ion, -iv, -ibil); (mech.) monter#
 ERGO#adv., conj.#ergo#
 ERMINE#n.#hermeline; (fur) hermelin-pelisse#
@@ -5212,7 +5225,8 @@ ERODE#v.#eroDer (-sion, -siv)#
 EROTIC#adj.#erotic#
 ERR#v.#errar (-osi), vagar, deviar#
 ERRAND#n.#missage, comission, comende#
-ERRAND BOY#n.#missage-boy#
+ERRAND#n.-example#ERRAND BOY: missage-boy#
+BOY#n.-example#ERRAND BOY: missage-boy#
 ERRONEOUS#adj.#íncorect, fals, errosi#
 ERROR#n.#errore#
 ERUCTATE#v.#ructar (-ation)#
@@ -5278,7 +5292,7 @@ EVE#n.#véspere#
 EVEN#adj.#(flat) plan, plat; (smooth) glatt; (equal) egal, quitt; (not odd) pari#
 EVEN#adv.#mem#
 EVEN#adv.-example#THEY PAID EVEN MORE THAN WE: ili payat mem plu quam noi#
-EVEN SO#adv.#e ancor#
+EVEN#adv.-example#EVEN SO: e ancor#
 EVENING#n.#véspere#
 EVENING-DRESS#n.#costume de societé#
 EVENT#n.#eveniment, eventu, casu#
@@ -5360,7 +5374,7 @@ EXIGENCY#n.#exigentie, beson, urgentie#
 EXIGUOUS#adj.#scarsi; litt#
 EXILE#n.#exilie (-ar); (person) exiliate#
 EXIST#v.#exister (-entie)#
-EXIT#n.#(action) exeada, surtida#
+EXIT#n.#exeada, surtida#
 EXIT#v.#exear, surtir#
 EXONERATE#v.#exonerar (-ation)#
 EXORBITANT#adj.#excessiv, exorbitant, ínmoderat#
