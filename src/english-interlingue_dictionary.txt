@@ -165,7 +165,7 @@ ADDENDUM#n.#addendum#
 ADDER#n.#vípere#
 ADDICT#n.#sclave#
 ADDICT#v.# #
-ADDICT#v.-example#ADDICT ONESELF TO: habituar se a#
+ADDICT#v.-example#TO ADDICT ONESELF TO: habituar se a#
 ADDLE#v.#confuser, putrir#
 ADDLEBRAINED#adj.#stult, stupid#
 ADDRESS#n.#adresse (-ate, -arium); (speech) discurse, parlation#
@@ -190,7 +190,7 @@ ADJUST#v.#adjustar, ordinar, corecter, rectificar#
 ADJUSTABLE#adj.#adjustabil, variabil#
 ADJUTANT#n.#adjutante#
 ADMINISTER#v.#administrar (-ation, -ativ, -ator); (sacrament) comunier; gerer#XXX TODO consultar "gerer"
-SACRAMENT#n.-example#ADMINISTER THE SACRAMENT: comunier#
+SACRAMENT#n.-example#TO ADMINISTER THE SACRAMENT: comunier#
 ADMIRAL#n.#amirale#
 ADMIRE#v.#admirar (-abil, -ation, -ator)#
 ADMISSIBLE#adj.#admissibil (-itá)#
@@ -371,8 +371,8 @@ ALLOCATE#v.#distribuer, assignar, portionar#
 ALLOT#v.#distribuer, portionar#
 ALLOTMENT#n.#(share) parte, portion, quote; (of land) parcelle#
 ALLOW#v.#admisser; (to grant) conceder, permisser#
-ALLOW#v.-example#ALLOW A DISCOUNT: rabattar#
-DISCOUNT#n.-example#ALLOW A DISCOUNT: rabattar#
+ALLOW#v.-example#TO ALLOW A DISCOUNT: rabattar#
+DISCOUNT#n.-example#TO ALLOW A DISCOUNT: rabattar#
 ALLOWANCE#n.#portion; (due allowance) egarde, consideration; (monetary) assignament; (discount) rabatte#
 ALLOY#n.#mixtura, alliage#
 ALLOY#v.#alligar#
@@ -695,7 +695,7 @@ ARIA#n.#arie#
 ARID#adj.#arid (-itá)#
 ARIGHT#adv.#just(men)#
 ARISE#v.#levar se#
-ARISE#v.-example#ARISE OUT OF: nascer ex, provenir#
+ARISE#v.-example#TO ARISE OUT OF: nascer ex, provenir#
 ARISTOCRAT#n.#aristocrate (-ie, -ic)#
 ARITHMETIC#n.#aritmetica#
 ARITHMETICIAN#n.#aritmetico#
@@ -831,7 +831,7 @@ ASSUME#v.-example#TO ASSUME A LIKENESS: simular#
 LIKENESS#n.-example#TO ASSUME A LIKENESS: simular#
 ASSUME AS TRUE#v.#acceptar#
 ASSUME#v.-example#TO ASSUME AS TRUE: acceptar#
-TRUE#adj.-example#ASSUME AS TRUE: acceptar#
+TRUE#adj.-example#TO ASSUME AS TRUE: acceptar#
 ASSUMPTION#n.#hipotese#
 ASSURANCE#n.#(insurance) assecurantie (self-confidence) aplombe#
 ASSURE#v.#assecurar, afirmar#
@@ -997,7 +997,7 @@ AUTO#prefix#autocrate, autograf, automobile, autonomie, etc.#
 AUTUMN#n.#autun (-al)#
 AUXILIARY#adj.#auxiliari#
 AVAIL#v.#valer#
-AVAIL#v.-example#AVAIL ONESELF OF THE OPPORTUNITY: profitar li ocasion#
+AVAIL#v.-example#TO AVAIL ONESELF OF THE OPPORTUNITY: profitar li ocasion#
 AVAIL#v.-example#IT WILL AVAIL NOTHING: it va esser ínutil#
 AVAILABLE#adj.#disponibil, obtenibil; (person) accessibil; (ticket) valid#
 AVALANCHE#n.#avalanche#
@@ -1024,8 +1024,8 @@ AWAKEN#adj.#vigil#
 AWAKEN#v.#avigilar (se)#
 AWARD#n.#judicament, sententie; (prize) premie#
 AWARD#v.#adjudicar#
-AWARD#v.-example#AWARD A PRIZE TO: premiar#
-PRIZE#n.-example#AWARD A PRIZE TO: premiar#
+AWARD#v.-example#TO AWARD A PRIZE TO: premiar#
+PRIZE#n.-example#TO AWARD A PRIZE TO: premiar#
 AWAY#adj.#absent#
 AWAY#adv.#for#XXX TODO mult diferent significationes manca
 AWE#n.#timore, veneration, reverentie#
@@ -1135,7 +1135,7 @@ BANE#n.#venen, ruine#
 BANEFUL#adj.#venenosi, desutil#
 BANG#n.#crac, detonation; (blow) colpe, batte#
 BANG#v.# #
-BANG#v.-example#BANG ONE ABOUT: maltractar#
+BANG#v.-example#TO BANG ONE ABOUT: maltractar#
 BANGLE#n.#brasselette#
 BANISH#v.#bannir (-iment), proscrir, exiliar; (sorrow) forchassar#
 BANISTER#n.#balustre (-ade)#
@@ -1243,7 +1243,7 @@ ABLE#adj.-example#TO BE ABLE: posser#
 ABOUT#prep.-example#TO BE ABOUT SOMETHING: ocupar se pri#XXX FIXME
 ABOUT#prep.-example#TO BE ABOUT TO: esser sur li punctu de#
 ADRIFT#adj.# #XXX TODO, anc adverbie
-ADRIFT#adj.-example#BTO E ADRIFT: drivar, esser flott#
+ADRIFT#adj.-example#TO BE ADRIFT: drivar, esser flott#
 AFRAID#adj.-example#TO BE AFRAID: timer#
 AHEAD#adv.# #
 AHEAD#adv.-example#TO BE AHEAD OF: esser in avan de, esser in facie de#
@@ -1511,7 +1511,7 @@ BEST#adj.#optim, max bon, bonissim#
 BEST#v.#superar, victer#
 BESTIAL#adj.#bestial (-itá), brutal#
 BESTIR#v.# #
-BESTIR#v.-example#BESTIR ONESELF: mo(v)er se, activentar se#
+BESTIR#v.-example#TO BESTIR ONESELF: mo(v)er se, activentar se#
 BESTOW#v.#(dis)donar, dar; (apply) usar#
 BESTREW#v.#disjettar sur#
 BESTRIDE#v.#surseder con gambes furcat#
@@ -1727,7 +1727,7 @@ NOSE#n.-example#TO BLOW ONE'S NOSE: sufflar se li nase#
 BLOW#v.-example#TO BLOW OVER: passar, preterear#
 BLOW#n.-example#BLOW PIPE: suffla-tube#
 PIPE#n.-example#BLOW PIPE: suffla-tube#
-BLOW#v.-example#BLOW UP: exploder#
+BLOW#v.-example#TO BLOW UP: exploder#
 BLUBBER#n.#balen-grasse#
 BLUBBER#v.#plorachar#
 BLUDGEON#n.#clobbe#
@@ -2026,7 +2026,7 @@ BROWSE#v.#paster se#
 BRUISE#n.#contusion#
 BRUISE#v.#contuser; aplastar#
 BRUIT#v.# #
-BRUIT#v.-example#BRUIT ABROAD: divulgar, rumorar#
+BRUIT#v.-example#TO BRUIT ABROAD: divulgar, rumorar#
 BRUNETTE#adj.#brunetti#
 BRUNETTE#n.#brunetta#
 BRUSH#n.#brosse; (painting brush) pinsel; (skirmish) scaramuche#
@@ -2445,7 +2445,7 @@ CASSOCK#n.#sutane#
 CASSOWARY#n.#casoare#
 CAST#n.#(worm cast) tumul#
 CAST#v.#lansar, jettar; (metal) fonder; (in the eye) strabe#
-ASPERSION#n.-example#CAST ASPERSIONS: defamar, descreditar#
+ASPERSION#n.-example#TO CAST ASPERSIONS: defamar, descreditar#
 CAST-IRON#n.#ferre fondet#
 CASTE#n.#caste#
 CASTER#n.#rulette#
@@ -3707,7 +3707,7 @@ CRUTCH#n.#cruca (-on)#
 CRUX#n.#desfacilitá#
 CRY#n.#cri#
 CRY#v.#criar, clamar; (to weep) lacrimar, plorar (-ada)#
-CRY#v.-example#CRY OUT: exclamar#
+CRY#v.-example#TO CRY OUT: exclamar#
 CRYPT#n.#cripta, tombe#
 CRYPTIC#adj.#secret, ocult, enigmatic#
 CRYSTAL#n.#cristalle (-in. -isar)#
@@ -3792,7 +3792,7 @@ CUSTOMS#n.pl.#doane (-ero), tribute#
 CUT#adj.#(glass) polit, slifat#
 CUT#n.#cisura; tranchitura; (style) fasson#
 CUT#v.#(hair) tonder; (meat) tranchir; (stone) ciser, sculpter#
-CUT#v.-example#CUT OFF: decupar, deciser#
+CUT#v.-example#TO CUT OFF: decupar, deciser#
 CUT-THROAT#n.#assassinator, cise-gurgul#
 CUTANEOUS#adj.#pellic, dermatic, cutin#
 CUTE#adj.#sagaci, astut#
@@ -6178,7 +6178,7 @@ FRINGE#n.#frange#
 FRISK#v.#saltillar, capreolar#
 FRISKY#adj.#gay, alegri, alert#
 FRITTER#v.# #
-FRITTER#v.-example#FRITTER AWAY: dissipar, forfrivolar#
+FRITTER#v.-example#TO FRITTER AWAY: dissipar, forfrivolar#
 FRIVOLOUS#adj.#frivol, futil, bagetellic, ínseriosi#
 FRIZZLE#v.#friser, crispar; (to fry) frir; (of sound) sibilar#
 FROCK#n.#robe#
@@ -7472,7 +7472,7 @@ IDIOSYNCRASY#n.#idiosincrasie, particularitá#
 IDIOT#n.#idiot (-ic)#
 IDLE#adj.#indolent; (lazy) pigri; (vane) van, futil, líber, ne usat#
 IDLE#v.# #
-IDLE#w.-example#IDLE ONE'S TIME AWAY: flanar, passar li témpor fante necós#
+IDLE#w.-example#TO IDLE ONE'S TIME AWAY: flanar, passar li témpor fante necós#
 IDOL#n.#idol (-atro, -atrie, -cultu, -isar)#
 IDYLL#n.#idille (-io)#
 IF#conj.#si; (whether) ca#
@@ -10214,7 +10214,7 @@ NIGGER#n.#negro (-a)#
 NIGH#adj.#proxim, vicin#
 NIGHT#n.#nocte (-al)#
 NIGHT#n.-example#NIGHT FALLS: (it) noctea#
-NIGHT#n.-example#STAY THE NIGHT: pernoctar#
+NIGHT#n.-example#TO STAY THE NIGHT: pernoctar#
 NIGHTGOWN#n.#vestiment de nocte#
 NIGHTINGALE#n.#luscinia#
 NIGHTLY#adj.#noctal#
@@ -10764,7 +10764,7 @@ OVERLAY#v.#superposir#
 OVERLOOK#v.#indulger, pardonar, ignorar; (to fail to notice) ne remarcar; (to supervise) survigilar, controlar, inspector; (to look over) super-regardar#
 OVERLOOK#v.-example#THE HOUSE OVERLOOKS A PARK: li dom es situat contra un pare, da vista sur un parc#
 OVERNIGHT#adv.#durante li nocte; yer-vésper, li vésper anteyan#
-OVERNIGHT#adv.-example#STAY OVERNIGHT: pernoctar#
+OVERNIGHT#adv.-example#TO STAY OVERNIGHT: pernoctar#
 OVERPOWER#v.#subjugar, victer, dominar#
 OVERRATE#v.#taxar tro alt#
 OVERREACH#v.#perdir equilibrie, super-rusar, dupar#
