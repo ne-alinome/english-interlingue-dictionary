@@ -6063,7 +6063,7 @@ FORSOOTH#adv.#vermen, advere#
 FORSWEAR#v.#abjurar, renegar; (oneself) jurar falsmen, perjurar se#
 FORT#n.#forteresse#
 FORTE#n.#fort látere (de un person)#
-FORTH#adv., prep.#for#
+FORTH#adv.#for#
 FORTH#prep.#ex, fro#
 FORTHWITH#adv.#strax#
 FORTIFY#v.#fortificar (-ation), infortiar, consolidar#
@@ -6284,7 +6284,9 @@ GAG#n.#(mouth) stuffa-bocca, garot#
 GAGE#n.#mesura; (security) hipoteca, garantie#
 GAIN#n.#ganie (-ar), profite#
 GAIN#v.#(to reach) atinger#
-GAIN THE UPPER HAND#v.#ganiar li ascendentie#
+GAIN#v.-example#TO GAIN THE UPPER HAND: ganiar li ascendentie#
+UPPER#adj.-example#TO GAIN THE UPPER HAND: ganiar li ascendentie#
+HAND#n.-example#TO GAIN THE UPPER HAND: ganiar li ascendentie#
 GAINSAY#v.#contradir, contestar#
 GAIT#n.#eada, maniere marchar, vadida#
 GAITER#n.#gamache#
@@ -6376,7 +6378,8 @@ GENDER#n.#(gram.) génere#
 GENEALOGIST#n.#genealog (-ie, -ic)#
 GENERAL#adj.#general, comun, usual, customal#
 GENERAL#n.#generale#
-GENERAL PUBLIC#n.#grand publica#
+GENERAL#adj.-example#GENERAL PUBLIC: grand publica#
+PUBLIC#n.-example#GENERAL PUBLIC: grand publica#
 GENERALISSIMO#n.#generalissimo#
 GENERATE#v.#generar, producter; causar#
 GENERATION#n.#(all meanings) generation#
@@ -6409,15 +6412,18 @@ GESTATION#n.#gestation, graviditá#
 GESTICULATE#v.#gesticular (-ation)#
 GESTURE#n.#geste#
 GET#v.#(acquire) aquisiter, obtener, ganiar, reciver; (arrive) arivar; (become) devenir, -ijar; (cause) causar; (fetch) aportar#
-GET OFF#v.#(clothes) demetter; (dismount) descender de#
-GET OFF#v.-example#THE ACCUSED GOT OFF: on absoluet li acusato#
-GET OFF SCOT FREE#v.#escapar sin vúlneres#
-GET ON#v.#prosperar, progresser; proceder; (mount) montar, ascender; (agree) acordar#
-GET OUT#v.#preparar, editer; exear; (to get out of) evitar, debrolliar#
-GET OVER#v.#(overcome) superar, victer; (illness) bon trapassar, recuperar#
-GET THROUGH#v.#traear; (finish) finir; successar#
-GET UP#v.#(rise) levar se; (arrange) arangear, organisar; (mount) montar#
-GET WELL#v.#resanar se, resanijar, convalescer#
+GET#v.-example#TO GET OFF: (clothes) demetter; (dismount) descender de#
+GET#v.-example#THE ACCUSED GOT OFF: on absoluet li acusato#
+GET#v.-example#TO GET OFF SCOT FREE: escapar sin vúlneres#
+SCOT#n.# #
+SCOT#n.-example#TO GET OFF SCOT FREE: escapar sin vúlneres#
+FREE#adj.-example#TO GET OFF SCOT FREE: escapar sin vúlneres#
+GET#v.-example#TO GET ON: prosperar, progresser; proceder; (mount) montar, ascender; (agree) acordar#
+GET#v.-example#TO GET OUT: preparar, editer; exear; (to get out of) evitar, debrolliar#
+GET#v.-example#TO GET OVER: (overcome) superar, victer; (illness) bon trapassar, recuperar#
+GET#v.-example#TO GET THROUGH: traear; (finish) finir; successar#
+GET#v.-example#TO GET UP: (rise) levar se; (arrange) arangear, organisar; (mount) montar#
+GET#v.-example#TO GET WELL: resanar se, resanijar, convalescer#
 GEWGAW#n.#juvelache, futilage, talmi, auripelle#
 GEYSER#n.#geyser; balne-forn, terme#
 GHASTLY#adj.#horribil, cadavric#
@@ -6454,22 +6460,36 @@ GIRTH#n.#rondore, circumferentie; (belly-band) cintura, sedle-zone#
 GIST#n.#lu essential, chef-punctu, resumé#
 GIVE#n.#elasticitá#
 GIVE#v.#dar; (present) donar; ceder#
-GIVE A COMMISSION#v.#comisser#
-GIVE A NUMBER TO#v.#numerotar#
-GIVE ASSENT TO#v.#sanctionar, aprobar#
-GIVE BACK#v.#restituer, retrodar#
-GIVE BIRTH TO#v.#dar nascentie a, parturir#
-GIVE EVERYONE HIS DUE#v.#dar a chascun li sui#
-GIVE FORTH#v.#anunciar; (a cry) pussar#
-GIVE IN#v.#ceder, capitular#
-GIVE OFF#v.#(an odour) expander#
-GIVE OUT#v.#distribuer; exhauster se, anunciar#
-GIVE OVER#v.#transdar, transmisser; (cease) cessar#
-GIVE REIMBURSE TO#v.#efrenar#
-GIVE RISE TO#v.#causar, nascentar#
-GIVE UP#v.#abandonar; (a problem) ne posser soluer; (to surrender) capitular, renunciar#
-GIVE WAY#v.#ceder (piazza), ceder terren; cader in ruinas, crular#
-GIVEN TO#prep.#inclinat a, disposit a#XXX REMARK originally marked as adjective; changed to preposition because of its function
+GIVE#v.-example#TO GIVE A COMMISSION: comisser#
+COMMISSION#n.-example#TO GIVE A COMMISSION: comisser#
+GIVE#v.-example#TO GIVE A NUMBER TO: numerotar#
+NUMBER#n.-example#TO GIVE A NUMBER TO: numerotar#
+GIVE#v.-example#TO GIVE ASSENT TO: sanctionar, aprobar#
+ASSENT#n.# #
+ASSENT#n.-example#TO GIVE ASSENT TO: sanctionar, aprobar#
+GIVE#v.-example#TO GIVE BACK: restituer, retrodar#
+BACK#adv.-example#TO GIVE BACK: restituer, retrodar#
+GIVE#v.-example#TO GIVE BIRTH TO: dar nascentie a, parturir#
+BIRTH#n.-example#TO GIVE BIRTH TO: dar nascentie a, parturir#
+GIVE#v.-example#TO GIVE EVERYONE HIS DUE: dar a chascun li sui#
+EVERYONE#n.#omnes#
+EVERYONE#n.-example#TO GIVE EVERYONE HIS DUE: dar a chascun li sui#
+DUE#n.# #
+DUE#n.-example#TO GIVE EVERYONE HIS DUE: dar a chascun li sui#
+GIVE#v.-example#TO GIVE FORTH: anunciar; (a cry) pussar#
+GIVE#v.-example#TO GIVE IN: ceder, capitular#
+GIVE#v.-example#TO GIVE OFF: (an odour) expander#
+GIVE#v.-example#TO GIVE OUT: distribuer; exhauster se, anunciar#
+GIVE#v.-example#TO GIVE OVER: transdar, transmisser; (cease) cessar#
+GIVE#v.-example#TO GIVE REIMBURSE TO: efrenar#
+REIMBURSE#n.# #
+REIMBURSE#n.-example#TO GIVE REIMBURSE TO: efrenar#
+GIVE#v.-example#TO GIVE RISE TO: causar, nascentar#
+RISE#n.-example#TO GIVE RISE TO: causar, nascentar#
+GIVE#v.-example#TO GIVE UP: abandonar; (a problem) ne posser soluer; (to surrender) capitular, renunciar#
+GIVE#v.-example#TO GIVE WAY: ceder (piazza), ceder terren; cader in ruinas, crular#
+WAY#n.-example#TO GIVE WAY: ceder (piazza), ceder terren; cader in ruinas, crular#
+GIVEN#v.-example#GIVEN TO: inclinat a, disposit a#
 GIZZARD#n.#stomac (de avies), croppe#
 GLACIAL#adj.#glacial#
 GLACIER#n.#glaciero, rivere glacial#
@@ -6481,7 +6501,7 @@ GLADIATOR#n.#gladiator#
 GLADIOLUS#n.#gladiol#
 GLAMOUR#n.#fascination, charme, sorcie#
 GLANCE#v.#regardar, jettar un regard a#
-GLANCE OFF#v.#ricochettar, saltar a latere#
+GLANCE#v.-example#TO GLANCE OFF: ricochettar, saltar a latere#
 GLAND#n.#glandul (-ari)#
 GLARE#n.#luce ciecant; coleric regard#
 GLARE#v.#(at) regardar con colere#
@@ -6539,25 +6559,34 @@ GNOME#n.#gnome, spírite del terra, cobolde#
 GNU#n.#gnu#
 GO#n.#verve, alertie, energie#
 GO#v.#ear, vader; (machine) functionar#
-GO ABOARD#v.#inbarcar#
-GO ASTREY#v.#misviar; errar#
-GO BAIL FOR#v.#garantir; (sum of money) caution#
-GO DOWN#v.#descenDer; (along) along, tra#
-GO FOR#v.#far venir; ataccar#
-GO IN#v.#intrar; ingredir#
-GO IN FOR#v.#interessar se por, interprender#
-GO INTO#v.#investigar, explorar#
-GO ON#v.#durar, continuar#
-GO OUT#v.#ear ad éxter, exear, surtir; (of a light) extinter se#
-GO ROUND#v.#rotar, girar, tornar se; suficer por omnes#
-GO TO BED#v.#inlettar#
-GO TO LAW#v.#processuar#
-GO TO SLEEP#v.#indormir#
-GO TO WASTE#v.#insavagiar se#
-GO UP#v.#ascender, montar#
-GO UPSTAIRS#v.#ear ad supra#
-GO WITHOUT#v.#carir; poslassar#
-GO WRONG#v.#errar#
+GO#v.-example#GO ABOARD: inbarcar#
+ABOARD#adv.-example#GO ABOARD: inbarcar#
+GO#v.-example#GO ASTREY: misviar; errar#
+ASTRAY#adv.# #
+ASTRAY#adv.-example#GO ASTRAY: misviar; errar#
+GO#v.-example#GO BAIL FOR: garantir; (sum of money) caution#
+BAIL#n.-example#GO BAIL FOR: garantir; (sum of money) caution#
+GO#v.-example#GO DOWN: descenDer; (along) along, tra#
+GO#v.-example#GO FOR: far venir; ataccar#
+GO#v.-example#GO IN: intrar; ingredir#
+GO#v.-example#GO IN FOR: interessar se por, interprender#
+GO#v.-example#GO INTO: investigar, explorar#
+GO#v.-example#GO ON: durar, continuar#
+GO#v.-example#GO OUT: ear ad éxter, exear, surtir; (of a light) extinter se#
+GO#v.-example#GO ROUND: rotar, girar, tornar se; suficer por omnes#
+GO#v.-example#GO TO BED: inlettar#
+BED#n.-example#GO TO BED: inlettar#
+GO#v.-example#GO TO LAW: processuar#
+LAW#n.-example#GO TO LAW: processuar#
+GO#v.-example#GO TO SLEEP: indormir#XXX FIXME
+SLEEP#v.-example#GO TO SLEEP: indormir#XXX FIXME
+GO#v.-example#GO TO WASTE: insavagiar se#
+WASTE#v.-example#GO TO WASTE: insavagiar se#
+GO#v.-example#GO UP: ascender, montar#
+GO#v.-example#GO UPSTAIRS: ear ad supra#
+UPSTAIRS#adv.-example#GO UPSTAIRS: ear ad supra#
+GO#v.-example#GO WITHOUT: carir; poslassar#
+GO#v.-example#GO WRONG: errar#
 GO-BETWEEN#n.#mediator; (pander) proxenete#
 GO-CART#n.#pussa-carrette#
 GOAD#n.#stimul, picstimul, agullion#
@@ -6590,16 +6619,21 @@ GONORRHEA#n.#gonoréa#
 GOOD#adj.#bon, vertuosi; apt#
 GOOD#adj.-example#A GOOD DEAL: mult, sat mult#
 GOOD#n.#bontá, lu bon; bene#
-GOOD FOR NOTHING#adj.#ínutil, (person) vale-necós#
-GOOD FRIDAY#n.#Sant Venerdí#
-GOOD GRACIOUS!#interj.#Dómino-Deo!#
-GOOD LUCK!#interj.#bon successe!, bon chance!#
+GOOD#adj.-example#GOOD FOR NOTHING: ínutil, (person) vale-necós#
+NOTHING#n.-example#GOOD FOR NOTHING: ínutil, (person) vale-necós#
+GOOD#adj.-example#GOOD FRIDAY: Sant Venerdí#
+FRIDAY#n.-example#GOOD FRIDAY: Sant Venerdí#
+GOOD#adj.-example#GOOD GRACIOUS!: Dómino-Deo!#
+GRACIOUS#adj.-example#GOOD GRACIOUS!: Dómino-Deo!#
+GOOD#adj.-example#GOOD LUCK!: bon successe!, bon chance!#
+LUCK#n.-example#GOOD LUCK!: bon successe!, bon chance!#
 GOOD-FELLOWSHIP#n.#camaraderíe#
 GOOD-FOR-NOTHING#n.#vale-necós#
 GOOD-NATURED#adj.#boncordiosi#
 GOODBYE#interj.#adio, til revide#
 GOODS#n.#merces; possedage#
-GOODS IN BOND#n.#merces subject a doane#
+GOODS#n.-example#GOODS IN BOND: merces subject a doane#
+BOND#n.-example#GOODS IN BOND: merces subject a doane#
 GOODS-TRAIN#n.#merce-tren#
 GOODWILL#n.#bon voluntá; (of business) clientela#
 GOOSE#n.#gans(a)#
@@ -6649,12 +6683,14 @@ GRAIN#v.#marmorar#
 GRAM#n.#gramm#
 GRAMINIVOROUS#adj.#herbivori#
 GRAMMAR#n.#grammatica (-al, -ico)#
-GRAMMAR SCHOOL#n.#licéo (-ano), gimnasium#
+GRAMMAR#n.-example#GRAMMAR SCHOOL: licéo (-ano), gimnasium#
+SCHOOL#n.-example#GRAMMAR SCHOOL: licéo (-ano), gimnasium#
 GRAMME#n.#gramm#
 GRAMOPHONE#n.#fonograf#
 GRANARY#n.#graniere#
 GRAND#adj.#grandiosi, imposant, superb, magnific, solen; grand- (-duc, -vizir, etc.)#
-GRAND PIANO#n.#piano caudat#
+GRAND#adj.-example#GRAND PIANO: piano caudat#
+PIANO#n.-example#GRAND PIANO: piano caudat#
 GRANDCHILD#n.#nepote (-o, -a)#
 GRANDEUR#n.#magnificentie#
 GRANDFATHER#n.#avo, grand-patre#
@@ -6684,7 +6720,8 @@ GRASSHOPPER#n.#saltarelle#
 GRASSPLOT#n.#gazon#
 GRATE#n.#(firegrate) foyiere#
 GRATE#v.#triturar, raspar; (jar) iritar, ofender#
-GRATE THE TEETH#v.#grinsar per li dentes#
+GRATE#v.-example#TO GRATE THE TEETH: grinsar per li dentes#
+TOOTH#n.-example#TO GRATE THE TEETH: grinsar per li dentes#
 GRATEFUL#adj.#grat, mersiosi#
 GRATER#n.#rasp, scrapette#
 GRATIFY#v.#satisfar (-atori), contentar#
@@ -6757,10 +6794,12 @@ GROOM#v.#cuidar, nettar#
 GROOVE#n.#canalette, sulca; (carp.) cannelura#
 GROOVE#v.#cannelurar#
 GROPE#v.#palpar, palpear, tastar#
-GROPE ONE'S WAY#v.#serchar tastante li via#
+GROPE#v.-example#TO GROPE ONE'S WAY: serchar tastante li via#
+WAY#n.-example#TO GROPE ONE'S WAY: serchar tastante li via#
 GROSS#adj.#gross; índelicat, crud, grossieri#
 GROSS#n.#(twelve dozen) grosse#
-GROSS WEIGHT#n.#brutto#
+GROSS#adj.-example#GROSS WEIGHT: brutto#
+WEIGHT#n.-example#GROSS WEIGHT: brutto#
 GROTESQUE#adj.#grotesc#
 GROTTO#n.#grotte#
 GROUND#n.#(soil) suol, terre; (place) terren; (londer water) bass fund; (basis) base, fundament; (motive) motive, rason, cause; (background) funde#
@@ -6796,11 +6835,12 @@ GUARD#v.#gardar, protecter; (mar.) watchar; (to be on guard) esser in watch#
 GUARDED#adj.#caut, discret#
 GUARDIAN#n.#tutor (-atu), curator, protector, gardator#
 GUDGEON#n.#gobie#
-GUELDER ROSE#n.#viburne#
+GUELDER ROSE#n.#viburne#XXX TODO consultar e ligar
 GUERILLA#n.#guerrilla (-ero)#
 GUESS#v.#divinar, adivinar (-at), connecter (-ion)#
 GUEST#n.#gast#
-GUEST HOUSE#n.#albergo, gastería#
+GUEST#n.-example#GUEST HOUSE: albergo, gastería#
+HOUSE#n.-example#GUEST HOUSE: albergo, gastería#
 GUFFAW#n.#sonori ridache#
 GUIDE#n.#guidero, conductor; (sign) signe#
 GUIDE#v.#ducter, guidar#
@@ -6809,7 +6849,8 @@ GUILD#n.#corporation, guilde, confratrie#
 GUILE#n.#astutie, insidie#
 GUILLOTINE#n.#guillotine#
 GUILT#n.#culpa (-osi), culpabilitá#
-GUINEA FOWL#n.#numide#
+GUINEA FOWL#n.#numide#XXX TODO adjunter GUINEA e ligar
+FOWL#n.-example#GUINEA FOWL: numide#
 GUINEA-PIG#n.#cobaye#
 GUISE#n.#aspecte, vestage, costume#
 GUITAR#n.#gitarre#
