@@ -315,7 +315,7 @@ AIR#v.#aerar, ventilar#
 AIRTIGHT#adj.#hermetic, ínpenetrabil#
 AIRY#adj.#bon ventilat; spaciosi#
 AISLE#n.#ale#
-AJAR#adj.#mi-apert#
+AJAR#adj.#demí-apert, mi-apert#
 AKIN#adj.#parent; afini#
 ALABASTER#n.#alabastre#
 ALACK#interj.#o ve!#
@@ -6924,8 +6924,8 @@ HALE#adj.#frisc, san#
 HALE#v.#trenar#
 HALF#adj.#demí#
 HALF#adv.#demímen#
-HALF#adj.-example#HALF BROTHER: mi-fratre#
-BROTHER#n.-example#HALF BROTHER: mi-fratre#
+HALF#adj.-example#HALF BROTHER: demí-fratre, mi-fratre#
+BROTHER#n.-example#HALF BROTHER: demí-fratre, mi-fratre#
 HALFMAST#n.#demí-mast#
 HALL#n.#hall, sala, salon#
 HALL-MARK#n.#stamps (sur juveles); marca de qualitá#
@@ -16540,7 +16540,7 @@ WAGTAIL#n.#motacilla#
 WAIF#n.#infante abandonat, abandonate#
 WAIL#v.#lamentar, plorachar; (infants) vagir#
 WAINSCOTTING#n.#mur-covritura#
-WAIST#n.#mi-córpor, tallia#
+WAIST#n.#demí-córpor, mi-córpor, tallia#
 WAISTCOAT#n.#gilete#
 WAIT#v.#atender; remaner#
 WAIT UPON#v.#servir#
@@ -16551,7 +16551,7 @@ WAKE#n.#trac, sulca#
 WAKE#v.#avigilar (se)#
 WAKEN#v.#avigilar (se)#
 WALK#n.#promenada, marcha; via#
-WALK#v.#vader, pedear, marchar; pronienar se. (in one's sleep) somnainbular#
+WALK#v.#vader, pedear, marchar; pronienar se. (in one's sleep) somnanbular#
 WALK GINGERLY#v.#passuar cautmen o circumspectmen#
 WALL#n.#mur; (internal) parete#
 WALL#v.#(to wall up) inmurar#
