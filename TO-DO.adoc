@@ -72,6 +72,7 @@
 - Add the missing meanings of "AWAY (adv.)".
 - Replace commas and semicolons with other characters in order to
   allow commas in the translations, e.g. `ANYTHING BUT#prep.#omnicos, exceptet#`
+- Add "demí-" to "mi-".
 
 // Doubts {{{1
 == Doubts
@@ -191,4 +192,5 @@
 - "CAN" (v.), "(possibility) posser; (power) potter"  
 - "HERSELF", etc.
 - Add "deputate" to "DEPUTY".
-- "BOARDING SCHOOL", "internatoria"?  
+- "BOARDING SCHOOL", "internatoria"?
+- "BILL", "billete de moné".  

@@ -576,6 +576,7 @@ ANY#adj., pron.#alquel, quelcunc; (any kind of) alqual, qualcunc. Often omitted#
 ANY#adj., pron.-example#HAVE YOU ANY MATCHES?: esque vu have inflammettes?#
 ANY#adj., pron.-example#I WILL NOT STAY ANY LONGER: yo ne va restar plu long#
 ANYBODY#n.#(interr.) alcun, alquí, alquem; (no matter who(m)) quicunc, quemcunc#
+ANYONE#n.#(interr.) alcun, alquí, alquem; (no matter who(m)) quicunc, quemcunc#
 ANYHOW#adv.#alquam; (no matter how) quamcunc; (in spite of everything) malgré omnicos#
 ANYTHING#n.#(interr.) alquó; (no matter what) quocunc#
 ANYTHING BUT#prep.#omnicos exceptet#XXX FIXME un comma es besonat: "omnicos, exceptet"
@@ -2430,7 +2431,7 @@ CASE#n.#(circumstance) casu, eveniment; (example) exemple; (gramm.) casu; (holde
 CASEIN#n.#caseine#
 CASEMATE#n.#casemate#
 CASEMENT#n.#ale de fenestre#
-CASH#n.#moné, pecunie#
+CASH#n.#moné, pecunie#XXX FIXME
 CASH#n.-example#CASH BOX: cassette#
 BOX#n.-example#CASH BOX: cassette#
 CASHIER#n.#cassero#
@@ -5011,7 +5012,7 @@ EMBRYO#n.#embrion (-ic)#
 EMEND#v.#emendar (-ation, -abil)#
 EMERALD#n.#smeralde#
 EMERGE#v.#emerser, aparir#
-EMERGENCY#n.#casu inprevidet, casu urgent#
+EMERGENCY#n.#casu ínprevidet, casu urgent#
 EMERGENCY#n.-example#EMERGENCY EXIT: porta de securitá#
 EXIT#n.-example#EMERGENCY EXIT: porta de securitá#
 EMERITUS#adj.#emerit#
@@ -6908,10 +6909,11 @@ HAGGARD#adj.#magri, marasmat#
 HAGGLE#v.#mercachar#
 HAIL#n.#grel (-ar, -un)#
 HAIL#v.#aclamar; (summon) advocar; (greet) salutar#
-HAIL FROM#v.#provenir de#
+HAIL#v.-example#TO HAIL FROM: provenir de#
 HAIL!#interj.#salutation!, halló!#
 HAIR#n.#capille (-osi); (animals) crine#
-HAIR DRESSER#n.#frisero#
+HAIR#n.-example#HAIR DRESSER: frisero#
+DRESS#v.-example#HAIR DRESSER: frisero#
 HAIRLESS#adj.#calvi#
 HAIRNET#n.#reticelle#
 HAKE#n.#morúe siccat, stockfish#
@@ -6922,7 +6924,8 @@ HALE#adj.#frisc, san#
 HALE#v.#trenar#
 HALF#adj.#demí#
 HALF#adv.#demímen#
-HALF BROTHER#n.#mi-fratre#
+HALF#adj.-example#HALF BROTHER: mi-fratre#
+BROTHER#n.-example#HALF BROTHER: mi-fratre#
 HALFMAST#n.#demí-mast#
 HALL#n.#hall, sala, salon#
 HALL-MARK#n.#stamps (sur juveles); marca de qualitá#
@@ -6945,7 +6948,7 @@ HAMSTER#n.#hamstre#
 HAND#n.#manu; (of clock) indicator; (work man) ovrero, mann#
 HAND#n.-example#ON THE ONE HAND: ye un látere#
 HAND#v.#manuar; passar, transdar#
-HAND OVER#v.#transdar#
+HAND#v.-example#TO HAND OVER: transdar#
 HANDBAG#n.#reticul#
 HANDBARROW#n.#pussa-carrette#
 HANDBILL#n.#foliette, folie volant#
@@ -6966,13 +6969,15 @@ HANDSHAKE#n.#manu-pression#
 HANDSOME#adj.#bell, jolli; generosi#
 HANDWRITING#n.#caligrafie, scritura, manu scrite#
 HANDY#adj.#habil, déxteri; (at hand) che manu, proxim; (convenient) convenent#
-HANG#v.tr.#apender, acrocar; (wallpaper) tapetar; (to be hanging) pender#
-HANG AROUND#v.#flanar#
-HANG BACK#v.#vacillar, retener se#
-HANG TOGETHER#v.#coherer#
+HANG#v.intr.#(to be hanging) pender#
+HANG#v.tr.#apender, acrocar; (wallpaper) tapetar#
+HANG#v.intr.-example#TO HANG AROUND: flanar#
+HANG#v.intr.-example#TO HANG BACK: vacillar, retener se#
+HANG#v.intr.-example#TO HANG TOGETHER: coherer#
 HANGAR#n.#hangare#
 HANGER-ON#n.#parasite#
-HANGING LAMP#n.#lucerne#
+HANG#v.intr.-example#HANGING LAMP: lucerne#
+LAMP#n.-example#HANGING LAMP: lucerne#
 HANGINGS#n.#tapete, cortines#
 HANGOVER#n.#posebriachie#
 HANK#n.#pelote, glom#
@@ -6990,16 +6995,22 @@ HARBOUR#n.#portu; (fig.) asil#
 HARBOUR#v.#(persons) albergar#
 HARD#adj.#dur, firm, desfacil, fort, penosi, solid; (unfeeling) ínsensibil#
 HARD#adv.#fortmen#
-HARD A PORT#adv.#strett a babord#
-HARD A STARBOARD#adv.#strett a stir bord#
-HARD BY#adj.#proximissim#
-HARD CASH#n.#contante#
-HARD LABOUR#n.#labor punitori#
-HARD OF HEARING#adj.#surdatri#
-HARD UP#adj.#indigent#
+HARD#adv.-example#HARD A PORT: strett a bacbord, strett a babord#
+PORT#n.-example#HARD A PORT: strett a bacbord, strett a babord#
+HARD#adv.-example#HARD A STARBOARD: strett a stirbord#
+STARBOARD#n.-example#HARD A STARBOARD: strett a stirbord#
+HARD#adj.-example#HARD BY: proximissim#
+HARD#adj.-example#HARD CASH: contante#XXX FIXME
+CASH#n.-example#HARD CASH: contante#XXX FIXME
+HARD#adj.-example#HARD LABOUR: labor punitori#
+LABOUR#n.-example#HARD LABOUR: labor punitori#
+HARD#adj.-example#HARD OF HEARING: surdatri#
+HEAR#v.-example#HARD OF HEARING: surdatri#
+HARD#adj.-example#HARD UP: indigent#
 HARDIHOOD#n.#audacie, temeraritá#
 HARDLY#adv.#apen#
-HARDLY ANYONE#n.#presc nequí#
+HARDLY#adv.-example#HARDLY ANYONE: presc nequí#
+ANYONE#n.-example#HARDLY ANYONE: presc nequí#
 HARDSHIP#n.#adversitá, penositá#
 HARDWARE#n.#quincallia (-ero)#
 HARDY#adj.#fort, robust#
@@ -7039,7 +7050,8 @@ HASTE#n.#hasta (-ar), rapiditá#
 HASTEN#v.#hastar; accelerar#
 HASTY#adj.#coleric, ínpatient; hastosi#
 HAT#n.#chapel (-ero)#
-HATCH OUT#v.#covar, inventer; (in drawing) sgraffir#
+HATCH#v.# #
+HATCH#v.-example#TO HATCH OUT: covar, inventer; (in drawing) sgraffir#
 HATCHET#n.#hacca, hachette#
 HATCHWAY#n.#luca#
 HATE#n.#odie (-osi)#
@@ -7053,9 +7065,11 @@ HAUNT#n.#refugia, loc frequentat#
 HAUNT#v.#obseDer; frequentar, persecuter#
 HAUTBOY#n.#hobóe#
 HAVE#v.#haver, posseDer; (auxiliary) har#
-HAVE A MIND TO#v.#inclinar, it vell pleser … si#
-HAVE AN INTUITION#v.#intuiter#
-HAVE TO#v.#dever#
+HAVE#v.-example#TO HAVE A MIND TO: inclinar, it vell pleser … si#XXX TODO consultar
+MIND#n.-example#TO HAVE A MIND TO: inclinar, it vell pleser … si#XXX TODO consultar
+HAVE#v.-example#TO HAVE AN INTUITION: intuiter#
+INTUITION#n.-example#TO HAVE AN INTUITION: intuiter#
+HAVE#v.-example#TO HAVE TO: dever#
 HAVEN#n.#portu; (refuge) asil#
 HAVERSACK#n.#sac dorsal, tornistre#
 HAVOC#n.#devastation#
@@ -7074,12 +7088,15 @@ HAZEL#adj.#rubi-brun#
 HAZEL#n.#avelane (-iero)#
 HE#pron.#il#
 HE#pron.-example#HE HIM: il self#
-HE HIM#pron.#il self#
+HE#pron.-example#HE HIM: il self#
+HIM#pron.-example#HE HIM: il self#
 HEAD#adj.#chef-, principal#
 HEAD#n.#cap; chef, mastro, principale, director; (source) fonte; (on beer) scum#
 HEAD#v.#(to lead) ducter, comandar; (a ball) cap-pussar#
-HEAD LAMP#n.#projector#
-HEAD OF HAIR#n.#capillatura#
+HEAD#n.-example#HEAD LAMP: projector#XXX TODO ameliorar
+LAMP#n.-example#HEAD LAMP: projector#XXX TODO ameliorar
+HAIR#n.-example#HEAD OF HAIR: capillatura#
+HEAD#n.-example#HEAD OF HAIR: capillatura#
 HEAD-FIRST#adv.#cap-ad-avan#
 HEADACHE#n.#cap-dolore; rupte-cap#
 HEADING#n.#rubrica#
@@ -7093,8 +7110,10 @@ HEADWIND#n.#vente contrari#
 HEADY#adj.#(of liquor) intoxicant, ebriativ#
 HEAL#v.#curar, sanar, resanar; (of wounds) cicatrisar#
 HEALTH#n.#sanitá, bon-essere#
-HEALTH GIVING#adj.#sanativ#
-HEALTH RESORT#n.#loc sanatori#
+HEALTH#n.-example#HEALTH GIVING: sanativ#
+GIVE#v.-example#HEALTH GIVING: sanativ#
+HEALTH#n.-example#HEALTH RESORT: loc sanatori#
+RESORT#n.-example#HEALTH RESORT: loc sanatori#
 HEALTHY#adj.#san; salubri#
 HEAP#n.#amasse, cumul, quantité#
 HEAP#v.#amassar, acumular#
@@ -7115,7 +7134,7 @@ HEATH#n.#erica-prates, paise erical#
 HEATHEN#adj.#pagan (-o, -isme)#
 HEATHER#n.#erica#
 HEAVE#v.#(to lift) levar, sublevar; (to fling) jettar; (to swell up) turner; (of ship) tangar#
-HEAVE TO#v.#brassar travers, metter (li nave) a capea#
+HEAVE#v.-example#TO HEAVE TO: brassar travers, metter (li nave) a capea#
 HEAVEN#n.#ciel#
 HEAVENLY#adj.#cielal, cielari, celest#
 HEAVY#adj.#pesant, ponderosi#
@@ -7131,14 +7150,15 @@ HEDGEHOG#n.#erinacio, herisson#
 HEED#v.#atenter (-ion, -iv)#
 HEEL#n.#calcan; (of boot, shoe) talon#
 HEEL#v.#talonar#
-HEEL OVER#v.#inclinar se#
+HEEL#v.-example#TO HEEL OVER: inclinar se#
 HEGEMONY#n.#hegemonie#
 HEIFER#n.#vaccella#
 HEIGHT#n.#altore, altitá, altitudine#
 HEIGHTEN#v.#elevar, augmentar; intensificar#
 HEINOUS#adj.#abominabil, atroci#
 HEIR#n.#herede#
-HEIR APPARENT#n.#direct herede#
+HEIR#n.-example#HEIR APPARENT: direct herede#
+APPARENT#adj.-example#HEIR APPARENT: direct herede#
 HEIRLOOM#n.#heredate#
 HELICAL#adj.#helical, spiral#
 HELIOTROPE#n.#heliotrop#
@@ -7179,9 +7199,9 @@ HERB#n.#(grass) herbe (-osi, -ari, -age, -al, -arisar, -arium, -iera, -ivori); p
 HERD#n.#greg; (swarin) turbe#
 HERD#v.#gardar; amassar se#
 HERE#adv.#ci#
-HERE ARE#adv.#vi#
-HERE BELOW#adv.#ci bass#
-HERE IS#adv.#vi#
+HERE#adv.-example#HERE ARE: vi#
+HERE#adv.-example#HERE BELOW: ci bass#
+HERE#adv.-example#HERE IS: vi#
 HEREABOUTS#adv.#ci proxim#
 HEREAFTER#adv.#plu tard, in futur#
 HEREBY#adv.#per to#
@@ -7218,7 +7238,8 @@ HIEROGLYPH#n.#hieroglif (-ic)#
 HIGGLEDY-PIGGLEDY#adv., adj.#confuset, pelmel#XXX FIXME -- "pelmel" is n.
 HIGH#adj.#alt; (meat) desfrisc, infectet; (sea) apert#
 HIGH#prep.#apu#
-HIGH WATER#n.#alt marea#
+HIGH#adj.-example#HIGH WATER: alt marea#
+WATER#n.-example#HIGH WATER: alt marea#
 HIGH-CLASS#adj.#de alt classe#
 HIGH-HANDED#adj.#arbitrari, despotic#
 HIGH-MINDED#adj.#de alt anim, nobli#
@@ -7250,8 +7271,10 @@ HIP#n.#hanche, coxe; (bot.) ros-bere, rosi-fructe#
 HIPPODROME#n.#hipodrom#
 HIPPOPOTAMUS#n.#hipopotam#
 HIRE#v.#luar; (servante) ingagear#XXX FIXME consultar "(servante) ingagear"
-HIRE OUT#v.#locar, forluar#
-HIRE PURCHASE#n.#compra secun ratas#
+HIRE#v.-example#TO HIRE OUT: locar, forluar#
+HIRE#n.# #
+HIRE#n.-example#HIRE PURCHASE: compra secun ratas#
+PURCHASE#n.-example#HIRE PURCHASE: compra secun ratas#
 HIRSUTE#adj.#vellut, capillut#
 HISS#v.#sibilar#
 HISTORY#n.#historie (-ic, -ico, -ograf)#
@@ -7286,12 +7309,12 @@ HOIST#n.#elevator, lift#
 HOIST#v.#hissar, levar#
 HOLD#n.#cargo-funde, hold#
 HOLD#v.#tener, haver, posseDer; contener; mantener, opiner, considerar, afirmar; retener, detener; frenar; valer; tacer; durar, resister; coherer, esser solidari; stoppar, haltar; suportar#
-HOLD BACK#v.#retener, detener; frenar#
-HOLD GOOD#v.#valer#
-HOLD ONE'S TONGUE#v.#tacer#
-HOLD OUT#v.#durar, resister#
-HOLD TOGETHER#v.#coherer, esser solidari#
-HOLD UP#v.#stoppar, haltar; suportar#
+HOLD#v.-example#TO HOLD BACK: retener, detener; frenar#
+HOLD#v.-example#TO HOLD GOOD: valer#
+HOLD#v.-example#TO HOLD ONE'S TONGUE: tacer#
+HOLD#v.-example#TO HOLD OUT: durar, resister#
+HOLD#v.-example#TO HOLD TOGETHER: coherer, esser solidari#
+HOLD#v.-example#TO HOLD UP: stoppar, haltar; suportar#
 HOLDALL#n.#necessarium#
 HOLDER#n.#(person) tenente; (receptacle) vase, receptuore, centenente. By affixes porta-, -iero: porta-cigarre or cigarriero (Engl. cigar-holder)#XXX FIXME "or", "Engl."
 HOLDING#n.#(land) parcelle; (small) hube#
@@ -7327,7 +7350,8 @@ HONORARIUM#n.#honorarie#
 HONORARY#adj.#honorari#
 HONOUR#n.#honor (-ar, -abil)#
 HOOD#n.#capuce#
-HOODED CLOAK#n.#capote#
+HOOD#n.-example#HOODED CLOAK: capote#
+CLOAK#n.-example#HOODED CLOAK: capote#
 HOODWINK#v.#decepter, dupar#
 HOOK#n.#croc#
 HOOLIGAN#n.#rixard#
@@ -7352,7 +7376,8 @@ HORRIBLE#adj.#horribil#
 HORRID#adj.#horrid#
 HORRIFY#v.#aterrer#
 HORROR#n.#horrore#
-HORROR STRUCK#adj.#terret#
+HORROR#n.-example#HORROR STRUCK: terret#
+STRIKE#v.-example#HORROR STRUCK: terret#
 HORSE#n.#cavalle; (wooden frame) stative#
 HORSE-CHESTNUT#n.#hippocastanie#
 HORSE-COMB#n.#strigul#
@@ -7390,20 +7415,22 @@ HOUSEWIFE#n.#dómina#
 HOVEL#n.#cabanach, domach#
 HOVER#v.#planear#
 HOW#adv.#qualmen#
-HOW MANY#adv.#quant#
-HOW MUCH#adv.#quant#
-HOW MUCH?#adv.#quant?#
-HOWEVER#adv.#(in whatever way) quamcunc#
+HOW#adv.-example#HOW MANY: quant#
+MANY#adj.-example#HOW MANY: quant#
+HOW#adv.-example#HOW MUCH: quant#
+MUCH#adj.-example#HOW MUCH: quant#
+HOWEVER#adv.#(in whatever way) quamcunc; (in whatever degree) quantcunc#
 HOWEVER#conj.#támen, totvez#
-HOWEVER FAR IT IS#adv.#quantcunc lontan it es#
+HOWEVER#adv.-example#HOWEVER FAR IT IS: quantcunc lontan it es#
 HOWITZER#n.#haube#
 HOWL#v.#ulular, criachar; (to weep) plorachar#
 HUB#n.#nabe#
 HUBBUB#n.#tumultu, pandemonie#
 HUCKSTER#n.#colportero, mercachon#
 HUDDLE#v.#compressor se, ahoccar se densi men, esser compact#
-HUE#n.#color, nuancie#
-HUE AND CRY#n.#clamore#
+HUE#n.#color, nuancie; shouting#
+HUE#n.-example#HUE AND CRY: clamore#
+CRY#n.-example#HUE AND CRY: clamore#
 HUFF#n.#subit colere#
 HUFF#v.#ofender; (at draughts) pun-capter#
 HUG#v.#inbrassar, circumbrassar, caressar#
@@ -7412,7 +7439,9 @@ HULK#n.#hulc, carcasse (de nave)#
 HULL#n.#(husk) shell, velop; (skin) pelle#
 HUM#v.#murmurar, cantillar, susurrar; (bee) burdonar#
 HUMAN#adj.#human (-ist, -itá, -itari, -itarian, -isar)#
-HUMAN BEING#n.#hom (-an)#
+HUMAN#n.#hom#
+BEING#n.-example#HUMAN BEING: hom (-an)#
+HUMAN#adj.-example#HUMAN BEING: hom (-an)#
 HUMANITY#n.#(feeling) humanitá; (race) homanité#
 HUMBLE#adj.#humil (-itá, -ar)#
 HUMBLE-BEE#n.#burdon#
@@ -7440,7 +7469,7 @@ HUNGER#v.#suffrer fame#
 HUNGRY#adj.#afamat#
 HUNK#n.#gross pezze#
 HUNT#v.#chassar#
-HUNT FOR#v.#serchar#
+HUNT#v.-example#TO HUNT FOR: serchar#
 HUNTER#n.#chassator, chassero; chass-cavalle#
 HURDLE#n.#grate, agne-trellie#
 HURL#v.#jettar (violentmen), lansar#
@@ -7455,8 +7484,8 @@ HUSBAND#v.#economisar#
 HUSBANDRY#n.#agricultura, cultivation#
 HUSH#n.#calmesse, silentie#
 HUSH#v.#far tacer, quietar#
-HUSH UP#interj.# sst!#
-HUSH UP#v.#ocultar; celar#
+HUSH#v.-example#HUSH UP!: sst!#
+HUSH#v.-example#TO HUSH UP: ocultar; celar#
 HUSK#n.#invelope, cortice, shell#
 HUSKY#adj.#rauc, aspri#
 HUSSAR#v.#hussar#
@@ -8630,7 +8659,7 @@ LAPIDARY#n.#lapidero, lapidario#
 LAPSE#n.#errore; (of time) eflution, preterition, curse#
 LAPSE#v.#expirar, passar, preterir; (to fall back) recader, recidivar#
 LAPWING#n.#vanelle#
-LARBOARD#n.#bacbord#
+LARBOARD#n.#bacbord, babord#
 LARCENY#n.#furte#
 LARCH#n.#larice#
 LARD#n.#grasse porcin#
@@ -11703,7 +11732,7 @@ PORK#n.#svinine, porcine#
 PORPHYRY#n.#porfire#
 PORPOISE#n.#marsvine, delfine#
 PORRIDGE#n.#aven-sup#
-PORT#n.#portu (-ari); (fig.) asil; (naut.) bacbord; (opening) apertura#
+PORT#n.#portu (-ari); (fig.) asil; (naut.) bacbord, babord; (opening) apertura#
 PORT-WINE#n.#vin de Oporto#
 PORTABLE#adj.#portabil#
 PORTAL#n.#portale#
@@ -14566,7 +14595,7 @@ STANZA#n.#stance#
 STAPLE#adj.#chef, principal#
 STAR#n.#stelle (-ari), astre, sídere; (print.) stellette. asterisco#
 STAR GAZER#n.#astrologo; (stage etc.) star#
-STARBOARD#n.#stirborde#
+STARBOARD#n.#stirbord#
 STARCH#n.#amidon#
 STARCH#v.#(in)amidonar#
 STARCHY#adj.#amidonal; formal#
