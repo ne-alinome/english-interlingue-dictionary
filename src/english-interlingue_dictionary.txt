@@ -396,7 +396,7 @@ ALONG#adv.# #XXX TODO
 ALONG#adv.-example#ALONG WITH: junt con#
 WITH#prep.-example#ALONG WITH: junt con#
 ALONGSIDE#adv.#(naut.) bord a borde#
-ALOOF#adj.#reservat#
+ALOOF#adj.#reservat#XXX TODO ameliorar
 ALOUD#adv.#vocosimen, con voce, audibilmen#
 ALP#n.#alpe (-in)#
 ALPACA#n.#alpaca#
@@ -8496,15 +8496,16 @@ KEELSON#n.#super-kil#
 KEEN#adj.#(sharp) acut, penetrant; (eager) entusiastic, ardent#
 KEEP#n.#(of castle) turre; prison subterran; (care of) custodie; (livelihood) subsistentie#
 KEEP#v.#(to hold) tener, retener, conservar, gardar; (to celebrate) festar; (in health) standar, star; (to keep house) menagear; (to remain) restar, maner; (rules) sequer, observar; (to support) subtener, suportar, mantener#
-KEEP ALOOF FROM#v.#tener se lontan de, evitar, restar neutral#
-KEEP BACK#v.#retener; (information) tacer pri#
-KEEP DOWN#v.#supresser, subjugar#
-KEEP MUM#v.#tacer#
-KEEP ON#v.#continuar; constantmen (with suitable verb)#
-KEEP ONESELF WARM#v.#mantener se calid#
-KEEP OUT#v.#excluder; maner éxter; (of debt) maner líber de debites#
-KEEP QUIET#v.#tacer#
-KEEP SILENT#v.#tacer#
+KEEP#v.-example#TO KEEP ALOOF FROM: tener se lontan de, evitar, restar neutral#
+ALOOF#adj.-example#TO KEEP ALOOF FROM: tener se lontan de, evitar, restar neutral#
+KEEP#v.-example#TO KEEP BACK: retener; (information) tacer pri#
+KEEP#v.-example#TO KEEP DOWN: supresser, subjugar#
+KEEP#v.-example#TO KEEP MUM: tacer#
+KEEP#v.-example#TO KEEP ON: continuar; constantmen (with suitable verb)#
+KEEP#v.-example#TO KEEP ONESELF WARM: mantener se calid#
+KEEP#v.-example#TO KEEP OUT: excluder; maner éxter; (of debt) maner líber de debites#
+KEEP#v.-example#TO KEEP QUIET: tacer#
+KEEP#v.-example#TO KEEP SILENT: tacer#
 KEEPER#n.#guardian, curator, gardero, custode; (of hotel) hósped, hotelero#
 KEEPSAKE#n.#memorette#
 KEG#n.#barilette#
@@ -8519,8 +8520,10 @@ KETCH#n.#ketch#
 KETCHUP#n.#sauce picant#
 KETTLE#n.#bolliere; (large) caldron#
 KETTLEDRUM#n.#timbale#
+KEY#adj.# #XXX TODO
 KEY#n.#clave; (of piano) taste; (mus.) ton#
-KEY INDUSTRY#n.#industrie pivotal#
+KEY#adj.-example#KEY INDUSTRY: industrie pivotal#
+INDUSTRY#n.-example#KEY INDUSTRY: industrie pivotal#
 KEYBOARD#n.#tastatura, claviere#
 KEYHOLE#n.#clave-fore#
 KEYRING#n.#anelle por claves, porta-claves#
@@ -8540,7 +8543,8 @@ KIN#adj.#parent, afin#
 KIN#n.#parentité#
 KIND#adj.#benevolent, clement, afabil, amabil, bon, complesent (-ie)#
 KIND#n.#sorte, specie#
-KIND REGARDS#n.#bon desires#
+KIND#adj.-example#KIND REGARDS: bon desires#
+REGARD#n.-example#KIND REGARDS: bon desires#
 KINDHEARTED#adj.#boncordiosi#
 KINDLE#v.#accender, inflammar#
 KINDLY#adj.#afabil; (see also kind)#
@@ -8559,7 +8563,8 @@ KISS#n.#besa (-ar)#
 KIT#n.#possedallia, proprietá, cosage#
 KIT-BAG#n.#sac-valise#
 KITCHEN#n.#cocin(erí)a#XXX TODO split?
-KITCHEN CUPBOARD#n.#scaf de cocina, utensilarium#
+KITCHEN#n.-example#KITCHEN CUPBOARD: scaf de cocina, utensilarium#
+CUPBOARD#n.-example#KITCHEN CUPBOARD: scaf de cocina, utensilarium#
 KITCHEN-GARDEN#n.#legumiera#
 KITE#n.#(bird) milve; (paper kite) dracon volant#
 KITH#adj.#parent, afin#
@@ -8581,19 +8586,21 @@ KNICK-KNACK#n.#bagatelle, ornette#
 KNICKERBOCKERS#n.#culotte#
 KNICKERS#n.#calson#
 KNIFE#n.#cultelle#
-KNIFE BOARD#n.#slifuore#
+KNIFE#n.-example#KNIFE BOARD: slifuore#
+BOARD#n.-example#KNIFE BOARD: slifuore#
 KNIGHT#n.#cavalliero (-esc)#
 KNIGHTHOOD#n.#cavalieratu#
 KNIT#v.#tricotar (-age, -era, -ería)#
-KNIT THE BROWS#v.#rugar li fronte#
-KNIT TOGETHER#v.#unir, ligar (se)#
+KNIT#v.-example#TO KNIT THE BROWS: rugar li fronte#
+BROW#n.-example#TO KNIT THE BROWS: rugar li fronte#
+KNIT#v.-example#TO KNIT TOGETHER: unir, ligar (se)#
 KNITTING#n.#tricot#
 KNITTING-NEEDLE#n.#tricot-agullie#
 KNOB#n.#bosse, tuber; (doorknob) anse#
 KNOCK#n.#frappa, batte#
 KNOCK#v.#frappar#
-KNOCK DOWN#v.#abatter, far cader#
-KNOCK UP#v.#avigilar; exhauster#
+KNOCK#v.-example#TO KNOCK DOWN: abatter, far cader#
+KNOCK#v.-example#TO KNOCK UP: avigilar; exhauster#
 KNOCKER#n.#frappette, frappa-porta#
 KNOLL#n.#tumul#
 KNOT#n.#node (-ar); (tuft) toffe#
@@ -8601,10 +8608,12 @@ KNOTTY#adj.#nodosi; complicat#
 KNOUT#n.#knut (-ar)#
 KNOW#v.#(to be acquainted with, to know people) conosser (-ent, -entie, -or); (to know facts) saver (-entie)#
 KNOW#v.-example#LET ME KNOW: ples avisar me#
+LET#v.-example#LET ME KNOW: ples avisar me#
 KNOWING#adj.#inteligent, astut#
 KNOWLEDGE#n.#saventie, conossentie; erudition#
 KNUCKLE#n.#articul del fingre, juntura#
-KNUCKLE UNDER#v.#ceder, submisser se#
+KNUCKLE#v.# #
+KNUCKLE#v.-example#TO KNUCKLE UNDER: ceder, submisser se#
 LABEL#n.#etiquette, afichette, billet#
 LABIAL#adj.#labial#
 LABORATORY#n.#laboratoria, oficina#
