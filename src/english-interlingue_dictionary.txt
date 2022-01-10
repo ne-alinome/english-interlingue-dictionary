@@ -1300,7 +1300,7 @@ FOOD#n.-example#TO BE OFF FOOD: esser sin apetite, ne haver apetite#
 OFF#prep.-example#TO BE OFF FOOD: esser sin apetite, ne haver apetite#
 OFF#adv.-example#BE OFF!: for!, via!#
 DUTY#n.-example#TO BE ON DUTY: dejorar#
-OUT OF#prep.-example#TO BE OUT OF: esser sin, mancar#
+OUT#adj., adv.-example#TO BE OUT OF: esser sin, mancar#
 PALE#adj.-example#TO BE PALE: paller#
 PARTIAL#adj.-example#TO BE PARTIAL TO: haver un predilection por#
 PLEASED#adj.-example#TO BE PLEASED: joyar, esser content#
@@ -9373,7 +9373,7 @@ MAIZE#n.#máis#
 MAJESTIC#adj.#majestic#
 MAJESTY#n.#majestie; (title) majestá#
 MAJOLICA#n.#majolica#
-MAJOR#adj.#plu grand, majori, plenetosi#
+MAJOR#adj.#plu grand, majori, plen-etosi#
 MAJOR#n.#(rank) major#
 MAJORITY#n.#majorité, pluparte; (age) majoritá#
 MAJUSCULE#adj.#majuscul#
@@ -10654,17 +10654,19 @@ ODIUM#n.#blama, reproche#
 ODOUR#n.#odore (-iferi, -osi)#
 OESOPHAGUS#n.#esofag#
 OF#prep.#de; (about) pri, concernent; (out of) ex#
-OF AGE#adj.#plen-etosi, adult, majori#
-OF COURSE#adv.#naturalmen, self-comprensibil#
-OF NOTE#adj.#eminent#
-OF ONE'S OWN ACCORD#adj.#de propri volentie#
-OF YORE#adj.#antiqui#
-OF YORE#adv.#antey, in anteyan témpor#
+AGE#n.-example#OF AGE: plen-etosi, adult, majori#
+COURSE#n.-example#OF COURSE: naturalmen, self-comprensibil#
+NOTE#n.-example#OF NOTE: eminent#
+ACCORD#n.-example#OF ONE'S OWN ACCORD: de propri volentie#
+YORE#adv.#antey, in anteyan témpor#
+YORE#adv.-example#OF YORE: antiqui; antey, in anteyan témpor#XXX TODO separar usationes de adj. e adv.?
 OFF#prefix# (to run) forcurrer, (carry off) forportar#
 OFF#prep.#for#
 OFF#adv.#for#
-OFF AND ON#adv.#ocasionalmen, a vezes#
-OFF THE COAST#adv.#avan li rive, avan li costa#
+OFF#adv.-example#OFF AND ON: ocasionalmen, a vezes#
+ON#adv.-example#OFF AND ON: ocasionalmen, a vezes#
+OFF#adv.-example#OFF THE COAST: avan li rive, avan li costa#
+COAST#n.-example#OFF THE COAST: avan li rive, avan li costa#
 OFFAL#n.#carnallia#
 OFFENCE#n.#ofense, culpa, delicte, contra-vention, infraction#
 OFFEND#v.#ofenDer, incolerar, transgresser#
@@ -10692,7 +10694,7 @@ OFTEN#adv.#sovente, frequentmen#
 OGEE#n.#ogive (-al)#
 OGLE#v.#ocular (-ada)#
 OGRE#n.#ogre (-essa)#
-OH DEAR#interj.#o ve!#
+DEAR#adj.-example#OH DEAR: o ve!#
 OHM#n.#ohm#
 OIL#n.#oleo (-ar, -ari, -osi, -iere, -iferi, -iera)#
 OIL-PAINTING#n.#oleo-pictura#
@@ -10724,34 +10726,56 @@ ON#prep.#sur; (on to) (ad)sur#
 ON#prep.-example#ON ARRIVING: arivante, pos har arivat#XXX TODO -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
 ON#prep.-example#ON FOOT: a pedes#
 ON#prep.-example#ON TIME: in just témpor, punctualmen#
-ON ACCOUNT OF#prep.#pro, per cause de#
-ON ARRIVING#adv.#arivante, pos har arivat#XXX TODO -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
-ON BEHALF OF#prep.#in nómine de, por#
-ON FOOT#adv.#a pedes#
-ON NO ACCOUNT#adv.#pro nequel (null) cause, certmen ne#
-ON PAIN OF DEATH#adv.#sub pena de morte#
-ON THAT SCORE#adv.#pro ti motive#
-ON THE AVERAGE#adv.#medialmen#
-ON THE CONTRARY#adv.#in contrari#
-ON THE LEFT#adv.#a levul#
-ON THE ONE HAND#adv.#ye un látere#
-ON THE POINT OF#prep.#sur li punctu de#
-ON THE RIGHT#adv.#a dextre#
-ON THE STRENGTH OF#prep.#fidente a#
-ON THE WHOLE#adv.#in general, generalmen#
-ON TIME#adv.#in just témpor, punctualmen#
+ON#prep.-example#ON ACCOUNT OF: pro, per cause de#
+ACCOUNT#n.-example#ON ACCOUNT OF: pro, per cause de#
+ON#prep.-example#ON ARRIVING: arivante, pos har arivat#XXX TODO -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
+ARRIVE#v.-example#ON ARRIVING: arivante, pos har arivat#XXX TODO -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
+ON#prep.-example#ON BEHALF OF: in nómine de, por#
+BEHALF#n.-example#ON BEHALF OF: in nómine de, por#
+ON#prep.-example#ON FOOT: a pedes#
+FOOT#n.-example#ON FOOT: a pedes#
+ON#adv.-example#ON NO ACCOUNT: pro nequel (null) cause, certmen ne#
+ACCOUNT#n.-example#ON NO ACCOUNT: pro nequel (null) cause, certmen ne#
+ON#adv.-example#ON PAIN OF DEATH: sub pena de morte#
+PAIN#n.-example#ON PAIN OF DEATH: sub pena de morte#
+DEATH#n.-example#ON PAIN OF DEATH: sub pena de morte#
+ON#prep.-example#ON THAT SCORE: pro ti motive#
+SCORE#n.-example#ON THAT SCORE: pro ti motive#
+ON#prep.-example#ON THE AVERAGE: medialmen#
+AVERAGE#n.-example#ON THE AVERAGE: medialmen#
+ON#prep.-example#ON THE CONTRARY: in contrari#
+CONTRARY#n.-example#ON THE CONTRARY: in contrari#
+ON#prep.-example#ON THE LEFT: a levul#
+LEFT#adj.-example#ON THE LEFT: a levul#
+ON#prep.-example#ON THE ONE HAND: ye un látere#
+HAND#n.-example#ON THE ONE HAND: ye un látere#
+ON#prep.-example#ON THE POINT OF: sur li punctu de#
+POINT#n.-example#ON THE POINT OF: sur li punctu de#
+ON#prep.-example#ON THE RIGHT: a dextre#
+RIGHT#adj.-example#ON THE RIGHT: a dextre#
+ON#prep.-example#ON THE STRENGTH OF: fidente a#
+STRENGTH#n.-example#ON THE STRENGTH OF: fidente a#
+ON#prep.-example#ON THE WHOLE: in general, generalmen#
+WHOLE#n.-example#ON THE WHOLE: in general, generalmen#
+ON#prep.-example#ON TIME: in just témpor, punctualmen#
+TIME#n.-example#ON TIME: in just témpor, punctualmen#
 ONCE#adv.#un vez; (formerly) antey#
-ONCE AGAIN#adv.#ancor un vez#
-ONCE IN A WAY#adv.#ne tro sovente, ye vezes, de témpor a témpore#
-ONCE UPON A TIME#adv.#unquande#
+ONCE#adv.-example#ONCE AGAIN: ancor un vez#
+AGAIN#adv.-example#ONCE AGAIN: ancor un vez#
+ONCE#adv.-example#ONCE IN A WAY: ne tro sovente, ye vezes, de témpor a témpore#
+WAY#n.-example#ONCE IN A WAY: ne tro sovente, ye vezes, de témpor a témpore#
+ONCE#adv.-example#ONCE UPON A TIME: unquande#
+TIME#n.-example#ONCE UPON A TIME: unquande#
 ONE#adj., n.#un#
 ONE#adj., n.-example#A ONE: unene#
 ONE#adj., n.-example#IT'S ALL ONE: it es egal, índiferent#
 ONE#adj., n.-example#THE ONE THING: li sol afere#
 ONE#pron.#on#
-ONE ANOTHER#pron.#unaltru#
-ONE BY ONES#adv.#un pos li altri#
-ONE LIKE THAT#adj.#un tal#
+ONE#adj., n.pron.-example#ONE ANOTHER: unaltru#
+ANOTHER#adj., pron.-example#ONE ANOTHER: unaltru#
+ONE#adj., n.-example#ONE BY ONES: un pos li altri#
+BY#prep.-example#ONE BY ONES: un pos li altri#
+ONE#adj., n.-example#ONE LIKE THAT: un tal#
 ONEROUS#adj.#pesant; fatigant#
 ONESELF#pron.#se#
 ONESIDED#adj.#unilateral, partial, ínegal#
@@ -10760,7 +10784,8 @@ ONLOOKER#n.#spectator, assistente#
 ONLY#adj.#sol, unic#
 ONLY#adv.#solmen#
 ONLY#conj.#(but) ma#
-ONLY TODAY#adv.#ancor hodie#
+ONLY#adv.-example#ONLY TODAY: ancor hodie#
+TODAY#adv.-example#ONLY TODAY: ancor hodie#
 ONSET#n.#comense, debut; atacca#
 ONSLAUGHT#n.#assalte, atacca#
 ONUS#n.#charge, obligation, pesa, responsabilitá#
@@ -10872,14 +10897,21 @@ OUNCE#n.#uncie#
 OUR#adj.#nor, nostri#
 OUST#v.#expulser#
 OUT#adj., adv.#ex; extra, extern; (not at home) for, ne in hem, absent; (outside) extern#
-OUT OF#prep.#ex, préter; (by reason of) pro#
-OUT OF DATE#adj.#anacronistic#
-OUT OF GUNSHOT#adj., adv.#preter tir-distantie, ínatingibil#
-OUT OF ONE'S WITS#adj.#frenetic, dement#
-OUT OF ORDER#adj.#contra li regulament; ne functionant#
-OUT OF PLACE#adj.#ínoportun, ne pertinent#
-OUT OF PRINT#adj.#exhaustet#
-OUT OF REACH#adj.#ínatingibil#
+OUT#adj., adv.-example#OUT OF: ex, préter; (by reason of) pro#
+OUT#adj., adv.-example#OUT OF DATE: anacronistic#
+DATE#n.-example#OUT OF DATE: anacronistic#
+OUT#adj., adv.-example#OUT OF GUNSHOT: preter tir-distantie, ínatingibil#
+GUNSHOT#n.-example#OUT OF GUNSHOT: preter tir-distantie, ínatingibil#
+OUT#adj., adv.-example#OUT OF ONE'S WITS: frenetic, dement#
+WIT#n.-example#OUT OF ONE'S WITS: frenetic, dement#
+OUT#adj., adv.-example#OUT OF ORDER: contra li regulament; ne functionant#
+ORDER#n.-example#OUT OF ORDER: contra li regulament; ne functionant#
+OUT#adj., adv.-example#OUT OF PLACE: ínoportun, ne pertinent#
+PLACE#n.-example#OUT OF PLACE: ínoportun, ne pertinent#
+OUT#adj., adv.-example#OUT OF PRINT: exhaustet#
+PRINT#n.-example#OUT OF PRINT: exhaustet#
+OUT#adj., adv.-example#OUT OF REACH: ínatingibil#
+REACH#n.-example#OUT OF REACH: ínatingibil#
 OUTBALANCE#v.#superponderar#
 OUTBID#v.#superofertar#
 OUTBREAK#n.#eruption; insurection#
@@ -10903,7 +10935,8 @@ OUTLAY#n.#custa, deborsament, expenses#
 OUTLET#n.#exeada, surtida, efluentie#
 OUTLINE#n.#contura; esquisse#
 OUTLINE#v.#esquissar, dessinar li contura#
-OUTLINE OF A SPEECH#n.#concept-discurse, cladde#
+OUTLINE#n.-example#OUTLINE OF A SPEECH: concept-discurse, cladde#
+SPEECH#n.-example#OUTLINE OF A SPEECH: concept-discurse, cladde#
 OUTLIVE#v.#superviver#
 OUTLOOK#n.#perspective, prospect#
 OUTLYING#adj.#distant, lontan, extern, periferic#
@@ -10997,7 +11030,7 @@ OVERWROUGHT#adj.#enervat#
 OVIPAROUS#adj.#ovipari#
 OVUM#n.#ove#
 OWE#v.#debir#
-OWING TO#prep.#pro; mersí a; caus, per cause de#
+OWING#v.-example#OWING TO: pro; mersí a; caus, per cause de#
 OWL#n.#ul; (horned) guf#
 OWN#adj.#propri#
 OWN#v.#posseder, haver; (to avow) confesser, aconosser#
@@ -15589,7 +15622,7 @@ THANKFUL#adj.#grat (-itá), mersiosi#
 THANKLESS#adj.#íngrat#
 THAT#adj.#ti, ti-ta#
 THAT#conj.#que; (the one which) quel; (the thing which) quo#
-THAT#pron.#ti, ti-ta| to, to-ta#
+THAT#pron.#ti, ti-ta; to, to-ta#
 THAT IS TO SAY#conj.#a saver#
 THATCH#n.#pallie#
 THATCH#v.#tegmentar per pallie, inpalliar#
