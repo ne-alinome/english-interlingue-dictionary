@@ -438,6 +438,7 @@ AMBUSH#v.#inboscar#
 AMELIORATE#v.#ameliorar (-ation)#
 AMEN#adv., interj.#amen#
 AMENABLE#adj.#ductibil, influentiabil, docil, complesent#
+AMEND#n.#corection, emendation; corectura, emendatura#
 AMEND#v.#corecter, emendar#
 AMENITY#n.#agreabilitá#
 AMETHYST#n.#ametist#
@@ -8892,10 +8893,10 @@ LEOPARD#n.#leoparde#
 LEPER#n.#leproso#
 LEPROSY#n.#lepra (-osi)#
 LESION#n.#lesion#
-LESS#adv.#minu#
-LESS#adv.-example#THE LESS THE BETTER: plu poc, plu bon#
+LESS#adj., adv.#minu, min#
+LESS#adj., adv.-example#THE LESS THE BETTER: plu poc, plu bon#
 BETTER#adj.-example#THE LESS THE BETTER: plu poc, plu bon#
-LESS#adv.-example#LESS AND LESS: sempre minu#
+LESS#adj., adv.-example#LESS AND LESS: sempre minu#
 LESSEE#n.#locatario, luator#
 LESSEN#v.#diminuer (se)#
 LESSER#adj.#inferiori#
@@ -9330,8 +9331,10 @@ MAGAZINE#n.#(store) magasin; (periodical) gazette, revúe; (powder) pulveriere#
 MAGENTA#n.#magenta#
 MAGGOT#n.#larve, verme#
 MAGI#n.pl.#magos#
+MAGIC#adj.#magic#
 MAGIC#n.#magie#
-MAGIC LANTERN#n.#optic lanterne, lanterne magic#XXX TODO -- In the original data this entry was part of "lanterne"
+MAGIC#adj.-example#MAGIC LANTERN: optic lanterne, lanterne magic#
+LANTERN#n.-example#MAGIC LANTERN: optic lanterne, lanterne magic#
 MAGIC-LANTERN#n.#lanterne magic, optic lanterne#XXX TODO --
 MAGICAL#adj.#magic#
 MAGICIAN#n.#magico#
@@ -9357,7 +9360,8 @@ MAIDENHEAD#n.#virginitá#
 MAIDENLY#adj.#virginal, chast, pur#
 MAIL#n.#(armour) curasse; (letters) postage#
 MAIL#v.#inviar per li post, inpostar#
-MAIL BAG#n.#lettre-sac#
+MAIL#n.-example#MAIL BAG: lettre-sac#
+BAG#n.-example#MAIL BAG: lettre-sac#
 MAIM#v.#mutilar, paralisar#
 MAIN#adj.#chef, principal, cardinal#
 MAIN#n.#ocean, mare apert; (water main) tub; (electr.) rete del lucement#
@@ -9375,27 +9379,42 @@ MAJORITY#n.#majorité, pluparte; (age) majoritá#
 MAJUSCULE#adj.#majuscul#
 MAKE#n.#(kind) fabrica; (of clothes) fasson#
 MAKE#v.#far, fabricar, formar, crear; (to compel) obligar, fortiar; (to earn) ganiar#
-MAKE A FACE#v.#grimassar#
-MAKE A FOOL OF#v.#ridiculisar#
-MAKE A FUSS#v.#far desfacilitás#
-MAKE ALLOWANCES FOR#v.#indulger#
-MAKE AMENDS#v.#compensar#
-MAKE AN ABSTRACT#v.#resumar#
-MAKE ASHAMED#v.#ahontar#
-MAKE AWAY WITH#v.#mortar; abolir#
-MAKE BELIEVE#v.#ficter, pretexter#
-MAKE GOOD#v.#successar; reparar, compensar#
-MAKE LOVE#v.#cortesar#
-MAKE MERRY#v.#amusar se, delectar se, divertisser se#
-MAKE OFF#v.#forcurrer, escapar#
-MAKE ONE'S DEBUT#v.#debutar#
-MAKE OUT#v.#deciffrar; discerner; comprender; compilar; (to claim) pretender#
-MAKE PAST#v.#ligar, amarrar#
-MAKE PEACE#v.#pacificar, (re)conciliar#
-MAKE PRECISE#v.#preciser#
-MAKE UP#v.#composir; compleer; (the face) grimar se#
-MAKE UP FOR#v.#compensar#
-MAKE UP ONE'S MIND#v.#prender un decision, decider se, resoluer#
+MAKE#v.-example#TO MAKE A FACE: grimassar#
+FACE#n.-example#TO MAKE A FACE: grimassar#
+MAKE#v.-example#TO MAKE A FOOL OF: ridiculisar#
+FOOL#n.-example#TO MAKE A FOOL OF: ridiculisar#
+MAKE#v.-example#TO MAKE A FUSS: far desfacilitás#
+FUSS#n.-example#TO MAKE A FUSS: far desfacilitás#
+MAKE#v.-example#TO MAKE ALLOWANCES FOR: indulger#
+ALLOWANCE#n.-example#TO MAKE ALLOWANCES FOR: indulger#
+MAKE#v.-example#TO MAKE AMENDS: compensar#
+AMEND#n.-example#TO MAKE AMENDS: compensar#
+MAKE#v.-example#TO MAKE AN ABSTRACT: resumar#
+ABSTRACT#n.-example#TO MAKE AN ABSTRACT: resumar#
+MAKE#v.-example#TO MAKE ASHAMED: ahontar#
+ASHAMED#adj.-example#TO MAKE ASHAMED: ahontar#
+MAKE#v.-example#TO MAKE AWAY WITH: mortar; abolir#
+MAKE#v.-example#TO MAKE BELIEVE: ficter, pretexter#
+BELIEVE#v.-example#TO MAKE BELIEVE: ficter, pretexter#
+MAKE#v.-example#TO MAKE GOOD: successar; reparar, compensar#
+GOOD#adj.-example#MAKE GOOD: successar; reparar, compensar#
+MAKE#v.-example#TO MAKE LOVE: cortesar#XXX TODO actualisar
+LOVE#n.-example#TO MAKE LOVE: cortesar#XXX TODO actualisar
+MAKE#v.-example#TO MAKE MERRY: amusar se, delectar se, divertisser se#
+MERRY#adj.-example#TO MAKE MERRY: amusar se, delectar se, divertisser se#
+MAKE#v.-example#TO MAKE OFF: forcurrer, escapar#
+MAKE#v.-example#TO MAKE ONE'S DEBUT: debutar#
+DEBUT#n.-example#TO MAKE ONE'S DEBUT: debutar#
+MAKE#v.-example#TO MAKE OUT: deciffrar; discerner; comprender; compilar; (to claim) pretender#
+MAKE#v.-example#TO MAKE PAST: ligar, amarrar#XXX TODO ligar anc al "PAST"
+MAKE#v.-example#TO MAKE PEACE: pacificar, (re)conciliar#
+PEACE#n.-example#TO MAKE PEACE: pacificar, (re)conciliar#
+MAKE#v.-example#TO MAKE PRECISE: preciser#
+PRECISE#adj.-example#MAKE PRECISE: preciser#
+MAKE#v.-example#TO MAKE UP: composir; compleer; (the face) grimar se#
+MAKE#v.-example#TO MAKE UP FOR: compensar#
+MAKE#v.-example#TO MAKE UP ONE'S MIND: prender un decision, decider se, resoluer#
+MIND#n.-example#TO MAKE UP ONE'S MIND: prender un decision, decider se, resoluer#
 MAKESHIFT#adj.#provisori, surogat#
 MAKESHIFT#n.#medie provisori, compromisse#
 MALADROIT#adj.#ínhabil#
@@ -9486,7 +9505,8 @@ MANUFACTURE#v.#fabricar#
 MANURE#n.#sterco#
 MANURE#v.#stercar#
 MANUSCRIPT#n.#manuscrite#
-MANUSCRIPT BOOK#n.#caderne#
+MANUSCRIPT#n.-example#MANUSCRIPT BOOK: caderne#
+BOOK#n.-example#MANUSCRIPT BOOK: caderne#
 MANY#adj.#mult, mani#
 MANY#prefix#multi-, pluri-, poli-#
 MANY#adj.-example#MANY A: mani#
@@ -9517,7 +9537,8 @@ MARK#v.#marcar, notar#
 MARKED#adj.#marcat; distint, sentibil#
 MARKET#n.#mercate; bazar#
 MARKET#v.#vendir (-ition)#
-MARKET PLACE#n.#plazza del mercate#
+MARKET#n.-example#MARKET PLACE: plazza del mercate#
+PLACE#n.-example#MARKET PLACE: plazza del mercate#
 MARKET-TOWN#n.#borgo#
 MARKETABLE#adj.#vendibil#
 MARKSMAN#n.#tirator#
@@ -9529,7 +9550,8 @@ MAROON#v.#abandonar#
 MARQUEE#n.#grand tenda#
 MARQUIS#n.#marquese, marqueso (-atu)#
 MARRIAGE#n.#maritage, matrimonie (-al), nuptie#
-MARRIAGE PORTION#n.#dot#
+MARRIAGE#n.-example#MARRIAGE PORTION: dot#
+PORTION#n.-example#MARRIAGE PORTION: dot#
 MARRIAGEABLE#adj.#maritabil#
 MARROW#n.#(of bones) medulle; (vegetable) cucurbite#
 MARRY#v.#maritar (se)#
@@ -9628,7 +9650,8 @@ MAZE#n.#labirinte (-in), confusion, perplexitá#
 MAZURKA#n.#mazurka#
 MEAD#n.#hidromel, miel-bir#
 MEADOW#n.#prate, herbiera#
-MEADOW SAFFRON#n.#colchica#
+MEADOW#n.-example#MEADOW SAFFRON: colchica#
+SAFFRON#n.-example#MEADOW SAFFRON: colchica#
 MEADOWSWEET#n.#spiréa#
 MEAGRE#adj.#magri, povri#
 MEAL#n.#repaste, manja; (flour) farine#
@@ -9642,7 +9665,8 @@ MEANS#n.#medie, remedie; (money) pecunie#
 MEANS#n.-example#BY ALL MEANS: advere#
 MEANS#n.-example#BY MEANS OF: per#
 MEANS#n.-example#BY NO MEANS: nequalmen#
-MEANS OF SUPPORT#n.#victuales; revenú#
+MEANS#n.-example#MEANS OF SUPPORT: victuales; revenú#
+SUPPORT#n.-example#MEANS OF SUPPORT: victuales; revenú#
 MEANWHILE#adv.#ínterim#
 MEASLES#n.#morbille#
 MEASURE#n.#mesura (-ar, -abil, -ation), dimension, gradu. scala; (instrument) mesurette; (mus.) ritme, mesura#
@@ -9746,18 +9770,22 @@ MESSENGER#n.#missagero, curriero#
 MESSIAH#n.#messía#
 MESTIZO#n.#mestisse#
 METAL#n.#metalle (-io, -in, -isar, -iferi)#
-METAL WEIGHT#n.#póndere#
+METAL#n.-example#METAL WEIGHT: póndere#
+WEIGHT#n.-example#METAL WEIGHT: póndere#
 METALLURGIST#n.#metallurgo (-ie, -ic)#
 METAMORPHOSIS#n.#metamorfose, transformation#
 METAPHOR#n.#metáfor (-ic)#
 METAPHYSICS#n.#metafisica (-al)#
-METE OUT#v.#aportionar; rendir#
+METE#v.# #
+METE#v.-example#TO METE OUT: aportionar; rendir#
 METEOR#n.#meteor (-ic, -ologie)#
 METEORITE#n.#aerolite#
 METER#n.#metre; (instrument) mesurette#
 METHINKS#v.#me sembla que#
 METHOD#n.#metode (-ic, -ist, -isme)#
-METHYLATED SPIRIT#n.#sprite metilat#
+METHYLATED#adj.#metilat#
+METHYLATED#adj.-example#METHYLATED SPIRIT: sprite metilat#
+SPIRIT#n.-example#METHYLATED SPIRIT: sprite metilat#
 METRE#n.#(unit of length) metre; (mus., poetry) metrica#
 METRONOME#n.#metronom#
 METROPOLIS#n.#capitale, metropole#
@@ -9775,7 +9803,8 @@ MIDDAY#n.#midíe, medidíe#
 MIDDEN#n.#escombre-cumul, sterc-cunml#
 MIDDLE#adj.#medial#
 MIDDLE#n.#medie, centre#
-MIDDLE AGES#n.#medievie (-al)#
+MIDDLE#adj.-example#MIDDLE AGES: medievie (-al)#
+AGE#n.-example#MIDDLE AGES: medievie (-al)#
 MIDDLING#adj.#mediocri, passabil#
 MIDGET#n.#pigméo#
 MIDLAND#adj.#inlandan, mediterran#
@@ -9803,14 +9832,18 @@ MILITARY#n.#militare (-isme)#
 MILITATE#v.#combatter, oposir#
 MILITIA#n.#milicie (-an)#
 MILK#n.#lacte (-era, -in, -ifer, -age, -osi, -ar)#
-MILK#v.#melcar (-atpr, -atora)#
+MILK#v.#melcar (-ator, -atora)#
 MILK-FOOD#n.#lactage#
 MILKJUG#n.#lacte-pott, cruche#
 MILKSOP#n.#horn afeminat, dorloton#
+MILKY#adj.#(consisting on milk) lactin; (containing milk) lactosi; (like, or somewhat like, milk) lactatri#
 MILKY WAY#n.#via galactic, galaxe#
+MILKY#adj.-example#MILKY WAY: via galactic, via lactat, galaxe#
+WAY#n.-example#MILKY WAY: via galactic, via lactat, galaxe#
 MILL#n.#(corn) moline (-ar, -ero); (spinning) filería, textería, usina#
 MILL#v.#molinar; (coins) stampar#
-MILL DAM#n.#diga molinari#
+MILL#n.-example#MILL DAM: diga molinari#
+DAM#n.-example#MILL DAM: diga molinari#
 MILLENIUM#n.#millennie (-ari)#
 MILLET#n.#millete#
 MILLI#prefix#milligramme, millilitre, millimetre, millipede, etc.#
@@ -9826,8 +9859,10 @@ MIMICRY#n.#mimica#
 MIMOSA#n.#mimose#
 MINARET#n.#minaret#
 MINCE#v.#(to chop) haccar; (mannerism) afectar; vader o parlar con afectation, ear prudmen#
-MINCE MATTERS#v.#minimisar lu desagreabil#
-MINCED MEAT#n.#haccat carne#
+MINCE#v.-example#TO MINCE MATTERS: minimisar lu desagreabil#
+MATTER#n.-example#MINCE MATTERS: minimisar lu desagreabil#
+MINCE#v.-example#MINCED MEAT: haccat carne#
+MEAT#n.-example#MINCED MEAT: haccat carne#
 MINCEMEAT#n.#farce (consistent de fructes haccat)#
 MINCER#n.#(implement) haccuore#
 MIND#n.#(intellect) mente, intelectu; (soul) spíritu, psiche#
@@ -9981,7 +10016,8 @@ MONASTIC#adj.#monacal#
 MONDAY#n.#lunedí#
 MONETARY#adj.#monetari, pecuniari#
 MONEY#n.#moné, pecunie#
-MONEY ORDER#n.#mandate postal#
+MONEY#n.-example#MONEY ORDER: mandate postal#
+ORDER#n.-example#MONEY ORDER: mandate postal#
 MONEY-CHANGER#n.#moné-cambiator#
 MONEYLENDER#n.#prestator#
 MONGOOSE#n.#manguste#
@@ -10026,7 +10062,8 @@ MORDANT#adj.#mordent, mordaci, acri, caustic#
 MORE#adj., adv.#plu, plu mult#
 MORE#adj., adv.-example#THE MORE HE HAS, THE MORE HE WANTS: plu il have, plu il desira#
 MORE#adj., adv.-example#THE MORE THE BETTER: plu mult, plu bon#
-MORE OR LESS#adj, adv.#plu-minu#
+MORE#adj., adv.-example#MORE OR LESS: plu-minu#
+LESS#adj., adv.-example#MORE OR LESS: plu-minu#
 MOREOVER#adv.#adplu, adultra#
 MORGANATIC#adj.#morganatic#
 MORGUE#n.#cadavriere#
@@ -10051,7 +10088,8 @@ MORTUARY#n.#depó de mortos, cadavriere#
 MOSAIC#n.#mosaica#
 MOSQUE#n.#moské#
 MOSQUITO#n.#mosquite#
-MOSQUITO NET#n.#para-mosquite#
+MOSQUITO#n.-example#MOSQUITO NET: para-mosquite#
+NET#n.-example#MOSQUITO NET: para-mosquite#
 MOSS#n.#mosse (-i, -atri, -osi, -ut)#
 MOST#adj., adv.#max; lu max; max mult#
 MOSTLY#adv.#precipue; generalmen, max sovente#
@@ -10059,7 +10097,8 @@ MOTE#n.#(of dust) polvun, pallie#
 MOTH#n.#tinea#
 MOTHEATEN#adj.#rodet de tineas#
 MOTHER#n.#matre#
-MOTHER WIT#n.#esprite natural#
+MOTHER#n.-example#MOTHER WIT: esprite natural#
+WIT#n.-example#MOTHER WIT: esprite natural#
 MOTHER-IN-LAW#n.#bel-matre#
 MOTHER-OF-PEARL#n.#perlematre, nacre (-in)#
 MOTHERHOOD#n.#matrinitá#
@@ -10086,10 +10125,12 @@ MOULT#v.#mutar plumes, mutar li pelle#
 MOUND#n.#tumul; colinette; vall#
 MOUNT#n.#monte; (in frame) montura#
 MOUNT#v.#ascender, montar; (to assemble) monter#
-MOUNT UP#v.#acumular se; (to clamber) climbar#
+MOUNT#v.-example#MOUNT UP: acumular se; (to clamber) climbar#
 MOUNTAIN#n.#monte#
-MOUNTAIN RANGE#n.#montania#
-MOUNTAIN SPINACH#n.#atriplex#
+MOUNTAIN#n.-example#MOUNTAIN RANGE: montania#
+RANGE#n.-example#MOUNTAIN RANGE: montania#
+MOUNTAIN#n.-example#MOUNTAIN SPINACH: atriplex#
+SPINACH#n.-example#MOUNTAIN SPINACH: atriplex#
 MOUNTAIN-ASH#n.#sorbe#
 MOUNTAINEER#n.#alpinist#
 MOUNTEBANK#n.#charlatan, saltimbanco#
@@ -10161,7 +10202,8 @@ MUSE#v.#revar, meditar, ruminar#
 MUSEUM#n.#muséo#
 MUSHROOM#n.#fungo, champinion#
 MUSIC#n.#musica (-al, -ar), harmonie#
-MUSIC STOOL#n.#taburette#
+MUSIC#n.-example#MUSIC STOOL: taburette#
+STOOL#n.-example#MUSIC STOOL: taburette#
 MUSIC-HALL#n.#teatre de varietá#
 MUSICIAN#n.#musico, musicante#
 MUSK#n.#musco#
