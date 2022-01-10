@@ -8341,10 +8341,12 @@ ITINERANT#adj.#ambulant#
 ITINERARY#n.#itinerarie, viarium#
 IVORY#n.#ivor (-in)#
 IVY#n.#hedre#
-JAB AT#v.#pussar contra (per punta de alquo), picar#
+JAB#v.# #
+JAB#v.-example#TO JAB AT: pussar contra (per punta de alquo), picar#
 JABBER#v.#jargonar, carcarear#
 JACK#n.#(at cards) valet; (spit) torn-pica; (screwjack) cric#
-JACK OF ALL TRADES#n.#(naut.) flagga de proa#
+JACK#n.-example#JACK OF ALL TRADES: (naut.) flagga de proa#
+TRADE#n.-example#JACK OF ALL TRADES: (naut.) flagga de proa#
 JACK-IN-THE-BOX#n.#diabolette-in-buxe#
 JACKAL#n.#chacale#
 JACKASS#n.#ásino#
@@ -8389,7 +8391,7 @@ JERK#v.#sucusser, dar un sucusse#
 JERKIN#n.#camisol#
 JERRY-BUILT#adj.#ínsolidmen construetet#
 JERSEY#n.#jersé; veste ex lan#
-JERUSALEM ARTICHOKE#n.#topinambur#
+ARTICHOKE#n.-example#JERUSALEM ARTICHOKE: topinambur#XXX TODO add Jerusalem and link to it
 JESSAMINE#n.#jasmine#
 JEST#n.#joca, burla (-ar, -eríe, -on)#
 JESUIT#n.#jesuit (-ic)#
@@ -8420,7 +8422,9 @@ JOIN#v.#junter, unir (se), unionar, combinar; (a society) adherer#
 JOINER#n.#fin-carpentero#
 JOINT#adj.#comun; junt(et)#
 JOINT#n.#juntura, articulation; node; (meat) pezze#
-JOINT STOCK COMPANY#n.#societé anonim, societé actionari#
+JOINT#n.-example#JOINT STOCK COMPANY: societé anonim, societé actionari#
+STOCK#n.-example#JOINT STOCK COMPANY: societé anonim, societé actionari#
+COMPANY#n.-example#JOINT STOCK COMPANY: societé anonim, societé actionari#
 JOINTED#adj.#(con)juntet, articulat#
 JOIST#n.#trave, subtrave#
 JOKE#n.#joca (-ar, -on), burla#
@@ -8469,12 +8473,14 @@ JURY#n.#jurie#
 JURY-MAST#n.#fala mast#XXX FIXME -- "fala"?
 JUST#adj.#just, honest, equi; (barely) apen#
 JUST#adv.#precismen#
-JUST ABOUT TO#prep.#sur li punctu de#
-JUST AS#adv.#sammen quam#
+JUST#adv.-example#JUST ABOUT TO: sur li punctu de#
+ABOUT#adv.-example#JUST ABOUT TO: sur li punctu de#
+JUST#adv.-example#JUST AS: sammen quam#
 JUSTICE#n.#justicie, equitá#
 JUSTIFY#v.#justificar (-ation, -abil)#
 JUSTNESS#n.#justesse#
-JUT OUT#v.#prominer, projecter#
+JUT#v.# #
+JUT#v.-example#TO JUT OUT: prominer, projecter#
 JUTE#n.#jute#
 JUVENILE#adj.#juvenil, yunatri#
 JUVENILE#n.#yuno, júven (-a, -o)#
