@@ -7307,7 +7307,7 @@ HOG#n.#svino, porco#
 HOGSHEAD#n.#grand baril#
 HOIST#n.#elevator, lift#
 HOIST#v.#hissar, levar#
-HOLD#n.#cargo-funde, hold#
+HOLD#n.#cargo-funde, hold#XXX TODO agrandar
 HOLD#v.#tener, haver, posseDer; contener; mantener, opiner, considerar, afirmar; retener, detener; frenar; valer; tacer; durar, resister; coherer, esser solidari; stoppar, haltar; suportar#
 HOLD#v.-example#TO HOLD BACK: retener, detener; frenar#
 HOLD#v.-example#TO HOLD GOOD: valer#
@@ -8619,7 +8619,8 @@ LABIAL#adj.#labial#
 LABORATORY#n.#laboratoria, oficina#
 LABORIOUS#adj.#diligent, laborosi; penosi, fatigant#
 LABOUR#n.#labore (-ar, -ero); (strive) penar; (childbirth) parturition; (toil) strapacie#
-LABOUR IN VAIN#n.#van pena#
+LABOUR#n.-example#LABOUR IN VAIN: van pena#
+VAIN#adj.-example#LABOUR IN VAIN: van pena#
 LABURNUM#n.#citise#
 LABYRINTH#n.#labirinte (-in)#
 LAC#n.#lacca#
@@ -8642,7 +8643,8 @@ LADDER#n.#scale#
 LADEN#adj.#cargat; (abstract sense) chargeat, opresset#
 LADLE#n.#coclaron, coclare haustiv#
 LADY#n.#dama, seniora#
-LADY DAY#n.#Anunciation#
+LADY#n.-example#LADY DAY: Anunciation#
+DAY#n.-example#LADY DAY: Anunciation#
 LADY-LOVE#adj.#amata#
 LADYBIRD#n.#coccinelle#
 LADYLIKE#adj.#de bon manieres, de seniora#
@@ -8662,7 +8664,8 @@ LAME#v.#mutilar, far claudicant, paralisar#
 LAMENT#v.#lamentar (-ation, -abil), deplorar#
 LAMINA#n.#lámine#
 LAMP#n.#lampe#
-LAMP SHADE#n.#covri-lampe; (manes) manes#
+LAMP#n.-example#LAMP SHADE: covri-lampe; (manes) manes#
+SHADE#n.-example#LAMP SHADE: covri-lampe; (manes) manes#
 LAMPBLACK#n.#fulígine de lamp#
 LAMPGLASS#n.#lamp-cilindre#
 LAMPOON#n.#pasquin (-ar, -ada)#
@@ -8675,9 +8678,12 @@ LANCET#n.#lansette#
 LAND#n.#(ground) terre, suol; (country) land, pais#
 LAND#v.#debarcar, aterrar, abordar; (to unload) decargar#
 LANDAU#n.#landau, coche#
-LANDED PROPERTY#n.#domene#
-LANDING#n.#(on stairs) planage#
-LANDING STAGE#n.#caye, debarcatoria#
+LANDED#adj.# #
+LANDED#adj.-example#LANDED PROPERTY: domene#
+PROPERTY#n.-example#LANDED PROPERTY: domene#
+LANDING#n.#(on stairs) planage#XXX TODO adjunter li mancant significationes
+LANDING#n.-example#LANDING STAGE: caye, debarcatoria#
+STAGE#n.-example#LANDING STAGE: caye, debarcatoria#
 LANDLADY#n.#patrona; hospedessa, albergatora#
 LANDLOCKED#adj.#circumdat de terra#
 LANDLORD#n.#proprietarie; mastro; (of inn) hósped#
@@ -8714,14 +8720,15 @@ LARYNX#n.#laringe (-ite)#
 LASCIVIOUS#adj.#lasciv, voluptosi#
 LASH#n.#knut; colp de flagell; (eyelash) cilie#
 LASH#v.#(to bind) ligar, amarrar; (to whip) flagellar#
-LASH OUT#v.#(of horses) regambar#
+LASH#v.-example#TO LASH OUT: (of horses) regambar#
 LASS#n.#puella, yuna#
 LASSITUDE#n.#lassitá#
 LASSO#n.#lasso#
 LAST#adj.#ultim, passat, final; precedent#
 LAST#n.#(boot last) listell#
 LAST#v.#durar#
-LAST NIGHT#adv., n.#yer vesper#
+LAST#adj.-example#LAST NIGHT: yer vesper#
+NIGHT#n.-example#LAST NIGHT: yer vesper#
 LASTING#adj.#durabil, permanent#
 LASTLY#adv.#in fine, finalmen, ultimmen#
 LATCH#n.#cline (-ar)#
@@ -8762,7 +8769,8 @@ LAVENDER#n.#lavende#
 LAVISH#adj.#liberal, generosi, prodigal#
 LAVISH#v.#prodigar#
 LAW#n.#lege, statute, decrete; (jurisprudence) jure#
-LAW COURT#n.#tribunale#
+LAW#n.-example#LAW COURT: tribunale#
+COURT#n.-example#LAW COURT: tribunale#
 LAWFUL#adj.#legal (-itá), legitim#
 LAWLESS#adj.#ínlegal, arbitrari, sin leges#
 LAWN#n.#gazon, (material) linon#
@@ -8774,15 +8782,18 @@ LAXATIVE#adj.#laxativ#
 LAXATIVE#n.#laxative#
 LAY#adj.#laic (-o)#
 LAY#v.#posir, metter, jacentar; (eggs) posir, ovar; (ghost) exorcisar; (tablecloth) covrir li table; (to wager) pariar; (to lay dust) abatter#
-LAY DOWN#v.#statuer, prescrir, definir, decreter#
-LAY IN#v.#(to store) aprovisionar#
-LAY ON#v.#aplicar; (to strike) batter#XXX TODO "to apply with force; to inflict; as, to lay on blows"
-LAY OPEN#v.#exposir, decovrir, decelar#
-LAY OUT#v.#extenDer; (money) expender, deborsar; (corpse) apretar#
-LAY SIEGE#v.#assediar (-ation)#
-LAY SIEGE TO#v.#assediar#
-LAY UP#v.#amassar, aprovisionar#
-LAY WASTE#v.#devastar#
+LAY#v.-example#TO LAY DOWN: statuer, prescrir, definir, decreter#
+LAY#v.-example#TO LAY IN: (to store) aprovisionar#
+LAY#v.-example#TO LAY ON: aplicar; (to strike) batter#XXX TODO "to apply with force; to inflict; as, to lay on blows"
+LAY#v.-example#TO LAY OPEN: exposir, decovrir, decelar#
+LAY#v.-example#TO LAY OUT: extenDer; (money) expender, deborsar; (corpse) apretar#
+LAY#v.-example#TO LAY SIEGE: assediar (-ation)#
+SIEGE#n.-example#LAY SIEGE: assediar (-ation)#
+LAY#v.-example#TO LAY SIEGE TO: assediar (-ation)#
+SIEGE#n.-example#LAY SIEGE TO: assediar (-ation)#
+LAY#v.-example#TO LAY UP: amassar, aprovisionar#
+LAY#v.-example#TO LAY WASTE: devastar#
+WASTE#n.-example#LAY WASTE: devastar#
 LAY-FIGURE#n.#marionette, figura#
 LAYER#hort.#marcotte; (geol.) strate; (de)positor#
 LAZY#adj.#pigri, índolent#
@@ -8819,10 +8830,13 @@ LEAST#adj.-example#THE LEAST BEAUTIFUL: li minim bell#
 LEATHER#n.#cute (-in)#
 LEAVE#n.#permission, licentie, vacantie, congedie, adío#
 LEAVE#v.#(to let be or do) lassar; (to abandon) forlassar, abandonar; (to depart) departer, forviagear, surtir; (to bequeath) legar, testar#
-LEAVE ALONE#v.#lassar tranquil#
-LEAVE BEHIND#v.#poslassar, lassar detra#
-LEAVE IN THE LURCH#v.#abandonar, monstrar se ínfidibil#
-LEAVE OFF#v.#cessar#
+LEAVE#v.-example#TO LEAVE ALONE: lassar tranquil#
+ALONE#adj.-example#TO LEAVE ALONE: lassar tranquil#
+LEAVE#v.-example#TO LEAVE BEHIND: poslassar, lassar detra#
+LEAVE#v.-example#TO LEAVE IN THE LURCH: abandonar, monstrar se ínfidibil#
+LURCH#n.# #
+LURCH#v.-example#TO LEAVE IN THE LURCH: abandonar, monstrar se ínfidibil#
+LEAVE#v.-example#TO LEAVE OFF: cessar#
 LEAVEN#n.#leven#
 LEAVEN#v.#fermentar, levenar#
 LEAVINGS#n.#rest(age)#
@@ -8880,7 +8894,8 @@ LEPROSY#n.#lepra (-osi)#
 LESION#n.#lesion#
 LESS#adv.#minu#
 LESS#adv.-example#THE LESS THE BETTER: plu poc, plu bon#
-LESS AND LESS#adv.#sempre minu#
+BETTER#adj.-example#THE LESS THE BETTER: plu poc, plu bon#
+LESS#adv.-example#LESS AND LESS: sempre minu#
 LESSEE#n.#locatario, luator#
 LESSEN#v.#diminuer (se)#
 LESSER#adj.#inferiori#
@@ -8888,10 +8903,12 @@ LESSON#n.#lecion; (eccl.) letion#
 LEST#conj.#pro timore que; por que … ne#
 LET#v.#(to allow) lassar, permisser; (to let alone) lassar; a tacer pri; (to lease) forluar; (optative) lass; (subjunctive) mey#XXX TODO consultar "a tacer pri"
 LET#v.-example#LET IT CAME: it mey venir#XXX TODO confirmar anglesi came/come
-LET ALONE#prep.#a tacer pri#XXX TODO consultar: li traduction es diferent in "LET"
-LET GO#v.#liberar, lassar ear; (naut.) filar#
-LET OFF#v.#far exploDer; (fig.) pardonar, excusar#
-LET OUT#v.#(clothes) extender, alargar; (to divulge) divulgar; (to free) lassar surtir, lassar escapar#
+LET#v.-example#LET ALONE: a tacer pri#XXX TODO consultar: li traduction es diferent in "LET"
+ALONE#adj.-example#LET ALONE: a tacer pri#XXX TODO consultar: li traduction es diferent in "LET"
+LET#v.-example#TO LET GO: liberar, lassar ear; (naut.) filar#
+GO#v.-example#TO LET GO: liberar, lassar ear; (naut.) filar#
+LET#v.-example#TO LET OFF: far exploDer; (fig.) pardonar, excusar#
+LET#v.-example#TO LET OUT: (clothes) extender, alargar; (to divulge) divulgar; (to free) lassar surtir, lassar escapar#
 LETHAL#adj.#mortific, mortatori#
 LETHARGY#n.#letargie (-ic)#
 LETTER#n.#lettre (-bux); (of alphabet) líttere#
@@ -8912,7 +8929,8 @@ LEVERET#n.#leporello#
 LEVITATION#n.#levation#
 LEVITY#n.#levitá, frivolitá#
 LEVY#v.#imposir; (troops) levar, recrutar#
-LEVY AN IMPOST#v.#impostar#
+LEVY#v.-example#TO LEVY AN IMPOST: impostar#
+IMPOST#n.-example#LEVY AN IMPOST: impostar#
 LEWD#adj.#ínchast, libertin, debochant#
 LEXICON#n.#lexico (-al, -ografie); dictionarium#
 LIABILITY#n.#(propensity) inclination, tendentie; (debt) passive, debite#
@@ -8941,10 +8959,13 @@ LICKSPITTLE#n.#leccard, adulator#
 LID#n.#(cover) covrette, covricul; (eyelid) palpebre#
 LIE#n.#mentie; (slope) cline#
 LIE#v.#(to rest extended on any support) jacer, reposar; (to tell a lie) mentir; (to remain) restar#
-LIE IDLE#v.#chomar#
-LIE IN WAIT#v.#inboscar, guatar#
-LIE OVER#v.#star ajornat#
-LIE TO#v.#(naut.) capear#
+LIE#v.-example#TO LIE IDLE: chomar#
+IDLE#adj.-example#TO LIE IDLE: chomar#
+LIE#v.-example#TO LIE IN WAIT: inboscar, guatar#
+WAIT#n.# #
+WAIT#n.-example#LIE IN WAIT: inboscar, guatar#
+LIE#v.-example#TO LIE OVER: star ajornat#
+LIE#v.-example#TO LIE TO: (naut.) capear#
 LIEF#adv.# #XXX TODO
 LIEF#adv.-example#I WOULD AS LIEF: yo vell preferer#
 LIEGE#adj.#vassali#
@@ -8966,8 +8987,8 @@ LIGATURE#n.#ligatura; bande, corde ligativ#
 LIGHT#adj.#(of weight) levi; (easy) facil, lucid, clar, luminosi; (of hair) blond#
 LIGHT#n.#luce, lúmine; foy#
 LIGHT#v.#accenDer, inflammar#
-LIGHT ON#v.#incontrar; decovrir#
-LIGHT UP#v.#iluminar#
+LIGHT#v.-example#TO LIGHT ON: incontrar; decovrir#
+LIGHT#v.-example#TO LIGHT UP: iluminar#
 LIGHT-FOOTED#adj.#agil (-ita)#
 LIGHTEN#v.#aclarar; iluminar, lucidar; (to ease) aleviar; (lightning) fulminar#
 LIGHTER#n.#(boat) chalande, chalupe; (cigarette lighter) accendette#
@@ -8977,8 +8998,10 @@ LIGHTHOUSE#n.#fare#
 LIGHTING#n.#ilumination; lucement#
 LIGHTLY#adv.#levimen, facilmen#
 LIGHTNING#n.#fúlmine, fulguration#
-LIGHTNING CONDUCTOR#n.#para-fúlmine#
-LIGHTNING STROKE#n.#fúlmincolpe#
+LIGHTNING#n.-example#LIGHTNING CONDUCTOR: para-fúlmine#
+CONDUCTOR#n.-example#LIGHTNING CONDUCTOR: para-fúlmine#
+LIGHTNING#n.-example#LIGHTNING STROKE: fúlmincolpe#
+STROKE#n.-example#LIGHTNING STROKE: fúlmincolpe#
 LIGHTS#n.#(lungs) pulmones#
 LIGHTSHIP#n.#fare-nave#
 LIGNEOUS#adj.#lignin#
@@ -8996,7 +9019,8 @@ LIKING#n.#gust, inclination, preferentie, predilection#
 LILAC#n.#lila#
 LILT#n.#ritme, melodie, cadentie#
 LILY#n.#lilie#
-LILY OF THE VALLEY#n.#convallaria#
+LILY#n.-example#LILY OF THE VALLEY: convallaria#
+VALLEY#n.-example#LILY OF THE VALLEY: convallaria#
 LIMB#n.#membre; tranche; (astr.) limbe#
 LIMBO#n.#borde del inferne#
 LIME#n.#(fruit) limon; (tree) tilie; (min.) calce; (birdlime) colle#
@@ -9006,7 +9030,9 @@ LIMELIGHT#n.#Drummond-luce, luce oxihidrogeni; (fig.) public atention#
 LIMESTONE#n.#calc-petre#
 LIMEWASH#v.#calcinar#
 LIMIT#n.#límite (-ar, -ation)#
-LIMITED COMPANY#n.#societé anonim, societé actionari#
+LIMIT#v.#limitar (-e, -ation)#
+LIMIT#v.-example#LIMITED COMPANY: societé anonim, societé actionari#
+COMPANY#n.-example#LIMITED COMPANY: societé anonim, societé actionari#
 LIMP#adj.#lax, flexibil, fatigat#
 LIMP#v.#claudicar#
 LIMPID#adj.#limpid (-itá), diafan#
@@ -9017,7 +9043,8 @@ LINEAGE#n.#genealogie#
 LINEAMENT#n.#trate, lineament#
 LINEN#adj.#linin#
 LINEN#n.#toale; (clothes) linage#
-LINEN WAREHOUSE#n.#linagería#
+LINEN#n.-example#LINEN WAREHOUSE: linagería#
+WAREHOUSE#n.-example#LINEN WAREHOUSE: linagería#
 LINER#n.#nave de linea, transoceanico#
 LING#n.#(fish) molve; (bot.) erica#
 LINGER#v.#tardar, demorar, lentear; (to remain) restar#
@@ -9061,7 +9088,7 @@ LITTER#n.#jettallia; (of pigs) covatura, ventrade; (stretcher) portuore#
 LITTER#v.#metter in desordine#
 LITTLE#adj.#micri, litt (-itá, -esse)#
 LITTLE#adv.#poc, alquant#
-LITTLE BY LITTLE#adv.#poc a poc#
+LITTLE#adv.-example#LITTLE BY LITTLE: poc a poc#
 LITTORAL#adj.#litoral#
 LITTORAL#n.#litorale#
 LITURGY#n.#liturgie (-ic)#
@@ -9098,7 +9125,7 @@ LOCATION#n.#situation; localisation#
 LOCH#n.#lago; golfe#
 LOCK#n.#serrure (-ero); (of hair) bucle; (canal) scluse#
 LOCK#v.#cluder per clave, clave-cluder; serrar#
-LOCK BEHIND#v.#regardar circum se#
+LOCK#v.-example#LOCK BEHIND: regardar circum se#
 LOCKER#n.#scaf#
 LOCKET#n.#medallion#
 LOCKGATE#n.#scluse-porta#
@@ -9133,7 +9160,8 @@ LONG#adj.-example#NOT LONG AGO: ante ne long#
 LONG#adv.#long(men)#
 LONG#adv.-example#NOT LONG AGO: ante ne long#
 LONG#v.#desirar fortmen, sospirar#
-LONG SINCE#adv.#ante long témpor, ja de longmen; de tande#
+LONG#adv.-example#LONG SINCE: ante long témpor, ja de longmen; de tande#
+SINCE#adv.-example#LONG SINCE: ante long témpor, ja de longmen; de tande#
 LONG-LIVED#adj.#long-vivent#
 LONG-SIGHTED#adj.#presbit, long-vident#
 LONG-SUFFERING#adj.#long-anim, patient#
@@ -9143,22 +9171,28 @@ LONGITUDE#n.#longitúdine (-al)#
 LONGWAYS#adv.#secun li longore#
 LONGWINDED#adj.#tedant, tedosi#
 LOOK#v.#regardar, spectar#
-LOOK AFTER#v.#cuidar#
-LOOK ASKANCE AT#v.#regardar con suspection#
-LOOK FOR#v.#serchar, expectar#
-LOOK FORWARD TO#v.#anticipar con plesura#
-LOOK INTO#v.#investigar#
-LOOK LIKE#v.#similar, aspecter#
-LOOK OUT!#interj.#garda!, atention!#
-LOOK TO#v.#fider a, contar sur#
+LOOK#v.-example#LOOK AFTER: cuidar#
+ASKANCE#adv.# #
+LOOK#v.-example#LOOK ASKANCE AT: regardar con suspection#
+ASKANCE#adv.-example#LOOK ASKANCE AT: regardar con suspection#
+LOOK#v.-example#LOOK FOR: serchar, expectar#
+LOOK#v.-example#LOOK FORWARD TO: anticipar con plesura#
+FORWARD#adv.-example#LOOK FORWARD TO: anticipar con plesura#
+LOOK#v.-example#LOOK INTO: investigar#
+LOOK#v.-example#LOOK LIKE: similar, aspecter#
+LIKE#adv.-example#LOOK LIKE: similar, aspecter#
+LOOK#v.-example#LOOK OUT!: garda!, atention!#
+LOOK#v.-example#LOOK TO: fider a, contar sur#
 LOOK-OUT#n.#perspective; observator#
-LOOK-OUT TOWER#n.#belvedere#
+LOOK#n.-example#LOOK-OUT TOWER: belvedere#
+TOWER#n.-example#LOOK-OUT TOWER: belvedere#
 LOOKING-GLASS#n.#spegul#
 LOOM#n.#textuore#
 LOOM#v.#aparir lentmen in lontanie#
 LOOP#n.#lace, node current#
 LOOP#v.#lacear#
-LOOP THE LOOP#v.#culbutar#
+LOOP#v.-example#LOOP THE LOOP: culbutar#
+LOOP#n.-example#LOOP THE LOOP: culbutar#
 LOOPHOLE#n.#apertura; (way out) via escapatori#
 LOOSE#adj.#lax, deligat, ínfirm, labil; ínprecis; debochant#
 LOOSE#v.#liberar, decatenar#
@@ -9177,8 +9211,10 @@ LORE#n.#instruction, scientie#
 LORGNETTE#n.#lorniette#
 LORRY#n.#carre, camion, furgon#
 LOSE#v.#perdir; (of clock) tardar; (one's temper) incolerar se#
-LOSE HOLD OF#v.#perdir li guvernantie de#
-LOSE ONE'S BREATH#v.#har perdit li hala#
+LOSE#v.-example#LOSE HOLD OF: perdir li guvernantie de#
+HOLD#n.-example#LOSE HOLD OF: perdir li guvernantie de#
+LOSE#v.-example#LOSE ONE'S BREATH: har perdit li hala#
+BREATH#n.-example#LOSE ONE'S BREATH: har perdit li hala#
 LOSS#n.#perde#
 LOT#n.#fate, destine; (collection) portion, parte, quote; quantitá; (drawn) lot (-ar)#
 LOT#n.-example#A LOT OF: mult#
@@ -9215,7 +9251,8 @@ LUCID#adj.#lucid (-itá, -ar), clar, distint#
 LUCIFER#n.#(match) inflammette#
 LUCK#n.#fortun, felicie; hasarde, chance#
 LUCKY#adj.#felici, de bon chance#
-LUCKY CHARM#n.#amulette, porta-felicie#
+CHARM#n.-example#LUCKY CHARM: amulette, porta-felicie#
+LUCKY#adj.-example#LUCKY CHARM: amulette, porta-felicie#
 LUCRE#n.#lucre (-ar, -ativ)#
 LUCUBRATION#n.#dissertation, lucubration#
 LUDICROUS#adj.#ridicul, drolli, risibil, burlesc#
@@ -15504,10 +15541,10 @@ THE#art.#li; (abstract) lu#
 THE#art.--example#THE BROWNS AND THE SMITHS: lis Brown e lis Smith#
 THE ANTARCTIC#n.#Antarctica#
 THE ARCTIC#n.#Arctica#
-THE LESS THE BETTER#adv.#plu poc, plu bon#
-THE MORE THE BETTER#adv.#plu mult, plu bon#
-THE ONE THING#n.#li sol afere#
-THE OTHER DAY#adv.#recentmen, ante quelc dies#
+THE LESS THE BETTER#adv.#plu poc, plu bon#XXX TODO deleter
+THE MORE THE BETTER#adv.#plu mult, plu bon#XXX TODO deleter
+THE ONE THING#n.#li sol afere#XXX TODO deleter
+THE OTHER DAY#adv.#recentmen, ante quelc dies#XXX TODO deleter
 THE TROPICS#n.#li tropic landes#
 THEATRE#n.#teatre (-al, -ic)#
 THEE#pron.#te#
