@@ -10248,7 +10248,7 @@ NAG#v.#criticachar, insultar#
 NAIAD#n.#nayade#
 NAIL#n.#clove; (of finger, toe) ungul#
 NAIL#v.#clovar#
-NAIL UP#v.#adclovar#
+NAIL#v.-example#TO NAIL UP: adclovar#
 NAIVE#adj.#naiv (-itá), ingenui#
 NAKED#adj.#nud (-itá); simplic#
 NAMBY-PAMBY#adj.#afectat#
@@ -10290,7 +10290,8 @@ NAUGHTY#adj.#malin, desobedient, perversi#
 NAUSEA#n.#nausea (-ativ, -osi)#
 NAUTICAL#adj.#nautic, marin#
 NAVAL#adj.#naval#
-NAVAL SCIENCE#n.#nautica#
+NAVAL#adj.-example#NAVAL SCIENCE: nautica#
+SCIENCE#n.-example#NAVAL SCIENCE: nautica#
 NAVE#n.#(of church) nave; (of wheel) nabe#
 NAVEL#n.#umbilico#
 NAVIGATE#v.#navigar (-ation, -ator, -abil, -abilitá)#
@@ -10341,7 +10342,8 @@ NEIGHBOURHOOD#n.#vicinitá, vicinage#
 NEIGHBOURING#adj.#vicin, adjacent#
 NEIGHBOURLY#adj.#sociabil, de bon vicino#
 NEITHER#pron.#nequel, null; ni un ni li altri#
-NEITHER … NOR …#conj.#ni … ni …#
+NEITHER#pron.-example#NEITHER … NOR …: ni … ni …#
+NOR#conj.-example#NEITHER … NOR …: ni … ni …#
 NEMESIS#n.#némesis#
 NEOLITHIC#adj.#neolitic#
 NEOLOGISM#n.#neologisme#
@@ -10352,7 +10354,8 @@ NEPHEW#n.#nevo#
 NEPOTISM#n.#nepotisme#
 NERVE#n.#nerve (-al, -ine)#
 NERVOUS#adj.#nervosi (-tá), timid#
-NERVOUS SYSTEM#n.#sistema nerval#
+NERVOUS#adj.-example#NERVOUS SYSTEM: sistema nerval#
+SYSTEM#n.-example#NERVOUS SYSTEM: sistema nerval#
 NEST#n.#nest (-ar), nide#
 NESTLE#v.#presser se, innestar se#
 NESTLING#n.#aviello, neston#
@@ -10373,7 +10376,8 @@ NEUTER#adj.#neutri#
 NEUTER#n.#(gramm.) neutrum#
 NEUTRAL#adj.#neutral (-isar, -itá)#
 NEVER#adv.#nequande#
-NEVER MIND#adv.#neproquó, it es me egal#
+NEVER#adv.-example#NEVER MIND: neproquó, it es me egal#
+MIND#v.-example#NEVER MIND: neproquó, it es me egal#
 NEVERTHELESS#conj.#támen, totvez#
 NEW#adj.#nov, recent#
 NEW-COMER#n.#novicio, nov-veniente#
@@ -10384,7 +10388,7 @@ NEWSPAPER#n.#jurnale, gazette#
 NEWT#n.#salamandre#
 NEXT#adj.#proxim, sequent, adjacent#
 NEXT#adv.#poy; (almost) presc#
-NEXT TO#prep.#apu#
+NEXT#adj.-example#NEXT TO: apu#
 NIB#n.#(of pen) punta#
 NIBBLE#n.#morsade#
 NIBBLE#v.#mordettar, roder#
@@ -10431,9 +10435,10 @@ NITRATE#n.#nitrate#
 NITRE#n.#salpetre, nitre (-ic, -osi, -ificar)#
 NITROGEN#n.#nitre, azot#
 NO#adj.#(not any) null, nequel; (no quantity) nequant; (no sort of) nequal#
-NO#adv.#no; (before verbs) ne#
-NO EFFECT#v.#in van#
-NO THOROUGHFARE#adj.#íntraficabil#
+NO#adv.#(response to a question) no; ne#
+NO#adj.-example#NO EFFECT: in van#
+EFFECT#n.-example#NO EFFECT: in van#
+THOROUGHFARE#n.-example#NO THOROUGHFARE: íntraficabil#
 NOBLE#adj.#(character) nobli (-esse), magnific; (of rank) nobil (-o, -itá, -ité)#
 NOBODY#n.#nequí; (obj.) nequem#
 NOCTURNAL#adj.#noctal#
@@ -10456,7 +10461,8 @@ NONCHALANT#adj.#nonchalant (-ie), ínsuciant#
 NONCONFORMIST#adj.#dissident (-e)#
 NONDESCRIPT#adj.#ínclassificabil, índescribil#
 NONE#pron.#(no one) nequí, null; (no quantity) nequant, nequó#
-NONE BUT#adv.#solmen#
+NONE#pron.-example#NONE BUT: solmen#
+BUT#conj.-example#NONE BUT: solmen#
 NONENTITY#n.#nullitá, person sin importantie#
 NONPLUS#v.#far perplex, confuser#
 NONSENSE#n.#nonsense, absurditá, galimatias, radotage#
@@ -10467,7 +10473,9 @@ NOOSE#n.#lace, node current; trappe#
 NOR#conj.#ni#
 NORM#n.#norme (-al, -alitá)#
 NORTH#n.#nord (-al, -ic)#
-NORTHERN LIGHTS#n.#aurora boreal, luce polari#
+NORTHERN#adj.#nordal, nordic#
+NORTHERN#adj.-example#NORTHERN LIGHTS: aurora boreal, luce polari#
+LIGHT#n.-example#NORTHERN LIGHTS: aurora boreal, luce polari#
 NOSE#n.#nase (-al)#
 NOSEBAG#n.#manja-sac#
 NOSEGAY#n.#buquete#
@@ -10478,9 +10486,13 @@ NOT#adv.#ne#
 NOT#adv.-example#IS IT NOT?: never?#
 NOT#adv.-example#NOT AT ALL: tot ne, totmen ne, nequant, nequam#
 NOT#adv.-example#NOT IN THE LEAST: in null mode, tot ne#
-NOT AT ALL#adv.#tot ne, totmen ne, nequant, nequam#
-NOT IN THE LEAST#adv.#in null mode, tot ne#
-NOT LONG AGO#adv.#ante ne long#
+NOT#adv.-example#NOT AT ALL: tot ne, totmen ne, nequant, nequam#
+ALL#adj.-example#NOT AT ALL: tot ne, totmen ne, nequant, nequam#
+NOT#adv.-example#NOT IN THE LEAST: in null mode, tot ne#
+LEAST#adj.-example#NOT IN THE LEAST: in null mode, tot ne#
+NOT#adv.-example#NOT LONG AGO: ante ne long#
+LONG#adj.-example#NOT LONG AGO: ante ne long#
+AGO#adv.-example#NOT LONG AGO: ante ne long#
 NOTABLE#adj.#notabil, remarcabil#
 NOTABLE#n.#person eminent, notabile#
 NOTARY#n.#notario (-atu)#
@@ -10488,12 +10500,14 @@ NOTATION#n.#notation#
 NOTCH#v.#inciser (-ura), breche#
 NOTE#n.#note; (banknote) billet; (mus.) note, ton#
 NOTE#v.#remarcar; (to jot down) notar#
-NOTE PAPER#n.#scri-papere#
+NOTE#n.-example#NOTE PAPER: scri-papere#
+PAPER#n.-example#NOTE PAPER: scri-papere#
 NOTEBOOK#n.#caderne, nota-librette#
 NOTED#adj.#celebri, famosi; mal famat#
 NOTEWORTHY#adj.#remarcabil, notabil#
 NOTHING#n.#nequó, necós#
-NOTHING ELSE#n.#nequó altri#
+NOTHING#n.-example#NOTHING ELSE: nequó altri#
+ELSE#adv.-example#NOTHING ELSE: nequó altri#
 NOTICE#n.#noticie, observation; atention; (notification) avise, anuncie#
 NOTICE#v.#remarcar, observer#
 NOTIFY#v.#notificar (-ation), avisar#
@@ -10513,7 +10527,8 @@ NOVEMBER#n.#novembre#
 NOVICE#n.#novicio, neofite#
 NOVITIATE#n.#noviciatu#
 NOW#adv.#nu; (argumentative) or#XXX TODO -- conj. "or"?
-NOW AND THEN#adv.#de témpor a témpore, ye vezes#
+NOW#adv.-example#NOW AND THEN: de témpor a témpore, ye vezes#
+THEN#adv.-example#NOW AND THEN: de témpor a témpore, ye vezes#
 NOWADAYS#adv.#ho-témpor#
 NOWHERE#adv.#necú#
 NOWISE#adv.#nequalmen, nullmen, in null maniere#
