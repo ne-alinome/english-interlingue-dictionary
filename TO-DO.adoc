@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-12-26
+:revdate: 2022-01-10
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -72,7 +72,7 @@
 - Add the missing meanings of "AWAY (adv.)".
 - Replace commas and semicolons with other characters in order to
   allow commas in the translations, e.g. `ANYTHING BUT#prep.#omnicos, exceptet#`
-- Add "demí-" to "mi-".
+- Link compound words to their headwords, e.g. "JACK-IN-THE-BOX".
 
 // Doubts {{{1
 == Doubts
