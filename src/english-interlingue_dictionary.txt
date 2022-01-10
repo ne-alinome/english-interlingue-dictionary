@@ -7589,7 +7589,7 @@ IMMATURE#adj.#ínmatur#
 IMMEASURABLE#adj.#imensi, ínmensurabil#XXX FIXME -- imens - imensi
 IMMEDIATE#adj.#ínmediat (-men)#
 IMMEDIATELY#adv.#strax#
-IMMEDIATELY UPON#prep.#che, a#
+UPON#prep.-example#IMMEDIATELY UPON: che, a#
 IMMEMORIAL#adj.#ínmemorial, ínmemorabil#
 IMMENSE#adj.#imens (-itá)#XXX FIXME -- imens - imensi
 IMMERSE#v.#inmerser (-ion)#
@@ -7694,58 +7694,71 @@ IMPUNITY#n.#impunitá#
 IMPURE#adj.#ínpur (-itá), sordid#
 IMPUTE#v.#imputar, atribuer#
 IN#prep.#in; (at the end of) pos#
-IN A BODY#adv.#junt#
-IN A GOOD TEMPER#adv.#de bon humor#
-IN ABEYANCE#adj.#dormient, jacent; statu procrastinat#XXX FIXME -- +ABEYANCE
-IN ACCORDANCE WITH#prep.#conform a, secun#
-IN ADDITION#adv.#adplu#
-IN ADVANCE#adv.#in avanse, anticipatmen#
-IN AN UNDERTONE#adv.#sub voce#
-IN ANTICIPATE#adv.#anticipatmen#
-IN BEING#adj.#existent#
-IN BRIEF#adv.#brevimen, in curt, in un parol#
-IN BROAD DAYLIGHT#adv.#in plen jorne#
-IN CHIME WITH#prep.#in acorde con#
-IN CONJUNCTION WITH#prep.#junt con#
-IN CONSEQUENCE OF#prep.#pro#
-IN CUSTODY#adv.#sub garde#
-IN DEFIANCE OF#prep.#malgré, in defí de#
-IN DETAIL#adv.#detalliatmen#
-IN DUE TIME#adv.#in just témpor#
-IN EARNEST#adj.#seriosi#
-IN EFFECT#adv.#in realitá#
+BODY#n.-example#IN A BODY: junt#
+TEMPER#n.-example#IN A GOOD TEMPER: de bon humor#
+ABEYANCE#n.# #
+ABEYANCE#n.-example#IN ABEYANCE: dormient, jacent; statu procrastinat#
+ACCORDANCE#n.-example#IN ACCORDANCE WITH: conform a, secun#
+ADDITION#n.#addition#
+ADDITION#n.-example#IN ADDITION: adplu#
+ADVANCE#n.#avanse#
+ADVANCE#n.-example#IN ADVANCE: in avanse, anticipatmen#
+UNDERTONE#n.#bass voce#
+UNDERTONE#n.-example#IN AN UNDERTONE: sub voce#XXX TODO consultar
+ANTICIPATE#v.-example#IN ANTICIPATE: anticipatmen#XXX TODO consultar, esque "anticipate" es anc un substantive?
+BEING#n.-example#IN BEING: existent#
+BRIEF#adj.-example#IN BRIEF: brevimen, in curt, in un parol#
+BROAD#adj.-example#IN BROAD DAYLIGHT: in plen jorne#
+DAYLIGHT#n.-example#IN BROAD DAYLIGHT: in plen jorne#
+CHIME#n.-example#IN CHIME WITH: in acorde con#
+CONJUNCTION#n.-example#IN CONJUNCTION WITH: junt con#
+CONSEQUENCE#n.-example#IN CONSEQUENCE OF: pro#
+CUSTODY#n.-example#IN CUSTODY: sub garde#
+DEFIANCE#n.-example#IN DEFIANCE OF: malgré, in defí de#
+DETAIL#n.-example#IN DETAIL: detalliatmen#
+DUE#adj.-example#IN DUE TIME: in just témpor#
+TIME#n.-example#IN DUE TIME: in just témpor#
+EARNEST#adj.-example#IN EARNEST: seriosi#
 EFFECT#n.-example#IN EFFECT: in realitá#
-IN EXCHANGE#adv.#in revancha#
-IN FACT#adv.#in facte, efectivmen#
-IN FORCE#adj.#valid, valent#
-IN FRONT#adv.#in avan#
-IN FULL DRESS#adv.#in gala#
-IN HIGH SPIRITS#adv.#in optim humore#
-IN ITALICS#adv.#cursivmen#
-IN KEEPING WITH#prep.#conform a#
-IN LIEU OF#prep.#vice, in vice de#
-IN LIKE MANNER#adv.#sammen#
-IN MANY RESPECTS#adv.#in mani concernenties#
-IN ORDER THAT#conj.#por que, porque#
-IN ORDER TO#prep.#por#
-IN PLACE OF#prep.#vice#
-IN READINESS#adv.#preparat, pret#XXX FIXME -- adj./adv.
-IN RETURN#adv.#in revancha#
-IN SPITE OF#prep.#malgré#
-IN THAT CASE#adv.#alor#
-IN THAT RESPECT#adv.#in ti egarde#
-IN THE FIRST PLACE#adv.#ante omno, in unesim loc#
-IN THE LONG RUN#adv.#con li témpore#
-IN THE MAIN#adv.#in general, principalmen, precipue#
-IN THE MEANTIME#adv.#ínterim#
-IN THE NICK OF TIME#adv.#in li just moment#
-IN THE OFFING#adv.#sat proxim; (mar.) in li avan-costa#
-IN THE PRESENCES OF#prep.#córam#
-IN THE REAR#adv.#in detra#
-IN THE SAME BREATH#adv.#in li sam hala#
-IN TIME#adv.#sat tost, in just tempor#
-IN VAIN#adv.#ínutilmen, sin successe, in van#
-IN VOGUE#adv.#secun li moda, reyent#XXX FIXME -- "moda reyent"/"moda, reyent"
+EXCHANGE#n.-example#IN EXCHANGE: in revancha#
+FACT#n.-example#IN FACT: in facte, efectivmen#
+FORCE#n.-example#IN FORCE: valid, valent#
+FRONT#adj.-example#IN FRONT: in avan#
+DRESS#n.-example#IN FULL DRESS: in gala#
+SPIRIT#n.-example#IN HIGH SPIRITS: in optim humore#
+ITALICS#n.-example#IN ITALICS: cursivmen#
+KEEP#v.-example#IN KEEPING WITH: conform a#
+LIEU#n.# #
+LIEU#n.-example#IN LIEU OF: vice, in vice de#
+LIKE#adj.-example#IN LIKE MANNER: sammen#
+MANNER#n.-example#IN LIKE MANNER: sammen#
+RESPECT#n.-example#IN MANY RESPECTS: in mani concernenties#
+ORDER#n.-example#IN ORDER THAT: por que, porque#
+ORDER#n.-example#IN ORDER TO: por#
+PLACE#n.-example#IN PLACE OF: vice#
+READY#adj.-example#IN READINESS: preparat, pret#XXX FIXME -- adj./adv.
+RETURN#n.-example#IN RETURN: in revancha#
+SPITE#n.-example#IN SPITE OF: malgré#
+CASE#n.-example#IN THAT CASE: alor#
+RESPECT#n.-example#IN THAT RESPECT: in ti egarde#
+PLACE#n.-example#IN THE FIRST PLACE: ante omno, in unesim loc#
+RUN#n.-example#IN THE LONG RUN: con li témpore#
+LONG#adj.-example#IN THE LONG RUN: con li témpore#
+MAIN#adj.-example#IN THE MAIN: in general, principalmen, precipue#
+MEANTIME#adv.#ínterim#
+MEANTIME#n.# #XXX TODO
+MEANTIME#n.-example#IN THE MEANTIME: ínterim#
+NICK#n.# #
+NICK#n.-example#IN THE NICK OF TIME: in li just moment#
+TIME#n.-example#IN THE NICK OF TIME: in li just moment#
+OFFING#n.# #
+OFFING#n.-example#IN THE OFFING: sat proxim; (mar.) in li avan-costa#
+PRESENCES#n.-example#IN THE PRESENCES OF: córam#
+REAR#n.-example#IN THE REAR: in detra#
+BREATH#n.-example#IN THE SAME BREATH: in li sam hala#
+TIME#n.-example#IN TIME: sat tost, in just tempor#
+VAIN#adj.-example#IN VAIN: ínutilmen, sin successe, in van#
+VOGUE#n.-example#IN VOGUE: secun li moda, reyent#XXX FIXME -- "moda reyent"/"moda, reyent"
 INABILITY#n.#íncapabilitá#
 INACCESSIBLE#adj.#ínaccessibil (-itá)#
 INACCURATE#adj.#íncorect, ínacurat, ínexact#
@@ -7762,7 +7775,8 @@ INAPPRECIABLE#adj.#ínapreciabil#
 INAPPROPRIATE#adj.#ínapt#
 INAPT#adj.#ínapt (-itá)#
 INARTICULATE#adj.#índistint, ínclar, ínarticulat#
-INASMUCH AS#conj.#proque, pro to que#
+INASMUCH#adv.# #
+INASMUCH#adv.-example#INASMUCH AS: proque, pro to que#
 INATTENTION#n.#ínatention#XXX FIXME -- "ínatention"="ín+n"?
 INAUDIBLE#adj.#ínaudibil (-itá)#
 INAUGURAL#adj.#inaugural#
@@ -7804,7 +7818,8 @@ INCOGNITO#adj., adv.#incognito#XXX FIXME --
 INCOHERENT#adj.#íncoherent (-ie)#
 INCOMBUSTIBLE#adj.#íncombustibil#
 INCOME#n.#revenú; (from investments) renta#
-INCOME TAX#n.#impost#
+INCOME#n.-example#INCOME TAX: impost#
+TAX#n.-example#INCOME TAX: impost#
 INCOMMENSURATE#adj.#ínegal, ínadequat, íncomensurabil#
 INCOMMODE#v.#íncomodar, genar#
 INCOMPARABLE#adj.#íncomparabil#
@@ -7978,12 +7993,12 @@ INFLUENCE#n.#influentie (-al, -ar)#
 INFLUENZA#n.#influenza, grippe#
 INFLUX#n.#influte, afluentie#
 INFORM#v.#informar (-ation, -ator, -ativ)#
-INFORM AGAINST#v.#denunciar#
+INFORM#v.-example#TO INFORM AGAINST: denunciar#
 INFORMAL#adj.#ínformal, ínceremonial, sin gena#
 INFRACTION#n.#infraction, violation#
 INFREQUENT#adj.#rar, ínfrequent (-ie)#
 INFRINGE#v.#infracter, violar#
-INFRINGE UPON#v.#transgresser#
+INFRINGE#v.-example#TO INFRINGE UPON: transgresser#
 INFURIATE#v.#infuriar, incolerar#
 INFUSE#v.#infuser (-ion); (a person with) inspirar#
 INGATHERING#n.#recolte#
@@ -7993,7 +8008,8 @@ INGLORIOUS#adj.#íngloriosi#
 INGOT#n.#lingot#
 INGRAFT#v.#greftar#
 INGRAINED#adj.#inradicat#
-INGRATIATE ONESELF#v.#insinuar se, infavorisar se#
+INGRATIATE#v.# #
+INGRATIATE#v.-example#TO INGRATIATE ONESELF: insinuar se, infavorisar se#
 INGRATITUDE#n.#íngratitá#
 INGREDIENT#n.#ingrediente, element#
 INGRESS#n.#intrada, accesse#
@@ -8021,8 +8037,10 @@ INJURE#v.#nocer, damagear; (to wrong) injuriar; (to wound) leDer, vulnerar#
 INJURY#n.#detriment, injurie; damage, lesion, vulnere#
 INJUSTICE#n.#ínjustitá#
 INK#n.#incre (-iere)#
+INLAID#adj.# #
 INLAID#n.#mosaic#
-INLAID FLOOR#n.#parquett(e), mosaica#
+INLAID#adj.-example#INLAID FLOOR: parquett(e), mosaica#
+FLOOR#n.-example#INLAID FLOOR: parquett(e), mosaica#
 INLAND#adj.#intran, interiori#
 INLAY#v.#mosaicar, parquettar#
 INLET#n.#baya, micri golf; ingress#
@@ -8030,7 +8048,8 @@ INLY#adv.#internalmen#
 INMATE#n.#convivente, habitant#
 INMOST#adj.#max interiori, max secret, max intim#
 INN#n.#albergo, gastería, taverne#
-INN KEEPER#n.#albergator, tavernero, restorator#
+INN#n.-example#INN KEEPER: albergator, tavernero, restorator#
+KEEPER#n.-example#INN KEEPER: albergator, tavernero, restorator#
 INNATE#adj.#innat, innascet, natural#
 INNER#adj.#interiori, internal#
 INNINGS#n.#(cricket) range, torn#
@@ -8049,13 +8068,17 @@ INORGANIC#adj.#ínorganic#
 INQUEST#n.#inqueste (-or)#
 INQUIETUDE#n.#ínquietitá, anxie#
 INQUIRE#v.#questionar, inquisiter, demandar#
-INQUIRE INTO#v.#investigar, explorar#
+INQUIRE#v.-example#TO INQUIRE INTO: investigar, explorar#
 INQUIRY#n.#demanda; investigation, inqueste#
-INQUIRY OFFICE#n.#buró de information#
+INQUIRY#n.-example#INQUIRY OFFICE: buró de information#
+OFFICE#n.-example#INQUIRY OFFICE: buró de information#
 INQUISITION#n.#inquisition#
 INQUISITIVE#adj.#curiosi#
 INROAD#n.#incursion, iruption#
-INS AND OUTS#n.#detallies#
+IN#n.# #
+OUT#n.# #
+IN#n.-example#INS AND OUTS: detallies#
+OUT#n.-example#INS AND OUTS: detallies#
 INSALUBRIOUS#adj.#ínsalubri, ínsanitari#
 INSAN#adj.#dement (-ie), alienat#
 INSANITARY#adj.#ínsanitari#
@@ -8119,7 +8142,8 @@ INSULT#n.#insulte (-ar), injurie (-ar)#
 INSUPERABLE#adj.#ínsuperabil#
 INSUPPORTABLE#adj.#ínsuportabil#
 INSURANCE#n.#assecurantie#
-INSURANCE PREMIUM#n.#premie de assecurantie#
+INSURANCE#n.-example#INSURANCE PREMIUM: premie de assecurantie#
+PREMIUM#n.-example#INSURANCE PREMIUM: premie de assecurantie#
 INSURE#v.#assecurar; (a place) reservar#
 INSURGENT#adj.#rebellic, insurgent#
 INSURGENT#n.#insurgente#
@@ -8200,7 +8224,8 @@ INTIMATE#adj.#intim (-a, -o)#
 INTIMATE#v.#suggester, informar#
 INTIMIDATE#v.#intimidar (-ation)#
 INTO#prep.#in, ad-in#
-INTO THE BARGAIN#adv.#adplu#
+INTO#prep.-example#INTO THE BARGAIN: adplu#
+BARGAIN#n.-example#INTO THE BARGAIN: adplu#
 INTOLERABLE#adj.#íntolerabil#
 INTOLERANT#adj.#íntolerant (-ie)#
 INTONE#v.#intonar (-ation)#
@@ -8291,7 +8316,7 @@ IRREPROACHABLE#adj.#ínreprochabil, ínblamabil#
 IRRESISTIBLE#adj.#ínresistibil#
 IRRESOLUTE#adj.#ínresolut, hesitant#
 IRRESPECTIVE#adj.#índependent, sin egarde#XXX FIXED -- splitted and modified to match the usages
-IRRESPECTIVE OF#prep.#índependent de, sin egardar#
+IRRESPECTIVE#adj.-example#IRRESPECTIVE OF: índependent de, sin egardar#
 IRRESPONSIBLE#adj.#ínresponsabil (-itá)#
 IRRETRIEVABLE#adj.#ínrecuperabil, ínreparabil#
 IRREVELANT#adj.#ne pertinent, sin pertinentie, ínaplicabil, extran#
@@ -9410,9 +9435,9 @@ MANURE#n.#sterco#
 MANURE#v.#stercar#
 MANUSCRIPT#n.#manuscrite#
 MANUSCRIPT BOOK#n.#caderne#
-MANY#adj.#mult#
+MANY#adj.#mult, mani#
 MANY#prefix#multi-, pluri-, poli-#
-MANY A#adj.#mani#
+MANY#adj.-example#MANY A: mani#
 MAP#n.#carte geografic, land-carte#
 MAPLE#n.#ácere#
 MAR#v.#defecter, nocer; trublar#
