@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2022-01-10
+:revdate: 2022-01-11
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -12,8 +12,8 @@
 == Building fixes and improvements
 
 - Fix: <make/add_letter_headings.vim> does not work fine in ex mode.
-- Enclose the examples into curly brackets, in order to make clear
-  their internal semicolons.
+- Fix: make sure "OUT OF:" is sorted before "OUT OF x:", and similar
+  cases.
 
 // Content fixes and improvements {{{1
 == Content fixes and improvements
@@ -73,6 +73,7 @@
 - Replace commas and semicolons with other characters in order to
   allow commas in the translations, e.g. `ANYTHING BUT#prep.#omnicos, exceptet#`
 - Link compound words to their headwords, e.g. "JACK-IN-THE-BOX".
+- Add "min" to "minu".  
 
 // Doubts {{{1
 == Doubts
