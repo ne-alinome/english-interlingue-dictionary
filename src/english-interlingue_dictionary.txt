@@ -1874,7 +1874,7 @@ BOX#n.#(container) buxe, estuche, chest, scatulle; (trunk) coffre; (theatre) log
 BOX#v.intr.#(to fight with the fists) boxar (-ero)#
 BOX#v.tr.#(to inclose in a box) inbuxar, inscatullar; (to strike with the hand or fist) guanciar#
 BOX#n.-example#TO BOX IN: inscatullar, inbuxar#
-BOX#n.-example#TO BOX UP: inscatullar, inbuxar; (ears) guanciar#XXX FIXME li punctu-comma es confusent quando altri usation seque li exemple
+BOX#n.-example#TO BOX UP: inscatullar, inbuxar; (ears) guanciar#
 BOY#n.#púer, garson, infanto, yuno, boy#
 BOYCOTT#n.#boycotte (-ar)#
 BOYFRIEND#n.#amato#
@@ -10281,7 +10281,7 @@ NATAL#adj.#natal#
 NATATION#n.#natation, svimmada#
 NATION#n.#nation (-al, -alist, -alisme, -alisar, -alitá)#
 NATIVE#adj.#natal, indigen, autocton#
-NATIVE#n.#habitante; (aborigine) iridigen#
+NATIVE#n.#habitante; (aborigine) indigen#
 NATIVITY#n.#nativitá#
 NATURAL#adj.#natural; n (mus.) biquadre, naturale#
 NATURE#n.#natura (-al, -alist, -alisar)#
@@ -10721,7 +10721,7 @@ OMNIPOTENT#adj.#omnipotent (-ie)#
 OMNIPRESENT#adj.#omnipresent (-ie), ubiqui#
 OMNISCIENT#adj.#omnisavent (-ie)#
 ON#adv.#(onwards) adavan#
-ON#adv.-example#THE PROGRAMME IS ON: li programma es in action, ha comensat#
+ON#adv.-example#THE PROGRAMME IS ON: li programma es in action, li programma ha comensat#
 ON#prep.#sur; (on to) (ad)sur#
 ON#prep.-example#ON ARRIVING: arivante, pos har arivat#XXX TODO -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
 ON#prep.-example#ON FOOT: a pedes#
@@ -10732,13 +10732,11 @@ ON#prep.-example#ON ARRIVING: arivante, pos har arivat#XXX TODO -- The original 
 ARRIVE#v.-example#ON ARRIVING: arivante, pos har arivat#XXX TODO -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
 ON#prep.-example#ON BEHALF OF: in nómine de, por#
 BEHALF#n.-example#ON BEHALF OF: in nómine de, por#
-ON#prep.-example#ON FOOT: a pedes#
 FOOT#n.-example#ON FOOT: a pedes#
 ON#adv.-example#ON NO ACCOUNT: pro nequel (null) cause, certmen ne#
 ACCOUNT#n.-example#ON NO ACCOUNT: pro nequel (null) cause, certmen ne#
 ON#adv.-example#ON PAIN OF DEATH: sub pena de morte#
 PAIN#n.-example#ON PAIN OF DEATH: sub pena de morte#
-DEATH#n.-example#ON PAIN OF DEATH: sub pena de morte#
 ON#prep.-example#ON THAT SCORE: pro ti motive#
 SCORE#n.-example#ON THAT SCORE: pro ti motive#
 ON#prep.-example#ON THE AVERAGE: medialmen#
@@ -10757,7 +10755,6 @@ ON#prep.-example#ON THE STRENGTH OF: fidente a#
 STRENGTH#n.-example#ON THE STRENGTH OF: fidente a#
 ON#prep.-example#ON THE WHOLE: in general, generalmen#
 WHOLE#n.-example#ON THE WHOLE: in general, generalmen#
-ON#prep.-example#ON TIME: in just témpor, punctualmen#
 TIME#n.-example#ON TIME: in just témpor, punctualmen#
 ONCE#adv.#un vez; (formerly) antey#
 ONCE#adv.-example#ONCE AGAIN: ancor un vez#
@@ -14219,7 +14216,7 @@ SLANG#n.#argote (-ic), slang#
 SLANT#n.#cline#
 SLANT#v.#esser obliqui, far obliqui; clinar#
 SLAP#n.#batte (-er), colpe#
-SLAP IN THE FACE#n.#faciata#
+SLAP IN THE FACE#n.#faciata#XXX TODO consultar
 SLASH#v.#tranchar, cupar, fender#
 SLATE#n.#ardese#
 SLATEPENCIL#n.#ardes-crayon#
@@ -14514,7 +14511,7 @@ SPAN#v.#mesurar, extenDer se#
 SPANGLE#n.#flittre#
 SPANISH-FLY#n.#cantaride#
 SPANNER#n.#clave adjustabil#
-SPAR#min.#spate; (naut.) trave, maste#
+SPAR#n.#(min.) spate; (naut.) trave, maste#
 SPAR#v.#boxar#
 SPARE#adj.#superflú, disponibil; (of build) magri#
 SPARE#adj.-example#SPARE ROOM: gast-chambre#
@@ -14611,7 +14608,7 @@ SPLEEN#n.#splen, bilie#
 SPLENDID#adj.#splendid, magnific, superb#
 SPLENDOUR#n.#splendore, magnificentie#
 SPLICE#v.#interplecter#
-SPLINT#surg.#splinte#
+SPLINT#n.#(surg.) splinte#
 SPLINTER#n.#splittre (-ar), lignun#
 SPLIT#n.#fension, fensura#
 SPLIT#v.#fenDer (se), fisser (-ion, -ura)#
@@ -14676,7 +14673,7 @@ SPY#v.#spiar, spionar; observar#
 SQUABBLE#n.#dispute, querelle#
 SQUABBLE#v.#disputar, querellar#
 SQUAD#n.#file#
-SQUADRON#mil.#escadron; (mar.) escadre#
+SQUADRON#n.#(mil.) escadron; (mar.) escadre#
 SQUALID#adj.#sórdid#
 SQUALL#n.#squall (-i, -osi), burasca#
 SQUALL#v.#strider#
@@ -14904,7 +14901,7 @@ STOCKADE#n.#palissade#
 STOCKBROKER#n.#curtagero#
 STOCKHOLDER#n.#rentero, actionario#
 STOCKING#n.#strumpe#
-STOCKS#fin.#actiones; (for ships) staple; (for punishment) pilorie#
+STOCKS#n.#(fin.) actiones; (for ships) staple; (for punishment) pilorie#
 STOIC#n.#stoico#
 STOICAL#adj.#stoic#
 STOKE#v.#munir#
@@ -15470,7 +15467,7 @@ TASK#n.#tache#
 TASSEL#n.#quaste#
 TASTE#n.#gust, sapore; preferentie, predilection#
 TASTE#v.#gustar; (with tongue) savurar#
-TASTELESS#adj.#fad, sin gust, insipid#
+TASTELESS#adj.#fad, sin gust, ínsipid#
 TASTY#adj.#gustosi, saporosi, de bon guste#
 TATTERDEMALION#n.#chifonoso#
 TATTLE#n.#babillache#
