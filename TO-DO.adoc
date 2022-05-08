@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2022-01-11
+:revdate: 2022-05-09
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -195,3 +195,4 @@
 - Add "deputate" to "DEPUTY".
 - "BOARDING SCHOOL", "internatoria"?
 - "BILL", "billete de moné".  
+- "WHEELCHAIR", rot(e)-stul
