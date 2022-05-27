@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2022-05-09
+:revdate: 2022-05-19
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -196,3 +196,4 @@
 - "BOARDING SCHOOL", "internatoria"?
 - "BILL", "billete de moné".  
 - "WHEELCHAIR", rot(e)-stul
+- "AGGRESS (v.)".  
