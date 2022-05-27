@@ -2556,14 +2556,14 @@ CHAFE#v.#frottar, fricter; iritar se#
 CHAFF#n.#drachallia, pleve#
 CHAFFINCH#n.#pinson#
 CHAGRIN#n.#chagrine (-ar)#
-CHAIK#n.#crete#
-CHAIK#v.#cretar, crete-scrir#
 CHAIN#n.#caten (-ari); serie#
 CHAIN#v.#(in)catenar, ligar#
 CHAIR#n.#stul; (at a meeting) presidentie; (at a University) catedre; professoratu#
 CHAIRMAN#n.#presidente#
 CHAISE#n.#caleche#
 CHALICE#n.#cálice#
+CHALK#n.#crete#
+CHALK#v.#cretar, crete-scrir#
 CHALLENGE#n.#defí#
 CHALLENGE#v.#contestar, defiar; (a juror) recusar; (a duel) provocar#
 CHAMBER#n.#chambre, cámera#
