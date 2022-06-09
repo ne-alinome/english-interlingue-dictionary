@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2022-05-19
+:revdate: 2022-06-10
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -59,7 +59,7 @@
   CARE".
 - In "REFRACTORY (n.) infusibile" is missing meaning "A refractory
   person".
-- Add "(-ie)" to "impertinent" and others. 
+- Add "(-ie)" to "impertinent" and others.
 - Split translations that include internal parens, e.g.
   `BOOZE#v.#trine(ach)ar#`.
 - Finish "CROW OVER".
@@ -68,12 +68,12 @@
 - Fix: "TO FORCE UPON" is given two different translations.
 - Add "descargar" to "decargar".
 - Add "WILL (v.aux.)".
-- Homogenize "(flag)" and "(flags)".  
+- Homogenize "(flag)" and "(flags)".
 - Add the missing meanings of "AWAY (adv.)".
 - Replace commas and semicolons with other characters in order to
   allow commas in the translations, e.g. `ANYTHING BUT#prep.#omnicos, exceptet#`
 - Link compound words to their headwords, e.g. "JACK-IN-THE-BOX".
-- Add "min" to "minu".  
+- Add "min" to "minu".
 
 // Doubts {{{1
 == Doubts
@@ -182,18 +182,19 @@
 - "ABEYANCE" (used in "IN ABEYANCE").
 - "ADVISED" (used in "ILL-ADVISED").
 - "YORE" (used in "OF YORE").
-- "BACTERIUM"
-- "BOXING" = box, boxada, pugilism
+- "BACTERIUM".
+- "BOXING" = box, boxada, pugilism.
 - "CENTENNIAL" (=1. (n.) centenarie; 2. (adj.) centenari, centenal).
 - "ARCHIVE", shares a meaning with "ARCHIVES".
 - "sí".
 - "HIGHWAY".
 - "implementar".
 - "FLOCK" (v.tr.).
-- "CAN" (v.), "(possibility) posser; (power) potter"  
+- "CAN" (v.), "(possibility) posser; (power) potter".
 - "HERSELF", etc.
 - Add "deputate" to "DEPUTY".
 - "BOARDING SCHOOL", "internatoria"?
-- "BILL", "billete de moné".  
-- "WHEELCHAIR", rot(e)-stul
-- "AGGRESS (v.)".  
+- "BILL", "billete de moné".
+- "WHEELCHAIR", rot(e)-stul.
+- "AGGRESS (v.)".
+- "ATELAR".
