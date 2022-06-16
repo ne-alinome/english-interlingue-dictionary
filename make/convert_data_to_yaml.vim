@@ -1,15 +1,14 @@
 " convert_data_to_yaml.vim
 "
-" This file is part of the projects
-" "Diccionario español-interlingüe" and
+" This file is part of the project
 " "English-Interlingue Dictionary"
 " (http://ne.alinome.net).
 "
 " By Marcos Cruz (programandala.net)
 
-" This Vim program converts the source data to the Asciidoctor format.
+" This Vim program converts the source data to the YAML format.
 
-" Last modified 20220616T2042+0200.
+" Last modified 20220616T2315+0200.
 " See change log at the end of the file.
 
 " ==============================================================

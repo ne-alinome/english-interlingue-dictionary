@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 20220616T2047+0200.
+# Last modified: 20220617T0038+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -238,7 +238,9 @@ target/$(book).adoc: \
 .SECONDARY: tmp/$(book)._sorted.txt.yaml
 
 tmp/%._sorted.txt.yaml: tmp/%._sorted.txt
-	nvim -R -s make/convert_data_to_yaml.vim $< > $@
+#	nvim -R -e -s make/convert_data_to_yaml.vim $< > $@
+#	vim -R -e -S make/convert_data_to_yaml.vim $< > $@
+	cat $< | make/convert_data_to_yaml.fish > $@
 
 target/$(book).yaml: \
 	tmp/${book}._sorted.txt.yaml
@@ -552,4 +554,6 @@ tmp/README.html: README.adoc
 #
 # 2021-12-24: Use msort instead of sort.
 #
-# 2022-06-16: Add rules to convert the original data to YAML.
+# 2022-06-16: Add rules to convert the original data to YAML, using a Vim program.
+#
+# 2022-06-17: Replace the Vim program with a fish program.
