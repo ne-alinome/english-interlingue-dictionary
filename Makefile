@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 20220617T0038+0200.
+# Last modified: 20220617T0045+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -235,16 +235,11 @@ target/$(book).adoc: \
 # Convert the original data to YAML {{{1
 
 .SECONDARY: tmp/$(book)._sorted.txt
-.SECONDARY: tmp/$(book)._sorted.txt.yaml
 
-tmp/%._sorted.txt.yaml: tmp/%._sorted.txt
+target/%.yaml: tmp/%._sorted.txt
 #	nvim -R -e -s make/convert_data_to_yaml.vim $< > $@
 #	vim -R -e -S make/convert_data_to_yaml.vim $< > $@
 	cat $< | make/convert_data_to_yaml.fish > $@
-
-target/$(book).yaml: \
-	tmp/${book}._sorted.txt.yaml
-	cat $^ > $@
 
 # ==============================================================
 # Convert the original data to CSV {{{1
