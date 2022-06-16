@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 20211224T1240+0100.
+# Last modified: 20220617T0103+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -179,16 +179,7 @@ thumb: target/$(cover)_thumb.jpg
 # Sort the original data {{{1
 
 .PHONY: sort
-sort:
-	msort \
-		--line \
-		--field-separators '#' \
-		--position 1.1 \
-		--position 2.1 \
-		--position 3.1 \
-		--comparison-type lexicographic \
-		--in src/$(book).txt \
-		--out tmp/$(book).MSORT.txt
+sort: tmp/$(book)._sorted.txt
 
 tmp/$(book)._sorted.txt: src/$(book).txt
 	msort \
@@ -535,3 +526,6 @@ tmp/README.html: README.adoc
 # Asciidoctor.
 #
 # 2021-12-24: Use msort instead of sort.
+#
+# 2022-06-17: Make the phony "sort" target a shortcut of the actual sorted data
+# file, instead of creating a different file.
