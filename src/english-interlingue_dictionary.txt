@@ -2379,7 +2379,7 @@ CARD#n.#carte; (wool) carde (-ar)#
 CARDAMOM#n.#cardamom#
 CARDBOARD#n.#carton#
 CARDIAC#adj.#cardiac, del cordie#
-CARDINAL#adj.#-, principal; (eccl.) cardinale (-atu)#
+CARDINAL#adj.#cardinal, principal; (eccl.) cardinale (-atu)#
 CARE#n.#cuida (-ar); (anxiety) ínquietitá, sucie; (carefulness) atention; (accuracy) acuratesse, exactitá; (solicitude) anxietá; (sorrow) afliction, grive#
 CARE#v.#cuidar#XXX TODO
 CARE#v.-example#I DON'T CARE: to ne importa me, to es me índiferent#
@@ -8865,7 +8865,7 @@ LEGATEE#n.#legatario#
 LEGATION#n.#legation#
 LEGEND#n.#legende (-ari)#
 LEGERDEMAIN#n.#jongleríe, escamotage#
-LEGGED#sufixe#-gambat#
+LEGGED#suffix#-gambat#
 LEGGINGS#n.#gamache, gambiere#
 LEGIBLE#adj.#leibil (-itá)#
 LEGION#n.#legion (-ario)#
