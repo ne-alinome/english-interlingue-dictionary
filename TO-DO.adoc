@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2022-06-10
+:revdate: 2022-06-17
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -14,6 +14,7 @@
 - Fix: <make/add_letter_headings.vim> does not work fine in ex mode.
 - Fix: make sure "OUT OF:" is sorted before "OUT OF x:", and similar
   cases.
+- Fix: remove duplicate examples.
 
 // Content fixes and improvements {{{1
 == Content fixes and improvements
