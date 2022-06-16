@@ -17,10 +17,10 @@ endif::[]
 // _English-Interlingue Dictionary_
 // (http://ne.alinome.net).
 
-// Last modified 20211218T1733+0100.
+// Last modified 20220616T1852+0200.
 
 ifeval::["{format}"=="DICT"]
-:in_other_formats: also in EPUB, PDF and other formats
+:in_other_formats: EPUB, PDF and other formats
 :work: dictionary
 :http: http://
 :headwords:
@@ -30,7 +30,7 @@ endif::[]
 the headwords are surrounded by dots.
 
 ifeval::["{format}"=="e-book"]
-:in_other_formats: in DICT, EPUB, PDF and other formats
+:in_other_formats: DICT, EPUB, PDF and other formats
 :work: book
 :http:
 :headwords: {headwordsnote}
@@ -38,7 +38,7 @@ endif::[]
 
 ifdef::backend-epub3[]
 :format: EPUB3
-:in_other_formats: also in DICT, PDF and other formats
+:in_other_formats: DICT, PDF and other formats
 :work: book
 :http:
 :headwords: {headwordsnote}
@@ -46,7 +46,7 @@ endif::[]
 
 ifdef::backend-pdf[]
 :format: PDF
-:in_other_formats: also in DICT, EPUB and other formats
+:in_other_formats: DICT, EPUB and other formats
 :work: book
 :http:
 :headwords: {headwordsnote}
@@ -63,12 +63,12 @@ Original publisher:: British Interlingue Association, Warndon
 (England), 1958.
 
 Transcription of the original contents:: François Comparot et al., c.
-2005 (?).  Available in
+2005 (?). Available in
 http://interlingue.narod.ru/[{http}interlingue.narod.ru] and
 http://ie-munde.com[{http}ie-munde.com].
 
-Revision and {format} edition:: Marcos Cruz, 2019, 2020, 2021.
-Available {in_other_formats} in
+Revision and {format} edition:: Marcos Cruz, 2019, 2020, 2021, 2022.
+Available also in {in_other_formats} in
 http://ne.alinome.net[{http}ne.alinome.net].
 
 Main changes in this edition::
@@ -95,14 +95,13 @@ Main programs used::
 http://asciidoctor.org[Asciidoctor],
 https://github.com/asciidoctor/asciidoctor-epub3[Asciidoctor EPUB3],
 https://github.com/asciidoctor/asciidoctor-pdf[Asciidoctor PDF],
-http://manual.calibre-ebook.com/generated/en/ebook-convert.html[ebook-convert],
 http://www.dict.org[dictfmt],
+http://manual.calibre-ebook.com/generated/en/ebook-convert.html[ebook-convert],
 http://fossil-scm.org[Fossil],
 http://imagemagick.org[ImageMagick],
-http://neovim.org[Neovim],
 https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],
-http://vim.org[Vim]…
+http://neovim.org[Neovim]…
 on the http://debian.org[Debian] operating system.
-All programs used are free software.
+All of them are libre software.
 
 // -------------------------------------------------------------
