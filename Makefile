@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 20211224T1240+0100.
+# Last modified: 20220616T2047+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -85,7 +85,7 @@ cover_title="English-\nInterlingue\nDictionary"
 default: dict epuba pdfa4 thumb wwwdoc
 
 .PHONY: all
-all: azw3 csv dict dbk epub odt pdf thumb wwwdoc
+all: azw3 csv dict dbk epub odt pdf thumb yaml wwwdoc
 
 .PHONY: clean
 clean:
@@ -167,6 +167,9 @@ pdfletterz: \
 .PHONY: dbk
 dbk: target/$(book).adoc.dbk
 
+.PHONY: yaml
+yaml: target/$(book).yaml
+
 # -------------------------------------
 
 .PHONY: cover
@@ -226,6 +229,19 @@ tmp/%.txt.adoc: tmp/%._sorted.txt.adoc
 target/$(book).adoc: \
 	src/header.adoc \
 	tmp/${book}.txt.adoc
+	cat $^ > $@
+
+# ==============================================================
+# Convert the original data to YAML {{{1
+
+.SECONDARY: tmp/$(book)._sorted.txt
+.SECONDARY: tmp/$(book)._sorted.txt.yaml
+
+tmp/%._sorted.txt.yaml: tmp/%._sorted.txt
+	nvim -R -s make/convert_data_to_yaml.vim $< > $@
+
+target/$(book).yaml: \
+	tmp/${book}._sorted.txt.yaml
 	cat $^ > $@
 
 # ==============================================================
@@ -535,3 +551,5 @@ tmp/README.html: README.adoc
 # Asciidoctor.
 #
 # 2021-12-24: Use msort instead of sort.
+#
+# 2022-06-16: Add rules to convert the original data to YAML.
