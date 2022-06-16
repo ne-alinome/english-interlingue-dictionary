@@ -6752,7 +6752,7 @@ GREATCOAT#n.#surtute, paletó#
 GREATEST#adj.#max grand, optimal#
 GREATLY#adv.#mult, fortmen#
 GREEDY#adj.#avari (-tá). voraci; (eager) avid#
-GREEN#adj.#verdi (-atri; (unripe) ínmatur; ínexpert#
+GREEN#adj.#verdi (-atri); (unripe) ínmatur; ínexpert#
 GREEN#n.#herbiera, prate; (colour) lu verdi, verde#
 GREENFLY#n.#afise#
 GREENGAGE#n.#verdi prun#
