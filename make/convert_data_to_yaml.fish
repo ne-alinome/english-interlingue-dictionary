@@ -10,7 +10,7 @@
 
 # This fish program converts the source data to the YAML format.
 
-# Last modified 20220617T1655+0200.
+# Last modified 20220618T0031+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -24,6 +24,33 @@ set listing_examples false
 
 function indent
 	echo (string repeat --no-newline --count $indent_level '  ')
+end
+
+function list_translations # string
+
+	# List the translations found in the given string.
+	# Translations are separated by a semicolon.
+
+	set --local input $argv[1]
+	set --local translations (string split ';' $input)
+
+	if test (count $translations) -gt 1
+
+		echo (indent)"  translation:"
+		set indent_level (math $indent_level+1)
+		for translation in $translations
+			echo (indent)'- '(string trim $translation)
+		end
+		set indent_level (math $indent_level-1)
+
+	else
+
+		if test -n "$input"
+			echo (indent)"  translation: $input"
+		end
+
+	end
+
 end
 
 while read line
@@ -55,9 +82,9 @@ while read line
 
 		set example     (string trim (string split --field 1 ':' $definition))
 		set translation (string trim (string split --field 2 ':' $definition))
-		echo (indent)"- example:     $example"
-		echo (indent)"  translation: $translation"
-	
+		echo (indent)"- example: $example"
+		list_translations $translation
+
 	else
 
 		# The type of the entry is not "example".
@@ -76,9 +103,7 @@ while read line
 		end
 
 		echo (indent)"- function: $type"
-		if test -n "$definition"
-			echo (indent)"  translation: $definition"
-		end
+		list_translations $definition
 
 	end
 
@@ -90,5 +115,7 @@ end
 # 2022-06-16: Start, based on <convert_data_to_yaml.vim>.
 #
 # 2022-06-17: First working version.
+#
+# 2022-06-18: Split the different translations of a single entry.
 
 # vim: filetype=fish
