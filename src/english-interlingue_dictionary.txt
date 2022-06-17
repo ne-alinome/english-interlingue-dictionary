@@ -11815,7 +11815,7 @@ POIGNANT#adj.#mordent, acri#
 POINT#n.#punctu; (trait) trate; (aim) scope; (tip) punta#
 POINT#n.-example#ON THE POINT OF: sur li punctu de#
 POINT#v.#(to aim) directer, apuntar; (to indicate) monstrar; (to sharpen) puntar#
-POINT OF VIEW#n.#vise-punctu#
+POINT OF VIEW#n.#vise-punctu, vis-punctu, vispunctu#
 POINT OUT#v.#signalar, far atention a#
 POINT-BLANK#adj.#direct#XXX TODO -- Also n.
 POINTED#adj.#significant; acut#
