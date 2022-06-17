@@ -631,7 +631,7 @@ APPLAUD#v.#aplauder; (to clap) claccar#
 APPLAUSE#n.#aplause#
 APPLE#n.#pom (-iero)#
 APPLIANCE#n.#aparate, utensile, expediente, machine#
-APPLICABLE#adj.#aplicábil (-itá)#
+APPLICABLE#adj.#aplicabil (-itá)#
 APPLY#v.#aplicar (-abil, -ation)#
 APPLY#v.-example#TO APPLY ONESELF TO: devoer se a#
 APPLY#v.-example#TO APPLY TO: tornar se a#
