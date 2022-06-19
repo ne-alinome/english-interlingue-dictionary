@@ -12283,7 +12283,7 @@ PROTRACTOR#n.#angul-mesurette; (muscle) protractor#
 PROTRUDE#v.#extenDer se, prominer#
 PROTUBERANCE#n.#bosse, túbere, tumore#
 PROUD#adj.#(not ashamed) fier; (vain) orgolliosi, superb#
-PROVE#v.#pruvar; constatar; (test.) provar; (turn out) monstrar se#
+PROVE#v.#pruvar; constatar; (test) provar; (turn out) monstrar se#
 PROVENDER#n.#forrage#
 PROVERB#n.#proverbie (-al)#
 PROVIDE#v.#provider (-ent), furnir (per)#
