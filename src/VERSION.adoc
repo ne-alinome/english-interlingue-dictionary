@@ -1,2 +1,2 @@
 :version-label: Digital edition version
-:revnumber: 0.1.0-pre.182.0-yaml.1.0+20220618T0031CEST
+:revnumber: 0.1.0-pre.182.1-yaml.1.0+20220619T1623CEST

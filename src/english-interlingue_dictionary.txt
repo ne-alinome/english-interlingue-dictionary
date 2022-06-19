@@ -1651,7 +1651,6 @@ BLANK#adj.-example#BLANK VERSE: verse sin rimes#
 BLANK#n.# #XXX TODO
 BLANK#n.-example#HIS MEMORY HAS BECOME A BLANK: il ha totmen perdit su memorie#
 BLANK VERSE#n.#verse sin rimes#
-BLANK#adj.-example#BLANK VERSE: verse sin rimes#
 VERSE#n.-example#BLANK VERSE: verse sin rimes#
 BLANKET#n.#lett-covritura, lanin covriment (de lette)#
 BLARE#v.#muir; (of trumpet) sonar, trumpetar#
@@ -2238,7 +2237,6 @@ CALCAREOUS#adj.#calcin, calcic, calciferi#
 CALCIUM#n.#calcium#
 CALCULATE#v.#calcular (-ation, -ator), evaluar#
 CALCULATE#v.-example#CALCULATING MACHINE: machine calculatori#
-MACHINE#n.-example#CALCULATING MACHINE: machine calculatori#
 CALCULUS#n.#calcul#
 CALDRON#n.#caldron, bolliere#
 CALEFACTION#n.#calentation#
@@ -7089,8 +7087,6 @@ HAZEL#adj.#rubi-brun#
 HAZEL#n.#avelane (-iero)#
 HE#pron.#il#
 HE#pron.-example#HE HIM: il self#
-HE#pron.-example#HE HIM: il self#
-HIM#pron.-example#HE HIM: il self#
 HEAD#adj.#chef-, principal#
 HEAD#n.#cap; chef, mastro, principale, director; (source) fonte; (on beer) scum#
 HEAD#v.#(to lead) ducter, comandar; (a ball) cap-pussar#
@@ -10486,13 +10482,8 @@ NOT#adv.#ne#
 NOT#adv.-example#IS IT NOT?: never?#
 NOT#adv.-example#NOT AT ALL: tot ne, totmen ne, nequant, nequam#
 NOT#adv.-example#NOT IN THE LEAST: in null mode, tot ne#
-NOT#adv.-example#NOT AT ALL: tot ne, totmen ne, nequant, nequam#
 ALL#adj.-example#NOT AT ALL: tot ne, totmen ne, nequant, nequam#
-NOT#adv.-example#NOT IN THE LEAST: in null mode, tot ne#
-LEAST#adj.-example#NOT IN THE LEAST: in null mode, tot ne#
 NOT#adv.-example#NOT LONG AGO: ante ne long#
-LONG#adj.-example#NOT LONG AGO: ante ne long#
-AGO#adv.-example#NOT LONG AGO: ante ne long#
 NOTABLE#adj.#notabil, remarcabil#
 NOTABLE#n.#person eminent, notabile#
 NOTARY#n.#notario (-atu)#
@@ -10694,7 +10685,6 @@ OFTEN#adv.#sovente, frequentmen#
 OGEE#n.#ogive (-al)#
 OGLE#v.#ocular (-ada)#
 OGRE#n.#ogre (-essa)#
-DEAR#adj.-example#OH DEAR: o ve!#
 OHM#n.#ohm#
 OIL#n.#oleo (-ar, -ari, -osi, -iere, -iferi, -iera)#
 OIL-PAINTING#n.#oleo-pictura#
@@ -10727,35 +10717,21 @@ ON#prep.-example#ON ARRIVING: arivante, pos har arivat#XXX TODO -- The original 
 ON#prep.-example#ON FOOT: a pedes#
 ON#prep.-example#ON TIME: in just témpor, punctualmen#
 ON#prep.-example#ON ACCOUNT OF: pro, per cause de#
-ACCOUNT#n.-example#ON ACCOUNT OF: pro, per cause de#
-ON#prep.-example#ON ARRIVING: arivante, pos har arivat#XXX TODO -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
 ARRIVE#v.-example#ON ARRIVING: arivante, pos har arivat#XXX TODO -- The original had note "(before a participle)" because "ARRIVING" is only a usage example.
 ON#prep.-example#ON BEHALF OF: in nómine de, por#
-BEHALF#n.-example#ON BEHALF OF: in nómine de, por#
-FOOT#n.-example#ON FOOT: a pedes#
 ON#adv.-example#ON NO ACCOUNT: pro nequel (null) cause, certmen ne#
-ACCOUNT#n.-example#ON NO ACCOUNT: pro nequel (null) cause, certmen ne#
 ON#adv.-example#ON PAIN OF DEATH: sub pena de morte#
-PAIN#n.-example#ON PAIN OF DEATH: sub pena de morte#
 ON#prep.-example#ON THAT SCORE: pro ti motive#
-SCORE#n.-example#ON THAT SCORE: pro ti motive#
 ON#prep.-example#ON THE AVERAGE: medialmen#
-AVERAGE#n.-example#ON THE AVERAGE: medialmen#
 ON#prep.-example#ON THE CONTRARY: in contrari#
 CONTRARY#n.-example#ON THE CONTRARY: in contrari#
 ON#prep.-example#ON THE LEFT: a levul#
-LEFT#adj.-example#ON THE LEFT: a levul#
 ON#prep.-example#ON THE ONE HAND: ye un látere#
-HAND#n.-example#ON THE ONE HAND: ye un látere#
 ON#prep.-example#ON THE POINT OF: sur li punctu de#
-POINT#n.-example#ON THE POINT OF: sur li punctu de#
 ON#prep.-example#ON THE RIGHT: a dextre#
-RIGHT#adj.-example#ON THE RIGHT: a dextre#
 ON#prep.-example#ON THE STRENGTH OF: fidente a#
-STRENGTH#n.-example#ON THE STRENGTH OF: fidente a#
 ON#prep.-example#ON THE WHOLE: in general, generalmen#
 WHOLE#n.-example#ON THE WHOLE: in general, generalmen#
-TIME#n.-example#ON TIME: in just témpor, punctualmen#
 ONCE#adv.#un vez; (formerly) antey#
 ONCE#adv.-example#ONCE AGAIN: ancor un vez#
 AGAIN#adv.-example#ONCE AGAIN: ancor un vez#
