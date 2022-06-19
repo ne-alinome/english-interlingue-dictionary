@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 20220617T0103+0200.
+# Last modified: 20220618T1023+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -412,6 +412,13 @@ uninstall:
 	/etc/init.d/dictd restart
 
 # ==============================================================
+# List the duplicated entries {{{1
+
+.PHONY: dups
+dups: tmp/$(book)._sorted.txt
+	cat $< | uniq -d > tmp/$(book)._sorted.duplicates.txt
+
+# ==============================================================
 # Create the cover image {{{1
 
 include Makefile.cover_image
@@ -529,3 +536,5 @@ tmp/README.html: README.adoc
 #
 # 2022-06-17: Make the phony "sort" target a shortcut of the actual sorted data
 # file, instead of creating a different file.
+#
+# 2022-06-19: Add a rule to list the duplicated entries.
