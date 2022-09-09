@@ -11210,7 +11210,7 @@ PASCHAL#adj.#pascal#
 PASHA#n.#pachá#
 PASQUINADE#n.#pasquinade#
 PASS#n.#(defile) pass, defilé; (state) statu, condition; (permit) passe, permissive#
-PASS#v.#passar (-abil, -ada. -ant), far passar, transdar; (to approve) aprobar; (to suffice) suficer; (to surpass) superar; (to pass a test) trapassar, successar#
+PASS#v.#passar (-abil, -ada, -ant), far passar, transdar; (to approve) aprobar; (to suffice) suficer; (to surpass) superar; (to pass a test) trapassar, successar#
 PASS AWAY#v.#morir; evanescer; desaparir#
 PASS BY#v.#preterear; (to pass a law) votar#
 PASS OFF#v.#far acceptar; forpassar#
