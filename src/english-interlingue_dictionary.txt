@@ -12129,7 +12129,7 @@ PRISM#n.#prisma (-tic)#
 PRISON#n.#prison (-ari, -ario), cárcere#
 PRISTINE#adj.#primitiv#
 PRIVACY#n.#privatie, seclusion, retiratie#
-PRIVATE#adj.#privat, particular!, secret#
+PRIVATE#adj.#privat, particulari, secret#
 PRIVATE#n.#fantassin, soldate#
 PRIVATEER#n.#corsar-nave#
 PRIVATION#n.#privation#
