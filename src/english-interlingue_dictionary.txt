@@ -17051,7 +17051,7 @@ WITHIN#prep.#(of time) intra#
 WITHIN HAIL#adv.#in distantie de voce#
 WITHOUT#prep.#sin; (outside) extra#
 WITHOUT FAIL#adv.#ínfallibilmen#
-WITHSTAND#v.#register a, oposir se a#
+WITHSTAND#v.#resister a, oposir se a#
 WITHY#n.#vímine#
 WITNESS#n.#(person) testimon (-ie)#
 WITNESS#v.#vider; atestar (-ation)#
