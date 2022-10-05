@@ -8468,8 +8468,8 @@ JURIST#n.#jurist (-ie)#
 JUROR#n.#jurato, membre del jurie#
 JURY#n.#jurie#
 JURY-MAST#n.#fala mast#XXX FIXME -- "fala"?
-JUST#adj.#just, honest, equi; (barely) apen#
-JUST#adv.#precismen#
+JUST#adj.#just, honest, equi#
+JUST#adv.#precismen; (barely) apen#
 JUST#adv.-example#JUST ABOUT TO: sur li punctu de#
 ABOUT#adv.-example#JUST ABOUT TO: sur li punctu de#
 JUST#adv.-example#JUST AS: sammen quam#
