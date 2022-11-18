@@ -1,12 +1,14 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2022-06-19
+:revdate: 2022-11-18
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
 // (http://ne.alinome.net)
 //
 // By Marcos Cruz (programandala.net)
+//
+// Last modified 20221118T1727+0100.
 
 // Building fixes and improvements {{{1
 == Building fixes and improvements
@@ -74,6 +76,7 @@
   allow commas in the translations, e.g. `ANYTHING BUT#prep.#omnicos, exceptet#`
 - Link compound words to their headwords, e.g. "JACK-IN-THE-BOX".
 - Add "min" to "minu".
+- Homogenize "midi-" and "midí-".
 
 // Doubts {{{1
 == Doubts
