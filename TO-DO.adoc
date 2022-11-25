@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2022-11-20
+:revdate: 2022-11-25
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -8,7 +8,7 @@
 //
 // By Marcos Cruz (programandala.net)
 //
-// Last modified 20221120T1944+0100.
+// Last modified 20221125T1449+0100.
 
 // Building fixes and improvements {{{1
 == Building fixes and improvements
@@ -204,3 +204,4 @@
 - "AGGRESS (v.)".
 - "ATELAR".
 - "MASOCHIST".
+- "tresor/e".  
