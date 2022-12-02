@@ -1,6 +1,6 @@
 = TO-DO of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2022-11-25
+:revdate: 2022-12-02
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -8,7 +8,7 @@
 //
 // By Marcos Cruz (programandala.net)
 //
-// Last modified 20221125T1449+0100.
+// Last modified 20221202T0811+0100.
 
 // Building fixes and improvements {{{1
 == Building fixes and improvements
@@ -25,7 +25,8 @@
 - Add "COME ON", which was at the end of "COME", without translation.
 - Add a list of abbreviations used in the dictionary.
 - Split the different meanings of the same type into independent
-  headwords, in order to make it easy to reuse and manipulate the data.
+  headwords, in order to make it easy to reuse and manipulate the
+  data.
 - Fix: "punte" is mentioned in "SCORE", but not in "POINT".
 - Fix "TO LOOK UP TO", which was at the end of "LOOK" without
   translation.
@@ -73,12 +74,15 @@
 - Homogenize "(flag)" and "(flags)".
 - Add the missing meanings of "AWAY (adv.)".
 - Replace commas and semicolons with other characters in order to
-  allow commas in the translations, e.g. `ANYTHING BUT#prep.#omnicos, exceptet#`
+  allow commas in the translations, e.g. `ANYTHING BUT#prep.#omnicos,
+  exceptet#`
 - Link compound words to their headwords, e.g. "JACK-IN-THE-BOX".
 - Add "min" to "minu".
 - Homogenize "midi-" and "midí-".
 - Notation of "(inter-ation)" (for "interpunctuation") and "(in-ar)"
-  (for "inebriar").  
+  (for "inebriar").
+- Mark examples that look translations, e.g. `CATA#prefix#catacombe,
+  catafalco, catalog, catapulte, etc.#`.
 
 // Doubts {{{1
 == Doubts
@@ -205,3 +209,4 @@
 - "ATELAR".
 - "MASOCHIST".
 - "tresor/e".  
+- "CATALOGUE".
