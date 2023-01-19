@@ -8,7 +8,7 @@
 //
 // By Marcos Cruz (programandala.net)
 //
-// Last modified 20221202T0811+0100.
+// Last modified 20221202T0828+0100.
 
 // Building fixes and improvements {{{1
 == Building fixes and improvements
@@ -83,6 +83,7 @@
   (for "inebriar").
 - Mark examples that look translations, e.g. `CATA#prefix#catacombe,
   catafalco, catalog, catapulte, etc.#`.
+- Specifiy telephone number in "NUMBER".
 
 // Doubts {{{1
 == Doubts
@@ -171,6 +172,7 @@
 - `UMBRELLA#n.#parapluvie, ombrel#`: "ombrel"?!
 - Consultar: "ANNUITY" = "annuitá" vice "annuage"? Ambi ne es usat in Cosmoglotta.
 - Why "si" in `HAVE A MIND TO #v.#inclinar, it vell pleser … si#`?
+- Confirm `SIGHT#v.#mirar#`.
 
 // Missing words {{{1
 == Missing words
