@@ -2,11 +2,11 @@
 
 # This file is part of the project
 # "English-Interlingue Dictionary"
-# (http://ne.alinome.net)
+# (http://ne.alinome.net).
 #
-# By Marcos Cruz (programandala.net)
+# By Marcos Cruz (programandala.net).
 
-# Last modified: 20220618T1023+0200.
+# Last modified: 20230406T1829+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -432,33 +432,6 @@ prerequisites=*.adoc target/
 include Makefile.release
 
 # ==============================================================
-# Online documentation {{{1
-
-# Online documentation displayed on the Fossil repository.
-
-.PHONY: wwwdoc
-wwwdoc: wwwreadme
-
-.PHONY: cleanwww
-cleanwww:
-	rm -f \
-		doc/www/* \
-		tmp/README.*
-
-.PHONY: wwwreadme
-wwwreadme: doc/www/README.html
-
-doc/www/README.html: tmp/README.html
-	echo "<div class='fossil-doc' data-title='README'>" > $@;\
-	cat $< >> $@;\
-	echo "</div>" >> $@
-
-tmp/README.html: README.adoc
-	asciidoctor \
-		--embedded \
-		--out-file=$@ $<
-
-# ==============================================================
 # Change log {{{1
 
 # 2019-02-06: Start. Make DICT.
@@ -538,3 +511,6 @@ tmp/README.html: README.adoc
 # file, instead of creating a different file.
 #
 # 2022-06-19: Add a rule to list the duplicated entries.
+#
+# 2023-04-06: Remove the online documentation rules, after converting the repo
+# to Mercurial.

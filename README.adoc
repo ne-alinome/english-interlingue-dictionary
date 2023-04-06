@@ -1,17 +1,15 @@
 = English-Interlingue Dictionary
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-12-24
+:revdate: 2023-04-06
 :toc:
 :toc-levels: 2
 :toc-title: Contents/Contenete/Enhavo
 
 // This file is part of the project
-// _English-Interlingue Dictionary_
-// (http://ne.alinome.net)
+// "English-Interlingue Dictionary"
+// (http://ne.alinome.net).
 //
-// By Marcos Cruz (programandala.net)
-
-:user: ~
+// By Marcos Cruz (programandala.net).
 
 // English {{{1
 == English
@@ -26,15 +24,6 @@ _English-Interlingue Dictionary_ by Charles Kemp and F.R. Pope, 1958.
 Author:: Marcos Cruz (programandala.net), 2019
 
 Website:: http://ne.alinome.net[ne.alinome.net]
-
-:note-caption: Note
-
-NOTE: On 2020-12-04 the Git repository was
-converted to a
-http://fossil.ne.alinome.net/english-interlingue_dictionary[Fossil
-repository], keeping
-http://github.com/ne-alinome/english-interlingue-dictionary[GitHub]
-as a mirror.
 
 // How to build the dictionary {{{2
 === How to build the dictionary
@@ -73,12 +62,23 @@ The documents are built in the <target> directory.
 // DICT command (for GNU/Linux systems) {{{2
 === DICT command (for GNU/Linux systems)
 
-
 The file <src/interlingue.sh> is a simple shell wrapper for DICT.  You
-can copy or link it to a location in your path, e.g. as <{user}/bin/>,
-<{user}/.local/bin/> or </usr/local/bin/>, for example with name `ie`.
+can copy or link it to a location in your path, e.g. as <{tilde}/bin/>,
+<{tilde}/.local/bin/> or </usr/local/bin/>, for example with name `ie`.
 Then the command `ie` will search all installed dictonaries that have
 the word "interlingue" (case insensitive) in their description.
+
+// History of the repository {{{2
+=== History of the repository
+
+- 2019-02-06: The Git repository was created.
+- 2020-12-04: The repository was converted to
+  https://fossil-scm.org[Fossil], keeping
+  http://github/ne-alinome/english-interlingue-dictionary[GitHub as a
+  mirror].
+- 2023-04-06: The repository was converted to
+  https://mercurial-scm.org[Mercurial], enabling a better interaction
+  with GitHub.
 
 // Interlingue {{{1
 == Interlingue
@@ -94,15 +94,6 @@ Charles Kemp e F.R. Pope, 1958.
 Autor:: Marcos Cruz (programandala.net), 2019
 
 Loc web:: http://ne.alinome.net[ne.alinome.net]
-
-:note-caption: Note
-
-NOTE: In 2020-12-04 li depositoria de Git esset convertet a un
-http://fossil.ne.alinome.net/english-interlingue_dictionary[repositoria
-de Fossil], conservante
-http://github.com/ne-alinome/english-interlingue-dictionary[GitHub]
-quam un copie.
-
 
 // Qualmen constructer li dictionarium {{{2
 === Qualmen constructer li dictionarium
@@ -144,11 +135,23 @@ Li documentes es creat in li documentiere <target> (scope).
 
 Li document <src/interlingue.sh> es un comande por simplificar li
 consultas de DICT. Tu posse copiar o ligar it ad-in un documentiere in
-un ex tui documentieres de programas, por exemple <{user}/bin/>,
-<{user}/.local/bin/> or </usr/local/bin/>, fórsan con li curt nómine
+un ex tui documentieres de programas, por exemple <{tilde}/bin/>,
+<{tilde}/.local/bin/> or </usr/local/bin/>, fórsan con li curt nómine
 `ie`.  Tande li comande `ie` va serchar omni dictionariums instalat
 quel have li parol "interlingue" in lor descrition (índiferent per
 majuscules o minuscules).
+
+// Historie del depositoria {{{2
+=== Historie del depositoria
+
+- 2019-02-06: Li depositoria de Git esset creat.
+- 2020-12-04: Li depositoria esset convertet a
+  https://fossil-scm.org[Fossil], conservante
+  http://github.com/ne-alinome/english-interlingue-dictionary[GitHub
+  quam un copie].
+- 2023-04-06: Li depositoria esset convertet a
+  https://mercurial-scm.org[Mercurial], possibilisante un melior
+  interaction con GitHub.
 
 // Esperanto {{{1
 == Esperanto
@@ -164,15 +167,6 @@ Dictionary_ (Angla-Interlingvea Vortaro) de Charles Kemp kaj F.R. Pope,
 Aŭtoro:: Marcos Cruz (programandala.net), 2019
 
 Retpaĝaro:: http://ne.alinome.net[ne.alinome.net]
-
-:note-caption: Noto
-
-NOTE: Je 2020-12-04 la Git-deponejo estis
-konvertita al
-http://fossil.ne.alinome.net/english-interlingue_dictionary[Fossil-deponejo],
-konservante
-http://github.com/ne-alinome/english-interlingue-dictionary[GitHub]
-kiel kopion.
 
 // Kiel konstrui la vortaron {{{2
 === Kiel konstrui la vortaron
@@ -211,8 +205,19 @@ La dosieroj estos kreitaj en la dosierujo <target> (celo).
 
 La dosiero <src/interlingue.sh> estas simplig-ordono por DICT-serĉoj.
 Vi povas kopii or ligi ĝin en dosierujon el viaj program-dosierujojn,
-ekzemple <{user}/bin/>, <{user}/.local/bin/> aŭ </usr/local/bin/>,
+ekzemple <{tilde}/bin/>, <{tilde}/.local/bin/> aŭ </usr/local/bin/>,
 eble kun mallonga nomo `ie`.  Tiel la ordono `ie` serĉos en ĉiuj
 instalitaj vortaroj kiuj havas la vorton "interlingue" en sia
 priskribo (majuskloj aŭ minuskloj ne gravas).
 
+// Historio de la deponejo {{{2
+=== Historio de la deponejo
+
+- 2019-02-06: La Git-deponejo estis kreita.
+- 2020-12-04: La deponejo estis konvertita al
+  https://fossil-scm.org[Fossil], konservante
+  http://github.com/ne-alinome/english-interlingue-dictionary[GitHub
+  kiel kopion].
+- 2023-04-06: La deponejo estis konvertita al
+  https://mercurial-scm.org[Mercurial], ebligante pli bonan interagon
+  kun GitHub.
