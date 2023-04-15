@@ -1,6 +1,6 @@
-= TO-DO of _English-Interlingue Dictionary_
+= To-do list of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2022-12-02
+:revdate: 2023-04-15
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -8,7 +8,7 @@
 //
 // By Marcos Cruz (programandala.net)
 //
-// Last modified 20221202T0828+0100.
+// Last modified 20230415T0905+0200.
 
 // Building fixes and improvements {{{1
 == Building fixes and improvements
@@ -173,6 +173,8 @@
 - Consultar: "ANNUITY" = "annuitá" vice "annuage"? Ambi ne es usat in Cosmoglotta.
 - Why "si" in `HAVE A MIND TO #v.#inclinar, it vell pleser … si#`?
 - Confirm `SIGHT#v.#mirar#`.
+- Confirm 'connecter' in `GUESS#v.#divinar, adivinar (-at), connecter
+  (-ion)#`.
 
 // Missing words {{{1
 == Missing words
