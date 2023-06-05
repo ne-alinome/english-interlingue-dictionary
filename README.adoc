@@ -1,6 +1,6 @@
 = English-Interlingue Dictionary
 :author: Marcos Cruz (programandala.net)
-:revdate: 2023-04-06
+:revdate: 2023-06-05
 :toc:
 :toc-levels: 2
 :toc-title: Contents/Contenete/Enhavo
@@ -18,7 +18,7 @@
 === About this project
 
 Goal:: Create an EPUB e-book and a DICT format dictionary, among other
-standard formats, from the digitalized contents of the
+standard formats, from the digitalized and reviewd contents of the
 _English-Interlingue Dictionary_ by Charles Kemp and F.R. Pope, 1958.
 
 Author:: Marcos Cruz (programandala.net), 2019
@@ -86,8 +86,8 @@ the word "interlingue" (case insensitive) in their description.
 // Pri ti projecte {{{2
 === Pri ti projecte
 
-Scope:: Crear un EPUB-libre e un DICT-formati dictionarium, inter
-altri formates standard, ex li digitalisat contenete de
+Scope:: Crear un EPUB-libre e un dictionarium in formate DICT, inter
+altri formates standard, ex li digitalisat e reviset contenete de
 _English-Interlingue Dictionary_ (Dictionarium Anglesi-Interlingue) de
 Charles Kemp e F.R. Pope, 1958.
 
@@ -160,7 +160,7 @@ majuscules o minuscules).
 === Pri ĉi projekto
 
 Celo:: Krei  EPUB-an bitlibron kaj DICT-formatan vortaron, inter aliaj
-normaj formatoj, el la bitigita enhavo de _English-Interlingue
+normaj formatoj, el la bitigita kaj reviziita enhavo de _English-Interlingue
 Dictionary_ (Angla-Interlingvea Vortaro) de Charles Kemp kaj F.R. Pope,
 1958.
 
