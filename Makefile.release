@@ -5,7 +5,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 20210503T1816+0200.
+# Last modified 20230731T2323+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -59,7 +59,7 @@ $(release_dir)/$(book)_$(release).zip:  $(prerequisites)
 	zip -9r \
 		$(book)_$(release)/$@ \
 		$(addprefix $(book)_$(release)/,$^) \
-		--exclude "*.gitignore" "*.swp" "*_cover.jpg" ; \
+		--exclude "*.gitignore" "*.hgkeep" "*.swp" "*_cover.jpg" ; \
 	rm -f $(book)_$(release)
 
 # ==============================================================
@@ -79,3 +79,5 @@ $(release_dir)/$(book)_$(release).zip:  $(prerequisites)
 #
 # 2021-05-03: Make the directory configurable, but use <tmp> by default to keep
 # backwards compatibility.
+#
+# 2023-07-31: Ignore <.hgkeep> files.
