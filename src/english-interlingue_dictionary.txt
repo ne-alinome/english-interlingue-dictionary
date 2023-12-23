@@ -2597,7 +2597,7 @@ CHAPTER#n.#capitul#
 CHAR#n.#nettatora#
 CHAR#v.#carbonisar#
 CHAR-A-BANC#n.#autobus#
-CHARACTER#n.#caráctere (-isar, -istic)#
+CHARACTER#n.#caractere (-isar, -istic)#
 CHARACTERISTIC#n.#trate#
 CHARADE#n.#charade#
 CHARCOAL#n.#ligni-carbon#
@@ -7463,7 +7463,7 @@ HUNDREDTH#adj., n.#centesim#
 HUNDREDWEIGHT#n.#quintale#
 HUNGER#n.#fame#
 HUNGER#v.#suffrer fame#
-HUNGRY#adj.#afamat#
+HUNGRY#adj.#afamat# XXX TODO confirm
 HUNK#n.#gross pezze#
 HUNT#v.#chassar#
 HUNT#v.-example#TO HUNT FOR: serchar#
