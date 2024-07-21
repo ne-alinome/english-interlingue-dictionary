@@ -2876,7 +2876,7 @@ CLOG#v.#impedir, genar, obstructer#
 CLOISTER#n.#claustre, monastere, monaciera, conventu#
 CLOSE#adj.#(near) proxim; (dense) densi; (miserly) avari, mesquin; (secret) secret, celat; (atmosphere) sufocant; (musty) mofosi#
 CLOSE#adj.-example#A CLOSE FIGHT: un combatte long índecidet#
-CLOSE#n.#fine, conolusion#
+CLOSE#n.#fine, conclusion#
 CLOSE#v.#cluder, finir, terminar#
 CLOSET#n.#closete, cabinete; (w.c.) latrine#
 CLOSURE#n.#clusura#
