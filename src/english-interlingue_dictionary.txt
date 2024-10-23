@@ -9343,7 +9343,7 @@ MAGNESIA#n.#magnesie#
 MAGNESIUM#n.#magnesium#
 MAGNET#n.#magnete (-ic, -isme, -isar)#
 MAGNIFICENT#adj.#magnific (-entie), grandiosi, splendid#
-MAGNIFY#v.#agrandar, amplifacar, elargar; laudar, exaltar#
+MAGNIFY#v.#agrandar, amplificar, elargar; laudar, exaltar#
 MAGNIFYING-GLASS#n.#lupe#
 MAGNILOQUENT#adj.#pomposi#
 MAGNITUDE#n.#grandesse, grandore#
