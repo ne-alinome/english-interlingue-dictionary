@@ -2592,7 +2592,7 @@ CHAP#v.#fender#
 CHAPEL#n.#capella#
 CHAPERON#n.#chaperon#
 CHAPLAIN#n.#capellane#
-CHAPLET#n.#guirlande, coron#
+CHAPLET#n.#guirlande, ghirlande, coron#
 CHAPTER#n.#capitul#
 CHAR#n.#nettatora#
 CHAR#v.#carbonisar#
@@ -3681,7 +3681,7 @@ CROWBAR#n.#levuore, ferrin fuste#
 CROWD#n.#hom-amasse, turbe#
 CROWD#v.#presser, amassar, superplenar#
 CROWD#v.-example#TO CROWD SAILS: presser segles, portar tro mult segles#
-CROWN#n.#coron, diadem; (wreath) guirlande; (of head) vertice; (of anchor) cruce#
+CROWN#n.#coron, diadem; (wreath) guirlande, ghirlande; (of head) vertice; (of anchor) cruce#
 CROWN#v.#coronar (-ation)#
 CRUCIAL#adj.#critic, decisiv#
 CRUCIBLE#n.#fusuore, crusel#
@@ -6330,7 +6330,7 @@ GARDEN#n.#jardin (-ar, -age, -ero, -cultura)#
 GARGLE#v.#gurgulear, gargarisar#
 GARGOYLE#n.#gargule#
 GARISH#adj.#ciecant, pomposi#
-GARLAND#n.#guirlande#
+GARLAND#n.#guirlande, ghirlande#
 GARLIC#n.#alie#
 GARMENT#n.#veste, vestiment#
 GARNER#n.#graniere#
@@ -17131,8 +17131,8 @@ WRAP UP#v.#invelopar, inballar#
 WRAPPER#n.#(of book) covriment; (newspaper) banderol#
 WRATH#n.#colere (-osi, -ic); índignation, ira#
 WREAK#v.#inflicter; (vengeance) venjar#
-WREATH#n.#guirlande#
-WREATHE#v.#plecter; adornar, guirlandar#
+WREATH#n.#guirlande, ghirlande#
+WREATHE#v.#plecter; adornar, guirlandar, ghirlandar#
 WRECK#n.#vrec (-ar, -age)#
 WREN#n.#régolo; (golden-crested) régolo coronat#
 WRENCH#n.#torsion; (tool) torduore#
