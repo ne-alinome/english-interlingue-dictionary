@@ -3,6 +3,7 @@
 # This file is common to the following
 # ne alinome (http://ne.alinome.net) projects:
 #
+# - Curt grammatica de Interlingue/Occidental
 # - Diccionario español-interlingüe
 # - English-Interlingue Dictionary
 # - Grammatica de Interlingue in Interlingue    
@@ -11,7 +12,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 20210526T1723+0200.
+# Last modified 20241021T0737+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -158,3 +159,5 @@ tmp/$(cover).pdf: target/$(cover).jpg
 #
 # 2021-04-30: Make the title and author sizes configurable, keeping their
 # default values.
+#
+# 2024-10-21: Update file header.
