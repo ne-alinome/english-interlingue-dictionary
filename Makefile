@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net).
 
-# Last modified: 20230406T1829+0200.
+# Last modified: 20250412T1519+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -82,10 +82,10 @@ cover_title="English-\nInterlingue\nDictionary"
 # Interface {{{1
 
 .PHONY: default
-default: dict epuba pdfa4 thumb wwwdoc
+default: dict epuba pdfa4 thumb
 
 .PHONY: all
-all: azw3 csv dict dbk epub odt pdf thumb wwwdoc
+all: azw3 csv dict dbk epub odt pdf thumb
 
 .PHONY: clean
 clean:
@@ -514,3 +514,5 @@ include Makefile.release
 #
 # 2023-04-06: Remove the online documentation rules, after converting the repo
 # to Mercurial.
+#
+# 2025-04-12: Remove references to the online documentation rules.
