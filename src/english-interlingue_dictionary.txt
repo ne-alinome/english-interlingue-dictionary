@@ -5772,7 +5772,7 @@ FIRST#adj.#unesim, prim#
 FIRSTLING#n.#primicie#
 FIRTH#n.#estuarie, inboccatura#
 FISCAL#adj.#fiscal#
-FISH#n.#pise (-ar, -ator, -iera)#
+FISH#n.#pisc (-ar, -ator, -iera)#
 FISH#n.-example#FISH HOOK: pisca-croc#
 HOOK#n.-example#FISH HOOK: pisca-croc#
 FISHING-LINE#n.#pisc-fil#
