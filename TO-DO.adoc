@@ -1,6 +1,6 @@
 = To-do list of _English-Interlingue Dictionary_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2023-04-15
+:revdate: 2025-07-15
 
 // This file is part of the project
 // "English-Interlingue Dictionary"
@@ -8,7 +8,7 @@
 //
 // By Marcos Cruz (programandala.net)
 //
-// Last modified 20230415T0905+0200.
+// Last modified 20250715T1321+0200.
 
 // Building fixes and improvements {{{1
 == Building fixes and improvements
@@ -84,6 +84,7 @@
 - Mark examples that look translations, e.g. `CATA#prefix#catacombe,
   catafalco, catalog, catapulte, etc.#`.
 - Specifiy telephone number in "NUMBER".
+- "PLACE": "residentia oficia".
 
 // Doubts {{{1
 == Doubts
