@@ -12156,6 +12156,7 @@ PROCEED TO#v.#proceder#
 PROCEEDINGS#n.#transactiones; procedentie; (legal) processu#
 PROCEEDS#n.pl.#profite#
 PROCESS#n.#operation, curse; (legal) processu#
+PROCESS#v.tr.#processar (-ator, -e)#
 PROCESSBLOCK#n.#cliché#
 PROCESSION#n.#process (-al)#
 PROCLAIM#v.#proclamar (-ation)#
