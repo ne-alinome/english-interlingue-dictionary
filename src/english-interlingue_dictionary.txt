@@ -16399,7 +16399,7 @@ VACCINE#n.#vaccine#
 VACILLATE#v.#vacillar (-ant, -ation)#
 VACUITY#n.#vacuitá#
 VACUOUS#adj.#vacui#
-VACUUM#n.#vacuo#
+VACUUM#n.#vacue, vacuum, vacuo#
 VACUUMCLEANER#n.#depolvator#
 VAGABOND#n.#vagabunde#
 VAGARY#n.#capricie#
