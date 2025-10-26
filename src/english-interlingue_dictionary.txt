@@ -7204,9 +7204,9 @@ HEREAFTER#adv.#plu tard, in futur#
 HEREBY#adv.#per to#
 HEREDITY#n.#hereditá (-ari)#
 HERESY#n.#hereSie (-tic, -tico), heterodoxie#
-HERETAGE#n.#heredage#
 HERETOFORE#adv.#antey, til nu#
 HEREWITH#adv.#ci junt#
+HERITAGE#n.#heredage#
 HERMAPHRODITE#adj.#bisexual, hibrid#
 HERMAPHRODITE#n.#hermafrodite (-ic)#
 HERMETIC#adj.#hermetic#
